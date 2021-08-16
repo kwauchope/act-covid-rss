@@ -3,6 +3,9 @@ name: Generate RSS
 on:
   schedule:
     - cron: '*/5 * * * *'  # every 5 mins
+  push:
+    branches:
+      - main
 
 jobs:
   gen_rss:
