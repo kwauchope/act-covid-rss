@@ -20,14 +20,14 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Download a single artifact
-        uses: actions/download-artifact@v2
-        with:
-          name: exposures
+      - name: Download old RSS if exists
+        run: |
+          mkdir -p build
+          curl https://kwauchope.github.io/act-covid-rss/exposures.rss
       - name: Generate RSS
-        run: ./gen_rss.py exposures.rss
-      - name: Upload RSS
-        uses: actions/upload-artifact@v2
+        run: ./gen_rss.py build/exposures.rss
+      - name: Deploy latest verison
+        uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
-          name: exposures
-          path: exposures.rss
+          branch: gh-pages
+          folder: build
