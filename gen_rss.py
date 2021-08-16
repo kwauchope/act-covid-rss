@@ -54,11 +54,12 @@ def get_tables():
 
 # add an id to each exposure location
 def gen_id(locations):
-    # Assume there is always a 'Status' out the front and just join everything else If time is updated will get a new
-    # entry, we are ignoring status field Given we have no id to go by, if a new time slot added for the same
-    # location at the same day there is no way to differentiate Would also need to keep past state to know if
-    # status=Update means changed since last check anyway NOTE: Need to ensure python 3.7+ for insertion order
-    # remembering Use base64(MD5) to reduce size, could also remove base64 padding
+    # Assume there is always a 'Status' out the front and just join everything else. If time is updated will get a new
+    # entry, we are ignoring status field. Given we have no id to go by, if a new time slot added for the same
+    # location at the same day there is no way to differentiate. Would also need to keep past state to know if
+    # status = Update means changed since last check anyway.
+    # NOTE: Need to ensure python 3.7+ for insertion order remembering
+    # Use base64(MD5) to reduce size, could also remove base64 padding
     for location in locations:
         digest = hashlib.md5('-'.join(list(location.values())[1:]).encode("utf-8")).digest()
         location['id'] = base64.b64encode(digest).decode("utf-8")
