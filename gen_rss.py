@@ -83,7 +83,6 @@ def check_existing(rss_file, categories):
     # see if file already exists, if so load it
     # Could try to avoid 2x file opens
     existing = []
-    tree = None
     if os.path.exists(rss_file):
         # get existing ids, if bad XML will fail/die
         tree = ET.parse(rss_file)
@@ -91,21 +90,25 @@ def check_existing(rss_file, categories):
 
     # Compare ids to last ones, anything that exists in old one we keep the old pubDate
     # If could reliably detect updates could set lastBuildDate
+    # TODO: This entire thing is still ugly/inefficient
     found = []
+    locations = {}
+    # Generate hash of locations for quick lookup
+    for cat in categories:
+        for loc in cat:
+            found.append(loc['id'])
+            locations[loc['id']] = loc
+    guids = []
+    # Go through existing items and look for a match
     for exists in existing:
         guid = exists.find('guid').text
-        for cat in categories:
-            for loc in cat:
-                #This ends up getting added a bunch of times
-                #TODO: This entire thing is inefficient
-                found.append(loc['id'])
-                if loc['id'] == guid:
-                    # NOTE: Locks into RSS
-                    loc['pubDate'] = exists.find('pubDate').text
+        guids.append(guid)
+        if guid in locations:
+            # NOTE: Locks into RSS
+            locations[guid]['pubDate'] = exists.find('pubDate').text
 
-    if tree is None:
-        return True
-    return set(found) != set([x.find('guid').text for x in existing])
+    # We have made changes if the ids don't match
+    return set(found) != set(guids)
 
 
 def gen_feed(rss_file, categories):
