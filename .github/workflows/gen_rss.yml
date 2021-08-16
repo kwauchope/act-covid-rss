@@ -23,7 +23,7 @@ jobs:
       - name: Download old RSS if exists
         run: |
           mkdir -p build
-          curl https://kwauchope.github.io/act-covid-rss/exposures.rss
+          curl -o build/exposures.rss https://kwauchope.github.io/act-covid-rss/exposures.rss
       - name: Generate RSS
         run: ./gen_rss.py build/exposures.rss
       - name: Deploy latest verison
