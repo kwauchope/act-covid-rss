@@ -26,6 +26,5 @@ jobs:
         run: |
           git config --global user.name 'auto-update'
           git config --global user.email 'auto-update@noreply.github.com'
-          git add exposures.rss
-          git commit -am "Automated update of locations"
+          git commit -am "Automated update of exposure locations"
           git push
