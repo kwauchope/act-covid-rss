@@ -5,13 +5,25 @@ on:
     - cron: '*/5 * * * *'  # every 5 mins
   push:
     branches:
-      - main
 
 jobs:
   gen_rss:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Cache Pip
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Cache Build
+        id: cache-build
+        uses: actions/cache@v2
+        with:
+          path: build
+          key: ${{ runner.os }}-build
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
@@ -23,13 +35,18 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Generate RSS
+      - name: Get published version
+        if: steps.cache-build.outputs.cache-hit != 'true'
         run: |
           mkdir -p build
+          #It is also now in gh-pages branch
           curl -o build/exposures.rss -f https://kwauchope.github.io/act-covid-rss/exposures.rss | /bin/true
+      - name: Generate RSS
+        run: |
           ./gen_rss.py build/exposures.rss
       - name: Deploy latest verison
         uses: JamesIves/github-pages-deploy-action@4.1.4
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           branch: gh-pages
           folder: build
