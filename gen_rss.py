@@ -83,6 +83,7 @@ def check_existing(rss_file, categories):
     # see if file already exists, if so load it
     # Could try to avoid 2x file opens
     existing = []
+    tree = None
     if os.path.exists(rss_file):
         # get existing ids, if bad XML will fail/die
         tree = ET.parse(rss_file)
@@ -90,14 +91,21 @@ def check_existing(rss_file, categories):
 
     # Compare ids to last ones, anything that exists in old one we keep the old pubDate
     # If could reliably detect updates could set lastBuildDate
-    # TODO: If nothing updated we should just exit
+    found = []
     for exists in existing:
         guid = exists.find('guid').text
         for cat in categories:
             for loc in cat:
+                #This ends up getting added a bunch of times
+                #TODO: This entire thing is inefficient
+                found.append(loc['id'])
                 if loc['id'] == guid:
                     # NOTE: Locks into RSS
                     loc['pubDate'] = exists.find('pubDate').text
+
+    if tree is None:
+        return True
+    return set(found) != set([x.find('guid').text for x in existing])
 
 
 def gen_feed(rss_file, categories):
@@ -134,7 +142,7 @@ def main():
     [gen_id(x) for x in categories]
 
     rss_file = args.file[0]
-    check_existing(rss_file, categories)
+    changed = check_existing(rss_file, categories)
 
     # [print(x) for x in categories]
 
@@ -146,8 +154,8 @@ def main():
 
     # TODO: If there is an error create a random guid with message so user knows to not trust the source anymore
     # If last in previous list is an error then don't send it again
-
-    gen_feed(rss_file, categories)
+    if changed:
+        gen_feed(rss_file, categories)
 
 
 if __name__ == '__main__':
