@@ -32,7 +32,7 @@ def parse_table(s, tableid, category):
     fields = list(table[0].stripped_strings)
     for location in table[1:]:
         columns = location.find_all('td')
-        l = {fields[i]: unicodedata.normalize('NFKD', columns[i].get_text()) for i in range(len(fields))}
+        l = {fields[i]: unicodedata.normalize('NFKD', columns[i].get_text().strip()) for i in range(len(fields))}
         l['Exposure Type'] = category
         locations.append(l)
     return locations
