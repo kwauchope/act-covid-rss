@@ -25,14 +25,25 @@ MONITOR_TABLE_ID = 'table04293'
 def parse_table(s, tableid, category):
     # TODO: check one and only one else error
     table = s.find_all(id=tableid)[0].find_all('tr')
-    # locations_raw = [list(x.stripped_strings) for x in table]
     locations = []
     # unfortunately have different headers for different tables
     # lookup via header name isn't foolproof, could normalise to lowercase but thats about it
     fields = list(table[0].stripped_strings)
     for location in table[1:]:
         columns = location.find_all('td')
-        l = {fields[i]: unicodedata.normalize('NFKD', columns[i].get_text().strip()) for i in range(len(fields))}
+        l = {}
+        # Normalise to NFKD to remove hard breaks
+        for num, column in enumerate(columns):
+            # If there are multiple p elements in the Place field handle separately
+            p = column.find_all('p')
+            if fields[num] == 'Place' and len(p) == 2:
+                l[fields[num]] = unicodedata.normalize('NFKD', p[0].get_text().strip())
+                # Add extra info if there is a <a> element in the place name
+                a = p[1].find('a')
+                if a is not None:
+                    l['Info'] = a.encode().decode("utf-8")
+            else:
+                l[fields[num]] = unicodedata.normalize('NFKD', column.get_text().strip())
         l['Exposure Type'] = category
         locations.append(l)
     return locations
