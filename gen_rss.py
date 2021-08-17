@@ -12,6 +12,7 @@ import xml.etree.ElementTree as ET
 
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
+import dateparser
 from feedgen.feed import FeedGenerator
 
 EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations'
@@ -29,6 +30,8 @@ def parse_table(s, tableid, category):
     # unfortunately have different headers for different tables
     # lookup via header name isn't foolproof, could normalise to lowercase but thats about it
     fields = list(table[0].stripped_strings)
+    # Normalise field names
+    fields = [x.title() for x in fields]
     for location in table[1:]:
         columns = location.find_all('td')
         l = {}
@@ -36,14 +39,28 @@ def parse_table(s, tableid, category):
         for num, column in enumerate(columns):
             # If there are multiple p elements in the Place field handle separately
             p = column.find_all('p')
-            if fields[num] == 'Place' and len(p) == 2:
+            if p is not None and fields[num] == 'Place' and len(p) == 2:
                 l[fields[num]] = unicodedata.normalize('NFKD', p[0].get_text().strip())
                 # Add extra info if there is a <a> element in the place name
                 a = p[1].find('a')
                 if a is not None:
                     l['Info'] = a.encode().decode("utf-8")
+            # Try to normalise as best we can to avoid rss spam
             else:
-                l[fields[num]] = unicodedata.normalize('NFKD', column.get_text().strip())
+                value = None
+                if fields[num] == 'Date':
+                    # NOTE: Should return a naive datetime
+                    value = dateparser.parse(column.get_text().strip()).isoformat()
+                    #If fail to pull out date just use the column
+                    if value is None:
+                        value = column.get_text().strip()
+                elif 'Time' in fields[num]:
+                    value = column.get_text().strip().lower()
+                elif fields[num] == 'Suburb':
+                    value = column.get_text().strip().title()
+                else:
+                    value = column.get_text().strip()
+                l[fields[num]] = unicodedata.normalize('NFKD', value)
         l['Exposure Type'] = category
         locations.append(l)
     return locations
@@ -86,6 +103,11 @@ def gen_desc(loc):
     for k, v in loc.items():
         # NOTE: Locks into RSS
         if k not in ['id', 'pubDate']:
+            #Format here so if we decide to change output wont spam rss
+            if k == 'Date':
+                d = dateparser.parse(v)
+                if d is not None:
+                    v = d.strftime('%A, %d %B %Y')
             desc.append('<b>' + k + '</b>:' + v + '<br/>')
     return ''.join(desc)
 
@@ -148,9 +170,9 @@ def main():
     soup = get_tables()
 
     # TODO: We keep categories separate, probably unnecessary and should flatten now they are tagged
-    close = parse_table(soup, CLOSE_TABLE_ID, 'close')
-    casual = parse_table(soup, CASUAL_TABLE_ID, 'casual')
-    monitor = parse_table(soup, MONITOR_TABLE_ID, 'monitor')
+    close = parse_table(soup, CLOSE_TABLE_ID, 'Close')
+    casual = parse_table(soup, CASUAL_TABLE_ID, 'Casual')
+    monitor = parse_table(soup, MONITOR_TABLE_ID, 'Monitor')
     categories = [close, casual, monitor]
 
     [gen_id(x) for x in categories]
