@@ -50,10 +50,9 @@ def parse_table(s, tableid, category):
                 value = None
                 if fields[num] == 'Date':
                     # NOTE: Should return a naive datetime
-                    value = dateparser.parse(column.get_text().strip()).isoformat()
-                    #If fail to pull out date just use the column
-                    if value is None:
-                        value = column.get_text().strip()
+                    value = dateparser.parse(column.get_text().strip())
+                    # If fail to pull out date just use the column
+                    value = column.get_text().strip() if value is None else value.isoformat()
                 elif 'Time' in fields[num]:
                     value = column.get_text().strip().lower()
                 elif fields[num] == 'Suburb':
@@ -82,9 +81,9 @@ def get_tables():
 
 # add an id to each exposure location
 def gen_id(locations):
-    # Assume there is always a 'Status' out the front and just join everything else. If time is updated will get a new
-    # entry, we are ignoring status field. Given we have no id to go by, if a new time slot added for the same
-    # location at the same day there is no way to differentiate. Would also need to keep past state to know if
+    # Assume there is always a 'Status' out the front and just join everything else.
+    # If time is updated will get a new entry, we are ignoring status field.
+    # Given we have no id to go by, if a new time slot added for the same location at the same day there is no way to differentiate.
     # NOTE: Need to ensure python 3.7+ for insertion order remembering
     # Use base64(MD5) to reduce size, could also remove base64 padding
     for location in locations:
@@ -92,18 +91,20 @@ def gen_id(locations):
         location['id'] = base64.b64encode(digest).decode("utf-8")
 
 
+# Parse args, optinally pass in manually
 def parse_args(args=None):
     parser = argparse.ArgumentParser()
     parser.add_argument('file', metavar='FILE', nargs=1, help='Output file')
     return parser.parse_args(args)
 
 
+# Gen RSS descrption tag
 def gen_desc(loc):
     desc = []
     for k, v in loc.items():
         # NOTE: Locks into RSS
         if k not in ['id', 'pubDate']:
-            #Format here so if we decide to change output wont spam rss
+            # Format here so if we decide to change output wont spam rss
             if k == 'Date':
                 d = dateparser.parse(v)
                 if d is not None:
@@ -112,6 +113,8 @@ def gen_desc(loc):
     return ''.join(desc)
 
 
+# Check old RSS file if exists, if so keep original pubDate for any items
+# Return if True if something changed from the old RSS file
 def check_existing(rss_file, categories):
     # see if file already exists, if so load it
     # Could try to avoid 2x file opens
@@ -144,6 +147,7 @@ def check_existing(rss_file, categories):
     return set(found) != set(guids)
 
 
+# Build the RSS feed and write it to rss_file
 def gen_feed(rss_file, categories):
     fg = FeedGenerator()
     pd = datetime.datetime.now(datetime.timezone.utc)
@@ -186,10 +190,14 @@ def main():
     # Time format could change at any time
     # Date, Arrival Time, Departure Time
 
-    # Do geo lookup
+    # Do geo lookup, could be very error prone
+    # Could support georss, kml and show source in leaflet etc
 
-    # TODO: If there is an error create a random guid with message so user knows to not trust the source anymore
-    # If last in previous list is an error then don't send it again
+    # TODO: If there is an error consider creating a random guid with message
+    # This is so user knows to not trust the source anymore
+    # Often readers are pretty unobtrusive in showing broken feeds
+    # If error is in previous is feed then don't send it again
+    # Consider what happens if error state toggles if send a 'everything is ok again' msg
     if changed:
         gen_feed(rss_file, categories)
 
