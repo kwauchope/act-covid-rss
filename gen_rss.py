@@ -3,13 +3,18 @@
 import argparse
 import base64
 import csv
-import datetime
 import hashlib
+import itertools
+import json
 import logging
 import os.path
+import pathlib
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
+
+from collections import Counter
+from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
@@ -125,9 +130,16 @@ def gen_id(locations):
 
 # Parse args, optinally pass in manually
 def parse_args(args=None):
-    parser = argparse.ArgumentParser()
-    parser.add_argument('file', metavar='FILE', nargs=1, help='Output file')
+    parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument('file', metavar='FILE', nargs=1, type=pathlib.Path, help='Output file')
     parser.add_argument('--csv', help='Use local CSV rather than getting from website')
+    parser.add_argument('--summary', '-s', metavar='FILE', type=argparse.FileType('w', encoding='utf-8'),
+            help='Summary file location')
+    parser.add_argument('--regions', '-r', metavar='DIR', type=pathlib.Path,
+            default=pathlib.Path('regions/'), help='Output per region updates')
+    parser.add_argument('--state-file', metavar='FILE', type=pathlib.Path,
+            default=pathlib.Path('last_update.json'), help='The interim state from the last run.')
+
     return parser.parse_args(args)
 
 
@@ -151,56 +163,79 @@ def gen_desc(loc):
 
 # Check old RSS file if exists, if so keep original pubDate for any items
 # Return if True if something changed from the old RSS file
-def check_existing(rss_file, exposures):
-    # see if file already exists, if so load it
-    # Could try to avoid 2x file opens
-    existing = []
-    if os.path.exists(rss_file):
-        # get existing ids, if bad XML will fail/die
-        tree = ET.parse(rss_file)
-        existing = tree.findall('./channel/item')
-
+def update_state(existing, exposures, cur_time=None):
+    """Update the state with new entries."""
     # Compare ids to last ones, anything that exists in old one we keep the old pubDate
     # If could reliably detect updates could set lastBuildDate
     # TODO: This entire thing is still ugly/inefficient
-    found = []
-    locations = {}
     # Generate hash of locations for quick lookup
-    for loc in exposures:
-        found.append(loc['id'])
-        locations[loc['id']] = loc
-    guids = []
-    # Go through existing items and look for a match
-    for exists in existing:
-        guid = exists.find('guid').text
-        guids.append(guid)
-        if guid in locations:
-            # NOTE: Locks into RSS
-            locations[guid]['pubDate'] = exists.find('pubDate').text
+    exposure_guids = {x['id']: x for x in exposures}
+    # Delete old entries from state.
+    for guid in existing.keys() - exposure_guids:
+        del existing[guid]
 
-    # We have made changes if the ids don't match
-    return set(found) != set(guids)
+    cur_time = cur_time or datetime.utcnow().timestamp()
+    new_entries = exposure_guids.keys() - existing
+    for new_entry in new_entries:
+        loc = exposure_guids[new_entry]
+        loc['pubDate'] = cur_time
+        existing[new_entry] = loc
+
+    # Return the updated ids
+    return {x: exposure_guids[x] for x in new_entries}
 
 
 # Build the RSS feed and write it to rss_file
-def gen_feed(rss_file, locations):
+def gen_feed(locations):
     fg = FeedGenerator()
-    pd = datetime.datetime.now(datetime.timezone.utc)
-    for loc in locations:
+    pd = datetime.now(timezone.utc)
+
+    for loc in sorted(locations.values(), key=lambda x: (x['pubDate'], x['id']), reverse=True):
         fe = fg.add_entry()
         # NOTE: These headers could easily change in data
         fe.title(loc['Suburb'] + ':' + loc['Exposure Site'])
         fe.description(gen_desc(loc))
         fe.guid(loc['id'])
         # NOTE: Locks into RSS
-        fe.pubDate(loc['pubDate']) if 'pubDate' in loc else fe.pubDate(pd)
+        fe.pubDate(datetime.fromtimestamp(loc['pubDate']).replace(tzinfo=timezone.utc))
     fg.title("ACT Exposure Locations")
     fg.link(href=EXPOSURE_URL, rel='alternate')
     fg.description("Feed scraped from ACT exposure website")
     fg.lastBuildDate(pd)
-    # doesn't actually return string
-    with open(rss_file, 'w', encoding="utf-8") as f:
-        f.write(fg.rss_str().decode("utf-8"))
+
+    return fg.rss_str(pretty=True).decode('utf-8')
+
+def summarise_feed(locations):
+    """Return a summary of new locations since the last update."""
+
+    def summarise_group(grp):
+        counts = Counter(x['Suburb'] for x in grp)
+        desc = [f"<b>{suburb}:</b>{count}<br/>" for (suburb,count) in counts.most_common()]
+        return ''.join(desc)
+
+    fg = FeedGenerator()
+    pd = datetime.now(timezone.utc)
+
+    locations = sorted(locations.values(), key=lambda x: (x['pubDate'], x['id']), reverse=True)
+    for pubDate, locs in itertools.groupby(locations, key=lambda x: x['pubDate']):
+        locs = list(locs)
+        fe = fg.add_entry()
+        # NOTE: This could easily change in data, possibly normalise in parsing?
+        fe.title(f"{len(locs)} additional exposure sites")
+        desc = summarise_group(locs)
+        fe.description(desc)
+        digest = hashlib.md5(f"{pubDate}-{desc}".encode("utf-8")).digest()
+        guid = base64.b64encode(digest).decode("utf-8")
+        fe.guid(guid)
+        fe.link(href=EXPOSURE_URL)
+        # NOTE: Locks into RSS
+        fe.pubDate(datetime.fromtimestamp(pubDate).replace(tzinfo=timezone.utc))
+    fg.title("ACT Exposure Summaries")
+    fg.link(href=EXPOSURE_URL, rel='alternate')
+    fg.description("Feed scraped from ACT exposure website")
+    fg.lastBuildDate(pd)
+
+    return fg.rss_str(pretty=True).decode('utf-8')
 
 
 def main():
@@ -225,8 +260,17 @@ def main():
     locations = normalise(locations)
     gen_id(locations)
 
+    state = {}
+    if args.state_file.exists():
+        try:
+            with args.state_file.open(encoding='utf-8') as f:
+                state = json.load(f)
+        except Exception as ex:
+            logging.error("Failed loading state: %s", ex)
+
+
     rss_file = args.file[0]
-    changed = check_existing(rss_file, locations)
+    changes = update_state(state, locations)
 
     # Convert time, nice to standardise display as well as use later for geo
     # Time format could change at any time
@@ -240,9 +284,19 @@ def main():
     # Often readers are pretty unobtrusive in showing broken feeds
     # If error is in previous is feed then don't send it again
     # Consider what happens if error state toggles if send a 'everything is ok again' msg
-    if changed:
-        logging.info("Contents changed, regenerating feed")
-        gen_feed(rss_file, locations)
+    if changes:
+        logging.info("Contents changed, %d new entries, regenerating feed", len(changes))
+        feed = gen_feed(state)
+        with open(rss_file, 'w', encoding="utf-8") as f:
+            f.write(feed)
+
+        if args.summary:
+            summary = summarise_feed(state)
+            args.summary.write(summary)
+
+        # update state
+        with args.state_file.open('w', encoding='utf-8') as f:
+            json.dump(state, f)
     else:
         logging.info("Contents unchanged, doing nothing")
 
