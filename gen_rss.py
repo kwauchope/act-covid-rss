@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# NOTE: Ensure utf-8 support in rss xml
 
 import argparse
 import base64
@@ -9,7 +8,6 @@ import hashlib
 import logging
 import os.path
 import re
-import unicodedata
 import urllib.request
 import xml.etree.ElementTree as ET
 
@@ -20,7 +18,7 @@ from feedgen.feed import FeedGenerator
 
 EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations'
 CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*?[.]csv'
-
+FIELDS = ['Event Id', 'Status', 'Exposure Site', 'Street', 'Suburb', 'State', 'Date', 'Arrival Time', 'Departure Time', 'Contact']
 
 # Attempt to normalise data
 def normalise(locations):
@@ -55,7 +53,7 @@ def find_csv_location():
     return None
 
 
-#Grab and return the CSV, returns None if fails
+# Grab and return the CSV, returns None if fails
 def get_csv(csv_location):
     csv_data = None
     # TODO: Retry then fail
@@ -64,21 +62,24 @@ def get_csv(csv_location):
     return csv_data
 
 
-#Generates locations based of CSV data
+# Generates locations based of CSV data
 def parse_csv(csv_data):
-    #Use reader rather than DictReader so can do normalisation
+    # Use reader rather than DictReader so can normalise fields
     # TODO: Parsing error
     rows = csv.reader(csv_data.splitlines())
     fields = [x.strip().title() for x in next(rows)]
+    # If fields don't match what we support return None so don't spam when change
+    # Can make a map to fix later
+    if set(fields) != set(FIELDS):
+        return None
     locations = []
     for i,row in enumerate(rows):
-        # TODO: Currently no normalisation
         l = {fields[i]: row[i].strip() for i in range(len(fields))}
         locations.append(l)
     return locations
 
 
-# add an id to each exposure location
+# Add an id to each exposure location
 def gen_id(locations):
     # Assume there is always a 'Event Id' and 'Status' out the front and just join everything else.
     # If time is updated will get a new entry, we are ignoring status field.
@@ -155,7 +156,7 @@ def gen_feed(rss_file, locations):
     pd = datetime.datetime.now(datetime.timezone.utc)
     for loc in locations:
         fe = fg.add_entry()
-        # NOTE: This could easily change in data, possibly normalise in parsing?
+        # NOTE: This header could easily change in data
         fe.title(loc['Exposure Site'])
         fe.description(gen_desc(loc))
         fe.guid(loc['id'])
