@@ -21,6 +21,8 @@ from bs4 import SoupStrainer
 import dateparser
 from feedgen.feed import FeedGenerator
 
+from helper_fns import suburb_to_region
+
 EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations'
 CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*?[.]csv'
 FIELDS = ['Event Id', 'Status', 'Exposure Site', 'Street', 'Suburb', 'State', 'Date', 'Arrival Time', 'Departure Time', 'Contact']
@@ -112,6 +114,8 @@ def parse_csv(csv_data):
             return None
     for row in rows:
         l = {fields[i]: row[i].strip() for i in range(len(fields))}
+        if l.get("Suburb"):
+            l = {**l, "Region": suburb_to_region(l.get("Suburb"))}
         locations.append(l)
     return locations
 
@@ -120,7 +124,8 @@ def parse_csv(csv_data):
 def gen_id(locations):
     # Assume there is always a 'Event Id' and 'Status' out the front and just join everything else.
     # If time is updated will get a new entry, we are ignoring status field.
-    # Given we have no id to go by, if a new time slot added for the same location at the same day there is no way to differentiate.
+    # Given we have no id to go by, if a new time slot added for the same location at the same day there is no way to
+    # differentiate.
     # NOTE: Need to ensure python 3.7+ for insertion order remembering
     # Use base64(MD5) to reduce size, could also remove base64 padding
     for location in locations:
@@ -128,7 +133,7 @@ def gen_id(locations):
         location['id'] = base64.b64encode(digest).decode("utf-8")
 
 
-# Parse args, optinally pass in manually
+# Parse args, optionally pass in manually
 def parse_args(args=None):
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('file', metavar='FILE', nargs=1, type=pathlib.Path, help='Output file')
@@ -143,7 +148,7 @@ def parse_args(args=None):
     return parser.parse_args(args)
 
 
-# Gen RSS descrption tag
+# Gen RSS description tag
 def gen_desc(loc):
     desc = []
     for k, v in loc.items():
