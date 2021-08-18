@@ -3,9 +3,12 @@
 
 import argparse
 import base64
+import csv
 import datetime
 import hashlib
+import logging
 import os.path
+import re
 import unicodedata
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -16,10 +19,7 @@ import dateparser
 from feedgen.feed import FeedGenerator
 
 EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations'
-# TODO: Are these ids static or do they change?
-CLOSE_TABLE_ID = 'table14458'
-CASUAL_TABLE_ID = 'table66547'
-MONITOR_TABLE_ID = 'table04293'
+CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*[.]csv'
 
 
 # extract locations
@@ -65,29 +65,54 @@ def parse_table(s, tableid, category):
     return locations
 
 
-# pull the exposure tables from the site
-def get_tables():
-    html = ''
-    # Also all in div id=suburbfiltertable
-    # If add more tables to the page life is not great
-    # Could test preceeding h3 matches expected name...
-    only_tables = SoupStrainer("table")
-    # TODO: Have n retries, then fail
+# Find CSV location, returns None if can't find it
+def find_csv_location():
+    # Still use soup to limit our searching
+    only_script = SoupStrainer("script")
+    csv_regex = re.compile(CSV_REGEX)
     with urllib.request.urlopen(EXPOSURE_URL) as response:
         html = response.read()
-    soup = BeautifulSoup(html, 'html.parser', parse_only=only_tables)
-    return soup
+        soup = BeautifulSoup(html, 'html.parser', parse_only=only_script)
+        for script in soup.find_all():
+            # TODO: Should only be one match
+            # NOTE: doesn't work with get_text()?
+            print(script.get_text())
+            csv_location = csv_regex.search(''.join(list(script.contents)))
+            if csv_location is not None:
+                return csv_location[0]
+    return None
+
+
+#Grab and return the CSV, returns None if fails
+def get_csv(csv_location):
+    csv_data = None
+    with urllib.request.urlopen(csv_location) as response:
+        csv_data = response.read()
+    return csv_data
+
+
+#Generates locations based of CSV data
+def parse_csv(csv_data):
+    #Use reader rather than DictReader so can do normalisation
+    rows = csv.reader(csv_data.splitlines())
+    fields = [x.strip().title() for x in next(rows)]
+    locations = []
+    for i,row in enumerate(rows):
+        # TODO: Currently no normalisation
+        l = {fields[i]: row[i].strip() for i in range(len(fields))}
+        locations.append(l)
+    return locations
 
 
 # add an id to each exposure location
 def gen_id(locations):
-    # Assume there is always a 'Status' out the front and just join everything else.
+    # Assume there is always a 'Event Id' and 'Status' out the front and just join everything else.
     # If time is updated will get a new entry, we are ignoring status field.
     # Given we have no id to go by, if a new time slot added for the same location at the same day there is no way to differentiate.
     # NOTE: Need to ensure python 3.7+ for insertion order remembering
     # Use base64(MD5) to reduce size, could also remove base64 padding
     for location in locations:
-        digest = hashlib.md5('-'.join(list(location.values())[1:]).encode("utf-8")).digest()
+        digest = hashlib.md5('-'.join(list(location.values())[2:]).encode("utf-8")).digest()
         location['id'] = base64.b64encode(digest).decode("utf-8")
 
 
@@ -115,7 +140,7 @@ def gen_desc(loc):
 
 # Check old RSS file if exists, if so keep original pubDate for any items
 # Return if True if something changed from the old RSS file
-def check_existing(rss_file, categories):
+def check_existing(rss_file, exposures):
     # see if file already exists, if so load it
     # Could try to avoid 2x file opens
     existing = []
@@ -130,10 +155,9 @@ def check_existing(rss_file, categories):
     found = []
     locations = {}
     # Generate hash of locations for quick lookup
-    for cat in categories:
-        for loc in cat:
-            found.append(loc['id'])
-            locations[loc['id']] = loc
+    for loc in exposures:
+        found.append(loc['id'])
+        locations[loc['id']] = loc
     guids = []
     # Go through existing items and look for a match
     for exists in existing:
@@ -148,18 +172,18 @@ def check_existing(rss_file, categories):
 
 
 # Build the RSS feed and write it to rss_file
-def gen_feed(rss_file, categories):
+def gen_feed(rss_file, locations):
     fg = FeedGenerator()
     pd = datetime.datetime.now(datetime.timezone.utc)
-    for cat in categories:
-        for loc in cat:
-            fe = fg.add_entry()
-            fe.title(loc['Place'])
-            fe.description(gen_desc(loc))
-            fe.guid(loc['id'])
-            # NOTE: Locks into RSS
-            fe.pubDate(loc['pubDate']) if 'pubDate' in loc else fe.pubDate(pd)
-    fg.title("ACT Exposure locations")
+    for loc in locations:
+        fe = fg.add_entry()
+        # NOTE: This could easily change in data, possibly normalise in parsing?
+        fe.title(loc['Exposure Site'])
+        fe.description(gen_desc(loc))
+        fe.guid(loc['id'])
+        # NOTE: Locks into RSS
+        fe.pubDate(loc['pubDate']) if 'pubDate' in loc else fe.pubDate(pd)
+    fg.title("ACT Exposure Locations")
     fg.link(href=EXPOSURE_URL, rel='alternate')
     fg.description("Feed scraped from ACT exposure website")
     fg.lastBuildDate(pd)
@@ -169,22 +193,18 @@ def gen_feed(rss_file, categories):
 
 
 def main():
+    logging.basicConfig(level=logging.INFO)
     args = parse_args()
 
-    soup = get_tables()
-
-    # TODO: We keep categories separate, probably unnecessary and should flatten now they are tagged
-    close = parse_table(soup, CLOSE_TABLE_ID, 'Close')
-    casual = parse_table(soup, CASUAL_TABLE_ID, 'Casual')
-    monitor = parse_table(soup, MONITOR_TABLE_ID, 'Monitor')
-    categories = [close, casual, monitor]
-
-    [gen_id(x) for x in categories]
+    csv_location = find_csv_location()
+    logging.info("Found CSV location at: %s", csv_location)
+    csv_data = get_csv(csv_location)
+    locations = parse_csv(csv_data.decode("utf-8"))
+    logging.info("Found %d locations", len(locations))
+    gen_id(locations)
 
     rss_file = args.file[0]
-    changed = check_existing(rss_file, categories)
-
-    # [print(x) for x in categories]
+    changed = check_existing(rss_file, locations)
 
     # Convert time, nice to standardise display as well as use later for geo
     # Time format could change at any time
@@ -199,7 +219,10 @@ def main():
     # If error is in previous is feed then don't send it again
     # Consider what happens if error state toggles if send a 'everything is ok again' msg
     if changed:
-        gen_feed(rss_file, categories)
+        logging.info("Contents changed, regenerating feed")
+        gen_feed(rss_file, locations)
+    else:
+        logging.info("Contents unchanged, doing nothing")
 
 
 if __name__ == '__main__':
