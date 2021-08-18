@@ -18,6 +18,8 @@ from bs4 import SoupStrainer
 import dateparser
 from feedgen.feed import FeedGenerator
 
+from helper_fns import suburb_to_region
+
 EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations'
 CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*?[.]csv'
 
@@ -81,7 +83,7 @@ def find_csv_location():
     return None
 
 
-#Grab and return the CSV, returns None if fails
+# Grab and return the CSV, returns None if fails
 def get_csv(csv_location):
     csv_data = None
     with urllib.request.urlopen(csv_location) as response:
@@ -89,15 +91,17 @@ def get_csv(csv_location):
     return csv_data
 
 
-#Generates locations based of CSV data
+# Generates locations based of CSV data
 def parse_csv(csv_data):
-    #Use reader rather than DictReader so can do normalisation
+    # Use reader rather than DictReader so can do normalisation
     rows = csv.reader(csv_data.splitlines())
     fields = [x.strip().title() for x in next(rows)]
     locations = []
-    for i,row in enumerate(rows):
+    for i, row in enumerate(rows):
         # TODO: Currently no normalisation
         l = {fields[i]: row[i].strip() for i in range(len(fields))}
+        if l.get("Suburb"):
+            l = {**l, "Region": suburb_to_region(l.get("Suburb"))}
         locations.append(l)
     return locations
 
@@ -106,7 +110,8 @@ def parse_csv(csv_data):
 def gen_id(locations):
     # Assume there is always a 'Event Id' and 'Status' out the front and just join everything else.
     # If time is updated will get a new entry, we are ignoring status field.
-    # Given we have no id to go by, if a new time slot added for the same location at the same day there is no way to differentiate.
+    # Given we have no id to go by, if a new time slot added for the same location at the same day there is no way to
+    # differentiate.
     # NOTE: Need to ensure python 3.7+ for insertion order remembering
     # Use base64(MD5) to reduce size, could also remove base64 padding
     for location in locations:
@@ -114,14 +119,14 @@ def gen_id(locations):
         location['id'] = base64.b64encode(digest).decode("utf-8")
 
 
-# Parse args, optinally pass in manually
+# Parse args, optionally pass in manually
 def parse_args(args=None):
     parser = argparse.ArgumentParser()
     parser.add_argument('file', metavar='FILE', nargs=1, help='Output file')
     return parser.parse_args(args)
 
 
-# Gen RSS descrption tag
+# Gen RSS description tag
 def gen_desc(loc):
     desc = []
     for k, v in loc.items():
