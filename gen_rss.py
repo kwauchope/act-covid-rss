@@ -33,6 +33,8 @@ def normalise(locations):
                 location[k] = v.strip().lower() if value is None else value.time().isoformat()
             elif k == 'Exposure Site':
                 location[k] = v.strip()
+            elif k == 'State':
+                location[k] = v.strip().upper()
             else:
                 location[k] = v.strip().title()
 
