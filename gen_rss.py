@@ -19,7 +19,7 @@ import dateparser
 from feedgen.feed import FeedGenerator
 
 EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations'
-CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*[.]csv'
+CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*?[.]csv'
 
 
 # extract locations
@@ -75,8 +75,6 @@ def find_csv_location():
         soup = BeautifulSoup(html, 'html.parser', parse_only=only_script)
         for script in soup.find_all():
             # TODO: Should only be one match
-            # NOTE: doesn't work with get_text()?
-            print(script.get_text())
             csv_location = csv_regex.search(''.join(list(script.contents)))
             if csv_location is not None:
                 return csv_location[0]
