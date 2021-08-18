@@ -34,7 +34,7 @@ def normalise(locations):
             elif k == 'Exposure Site':
                 location[k] = v.strip()
             else:
-                location[k] = v.strip().lower()
+                location[k] = v.strip().title()
 
 # Find CSV location, returns None if can't find it
 def find_csv_location():
