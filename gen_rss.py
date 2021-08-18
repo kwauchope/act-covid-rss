@@ -75,7 +75,7 @@ def parse_csv(csv_data):
     if set(fields) != set(FIELDS):
         return None
     locations = []
-    for i,row in enumerate(rows):
+    for row in rows:
         l = {fields[i]: row[i].strip() for i in range(len(fields))}
         locations.append(l)
     return locations
