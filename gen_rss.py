@@ -158,8 +158,8 @@ def gen_feed(rss_file, locations):
     pd = datetime.datetime.now(datetime.timezone.utc)
     for loc in locations:
         fe = fg.add_entry()
-        # NOTE: This header could easily change in data
-        fe.title(loc['Exposure Site'])
+        # NOTE: These headers could easily change in data
+        fe.title(loc['Suburb'] + ':' + loc['Exposure Site'])
         fe.description(gen_desc(loc))
         fe.guid(loc['id'])
         # NOTE: Locks into RSS
