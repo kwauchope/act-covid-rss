@@ -22,54 +22,28 @@ EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid
 CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*?[.]csv'
 
 
-# extract locations
-def parse_table(s, tableid, category):
-    # TODO: check one and only one else error
-    table = s.find_all(id=tableid)[0].find_all('tr')
-    locations = []
-    # unfortunately have different headers for different tables
-    # lookup via header name isn't foolproof, could normalise to lowercase but thats about it
-    fields = list(table[0].stripped_strings)
-    # Normalise field names
-    fields = [x.title() for x in fields]
-    for location in table[1:]:
-        columns = location.find_all('td')
-        l = {}
-        # Normalise to NFKD to remove hard breaks
-        for num, column in enumerate(columns):
-            # If there are multiple p elements in the Place field handle separately
-            p = column.find_all('p')
-            if p is not None and fields[num] == 'Place' and len(p) == 2:
-                l[fields[num]] = unicodedata.normalize('NFKD', p[0].get_text().strip())
-                # Add extra info if there is a <a> element in the place name
-                a = p[1].find('a')
-                if a is not None:
-                    l['Info'] = a.encode().decode("utf-8")
-            # Try to normalise as best we can to avoid rss spam
+# Attempt to normalise data
+def normalise(locations):
+    for location in locations:
+        for k, v in location.items():
+            # Could be a dict but reasonably complex and the less tying to field names the better
+            if k == 'Date':
+                value = dateparser.parse(v)
+                location[k] = v.strip().title() if value is None else value.isoformat()
+            elif 'Time' in k:
+                value = dateparser.parse(v)
+                location[k] = v.strip().lower() if value is None else value.time().isoformat()
+            elif k == 'Exposure Site':
+                location[k] = v.strip()
             else:
-                value = None
-                if fields[num] == 'Date':
-                    # NOTE: Should return a naive datetime
-                    value = dateparser.parse(column.get_text().strip())
-                    # If fail to pull out date just use the column
-                    value = column.get_text().strip() if value is None else value.isoformat()
-                elif 'Time' in fields[num]:
-                    value = column.get_text().strip().lower()
-                elif fields[num] == 'Suburb':
-                    value = column.get_text().strip().title()
-                else:
-                    value = column.get_text().strip()
-                l[fields[num]] = unicodedata.normalize('NFKD', value)
-        l['Exposure Type'] = category
-        locations.append(l)
-    return locations
-
+                location[k] = v.strip().lower()
 
 # Find CSV location, returns None if can't find it
 def find_csv_location():
     # Still use soup to limit our searching
     only_script = SoupStrainer("script")
     csv_regex = re.compile(CSV_REGEX)
+    # TODO: Retry then fail
     with urllib.request.urlopen(EXPOSURE_URL) as response:
         html = response.read()
         soup = BeautifulSoup(html, 'html.parser', parse_only=only_script)
@@ -84,6 +58,7 @@ def find_csv_location():
 #Grab and return the CSV, returns None if fails
 def get_csv(csv_location):
     csv_data = None
+    # TODO: Retry then fail
     with urllib.request.urlopen(csv_location) as response:
         csv_data = response.read()
     return csv_data
@@ -92,6 +67,7 @@ def get_csv(csv_location):
 #Generates locations based of CSV data
 def parse_csv(csv_data):
     #Use reader rather than DictReader so can do normalisation
+    # TODO: Parsing error
     rows = csv.reader(csv_data.splitlines())
     fields = [x.strip().title() for x in next(rows)]
     locations = []
@@ -132,6 +108,10 @@ def gen_desc(loc):
                 d = dateparser.parse(v)
                 if d is not None:
                     v = d.strftime('%A, %d %B %Y')
+            if 'Time' in k:
+                d = dateparser.parse(v)
+                if d is not None:
+                    v = d.strftime('%H%M')
             desc.append('<b>' + k + '</b>:' + v + '<br/>')
     return ''.join(desc)
 
@@ -197,8 +177,11 @@ def main():
     csv_location = find_csv_location()
     logging.info("Found CSV location at: %s", csv_location)
     csv_data = get_csv(csv_location)
-    locations = parse_csv(csv_data.decode("utf-8"))
+    logging.info("Loaded CSV")
+    # Excel likes to add BOM hence -sig
+    locations = parse_csv(csv_data.decode("utf-8-sig"))
     logging.info("Found %d locations", len(locations))
+    normalise(locations)
     gen_id(locations)
 
     rss_file = args.file[0]
