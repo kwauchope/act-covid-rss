@@ -77,9 +77,10 @@ def parse_csv(csv_data):
     # Can make a map to fix later
     if set(fields) != set(FIELDS):
         # Now we no longer have a header, at least make sure new headings haven't been added
-        if len(fields) == len(FIELDS):
+        if len(fields) == len(FIELDS)+1:
             fields = FIELDS
         else:
+            logging.info("Field mismatch")
             return None
     locations = []
     for row in rows:
