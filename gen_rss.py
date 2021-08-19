@@ -73,7 +73,11 @@ def parse_csv(csv_data):
     # If fields don't match what we support return None so don't spam when change
     # Can make a map to fix later
     if set(fields) != set(FIELDS):
-        return None
+        # Now we no longer have a header, at least make sure new headings haven't been added
+        if len(fields) == len(FIELDS):
+            fields = FIELDS
+        else:
+            return None
     locations = []
     for row in rows:
         l = {fields[i]: row[i].strip() for i in range(len(fields))}
