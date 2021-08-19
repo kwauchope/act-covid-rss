@@ -7,14 +7,12 @@ import hashlib
 import itertools
 import json
 import logging
-import os.path
-import pathlib
 import re
 import urllib.request
-import xml.etree.ElementTree as ET
 
 from collections import Counter
 from datetime import datetime, time, timezone
+from pathlib import Path
 
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
@@ -136,15 +134,9 @@ def gen_id(locations):
 # Parse args, optionally pass in manually
 def parse_args(args=None):
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument('file', metavar='FILE', nargs=1, type=pathlib.Path, help='Output file')
+    parser.add_argument('prefix', metavar='PREFIX', nargs=1, help='prefix for output files')
     parser.add_argument('--csv', type=argparse.FileType('r', encoding='utf-8-sig'),
             help='Use local CSV rather than getting from website')
-    parser.add_argument('--summary', '-s', metavar='FILE', type=argparse.FileType('w', encoding='utf-8'),
-            help='Summary file location')
-    parser.add_argument('--regions', '-r', metavar='DIR', type=pathlib.Path,
-            default=pathlib.Path('regions/'), help='Output per region updates')
-    parser.add_argument('--state-file', metavar='FILE', type=pathlib.Path,
-            default=pathlib.Path('last_update.json'), help='The interim state from the last run.')
 
     return parser.parse_args(args)
 
@@ -248,6 +240,11 @@ def main():
     logging.basicConfig(level=logging.INFO)
     args = parse_args()
 
+    rss_file = Path(args.prefix[0] + '.rss')
+    rss_summary_file = Path(args.prefix[0] + '_summary.rss')
+    state_file = Path(args.prefix[0] + '_state.json')
+    csv_file = Path(args.prefix[0] + '.csv')
+
     locations = []
     # Excel likes to add BOM hence -sig
     if args.csv is not None:
@@ -258,24 +255,21 @@ def main():
         csv_data = get_csv(csv_location)
         logging.info("Loaded CSV")
         # Dump out CSV for debugging
-        with open("exposures.csv", "wb") as f:
-            f.write(csv_data)
-        logging.info("Dumping CSV")
+        csv_file.write_bytes(csv_data)
+        logging.info("Dumped CSV")
         locations = parse_csv(csv_data.decode("utf-8-sig"))
     logging.info("Found %d locations", len(locations))
     locations = normalise(locations)
     gen_id(locations)
 
     state = {}
-    if args.state_file.exists():
+    if state_file.is_file():
         try:
-            with args.state_file.open(encoding='utf-8') as f:
+            with state_file.open(encoding='utf-8') as f:
                 state = json.load(f)
         except Exception as ex:
             logging.error("Failed loading state: %s", ex)
 
-
-    rss_file = args.file[0]
     changes = update_state(state, locations)
 
     # Convert time, nice to standardise display as well as use later for geo
@@ -293,15 +287,13 @@ def main():
     if changes:
         logging.info("Contents changed, %d new entries, regenerating feed", len(changes))
         feed = gen_feed(state)
-        with open(rss_file, 'w', encoding="utf-8") as f:
-            f.write(feed)
+        rss_file.write_text(feed, encoding="utf-8")
 
-        if args.summary:
-            summary = summarise_feed(state)
-            args.summary.write(summary)
+        summary = summarise_feed(state)
+        rss_summary_file.write_text(summary, encoding="utf-8")
 
         # update state
-        with args.state_file.open('w', encoding='utf-8') as f:
+        with state_file.open('w', encoding='utf-8') as f:
             json.dump(state, f)
     else:
         logging.info("Contents unchanged, doing nothing")

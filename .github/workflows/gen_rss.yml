@@ -32,14 +32,14 @@ jobs:
       - name: Get published version
         run: |
           mkdir -p build
-          #It is also now in gh-pages branch
-          curl -o build/exposures.rss -f https://kwauchope.github.io/act-covid-rss/exposures.rss | /bin/true
-      #Could set up env var to not bother trying to deploy if don't need to
+          # It is also now in gh-pages branch
+          curl -o build/exposures_state.json -f https://kwauchope.github.io/act-covid-rss/exposures_state.json | /bin/true
+      # Could set up env var to not bother trying to deploy if don't need to
       - name: Generate RSS
-        #If not main could generate based on branch name...
+        # If not main could generate based on branch name to keep artifacts
+        # set env var blank if main otherwise '_branch'?
         run: |
-          ./gen_rss.py build/exposures.rss
-          mv exposures.csv build
+          ./gen_rss.py build/exposures
       - name: Deploy latest verison
         uses: JamesIves/github-pages-deploy-action@4.1.4
         if: ${{ github.ref == 'refs/heads/main' }}
