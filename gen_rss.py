@@ -52,8 +52,8 @@ def normalise(locations):
                 location[k] = v.strip().upper()
             else:
                 location[k] = v.strip().title()
-    if len(invalid):
-        logging.warning("%d invalid record found", len(invalid))
+    if invalid:
+        logging.warning("%d invalid records found", len(invalid))
     return [x for i, x in enumerate(locations) if i not in invalid]
 
 
@@ -118,9 +118,12 @@ def gen_id(locations):
     # Given we have no id to go by, if a new time slot added for the same location at the same day there is no way to differentiate.
     # NOTE: Need to ensure python 3.7+ for insertion order remembering
     # Use base64(MD5) to reduce size, could also remove base64 padding
+    ids = set()
     for location in locations:
         digest = hashlib.md5('-'.join(list(location.values())[2:]).encode("utf-8")).digest()
-        location['id'] = base64.b64encode(digest).decode("utf-8")
+        loc_id = base64.b64encode(digest).decode("utf-8")
+        location['id'] = loc_id
+        ids.add(loc_id) if loc_id not in ids else logging.warning("Duplicate detected %s", location)
 
 
 # Parse args, optinally pass in manually
