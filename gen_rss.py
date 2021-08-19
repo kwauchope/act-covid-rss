@@ -78,14 +78,17 @@ def parse_csv(csv_data):
         fields.pop()
     # If fields don't match what we support return None so don't spam when change
     # Can make a map to fix later
+    locations = []
     if set(fields) != set(FIELDS):
         # Now we no longer have a header, at least make sure new headings haven't been added
         if len(fields) == len(FIELDS):
+            # Pretty average hack to put the first row back in if headers aren't present
+            l = {FIELDS[i]: fields[i].strip() for i in range(len(FIELDS))}
+            locations.append(l)
             fields = FIELDS
         else:
             logging.error("Field mismatch")
             return None
-    locations = []
     for row in rows:
         l = {fields[i]: row[i].strip() for i in range(len(fields))}
         locations.append(l)
