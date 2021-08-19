@@ -68,6 +68,7 @@ class TestParsingCSV(unittest.TestCase):
 
     def test_parse_csv(self):
         res = gen_rss.parse_csv(CSV_LINES)
+        gen_rss.gen_region(res)
         for a,b in zip(res, CSV_PARSED):
             self.assertDictEqual(a, b)
 
