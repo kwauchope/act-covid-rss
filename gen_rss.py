@@ -27,11 +27,11 @@ def normalise(locations):
         for k, v in location.items():
             # Could be a dict but reasonably complex and the less tying to field names the better
             if k == 'Date':
-                value = dateparser.parse(v, languages=['en'])
                 # Could change to date for less characters, if so change gen_desc to use date
+                value = dateparser.parse(v, languages=['en'], settings={'DATE_ORDER': 'DMY'})
                 location[k] = v.strip().title() if value is None else value.isoformat()
             elif 'Time' in k:
-                value = dateparser.parse(v, languages=['en'])
+                value = dateparser.parse(v, languages=['en'], settings={'DATE_ORDER': 'DMY'})
                 location[k] = v.strip().lower() if value is None else value.time().isoformat()
             elif k == 'Exposure Site':
                 location[k] = v.strip()
