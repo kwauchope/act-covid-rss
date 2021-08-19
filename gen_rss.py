@@ -112,8 +112,6 @@ def parse_csv(csv_data):
             return None
     for row in rows:
         l = {fields[i]: row[i].strip() for i in range(len(fields))}
-        if l.get("Suburb"):
-            l = {**l, "Region": suburb_to_region(l.get("Suburb"))}
         locations.append(l)
     return locations
 
@@ -129,6 +127,12 @@ def gen_id(locations):
     for location in locations:
         digest = hashlib.md5('-'.join(list(location.values())[2:]).encode("utf-8")).digest()
         location['id'] = base64.b64encode(digest).decode("utf-8")
+
+# Add region to locations
+def gen_region(locations):
+    for location in locations:
+        if location.get("Suburb"):
+            location["Region"] = suburb_to_region(location["Suburb"])
 
 
 # Parse args, optionally pass in manually
@@ -261,6 +265,7 @@ def main():
     logging.info("Found %d locations", len(locations))
     locations = normalise(locations)
     gen_id(locations)
+    gen_region(locations)
 
     state = {}
     if state_file.is_file():
