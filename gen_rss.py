@@ -19,26 +19,42 @@ from feedgen.feed import FeedGenerator
 EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations'
 CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*?[.]csv'
 FIELDS = ['Event Id', 'Status', 'Exposure Site', 'Street', 'Suburb', 'State', 'Date', 'Arrival Time', 'Departure Time', 'Contact']
+MIN_DATETIME = datetime.datetime(2020, 3, 11)
 
 
 # Attempt to normalise data
 def normalise(locations):
-    for location in locations:
+    invalid = set()
+    now = datetime.datetime.now()
+    for i, location in enumerate(locations):
         for k, v in location.items():
             # Could be a dict but reasonably complex and the less tying to field names the better
             if k == 'Date':
-                # Could change to date for less characters, if so change gen_desc to use date
                 value = dateparser.parse(v, languages=['en'], settings={'DATE_ORDER': 'DMY'})
-                location[k] = v.strip().title() if value is None else value.isoformat()
+                # If None or out of range add to set to delete and log warn
+                if value is None or value < MIN_DATETIME or value > now:
+                    invalid.add(i)
+                    logging.warning("Invalid Date '%s' found in '%s'", v, location)
+                    break
+                # Could change to date for less characters, if so change gen_desc to use date
+                location[k] = value.isoformat()
             elif 'Time' in k:
                 value = dateparser.parse(v, languages=['en'], settings={'DATE_ORDER': 'DMY'})
-                location[k] = v.strip().lower() if value is None else value.time().isoformat()
+                # If None add to set to delete and log warn
+                if value is None:
+                    invalid.add(i)
+                    logging.warning("Invalid Time '%s' found in '%s'", v, location)
+                    break
+                location[k] = value.time().isoformat()
             elif k == 'Exposure Site':
                 location[k] = v.strip()
             elif k == 'State':
                 location[k] = v.strip().upper()
             else:
                 location[k] = v.strip().title()
+    if len(invalid):
+        logging.warning("%d invalid record found", len(invalid))
+    return [x for i, x in enumerate(locations) if i not in invalid]
 
 
 # Find CSV location, returns None if can't find it
@@ -124,17 +140,11 @@ def gen_desc(loc):
             # Format here so if we decide to change output wont spam rss
             # NOTE: much less overhead with datetime as in a format we know (hopefully)
             if k == 'Date':
-                try:
-                    d = datetime.datetime.fromisoformat(v)
-                    v = d.strftime('%A, %d %B %Y')
-                except:
-                    pass
+                d = datetime.datetime.fromisoformat(v)
+                v = d.strftime('%A, %d %B %Y')
             if 'Time' in k:
-                try:
-                    d = datetime.time.fromisoformat(v)
-                    v = d.strftime('%H%M')
-                except:
-                    pass
+                d = datetime.time.fromisoformat(v)
+                v = d.strftime('%H%M')
             desc.append('<b>' + k + '</b>:' + v + '<br/>')
     return ''.join(desc)
 
@@ -212,7 +222,7 @@ def main():
         logging.info("Dumping CSV")
         locations = parse_csv(csv_data.decode("utf-8-sig"))
     logging.info("Found %d locations", len(locations))
-    normalise(locations)
+    locations = normalise(locations)
     gen_id(locations)
 
     rss_file = args.file[0]
