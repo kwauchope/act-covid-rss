@@ -20,16 +20,18 @@ EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid
 CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*?[.]csv'
 FIELDS = ['Event Id', 'Status', 'Exposure Site', 'Street', 'Suburb', 'State', 'Date', 'Arrival Time', 'Departure Time', 'Contact']
 
+
 # Attempt to normalise data
 def normalise(locations):
     for location in locations:
         for k, v in location.items():
             # Could be a dict but reasonably complex and the less tying to field names the better
             if k == 'Date':
-                value = dateparser.parse(v)
+                value = dateparser.parse(v, languages=['en'])
+                # Could change to date for less characters, if so change gen_desc to use date
                 location[k] = v.strip().title() if value is None else value.isoformat()
             elif 'Time' in k:
-                value = dateparser.parse(v)
+                value = dateparser.parse(v, languages=['en'])
                 location[k] = v.strip().lower() if value is None else value.time().isoformat()
             elif k == 'Exposure Site':
                 location[k] = v.strip()
@@ -37,6 +39,7 @@ def normalise(locations):
                 location[k] = v.strip().upper()
             else:
                 location[k] = v.strip().title()
+
 
 # Find CSV location, returns None if can't find it
 def find_csv_location():
@@ -112,14 +115,19 @@ def gen_desc(loc):
         # NOTE: Locks into RSS
         if k not in ['id', 'pubDate']:
             # Format here so if we decide to change output wont spam rss
+            # NOTE: much less overhead with datetime as in a format we know (hopefully)
             if k == 'Date':
-                d = dateparser.parse(v)
-                if d is not None:
+                try:
+                    d = datetime.datetime.fromisoformat(v)
                     v = d.strftime('%A, %d %B %Y')
+                except:
+                    pass
             if 'Time' in k:
-                d = dateparser.parse(v)
-                if d is not None:
+                try:
+                    d = datetime.time.fromisoformat(v)
                     v = d.strftime('%H%M')
+                except:
+                    pass
             desc.append('<b>' + k + '</b>:' + v + '<br/>')
     return ''.join(desc)
 
