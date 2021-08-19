@@ -101,6 +101,7 @@ def gen_id(locations):
 def parse_args(args=None):
     parser = argparse.ArgumentParser()
     parser.add_argument('file', metavar='FILE', nargs=1, help='Output file')
+    parser.add_argument('--csv', help='Use local CSV rather than getting from website')
     return parser.parse_args(args)
 
 
@@ -183,10 +184,18 @@ def main():
 
     csv_location = find_csv_location()
     logging.info("Found CSV location at: %s", csv_location)
-    csv_data = get_csv(csv_location)
-    logging.info("Loaded CSV")
+    locations = []
     # Excel likes to add BOM hence -sig
-    locations = parse_csv(csv_data.decode("utf-8-sig"))
+    if args.csv is not None:
+        locations = parse_csv(open(args.csv, encoding="utf-8-sig").read())
+    else:
+        csv_data = get_csv(csv_location)
+        logging.info("Loaded CSV")
+        # Dump out CSV for debugging
+        with open("exposures.csv", "wb") as f:
+            f.write(csv_data)
+        logging.info("Dumping CSV")
+        locations = parse_csv(csv_data.decode("utf-8-sig"))
     logging.info("Found %d locations", len(locations))
     normalise(locations)
     gen_id(locations)
