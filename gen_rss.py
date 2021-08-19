@@ -14,7 +14,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 from collections import Counter
-from datetime import datetime, timezone
+from datetime import datetime, time, timezone
 
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
@@ -26,13 +26,13 @@ from helper_fns import suburb_to_region
 EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations'
 CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*?[.]csv'
 FIELDS = ['Event Id', 'Status', 'Exposure Site', 'Street', 'Suburb', 'State', 'Date', 'Arrival Time', 'Departure Time', 'Contact']
-MIN_DATETIME = datetime.datetime(2020, 3, 11)
+MIN_DATETIME = datetime(2020, 3, 11)
 
 
 # Attempt to normalise data
 def normalise(locations):
     invalid = set()
-    now = datetime.datetime.now()
+    now = datetime.now()
     for i, location in enumerate(locations):
         for k, v in location.items():
             # Could be a dict but reasonably complex and the less tying to field names the better
@@ -137,7 +137,8 @@ def gen_id(locations):
 def parse_args(args=None):
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('file', metavar='FILE', nargs=1, type=pathlib.Path, help='Output file')
-    parser.add_argument('--csv', help='Use local CSV rather than getting from website')
+    parser.add_argument('--csv', type=argparse.FileType('r', encoding='utf-8-sig'),
+            help='Use local CSV rather than getting from website')
     parser.add_argument('--summary', '-s', metavar='FILE', type=argparse.FileType('w', encoding='utf-8'),
             help='Summary file location')
     parser.add_argument('--regions', '-r', metavar='DIR', type=pathlib.Path,
@@ -157,10 +158,10 @@ def gen_desc(loc):
             # Format here so if we decide to change output wont spam rss
             # NOTE: much less overhead with datetime as in a format we know (hopefully)
             if k == 'Date':
-                d = datetime.datetime.fromisoformat(v)
+                d = datetime.fromisoformat(v)
                 v = d.strftime('%A, %d %B %Y')
             if 'Time' in k:
-                d = datetime.time.fromisoformat(v)
+                d = time.fromisoformat(v)
                 v = d.strftime('%H%M')
             desc.append('<b>' + k + '</b>:' + v + '<br/>')
     return ''.join(desc)
@@ -250,7 +251,7 @@ def main():
     locations = []
     # Excel likes to add BOM hence -sig
     if args.csv is not None:
-        locations = parse_csv(open(args.csv, encoding="utf-8-sig").read())
+        locations = parse_csv(args.csv.read())
     else:
         csv_location = find_csv_location()
         logging.info("Found CSV location at: %s", csv_location)
