@@ -207,13 +207,13 @@ def main():
     logging.basicConfig(level=logging.INFO)
     args = parse_args()
 
-    csv_location = find_csv_location()
-    logging.info("Found CSV location at: %s", csv_location)
     locations = []
     # Excel likes to add BOM hence -sig
     if args.csv is not None:
         locations = parse_csv(open(args.csv, encoding="utf-8-sig").read())
     else:
+        csv_location = find_csv_location()
+        logging.info("Found CSV location at: %s", csv_location)
         csv_data = get_csv(csv_location)
         logging.info("Loaded CSV")
         # Dump out CSV for debugging
