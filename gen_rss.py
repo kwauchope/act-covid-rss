@@ -73,14 +73,17 @@ def parse_csv(csv_data):
     # TODO: Parsing error
     rows = csv.reader(csv_data.splitlines())
     fields = [x.strip().title() for x in next(rows)]
+    # In case extra empty columns/fields added again remove them
+    while not fields[-1]:
+        fields.pop()
     # If fields don't match what we support return None so don't spam when change
     # Can make a map to fix later
     if set(fields) != set(FIELDS):
         # Now we no longer have a header, at least make sure new headings haven't been added
-        if len(fields) == len(FIELDS)+1:
+        if len(fields) == len(FIELDS):
             fields = FIELDS
         else:
-            logging.info("Field mismatch")
+            logging.error("Field mismatch")
             return None
     locations = []
     for row in rows:
