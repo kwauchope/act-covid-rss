@@ -60,7 +60,7 @@ def filter_rss(rss_str):
 
 def preprocess_locs(locs):
     dup = copy.deepcopy(locs)
-    gen_rss.normalise(dup)
+    dup = gen_rss.normalise(dup)
     gen_rss.gen_id(dup)
     return dup
 

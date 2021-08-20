@@ -52,7 +52,7 @@ def normalise_suburb(suburb):
     return re.sub(r'[\W]+', '', suburb.lower())
 
 
-NORMALISED_CBR_REGIONS = {r: list(map(normalise_suburb, CBR_REGIONS[r])) for r in CBR_REGIONS}
+__NORMALISED_CBR_REGIONS = {normalise_suburb(sub): region for region,suburbs in CBR_REGIONS.items() for sub in suburbs}
 
 
 def suburb_to_region(suburb):
@@ -61,9 +61,5 @@ def suburb_to_region(suburb):
     :param suburb: str of suburb
     :return: str of region
     """
-
     normalised_suburb = normalise_suburb(suburb)
-    for region in NORMALISED_CBR_REGIONS:
-        if NORMALISED_CBR_REGIONS[region].__contains__(normalised_suburb):
-            return region
-    return "Other"
+    return __NORMALISED_CBR_REGIONS.get(normalised_suburb, "Other")
