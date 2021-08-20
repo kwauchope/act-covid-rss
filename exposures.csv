@@ -1,8 +1,8 @@
 ﻿Event Id,Status,Exposure Site,Street,Suburb,State,Date,Arrival Time,Departure Time,Contact
 ,,Fiction Bar,"50 Bunda Street, Canberra City",Canberra City,ACT,07/08/2021 - Saturday,9:00pm,11:59pm,Close
-,,Fiction Bar,"50 Bunda Street, Canberra City",Canberra City,ACT,07/08/2021 - Saturday,9:00pm,11:59pm,Close
-,,Fiction Bar,"50 Bunda Street, Canberra City",Canberra City,ACT,07/08/2021 - Saturday,9:00pm,11:59pm,Close
+,,Fiction Bar,"50 Bunda Street, Canberra City",Canberra City,ACT,08/08/2021 - Sunday,12:00am,4:45am,Close
 ,,"Freedom Furniture, Canberra Outlet Centre","T27, 337 Canberra Avenue",Fyshwick,ACT,08/08/2021 - Sunday,2:00pm,2:20pm,Close
+,,Church of Pentecost,19B Irving Street ,Phillip,ACT,08/08/2021 - Sunday,10:30am,1:00pm,Close
 ,,"JB HiFi, Canberra Outlet Centre","T26, 337 Canberra Avenue",Fyshwick,ACT,08/08/2021 - Sunday,2:15pm,2:55pm,Close
 ,,"TK Maxx, Canberra Outlet Centre","X20, 337 Canberra Avenue",Fyshwick,ACT,08/08/2021 - Sunday,3:10pm,3:40pm,Close
 ,,"Windsor Smith, Canberra Outlet Centre","T103, 337 Canberra Avenue ",Fyshwick,ACT,08/08/2021 - Sunday,2:45pm,3:15pm,Close
@@ -12,8 +12,8 @@
 ,,Gold Creek School (including early childhood learning),Kelleway Avenue,Nicholls,ACT,09/08/2021 - Monday,8:25am,5:00pm,Close
 ,,Lennock Jaguar Land Rover,126 Melrose Drive,Phillip,ACT,09/08/2021 - Monday,8:30am,5:30pm,Close
 ,,Lyneham High School,Goodwin Street,Lyneham,ACT,09/08/2021 - Monday,8:30am,3:30pm,Close
-,,Al Manoosh Bakery,47 Mawson Place,Mawson,ACT,09/08/2021 - Monday,12 noon,1:00pm,Close
-,,Bus Route 30 – Dickson to Kaleen,Stops Cowper Street Dickson to Kaleen High School ,Public Transport,ACT,09/08/2021 - Monday,3:43pm,4:10pm,Close
+,,Al Manoosh Bakery,47 Mawson Place,Mawson,ACT,09/08/2021 - Monday,12:00pm,1:00pm,Close
+,Updated,Bus Route 30 – Dickson to Kaleen,Stops Cowper Street Dickson to Kaleen High School ,Public Transport,ACT,09/08/2021 - Monday,3:43pm,4:10pm,Casual
 ,,The Civic Pub,8 Lonsdale Street,Braddon,ACT,09/08/2021 - Monday,3:45pm,9:45pm,Close
 ,,"Instrumental Music Program (IMP) Rehearsal Room, UC High School Kaleen",Baldwin Drive,Kaleen,ACT,09/08/2021 - Monday,4:00pm,6:00pm,Close
 ,,"Club Lime Mawson, Mawson Southlands Shopping Centre","Level 1, Mawson Drive",Mawson,ACT,09/08/2021 - Monday,4:30pm,6:30pm,Close
@@ -72,10 +72,10 @@
 ,,Lyneham High School,Goodwin Street,Lyneham,ACT,12/08/2021 - Thursday,8:30am,3:30pm,Close
 ,,CIT Reid Campus (Entire campus),37 Constitution Avenue,Reid,ACT,12/08/2021 - Thursday,9:00am,2:30pm,Close
 ,,Commonwealth Bank Gungahlin,"Shop 23-25, Gungahlin Mall, 33 Hibberson Street",Gungahlin,ACT,12/08/2021 - Thursday,9:30am,10:00am,Close
-,,"Coffee Guru, Canberra Centre","Shop K05, Canberra Centre, 148 Bunda Street",Canberra City,ACT,12/08/2021 - Thursday,10:45am,12 noon,Close
+,,"Coffee Guru, Canberra Centre","Shop K05, Canberra Centre, 148 Bunda Street",Canberra City,ACT,12/08/2021 - Thursday,10:45am,12:00pm,Close
 ,,Lawrence & Hanson Mitchell,2/67-71 Vicars Street,Mitchell,ACT,12/08/2021 - Thursday,12:40pm,1:00pm,Close
 ,,Franklin General Practice,54 Nullarbor Avenue,Franklin,ACT,12/08/2021 - Thursday,2:15pm,3:15pm,Close
-,,Priceline Pharmacy amaroo,6 Pioneer Street,amaroo,ACT,12/08/2021 - Thursday,5:00pm,6:45pm,Close
+,,Priceline Pharmacy Amaroo,6 Pioneer Street,amaroo,ACT,12/08/2021 - Thursday,5:00pm,6:45pm,Close
 ,,Coles Supermarket,1 Maribyrnong Avenue,Kaleen,ACT,12/08/2021 - Thursday,12:45pm,2:45pm,Close
 ,,St Thomas Aquinas Primary School,25 Lhotsky St,Charnwood,ACT,12/08/2021 - Thursday,8:30am,4:00pm,Close
 ,,Lennock Jaguar Land Rover,126 Melrose Drive,Phillip,ACT,13/08/2021 - Friday,8:30am,5:30pm,Close
@@ -86,15 +86,15 @@
 ,,The Rehabilitation Specialists,9/27 Yallourn Street Fyshwick,Fyshwick,ACT,11/08/2021 - Wednesday,8:30am,9:30am,Close
 ,,"Engineering house, tenancy 7/8, on level 2",11 National Circuit,Barton,ACT,09/08/2021 - Monday,6:15am,3:30pm,Close
 ,,"Engineering house, tenancy 7/8, on level 2",11 National Circuit,Barton,ACT,10/08/2021 - Tuesday,7:00am,4:00pm,Close
-,,Grand Central Towers - communal pool area,"15 Bowes Street, Philip, ACT, 2606",Phillip,ACT,12/08/2021 - Thursday,11:45am,12:45pm,Close
+,,Grand Central Towers - communal pool area,15 Bowes Street,Phillip,ACT,12/08/2021 - Thursday,11:45am,12:45pm,Close
 ,,The Bucket Warehouse,"Unit 1E/5 Pelle St, Mitchell",Mitchell,ACT,11/08/2021 - Wednesday,5:25pm,7:15pm,Close
-,,Subway,"Shop 1/71-81 Woolley St, Dickson",Dickson,ACT,11/08/2021 - Wednesday,7:00pm,7:50pm,Close
+,,Subway,Shop 1/71-81 Woolley St,Dickson,ACT,11/08/2021 - Wednesday,7:00pm,7:50pm,Close
 ,,LDK Greenway ,260 Soward Way,Greenway,ACT,10/08/2021 - Tuesday,3:30pm,11:59pm,Close
-,,LDK Greenway ,260 Soward Way,Greenway,ACT,11/08/2021 - Wednesday,12am,11:59pm,Close
-,,LDK Greenway ,260 Soward Way,Greenway,ACT,12/08/2021 - Thursday,12am,1159pm,Close
-,,LDK Greenway ,260 Soward Way,Greenway,ACT,13/08/2021 - Friday,12am,1159pm,Close
-,,LDK Greenway ,260 Soward Way,Greenway,ACT,14/08/2021 - Saturday,12am,1159pm,Close
-,,LDK Greenway ,260 Soward Way,Greenway,ACT,15/08/2021 - Sunday,12am,1159pm,Close
+,,LDK Greenway ,260 Soward Way,Greenway,ACT,11/08/2021 - Wednesday,12:00am,11:59pm,Close
+,,LDK Greenway ,260 Soward Way,Greenway,ACT,12/08/2021 - Thursday,12:00am,1159pm,Close
+,,LDK Greenway ,260 Soward Way,Greenway,ACT,13/08/2021 - Friday,12:00am,1159pm,Close
+,,LDK Greenway ,260 Soward Way,Greenway,ACT,14/08/2021 - Saturday,12:00am,1159pm,Close
+,,LDK Greenway ,260 Soward Way,Greenway,ACT,15/08/2021 - Sunday,12:00am,1159pm,Close
 ,,Goodstart Early Learning Turner,12 Watson Street ,Turner,ACT,11/08/2021 - Wednesday,10:20am,10:40am,Close
 ,,Goodstart Early Learning Turner,12 Watson Street ,Turner,ACT,11/08/2021 - Wednesday,5:00pm,5:30pm,Close
 ,Updated,Bus Route 9 Transport Canberra Code BUS604,Watson to Dickson Interchange,Public Transport,ACT,11/08/2021 - Wednesday,8:06am,8:17am,Casual
@@ -111,14 +111,13 @@
 ,Updated,Light Rail - R1 Transport Canberra Code LRV003,Gungahlin to Dickson Interchange,Public Transport,ACT,12/08/2021 - Thursday,8:20am,8:38am,Casual
 ,Updated,Light Rail - R1 Transport Canberra Code LRV005,Dickson Interchange to Gungahlin,Public Transport,ACT,12/08/2021 - Thursday,3:18pm,3:37pm,Casual
 ,Updated,Bus Route 25 Transport Canberra Code BUS585,Gungahlin to Moncrieff,Public Transport,ACT,12/08/2021 - Thursday,4:02pm,4:14pm,Casual
-,,Ginninderra Medical & Dental Centre - The general practice section ONLY,Cnr Nettlefold Street & Coulter Drive,Belconnen,ACT,13/08/2021 - Friday,3:10pm,3:40pm,Casual
 ,,"Central Food Court, Canberra Outlet Centre",337 Canberra Avenue,Fyshwick,ACT,08/08/2021 - Sunday,1:30pm,2:30pm,Casual
 ,,"Boost Juice, Canberra Outlet Centre",337 Canberra Avenue,Fyshwick,ACT,08/08/2021 - Sunday,1:35pm,2:05pm,Casual
 ,,Coles amaroo,Horse Park Drive,amaroo,ACT,08/08/2021 - Sunday,4:00pm,4:20pm,Casual
 ,,Holy Sprit Catholic Primary School (including Early Childhood Learning Centre),26 Kelleway Avenue,Nicholls,ACT,09/08/2021 - Monday,8:25am,5:00pm,Casual
 ,,Bunnings Warehouse Canberra Airport,971 Majura Road,Majura Park,ACT,09/08/2021 - Monday,9:00am,10:30am,Casual
 ,,Mugga Site - Mugga Lane Resource Management Centre Waste Transfer Station,Mugga Lane,Symonston,ACT,09/08/2021 - Monday,10:00am,10:30am,Casual
-,,Canberra Centre Subway and Food Court,"Canberra Centre, 148 Bunda Street",Canberra City,ACT,09/08/2021 - Monday,10:30am,12 noon,Casual
+,,Canberra Centre Subway and Food Court,"Canberra Centre, 148 Bunda Street",Canberra City,ACT,09/08/2021 - Monday,10:30am,12:00pm,Casual
 ,,St George Bank,58 Wollongong Street,Fyshwick,ACT,09/08/2021 - Monday,10:35am,11:00am,Casual
 ,,Woolworths Dickson,Dickson Place,Dickson,ACT,09/08/2021 - Monday,3:00pm,4:00pm,Casual
 ,,KFC Dickson,Bradham Street and Wooley Street,Dickson,ACT,09/08/2021 - Monday,3:00pm,4:00pm,Casual
@@ -126,7 +125,7 @@
 ,,Stockade Training Centre,7 Kembla Street,Fyshwick ,ACT,09/08/2021 - Monday,3:45pm,5:30pm,Casual
 ,,Holy Sprit Catholic Primary School (including Early Childhood Learning Centre),26 Kelleway Avenue ,Nicholls,ACT,10/08/2021 - Tuesday,8:00am,3:10pm,Casual
 ,,Civic Square Post Office,"Shop G14-16, Canberra Centre, 148 Bunda Street",Canberra City,ACT,10/08/2021 - Tuesday,9:30am,9:50am,Casual
-,,Basketball ACT,"Basketball & Sports Centre, 42 Oatley Ct",Belconnen,ACT,10/08/2021 - Tuesday,12 noon,3:00pm,Casual
+,,Basketball ACT,"Basketball & Sports Centre, 42 Oatley Ct",Belconnen,ACT,10/08/2021 - Tuesday,12:00pm,3:00pm,Casual
 ,,Bing Lee,10-12 Cohen Street,Belconnen,ACT,10/08/2021 - Tuesday,12:50pm,1:15pm,Casual
 ,,Kmart Gungahlin,33 Hibberson Street,Gungahlin,ACT,10/08/2021 - Tuesday,3:00pm,4:00pm,Casual
 ,,Big W Gungahlin,Gozzard Street,Gungahlin,ACT,10/08/2021 - Tuesday,3:45pm,4:30pm,Casual
@@ -147,9 +146,9 @@
 ,,Rebel Sport,"Shop LM2, Keltie Street",Phillip,ACT,11/08/2021 - Wednesday,11:15am,12:15pm,Casual
 ,,Sushi Island,15/22 Kingsland Parade,Casey,ACT,11/08/2021 - Wednesday,1:00pm,1:10pm,Casual
 ,,Supabarn Casey,15 Kingsland Parade,Casey,ACT,11/08/2021 - Wednesday,1:05pm,1:30pm,Casual
-,,ampol Fuel,289 Canberra Avenue,Fyshwick,ACT,11/08/2021 - Wednesday,1:10pm,1:30pm,Casual
+,,Ampol Fuel,289 Canberra Avenue,Fyshwick,ACT,11/08/2021 - Wednesday,1:10pm,1:30pm,Casual
 ,,Woolworths Dickson,1 Dickson Place,Dickson,ACT,11/08/2021 - Wednesday,3:00pm,3:30pm,Casual
-,,Coles Supermarket Manuka,"Franklin Street &, Flinders Way",Griffith,ACT,11/08/2021 - Wednesday,6:00pm,6:45pm,Casual
+,,Coles Supermarket Manuka,Franklin Street and Flinders Way,Griffith,ACT,11/08/2021 - Wednesday,6:00pm,6:45pm,Casual
 ,,Woolworths Charnwood,25-30 Charnwood Place ,Charnwood,ACT,11/08/2021 - Wednesday,6:30pm,7:10pm,Casual
 ,,"Xian Restaurant, ",1/140 Emu Bank,Belconnen,ACT,11/08/2021 - Wednesday,9:15pm,9:45pm,Casual
 ,,"Abode Hotel (Floors 1, 2 and 3)",14 Kennedy Street,Kingston,ACT,12/08/2021 - Thursday,12:00am,7:00pm,Casual
@@ -188,7 +187,7 @@
 ,,Coles Canberra City,Bunda Street and Petrie Plaza,Canberra City,ACT,13/08/2021 - Friday,6:55pm,7:30pm,Casual
 ,,7-Eleven Casey (Petrol Station),10 Kingsland Parade,Casey,ACT,14/08/2021 - Saturday,7:30am,8:15am,Casual
 ,,Coles ,"Westfield Belconnen, Benjamin Way",Belconnen,ACT,14/08/2021 - Saturday,9:20am,10:00am,Casual
-,,Woolworths Bonner,61 Mabo Blvd,Bonner,ACT,14/08/2021 - Saturday,11:15am,12 noon,Casual
+,,Woolworths Bonner,61 Mabo Blvd,Bonner,ACT,14/08/2021 - Saturday,11:15am,12:00pm,Casual
 ,,Woolworths Dickson,1 Dickson Place,Dickson,ACT,14/08/2021 - Saturday,11:20am,11:50am,Casual
 ,,About Health,2/22-25 Dickson Place,Dickson,ACT,14/08/2021 - Saturday,2:40pm,5:00pm,Casual
 ,,The Source Bulk Foods,"Shop 7/7, 30 Dickson Place",Dickson,ACT,14/08/2021 - Saturday,2:45pm,3:10pm,Casual
@@ -196,9 +195,9 @@
 ,,IGA Lyneham,1 Wattle Place,Lyneham,ACT,14/08/2021 - Saturday,4:15pm,5:00pm,Casual
 ,,Coles,Gungahlin Place,Gungahlin,ACT,15/08/2021 - Sunday,9:30am,10:00am,Casual
 ,,Daily Market,137/43 Hibberson Street,Gungahlin,ACT,15/08/2021 - Sunday,10:00am,10:30am,Casual
-,,McDonalds,"661 Northbourne Ave, Lyneham ACT 2911",Lyneham,ACT,13/08/2021 - Friday,6:40pm,7:00pm,Casual
-,,Hungry Jacks,"Gibberson Street, Gundaroo Dr, Canberra ACT 2912",Gungahlin,ACT,14/08/2021 - Saturday,7:20pm,7:40pm,Casual
-,,Coles,"Hibberson St and Gungahlin Place, ACT 2912",Gungahlin,ACT,12/08/2021 - Thursday,3:30pm,4:15pm,Casual
+,,McDonalds,"661 Northbourne Ave, Lyneham ",Lyneham,ACT,13/08/2021 - Friday,6:40pm,7:00pm,Casual
+,,Hungry Jacks,"Gibberson Street, Gundaroo Dr, Canberra ",Gungahlin,ACT,14/08/2021 - Saturday,7:20pm,7:40pm,Casual
+,,Coles,Hibberson St and Gungahlin Place,Gungahlin,ACT,12/08/2021 - Thursday,3:30pm,4:15pm,Casual
 ,,Spence Grocer,1 Glassey place,Spence,ACT,12/08/2021 - Thursday,8:20am,8:50am,Casual
 ,,Spence Grocer,1 Glassey place,Spence,ACT,12/08/2021 - Thursday,3:20pm,3:50pm,Casual
 ,,Spence Grocer,1 Glassey place,Spence,ACT,14/08/2021 - Saturday,12:40pm,1:10pm,Casual
@@ -207,12 +206,12 @@
 ,,Westfield Belconnen Food Court,"204 Benjamin Way, Belconnen",Belconnen,ACT,12/08/2021 - Thursday,10am,11:45am,Casual
 ,,Woolworths Gungahlin,"30 Hibberson St, Gungahlin",Gungahlin ,ACT,12/08/2021 - Thursday,4:30pm,5:05pm,Casual
 ,,Woolworths Bonner,"61 Mabo Blvd, Bonner ACT 2914",Bonner,ACT,13/08/2021 - Friday,11:15am,12:00pm,Casual
-,,Flatheads Takeaway,Macpherson St & Bluebell St O'Connor,O'Connor,ACT,11/08/2021 - Wednesday,12:15pm,12:30pm,Casual
+,,Flatheads Takeaway,Macpherson St & Bluebell St,O'Connor,ACT,11/08/2021 - Wednesday,12:15pm,12:30pm,Casual
 ,,Mawson Southland Quality Meats,"1/93 Mawson Place, Mawson",Mawson,ACT,12/08/2021 - Thursday,1:40pm,1:55pm,Casual
 ,,Aldi Canberra Centre,"Canberra Centre, Bunda Street",Canberra City,ACT,15/08/2021 - Sunday,9:15am,10:15am,Casual
 ,,Acai Brothers Canberra Centre,"Canberra Centre, Bunda Street",Canberra City,ACT,15/08/2021 - Sunday,9:55am,10:05am,Casual
-,,Subway Barton,"48 Macquarie St, Barton ACT 2600",Barton,ACT,10/08/2021 - Tuesday,10:50am,11:20am,Casual
-,,Basketball Stadium,"42 Oatley Court, Belconnen ACT 2617",Belconnen,ACT,10/08/2021 - Tuesday,5:50pm,7:30pm,Casual
+,,Subway Barton,"48 Macquarie St, Barton ACT ",Barton,ACT,10/08/2021 - Tuesday,10:50am,11:20am,Casual
+,,Basketball Stadium,"42 Oatley Court, Belconnen ",Belconnen,ACT,10/08/2021 - Tuesday,5:50pm,7:30pm,Casual
 ,,Supabarn,15 Kingsland Parade,Casey,ACT,13/08/2021 - Friday,3:00pm,3:34pm,Casual
 ,,Stockade Gym,7 Kembla St,Fyshwick,ACT,11/08/2021 - Wednesday,5:00pm,6:00pm,Casual
 ,,"Golden touch Kedmar, pop-up Gungahlin marketplace",30 & 33 Hibberson St,Gungahlin,ACT,12/08/2021 - Thursday,9:45am,10:30am,Casual
@@ -246,7 +245,7 @@
 ,,UCSSC Lake Ginninderra (Entire Campus excluding Gymnasium and Cafeteria/Canteen area. Refer to Close Contact entry if you attended Gymnasium and Cafeteria/Canteen area),2 Emu Bank,Belconnen,ACT,09/08/2021 - Monday,10:00am,1:30pm,Monitor
 ,,Westfield Belconnen,"204 Benjamin Way, Belconnen",Belconnen,ACT,12/08/2021 - Thursday,7:30am,9:00am,Monitor
 ,,Gungahlin Marketplace,"30 Hibberson St, Gungahlin",Gungahlin,ACT,12/08/2021 - Thursday,11:30am,2:00pm,Monitor
-,,UC Library,"Building 8, University of Canberra, Bruce ACT 2617",Bruce,ACT,11/08/2021 - Wednesday,8:00pm,9:00pm,Monitor
+,,UC Library,"Building 8, University of Canberra",Bruce,ACT,11/08/2021 - Wednesday,8:00pm,9:00pm,Monitor
 ,,IGA O'Connor,3 Sargood Street,O'Connor,ACT,15/08/2021 - Sunday,5:30pm,6:00pm,Monitor
 ,,Bunnings Belconnen,15 Lathlain Street,Belconnen,ACT,15/08/2021 - Sunday,5:20pm,5:45pm,Monitor
 ,,Ampol Petrol Station ,5 Lonsdale Street,Braddon,ACT,12/08/2021 - Thursday,3:00pm,3:30pm,Monitor
@@ -256,14 +255,13 @@
 ,New,Florey (John Cleland Crescent) to Belconnen (Lake Ginninderra College) (BUS415),,Public Transport,ACT,09/08/2021 - Monday,1:00pm,1:15pm,Casual
 ,New,Belconnen (Lake Ginninderra College) to Florey (John Cleland Crescent) (BUS431),,Public Transport,ACT,09/08/2021 - Monday,4:00pm,4:15pm,Casual
 ,New,Greenshed ,Flemington Rd Mitchell,Mitchell,ACT,11/08/2021 - Wednesday,9:45am,2:15pm,Monitor
-,New,Woolworths Charnwood,"25-30 Charnwood Place, Charnwood ACT 2615",Charnwood,ACT,14/08/2021 - Saturday,1:00pm,3:00pm,Casual
-,New,KFC Fyshwick ,"188-205 Canberra Ave, Fyshwick",Fyshwick,ACT,12/08/2021 - Thursday,11:15am,12:50pm,Close
-,New,Powercart Kart Raceway,"125 Canberra Ave, Griffith",Griffith,ACT,12/08/2021 - Thursday,12:00pm,1:30pm,Casual
-,New,Meatways Kambah Butcher,"Floor 1, Marconi Cres, Kambah ACT",Kambah,ACT,14/08/2021 - Saturday,1:20pm,2:00pm,Monitor
-,New,Kambah Woolworths,"2 Primmer Ct, Kambah ACT 2902",Kambah,ACT,14/08/2021 - Saturday,2:00pm,2:30pm,Casual
+,New,Woolworths Charnwood,25-30 Charnwood Place,Charnwood,ACT,14/08/2021 - Saturday,1:00pm,3:00pm,Casual
+,New,Meatways Kambah Butcher,"Floor 1, Marconi Cres",Kambah,ACT,14/08/2021 - Saturday,1:20pm,2:00pm,Monitor
+,New,Kambah Woolworths,"2 Primmer Ct, Kambah ",Kambah,ACT,14/08/2021 - Saturday,2:00pm,2:30pm,Casual
 ,New,Woolworths Supermarkets Dickson,1 Dickson Place,Dickson,ACT,15/08/2021 - Sunday,12:00pm,12:30pm,Casual
 ,New,Dan Murphy's Dickson,44 Dickson Place,Dickson,ACT,15/08/2021 - Sunday,12:20pm,12:50pm,Monitor
 ,New,Officeworks,1 WHYALLA Street,Fyshwick,ACT,13/08/2021 - Friday,5:25pm,6:05pm,Casual
 ,New,7-Eleven,86 Parramatta Street,Phillip,ACT,13/08/2021 - Friday,10:55am,11:10am,Monitor
-,Updated,Gold Creek Senior Campus Gym,"26 Kelleway Ave, Nicholls ACT 2913",Nicholls,ACT,09/08/2021 - Monday,5:00pm,10:00pm,Close
+,Updated,Gold Creek Senior Campus Gym,26 Kelleway Ave,Nicholls,ACT,09/08/2021 - Monday,5:00pm,10:00pm,Close
 ,Updated,Southern Cross basketball stadium,7 Pitman Street,Tuggeranong,ACT,11/08/2021 - Wednesday,6:30pm,10:00pm,Casual
+,New,Woolworths,"Cnr Brierly And, Mahony Ct, Weston ACT 2611",Weston Creek,ACT,13/08/2021 - Friday,10.30am,12:00pm,Monitor
