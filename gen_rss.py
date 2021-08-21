@@ -199,7 +199,7 @@ def gen_feed(locations):
         fe = fg.add_entry()
         # NOTE: These headers could easily change in data
         fe.title(loc['Suburb'] + ':' + loc['Exposure Site'])
-        fe.description(gen_desc(loc))
+        fe.content(gen_desc(loc), type='CDATA')
         fe.guid(loc['id'])
         # NOTE: Locks into RSS
         fe.pubDate(datetime.fromtimestamp(loc['pubDate']).replace(tzinfo=timezone.utc))
@@ -228,7 +228,7 @@ def summarise_feed(locations):
         # NOTE: This could easily change in data, possibly normalise in parsing?
         fe.title(f"{len(locs)} additional exposure sites")
         desc = summarise_group(locs)
-        fe.description(desc)
+        fe.content(desc, type='CDATA')
         digest = hashlib.md5(f"{pubDate}-{desc}".encode("utf-8")).digest()
         guid = base64.b64encode(digest).decode("utf-8")
         fe.guid(guid)
