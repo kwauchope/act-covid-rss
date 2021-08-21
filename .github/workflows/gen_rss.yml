@@ -41,8 +41,15 @@ jobs:
             PREFIX=$(git rev-parse --abbrev-ref HEAD)
           fi
           mkdir -p build/$(dirname ${PREFIX})
-          ./gen_rss.py build/${PREFIX}
+          if [  ${{ github.event_name }} == 'push' ]; then
+            echo "Push detected, running force build..."
+            ./gen_rss.py -f build/${PREFIX}
+          else
+            echo "Running build..."
+            ./gen_rss.py build/${PREFIX}
+          fi
       - name: Deploy latest verison
+        # Be nice to run only if changes
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages

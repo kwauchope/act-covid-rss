@@ -144,6 +144,8 @@ def parse_args(args=None):
     parser.add_argument('prefix', metavar='PREFIX', nargs=1, help='prefix for output files')
     parser.add_argument('--csv', type=argparse.FileType('r', encoding='utf-8-sig'),
             help='Use local CSV rather than getting from website')
+    parser.add_argument('-f', '--force', action='store_true',
+            help='Force a rebuild of the RSS even with no detected changes')
 
     return parser.parse_args(args)
 
@@ -292,7 +294,7 @@ def main():
     # Often readers are pretty unobtrusive in showing broken feeds
     # If error is in previous is feed then don't send it again
     # Consider what happens if error state toggles if send a 'everything is ok again' msg
-    if changes:
+    if changes or args.force:
         logging.info("Contents changed, %d new entries, regenerating feed", len(changes))
         feed = gen_feed(state)
         rss_file.write_text(feed, encoding="utf-8")
