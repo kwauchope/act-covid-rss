@@ -6,20 +6,27 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Aug 2021 08:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Aug 2021 09:12:04 +0000</lastBuildDate>
     <item>
-      <title>271 additional exposure sites</title>
+      <title>270 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>40<br/><b>Fyshwick:</b>23<br/><b>Gungahlin:</b>21<br/><b>Public Transport:</b>15<br/><b>Braddon:</b>13<br/><b>Phillip:</b>12<br/><b>Canberra City:</b>11<br/><b>Nicholls:</b>10<br/><b>Kingston:</b>10<br/><b>Dickson:</b>10<br/><b>Lyneham:</b>9<br/><b>Bruce:</b>7<br/><b>Mitchell:</b>7<br/><b>Casey:</b>7<br/><b>Barton:</b>6<br/><b>Charnwood:</b>6<br/><b>Spence:</b>4<br/><b>Greenway:</b>4<br/><b>Griffith:</b>4<br/><b>Amaroo:</b>4<br/><b>Deakin:</b>3<br/><b>Evatt:</b>3<br/><b>Mawson:</b>3<br/><b>O'Connor:</b>3<br/><b>Holt:</b>2<br/><b>O’Connor:</b>2<br/><b>Bonner:</b>2<br/><b>Kambah:</b>2<br/><b>Chapman:</b>2<br/><b>Melba:</b>2<br/><b>Reid:</b>2<br/><b>Weston:</b>2<br/><b>Kaleen:</b>2<br/><b>Turner:</b>2<br/><b>Majura Park:</b>2<br/><b>Harrison:</b>2<br/><b>Campbell:</b>1<br/><b>Franklin:</b>1<br/><b>Aranda:</b>1<br/><b>Weston Creek:</b>1<br/><b>Hawker:</b>1<br/><b>Cook:</b>1<br/><b>Tuggeranong:</b>1<br/><b>Symonston:</b>1<br/><b>Downer:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Woden:</b>1<br/>]]></description>
-      <guid isPermaLink="false">W9nAI3Zl2MNiaWgBJw1Ixg==</guid>
+      <description><![CDATA[<b>Belconnen:</b>40<br/><b>Fyshwick:</b>23<br/><b>Gungahlin:</b>21<br/><b>Public Transport:</b>15<br/><b>Braddon:</b>12<br/><b>Phillip:</b>12<br/><b>Canberra City:</b>11<br/><b>Nicholls:</b>10<br/><b>Kingston:</b>10<br/><b>Dickson:</b>10<br/><b>Lyneham:</b>9<br/><b>Bruce:</b>7<br/><b>Mitchell:</b>7<br/><b>Casey:</b>7<br/><b>Barton:</b>6<br/><b>Charnwood:</b>6<br/><b>Spence:</b>4<br/><b>Greenway:</b>4<br/><b>Griffith:</b>4<br/><b>Amaroo:</b>4<br/><b>Deakin:</b>3<br/><b>Evatt:</b>3<br/><b>Mawson:</b>3<br/><b>O'Connor:</b>3<br/><b>Holt:</b>2<br/><b>O’Connor:</b>2<br/><b>Bonner:</b>2<br/><b>Kambah:</b>2<br/><b>Chapman:</b>2<br/><b>Melba:</b>2<br/><b>Reid:</b>2<br/><b>Weston:</b>2<br/><b>Kaleen:</b>2<br/><b>Turner:</b>2<br/><b>Majura Park:</b>2<br/><b>Harrison:</b>2<br/><b>Campbell:</b>1<br/><b>Franklin:</b>1<br/><b>Aranda:</b>1<br/><b>Weston Creek:</b>1<br/><b>Hawker:</b>1<br/><b>Cook:</b>1<br/><b>Tuggeranong:</b>1<br/><b>Symonston:</b>1<br/><b>Downer:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Woden:</b>1<br/>]]></description>
+      <guid isPermaLink="false">ar/0kt6e/l1oV4hIc0rsEA==</guid>
       <pubDate>Sat, 21 Aug 2021 03:49:26 +0000</pubDate>
     </item>
     <item>
-      <title>47 additional exposure sites</title>
+      <title>46 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Public Transport:</b>33<br/><b>Bruce:</b>5<br/><b>Belconnen:</b>4<br/><b>Griffith:</b>2<br/><b>Greenway:</b>1<br/><b>Canberra City:</b>1<br/><b>Civic:</b>1<br/>]]></description>
-      <guid isPermaLink="false">fR7+mhRUF63u+5p33R+cGw==</guid>
+      <description><![CDATA[<b>Public Transport:</b>33<br/><b>Bruce:</b>5<br/><b>Belconnen:</b>4<br/><b>Griffith:</b>2<br/><b>Greenway:</b>1<br/><b>Canberra City:</b>1<br/>]]></description>
+      <guid isPermaLink="false">jodYbJ00TZ8pcp7JKzCIAQ==</guid>
       <pubDate>Sat, 21 Aug 2021 08:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Canberra City:</b>1<br/><b>Civic:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">2u8YVnEXMzec/jPT2HMxYg==</guid>
+      <pubDate>Sat, 21 Aug 2021 09:12:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

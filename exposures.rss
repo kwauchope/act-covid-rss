@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Aug 2021 08:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Aug 2021 09:12:04 +0000</lastBuildDate>
     <item>
       <title>Gungahlin:Big W Gungahlin</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Big W Gungahlin<br/><b>Street</b>:Gozzard Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 10 August 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
@@ -980,12 +980,6 @@
       <pubDate>Sat, 21 Aug 2021 03:49:26 +0000</pubDate>
     </item>
     <item>
-      <title>Braddon:Ampol Petrol Station</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Ampol Petrol Station<br/><b>Street</b>:5 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">aXuGHF2mzT13Af43MbF/UA==</guid>
-      <pubDate>Sat, 21 Aug 2021 03:49:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Kaleen:Instrumental Music Program (IMP) Rehearsal Room, UC High School Kaleen</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Instrumental Music Program (IMP) Rehearsal Room, UC High School Kaleen<br/><b>Street</b>:Baldwin Drive<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 09 August 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">agMM2SdGsauTPnO+gOlbJA==</guid>
@@ -1664,12 +1658,6 @@
       <pubDate>Sat, 21 Aug 2021 08:55:05 +0000</pubDate>
     </item>
     <item>
-      <title>Civic:Assembly The People's Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale St, Braddon Act 2612<br/><b>Suburb</b>:Civic<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Source Investigation<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">8FQNobuM956S7RBjYmpWSA==</guid>
-      <pubDate>Sat, 21 Aug 2021 08:55:05 +0000</pubDate>
-    </item>
-    <item>
       <title>Public Transport:Light Rail Route R1 Transport Canberra Code LRV005</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route R1 Transport Canberra Code LRV005<br/><b>Street</b>:Gunghalin To Well Station Dr<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1340<br/><b>Departure Time</b>:1347<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">8e2B7iYXadptUpZNoxngOQ==</guid>
@@ -1914,6 +1902,24 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Urban Pantry<br/><b>Street</b>:5 Bougainville Street<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 10 August 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">zLmkXPJxhkQ3YPGZOuA6Eg==</guid>
       <pubDate>Sat, 21 Aug 2021 08:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Braddon:Ampol Petrol Station</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Ampol Petrol Station<br/><b>Street</b>:36 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">W9cyPyjbshU2svGvtpSIaA==</guid>
+      <pubDate>Sat, 21 Aug 2021 09:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Civic:Assembly The People's Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale St, Braddon Act 2612<br/><b>Suburb</b>:Civic<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">k63oyvPJdFK/qUZNZIZ3Jw==</guid>
+      <pubDate>Sat, 21 Aug 2021 09:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canberra City:Fiction Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Fiction Bar<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 08 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0445<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">o6aMs7OgntT8yVMedlpCRw==</guid>
+      <pubDate>Sat, 21 Aug 2021 09:12:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
