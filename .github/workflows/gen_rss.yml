@@ -31,18 +31,19 @@ jobs:
           pip install -r requirements.txt
       - name: Get published version
         run: |
-          mkdir -p build
-          #It is also now in gh-pages branch
-          curl -o build/exposures.rss -f https://kwauchope.github.io/act-covid-rss/exposures.rss | /bin/true
-      #Could set up env var to not bother trying to deploy if don't need to
+          git fetch origin gh-pages
+          git worktree add build gh-pages
       - name: Generate RSS
-        #If not main could generate based on branch name...
         run: |
-          ./gen_rss.py build/exposures.rss
-          mv exposures.csv build
+          if [  ${{ github.ref }} == 'refs/heads/main' ]; then
+            PREFIX=exposures
+          else
+            PREFIX=$(git rev-parse --abbrev-ref HEAD)
+          fi
+          mkdir -p build/$(dirname ${PREFIX})
+          ./gen_rss.py build/${PREFIX}
       - name: Deploy latest verison
         uses: JamesIves/github-pages-deploy-action@4.1.4
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           branch: gh-pages
           folder: build
