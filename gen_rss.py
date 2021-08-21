@@ -52,11 +52,11 @@ def normalise(locations):
                     break
                 location[k] = value.time().isoformat()
             elif k == 'Exposure Site':
-                location[k] = v.strip()
+                location[k] = v.strip().strip('"')
             elif k == 'State':
-                location[k] = v.strip().upper()
+                location[k] = v.strip().upper().strip('"')
             else:
-                location[k] = v.strip().title()
+                location[k] = v.strip().title().strip('"')
     if invalid:
         logging.warning("%d invalid records found", len(invalid))
     return [x for i, x in enumerate(locations) if i not in invalid]
