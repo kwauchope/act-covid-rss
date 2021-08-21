@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ACT Exposure Summaries</title>
+    <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+    <description>Feed scraped from ACT exposure website</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sat, 21 Aug 2021 03:34:51 +0000</lastBuildDate>
+    <item>
+      <title>283 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description>&lt;b&gt;Belconnen:&lt;/b&gt;41&lt;br/&gt;&lt;b&gt;Fyshwick:&lt;/b&gt;23&lt;br/&gt;&lt;b&gt;Gungahlin:&lt;/b&gt;21&lt;br/&gt;&lt;b&gt;Public Transport:&lt;/b&gt;20&lt;br/&gt;&lt;b&gt;Braddon:&lt;/b&gt;13&lt;br/&gt;&lt;b&gt;Phillip:&lt;/b&gt;12&lt;br/&gt;&lt;b&gt;Canberra City:&lt;/b&gt;12&lt;br/&gt;&lt;b&gt;Nicholls:&lt;/b&gt;10&lt;br/&gt;&lt;b&gt;Kingston:&lt;/b&gt;10&lt;br/&gt;&lt;b&gt;Dickson:&lt;/b&gt;10&lt;br/&gt;&lt;b&gt;Bruce:&lt;/b&gt;9&lt;br/&gt;&lt;b&gt;Lyneham:&lt;/b&gt;9&lt;br/&gt;&lt;b&gt;Mitchell:&lt;/b&gt;7&lt;br/&gt;&lt;b&gt;Casey:&lt;/b&gt;7&lt;br/&gt;&lt;b&gt;Barton:&lt;/b&gt;6&lt;br/&gt;&lt;b&gt;Charnwood:&lt;/b&gt;6&lt;br/&gt;&lt;b&gt;Spence:&lt;/b&gt;4&lt;br/&gt;&lt;b&gt;Greenway:&lt;/b&gt;4&lt;br/&gt;&lt;b&gt;Griffith:&lt;/b&gt;4&lt;br/&gt;&lt;b&gt;Amaroo:&lt;/b&gt;4&lt;br/&gt;&lt;b&gt;Deakin:&lt;/b&gt;3&lt;br/&gt;&lt;b&gt;Evatt:&lt;/b&gt;3&lt;br/&gt;&lt;b&gt;Mawson:&lt;/b&gt;3&lt;br/&gt;&lt;b&gt;O'Connor:&lt;/b&gt;3&lt;br/&gt;&lt;b&gt;Holt:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;O’Connor:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Bonner:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Tuggeranong:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Kambah:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Chapman:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Melba:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Reid:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Manuka:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Weston:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Kaleen:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Turner:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Majura Park:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Harrison:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Campbell:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Franklin:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Aranda:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Weston Creek:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Hawker:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Cook:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Symonston:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Downer:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Farrer:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Holder:&lt;/b&gt;1&lt;br/&gt;&lt;b&gt;Woden:&lt;/b&gt;1&lt;br/&gt;</description>
+      <guid isPermaLink="false">3kx1QKv9GqLLXTzqwP9WBg==</guid>
+      <pubDate>Sat, 21 Aug 2021 03:34:51 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
