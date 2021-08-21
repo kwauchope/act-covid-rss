@@ -31,6 +31,7 @@ MIN_DATETIME = datetime(2020, 3, 11)
 def normalise(locations):
     invalid = set()
     now = datetime.now()
+    time_re = re.compile(r'^(\d{2})(\d{2})')
     for i, location in enumerate(locations):
         for k, v in location.items():
             # Could be a dict but reasonably complex and the less tying to field names the better
@@ -44,7 +45,8 @@ def normalise(locations):
                 # Could change to date for less characters, if so change gen_desc to use date
                 location[k] = value.isoformat()
             elif 'Time' in k:
-                value = dateparser.parse(v, languages=['en'], settings={'DATE_ORDER': 'DMY'})
+                value = time_re.sub(r'\1:\2', v.strip().strip('"'))
+                value = dateparser.parse(value, languages=['en'], settings={'DATE_ORDER': 'DMY'})
                 # If None add to set to delete and log warn
                 if value is None:
                     invalid.add(i)
