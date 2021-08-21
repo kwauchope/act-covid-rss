@@ -200,7 +200,8 @@ def gen_feed(locations):
     for loc in sorted(locations.values(), key=lambda x: (x['pubDate'], x['id']), reverse=True):
         fe = fg.add_entry()
         # NOTE: These headers could easily change in data
-        fe.title(loc['Suburb'] + ':' + loc['Exposure Site'])
+        status = loc['Status'] if loc['Status'] else '?'
+        fe.title(f"({status}) {loc['Suburb']}:{loc['Exposure Site']}")
         fe.content(gen_desc(loc), type='CDATA')
         fe.guid(loc['id'])
         # NOTE: Locks into RSS
