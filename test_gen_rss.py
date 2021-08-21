@@ -86,24 +86,24 @@ class TestParsingCSV(unittest.TestCase):
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Aug 2021 13:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Aug 2021 14:53:44 +0000</lastBuildDate>
     <item>
       <title>Nicholls:Gold Creek School (including Early Childhood Learning Centre)</title>
-      <description>&lt;b&gt;Arrival Time&lt;/b&gt;:0800&lt;br/&gt;&lt;b&gt;Contact&lt;/b&gt;:Close&lt;br/&gt;&lt;b&gt;Date&lt;/b&gt;:Thursday, 12 August 2021&lt;br/&gt;&lt;b&gt;Departure Time&lt;/b&gt;:1510&lt;br/&gt;&lt;b&gt;Event Id&lt;/b&gt;:&lt;br/&gt;&lt;b&gt;Exposure Site&lt;/b&gt;:Gold Creek School (including Early Childhood Learning Centre)&lt;br/&gt;&lt;b&gt;Region&lt;/b&gt;:Gungahlin&lt;br/&gt;&lt;b&gt;State&lt;/b&gt;:ACT&lt;br/&gt;&lt;b&gt;Status&lt;/b&gt;:&lt;br/&gt;&lt;b&gt;Street&lt;/b&gt;:Kelleway Avenue&lt;br/&gt;&lt;b&gt;Suburb&lt;/b&gt;:Nicholls&lt;br/&gt;</description>
+      <description><![CDATA[<b>Arrival Time</b>:0800<br/><b>Contact</b>:Close<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Departure Time</b>:1510<br/><b>Event Id</b>:<br/><b>Exposure Site</b>:Gold Creek School (including Early Childhood Learning Centre)<br/><b>Region</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Status</b>:<br/><b>Street</b>:Kelleway Avenue<br/><b>Suburb</b>:Nicholls<br/>]]></description>
       <guid isPermaLink="false">Bpk43ora2GlShwB6nKUZpg==</guid>
-      <pubDate>Thu, 19 Aug 2021 13:41:38 +0000</pubDate>
+      <pubDate>Fri, 20 Aug 2021 14:53:44 +0000</pubDate>
     </item>
     <item>
       <title>Fyshwick:Harvey Norman</title>
-      <description>&lt;b&gt;Arrival Time&lt;/b&gt;:1000&lt;br/&gt;&lt;b&gt;Contact&lt;/b&gt;:Close&lt;br/&gt;&lt;b&gt;Date&lt;/b&gt;:Tuesday, 10 August 2021&lt;br/&gt;&lt;b&gt;Departure Time&lt;/b&gt;:1100&lt;br/&gt;&lt;b&gt;Event Id&lt;/b&gt;:&lt;br/&gt;&lt;b&gt;Exposure Site&lt;/b&gt;:Harvey Norman&lt;br/&gt;&lt;b&gt;Region&lt;/b&gt;:Inner South&lt;br/&gt;&lt;b&gt;State&lt;/b&gt;:ACT&lt;br/&gt;&lt;b&gt;Status&lt;/b&gt;:&lt;br/&gt;&lt;b&gt;Street&lt;/b&gt;:Barrier Street&lt;br/&gt;&lt;b&gt;Suburb&lt;/b&gt;:Fyshwick&lt;br/&gt;</description>
+      <description><![CDATA[<b>Arrival Time</b>:1000<br/><b>Contact</b>:Close<br/><b>Date</b>:Tuesday, 10 August 2021<br/><b>Departure Time</b>:1100<br/><b>Event Id</b>:<br/><b>Exposure Site</b>:Harvey Norman<br/><b>Region</b>:Inner South<br/><b>State</b>:ACT<br/><b>Status</b>:<br/><b>Street</b>:Barrier Street<br/><b>Suburb</b>:Fyshwick<br/>]]></description>
       <guid isPermaLink="false">iLODwJEKeYg5/3oi0CizTQ==</guid>
-      <pubDate>Thu, 19 Aug 2021 13:41:38 +0000</pubDate>
+      <pubDate>Fri, 20 Aug 2021 14:53:44 +0000</pubDate>
     </item>
     <item>
       <title>Fyshwick:Canberra Outlet Centre</title>
-      <description>&lt;b&gt;Arrival Time&lt;/b&gt;:1400&lt;br/&gt;&lt;b&gt;Contact&lt;/b&gt;:Monitor&lt;br/&gt;&lt;b&gt;Date&lt;/b&gt;:Sunday, 08 August 2021&lt;br/&gt;&lt;b&gt;Departure Time&lt;/b&gt;:1530&lt;br/&gt;&lt;b&gt;Event Id&lt;/b&gt;:&lt;br/&gt;&lt;b&gt;Exposure Site&lt;/b&gt;:Canberra Outlet Centre&lt;br/&gt;&lt;b&gt;Region&lt;/b&gt;:Inner South&lt;br/&gt;&lt;b&gt;State&lt;/b&gt;:ACT&lt;br/&gt;&lt;b&gt;Status&lt;/b&gt;:&lt;br/&gt;&lt;b&gt;Street&lt;/b&gt;:377 Canberra Avenue&lt;br/&gt;&lt;b&gt;Suburb&lt;/b&gt;:Fyshwick&lt;br/&gt;</description>
+      <description><![CDATA[<b>Arrival Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Date</b>:Sunday, 08 August 2021<br/><b>Departure Time</b>:1530<br/><b>Event Id</b>:<br/><b>Exposure Site</b>:Canberra Outlet Centre<br/><b>Region</b>:Inner South<br/><b>State</b>:ACT<br/><b>Status</b>:<br/><b>Street</b>:377 Canberra Avenue<br/><b>Suburb</b>:Fyshwick<br/>]]></description>
       <guid isPermaLink="false">oxT1t6ljYzDG0NBj4Hr6sw==</guid>
-      <pubDate>Thu, 19 Aug 2021 13:41:38 +0000</pubDate>
+      <pubDate>Fri, 20 Aug 2021 14:53:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
@@ -127,11 +127,11 @@ class TestParsingCSV(unittest.TestCase):
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Aug 2021 15:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Aug 2021 15:05:47 +0000</lastBuildDate>
     <item>
       <title>3 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description>&lt;b&gt;Fyshwick:&lt;/b&gt;2&lt;br/&gt;&lt;b&gt;Nicholls:&lt;/b&gt;1&lt;br/&gt;</description>
+      <description><![CDATA[<b>Fyshwick:</b>2<br/><b>Nicholls:</b>1<br/>]]></description>
       <guid isPermaLink="false">QKtEQJFTu3kjlQbfIAXTcA==</guid>
       <pubDate>Thu, 01 Jan 1970 10:00:01 +0000</pubDate>
     </item>
