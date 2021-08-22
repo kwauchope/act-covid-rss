@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Aug 2021 15:48:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Aug 2021 23:10:15 +0000</lastBuildDate>
     <item>
       <title>101 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -43,10 +43,10 @@
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>57 additional exposure sites</title>
+      <title>49 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>13<br/><b>Wanniassa:</b>12<br/><b>Nicholls:</b>7<br/><b>Public Transport:</b>6<br/><b>Fyshwick:</b>5<br/><b>Bruce:</b>3<br/><b>Braddon:</b>2<br/><b>Woden:</b>2<br/><b>Weston Creek:</b>2<br/><b>Phillip:</b>2<br/><b>Harrison:</b>1<br/><b>Belconnen:</b>1<br/><b>Gungahlin:</b>1<br/>]]></description>
-      <guid isPermaLink="false">6q+GQbQMdPRk1TWdu4R9eA==</guid>
+      <description><![CDATA[<b>Canberra City:</b>13<br/><b>Wanniassa:</b>12<br/><b>Nicholls:</b>7<br/><b>Fyshwick:</b>5<br/><b>Bruce:</b>2<br/><b>Woden:</b>2<br/><b>Weston Creek:</b>2<br/><b>Phillip:</b>2<br/><b>Braddon:</b>1<br/><b>Harrison:</b>1<br/><b>Belconnen:</b>1<br/><b>Gungahlin:</b>1<br/>]]></description>
+      <guid isPermaLink="false">X/WsikKpJAYcFJsZ1HcDHw==</guid>
       <pubDate>Sun, 22 Aug 2021 10:27:48 +0000</pubDate>
     </item>
     <item>
@@ -55,6 +55,13 @@
       <description><![CDATA[<b>Bruce:</b>8<br/><b>Greenway:</b>6<br/><b>Belconnen:</b>4<br/><b>Gungahlin:</b>3<br/><b>Reid:</b>2<br/><b>Kambah:</b>1<br/>]]></description>
       <guid isPermaLink="false">9JJfd5R/wQO8fvshEJXNBw==</guid>
       <pubDate>Sun, 22 Aug 2021 15:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Public Transport:</b>7<br/><b>Braddon:</b>1<br/><b>Bruce:</b>1<br/>]]></description>
+      <guid isPermaLink="false">69YvDBmFNK2BZ5nj58Hykg==</guid>
+      <pubDate>Sun, 22 Aug 2021 23:10:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
