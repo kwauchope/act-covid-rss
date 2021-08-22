@@ -61,6 +61,8 @@ def normalise(locations):
                 location[k] = v.strip().title().strip('"')
     if invalid:
         logging.warning("%d invalid records found", len(invalid))
+    for location in locations:
+        location['Exposure Site'] = location['Exposure Site'].replace(location['Suburb'], '').strip()
     return [x for i, x in enumerate(locations) if i not in invalid]
 
 
