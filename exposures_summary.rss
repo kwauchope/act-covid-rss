@@ -6,12 +6,12 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Aug 2021 23:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Aug 2021 23:27:42 +0000</lastBuildDate>
     <item>
-      <title>101 additional exposure sites</title>
+      <title>100 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>13<br/><b>Fyshwick:</b>12<br/><b>Public Transport:</b>12<br/><b>Phillip:</b>8<br/><b>Kingston:</b>7<br/><b>Braddon:</b>6<br/><b>Canberra City:</b>6<br/><b>Nicholls:</b>5<br/><b>Barton:</b>5<br/><b>Mitchell:</b>4<br/><b>Deakin:</b>3<br/><b>Gungahlin:</b>3<br/><b>Dickson:</b>2<br/><b>Griffith:</b>2<br/><b>Casey:</b>2<br/><b>O’Connor:</b>1<br/><b>Aranda:</b>1<br/><b>Greenway:</b>1<br/><b>Holt:</b>1<br/><b>Cook:</b>1<br/><b>Symonston:</b>1<br/><b>Melba:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Charnwood:</b>1<br/><b>Mawson:</b>1<br/>]]></description>
-      <guid isPermaLink="false">Sjj4/SzCulfGtk+x0/gz3w==</guid>
+      <description><![CDATA[<b>Fyshwick:</b>12<br/><b>Belconnen:</b>12<br/><b>Public Transport:</b>12<br/><b>Phillip:</b>8<br/><b>Kingston:</b>7<br/><b>Braddon:</b>6<br/><b>Canberra City:</b>6<br/><b>Nicholls:</b>5<br/><b>Barton:</b>5<br/><b>Mitchell:</b>4<br/><b>Deakin:</b>3<br/><b>Gungahlin:</b>3<br/><b>Dickson:</b>2<br/><b>Griffith:</b>2<br/><b>Casey:</b>2<br/><b>O’Connor:</b>1<br/><b>Aranda:</b>1<br/><b>Greenway:</b>1<br/><b>Holt:</b>1<br/><b>Cook:</b>1<br/><b>Symonston:</b>1<br/><b>Melba:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Charnwood:</b>1<br/><b>Mawson:</b>1<br/>]]></description>
+      <guid isPermaLink="false">TOTzkFSyquPqKPEVRirE0g==</guid>
       <pubDate>Sat, 21 Aug 2021 03:49:26 +0000</pubDate>
     </item>
     <item>
@@ -62,6 +62,13 @@
       <description><![CDATA[<b>Public Transport:</b>7<br/><b>Braddon:</b>1<br/><b>Bruce:</b>1<br/>]]></description>
       <guid isPermaLink="false">69YvDBmFNK2BZ5nj58Hykg==</guid>
       <pubDate>Sun, 22 Aug 2021 23:10:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">VgnD5N3j+k+kvcnOsOMDlQ==</guid>
+      <pubDate>Sun, 22 Aug 2021 23:27:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
