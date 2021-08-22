@@ -32,6 +32,7 @@ def normalise(locations):
     invalid = set()
     now = datetime.now()
     time_re = re.compile(r'^(\d{2})(\d{2})')
+    space_re = re.compile(r'\s{2,}')
     for i, location in enumerate(locations):
         for k, v in location.items():
             # Could be a dict but reasonably complex and the less tying to field names the better
@@ -62,7 +63,12 @@ def normalise(locations):
     if invalid:
         logging.warning("%d invalid records found", len(invalid))
     for location in locations:
-        location['Exposure Site'] = location['Exposure Site'].replace(location['Suburb'], '').strip()
+        # Remove case insensitive name from exposure name
+        # removes redundant text and issues where continually add/remove suburb from common shop names
+        location['Exposure Site'] = re.sub(location['Suburb'], '', location['Exposure Site'], flags=re.IGNORECASE).strip().strip(',')
+        # Remove possible multiple white space in middle of string for mainly suburb removal but do it for everything
+        for k, v in location.items():
+            location[k] = space_re.sub(' ', v)
     return [x for i, x in enumerate(locations) if i not in invalid]
 
 
