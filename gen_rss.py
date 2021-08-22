@@ -65,7 +65,8 @@ def normalise(locations):
     for location in locations:
         # Remove case insensitive name from exposure name
         # removes redundant text and issues where continually add/remove suburb from common shop names
-        location['Exposure Site'] = re.sub(location['Suburb'], '', location['Exposure Site'], flags=re.IGNORECASE).strip().strip(',')
+        # only remove from start or end
+        location['Exposure Site'] = re.sub(f"^{location['Suburb']}|{location['Suburb']}$", '', location['Exposure Site'], flags=re.IGNORECASE).strip().strip(',')
         # Remove possible multiple white space in middle of string for mainly suburb removal but do it for everything
         for k, v in location.items():
             location[k] = space_re.sub(' ', v)
