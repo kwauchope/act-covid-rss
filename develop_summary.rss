@@ -6,34 +6,34 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Aug 2021 03:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Aug 2021 03:37:13 +0000</lastBuildDate>
     <item>
-      <title>216 additional exposure sites</title>
+      <title>115 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>26<br/><b>Fyshwick:</b>20<br/><b>Gungahlin:</b>17<br/><b>Public Transport:</b>14<br/><b>Phillip:</b>12<br/><b>Braddon:</b>11<br/><b>Dickson:</b>9<br/><b>Canberra City:</b>9<br/><b>Kingston:</b>8<br/><b>Lyneham:</b>8<br/><b>Nicholls:</b>8<br/><b>Mitchell:</b>7<br/><b>Barton:</b>6<br/><b>Charnwood:</b>6<br/><b>Spence:</b>4<br/><b>Amaroo:</b>4<br/><b>Greenway:</b>3<br/><b>Deakin:</b>3<br/><b>Evatt:</b>3<br/><b>Casey:</b>3<br/><b>Bonner:</b>2<br/><b>Kambah:</b>2<br/><b>Chapman:</b>2<br/><b>Melba:</b>2<br/><b>Reid:</b>2<br/><b>Kaleen:</b>2<br/><b>Griffith:</b>2<br/><b>Mawson:</b>2<br/><b>Turner:</b>2<br/><b>Harrison:</b>2<br/><b>Bruce:</b>2<br/><b>O’Connor:</b>1<br/><b>Campbell:</b>1<br/><b>Franklin:</b>1<br/><b>Aranda:</b>1<br/><b>Weston Creek:</b>1<br/><b>Holt:</b>1<br/><b>Cook:</b>1<br/><b>Symonston:</b>1<br/><b>Downer:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>O'Connor:</b>1<br/><b>Majura Park:</b>1<br/>]]></description>
-      <guid isPermaLink="false">gW/piVVL03x75YOVfklzYw==</guid>
+      <description><![CDATA[<b>Fyshwick:</b>16<br/><b>Public Transport:</b>14<br/><b>Belconnen:</b>13<br/><b>Phillip:</b>9<br/><b>Canberra City:</b>8<br/><b>Nicholls:</b>8<br/><b>Kingston:</b>7<br/><b>Braddon:</b>6<br/><b>Barton:</b>5<br/><b>Gungahlin:</b>4<br/><b>Mitchell:</b>4<br/><b>Deakin:</b>3<br/><b>Dickson:</b>2<br/><b>Griffith:</b>2<br/><b>Casey:</b>2<br/><b>O’Connor:</b>1<br/><b>Aranda:</b>1<br/><b>Greenway:</b>1<br/><b>Holt:</b>1<br/><b>Cook:</b>1<br/><b>Symonston:</b>1<br/><b>Melba:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Charnwood:</b>1<br/><b>Bruce:</b>1<br/><b>Mawson:</b>1<br/>]]></description>
+      <guid isPermaLink="false">GFTt+ZNHe97IZkE8rffi3Q==</guid>
       <pubDate>Sat, 21 Aug 2021 03:55:39 +0000</pubDate>
     </item>
     <item>
-      <title>35 additional exposure sites</title>
+      <title>28 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Public Transport:</b>24<br/><b>Bruce:</b>5<br/><b>Belconnen:</b>4<br/><b>Griffith:</b>1<br/><b>Greenway:</b>1<br/>]]></description>
-      <guid isPermaLink="false">Yz4CGBLVb0xYtuhTUadMZw==</guid>
+      <description><![CDATA[<b>Public Transport:</b>24<br/><b>Belconnen:</b>2<br/><b>Griffith:</b>1<br/><b>Greenway:</b>1<br/>]]></description>
+      <guid isPermaLink="false">MxMmhSF/XQwy9KR8h1JWiQ==</guid>
       <pubDate>Sat, 21 Aug 2021 11:54:36 +0000</pubDate>
     </item>
     <item>
-      <title>4 additional exposure sites</title>
+      <title>38 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Greenway:</b>4<br/>]]></description>
-      <guid isPermaLink="false">EG/HlCzMp8tBCRGD/XhfVQ==</guid>
-      <pubDate>Sat, 21 Aug 2021 13:46:34 +0000</pubDate>
+      <description><![CDATA[<b>Public Transport:</b>9<br/><b>Canberra City:</b>4<br/><b>Fyshwick:</b>4<br/><b>Griffith:</b>3<br/><b>Bruce:</b>3<br/><b>Braddon:</b>2<br/><b>Greenway:</b>2<br/><b>Nicholls:</b>2<br/><b>Belconnen:</b>2<br/><b>Forde:</b>1<br/><b>Kingston:</b>1<br/><b>O'Connor:</b>1<br/><b>Mawson:</b>1<br/><b>Majura Park:</b>1<br/><b>Holt:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">F1wGIk0I+MDv9yWtCMveVg==</guid>
+      <pubDate>Sun, 22 Aug 2021 03:20:35 +0000</pubDate>
     </item>
     <item>
-      <title>76 additional exposure sites</title>
+      <title>150 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>16<br/><b>Public Transport:</b>9<br/><b>Gungahlin:</b>7<br/><b>Bruce:</b>5<br/><b>Canberra City:</b>4<br/><b>Fyshwick:</b>4<br/><b>Casey:</b>4<br/><b>Braddon:</b>3<br/><b>O'Connor:</b>3<br/><b>Griffith:</b>3<br/><b>Weston Creek:</b>2<br/><b>Kingston:</b>2<br/><b>Greenway:</b>2<br/><b>Nicholls:</b>2<br/><b>Mawson:</b>2<br/><b>Forde:</b>1<br/><b>O’Connor:</b>1<br/><b>Dickson:</b>1<br/><b>Majura Park:</b>1<br/><b>Hawker:</b>1<br/><b>Holt:</b>1<br/><b>Phillip:</b>1<br/><b>Lyneham:</b>1<br/>]]></description>
-      <guid isPermaLink="false">dQqF2jI5PbkIL+eOPfOOWw==</guid>
-      <pubDate>Sun, 22 Aug 2021 03:20:35 +0000</pubDate>
+      <description><![CDATA[<b>Belconnen:</b>29<br/><b>Gungahlin:</b>20<br/><b>Lyneham:</b>9<br/><b>Dickson:</b>8<br/><b>Bruce:</b>8<br/><b>Greenway:</b>6<br/><b>Braddon:</b>6<br/><b>Charnwood:</b>5<br/><b>Casey:</b>5<br/><b>Amaroo:</b>4<br/><b>Spence:</b>4<br/><b>Fyshwick:</b>4<br/><b>Mitchell:</b>3<br/><b>Weston Creek:</b>3<br/><b>Phillip:</b>3<br/><b>O'Connor:</b>3<br/><b>Evatt:</b>3<br/><b>Mawson:</b>2<br/><b>Bonner:</b>2<br/><b>Reid:</b>2<br/><b>Turner:</b>2<br/><b>Kambah:</b>2<br/><b>Kingston:</b>2<br/><b>Chapman:</b>2<br/><b>Kaleen:</b>2<br/><b>Harrison:</b>2<br/><b>Canberra City:</b>1<br/><b>Campbell:</b>1<br/><b>Melba:</b>1<br/><b>Barton:</b>1<br/><b>Franklin:</b>1<br/><b>Hawker:</b>1<br/><b>Majura Park:</b>1<br/><b>O’Connor:</b>1<br/><b>Downer:</b>1<br/>]]></description>
+      <guid isPermaLink="false">KJSEHZoBH/19oaYMjTVT+g==</guid>
+      <pubDate>Sun, 22 Aug 2021 03:37:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
