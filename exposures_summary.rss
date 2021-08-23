@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Aug 2021 03:29:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 11:23:31 +0000</lastBuildDate>
     <item>
       <title>100 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -36,10 +36,10 @@
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>29 additional exposure sites</title>
+      <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>10<br/><b>Wanniassa:</b>9<br/><b>Nicholls:</b>4<br/><b>Woden:</b>2<br/><b>Weston Creek:</b>2<br/><b>Belconnen:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
-      <guid isPermaLink="false">PP1thR9atT+7wcdRZJzpnw==</guid>
+      <description><![CDATA[<b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">o34W9oF3men6raT0Cc7STg==</guid>
       <pubDate>Sun, 22 Aug 2021 10:27:48 +0000</pubDate>
     </item>
     <item>
@@ -57,10 +57,10 @@
       <pubDate>Sun, 22 Aug 2021 23:10:15 +0000</pubDate>
     </item>
     <item>
-      <title>34 additional exposure sites</title>
+      <title>25 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>9<br/><b>Gungahlin:</b>5<br/><b>Fyshwick:</b>5<br/><b>Nicholls:</b>3<br/><b>Bruce:</b>3<br/><b>Braddon:</b>2<br/><b>Wanniassa:</b>2<br/><b>Belconnen:</b>2<br/><b>Public Transport:</b>1<br/><b>Pearce:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
-      <guid isPermaLink="false">nocBm/nU0A9l9NmE0XH5og==</guid>
+      <description><![CDATA[<b>Canberra City:</b>7<br/><b>Fyshwick:</b>5<br/><b>Gungahlin:</b>3<br/><b>Nicholls:</b>3<br/><b>Bruce:</b>3<br/><b>Public Transport:</b>1<br/><b>Braddon:</b>1<br/><b>Phillip:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">FOUCbmBf8C2uVRd49jpkaw==</guid>
       <pubDate>Mon, 23 Aug 2021 02:21:14 +0000</pubDate>
     </item>
     <item>
@@ -69,6 +69,13 @@
       <description><![CDATA[<b>Turner:</b>5<br/>]]></description>
       <guid isPermaLink="false">lfYUhZ461NzsLS/2h/72Aw==</guid>
       <pubDate>Mon, 23 Aug 2021 02:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>59 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Canberra City:</b>16<br/><b>Wanniassa:</b>13<br/><b>Nicholls:</b>4<br/><b>Braddon:</b>4<br/><b>Weston Creek:</b>3<br/><b>Charnwood:</b>3<br/><b>Harrison:</b>2<br/><b>Woden:</b>2<br/><b>Gungahlin:</b>2<br/><b>Belconnen:</b>2<br/><b>City:</b>1<br/><b>Reid:</b>1<br/><b>Lyneham:</b>1<br/><b>Dickson:</b>1<br/><b>Phillip:</b>1<br/><b>Hume:</b>1<br/><b>Pearce:</b>1<br/><b>Chisholm:</b>1<br/>]]></description>
+      <guid isPermaLink="false">lkefy5bhqciimzumPIO6+g==</guid>
+      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
