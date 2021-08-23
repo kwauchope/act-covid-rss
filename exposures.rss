@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Aug 2021 02:21:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 02:41:10 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -2232,6 +2232,36 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Canberra Centre Subway and Food Court<br/><b>Street</b>:148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 09 August 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">zp1oI3Y405SBkc4MSmnHYg==</guid>
       <pubDate>Mon, 23 Aug 2021 02:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Turner:Condamine Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Condamine Court<br/><b>Street</b>:165 Northbourne Avenue<br/><b>Suburb</b>:Turner<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">1zhGz0HrJLQ+g8AC7djx/A==</guid>
+      <pubDate>Mon, 23 Aug 2021 02:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Turner:Condamine Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Condamine Court<br/><b>Street</b>:165 Northbourne Avenue<br/><b>Suburb</b>:Turner<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">EpEw5oWKWRyPpUrLfbBREQ==</guid>
+      <pubDate>Mon, 23 Aug 2021 02:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Turner:Condamine Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Condamine Court<br/><b>Street</b>:165 Northbourne Avenue<br/><b>Suburb</b>:Turner<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 17 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">NAIL9Mi9vXqqWLoVvUL9AA==</guid>
+      <pubDate>Mon, 23 Aug 2021 02:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Turner:Condamine Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Condamine Court<br/><b>Street</b>:165 Northbourne Avenue<br/><b>Suburb</b>:Turner<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 19 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">S04I/f88drj26NYtYn4DWQ==</guid>
+      <pubDate>Mon, 23 Aug 2021 02:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Turner:Condamine Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Condamine Court<br/><b>Street</b>:165 Northbourne Avenue<br/><b>Suburb</b>:Turner<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 15 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">jj514ZhKcL4caDb3NhVwWQ==</guid>
+      <pubDate>Mon, 23 Aug 2021 02:41:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
