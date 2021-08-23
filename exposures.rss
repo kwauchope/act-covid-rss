@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Aug 2021 02:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 03:29:21 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
