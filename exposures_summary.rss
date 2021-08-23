@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Aug 2021 23:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 02:21:14 +0000</lastBuildDate>
     <item>
       <title>100 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -20,13 +20,6 @@
       <description><![CDATA[<b>Public Transport:</b>18<br/><b>Belconnen:</b>2<br/><b>Griffith:</b>1<br/><b>Greenway:</b>1<br/>]]></description>
       <guid isPermaLink="false">aPDeCRmZiyaPBbS6oFweUw==</guid>
       <pubDate>Sat, 21 Aug 2021 08:55:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>1 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>1<br/>]]></description>
-      <guid isPermaLink="false">q1oYkNqQyYzKlypg6A75GA==</guid>
-      <pubDate>Sat, 21 Aug 2021 09:12:04 +0000</pubDate>
     </item>
     <item>
       <title>31 additional exposure sites</title>
@@ -43,32 +36,32 @@
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>49 additional exposure sites</title>
+      <title>29 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>13<br/><b>Wanniassa:</b>12<br/><b>Nicholls:</b>7<br/><b>Fyshwick:</b>5<br/><b>Bruce:</b>2<br/><b>Woden:</b>2<br/><b>Weston Creek:</b>2<br/><b>Phillip:</b>2<br/><b>Braddon:</b>1<br/><b>Harrison:</b>1<br/><b>Belconnen:</b>1<br/><b>Gungahlin:</b>1<br/>]]></description>
-      <guid isPermaLink="false">X/WsikKpJAYcFJsZ1HcDHw==</guid>
+      <description><![CDATA[<b>Canberra City:</b>10<br/><b>Wanniassa:</b>9<br/><b>Nicholls:</b>4<br/><b>Woden:</b>2<br/><b>Weston Creek:</b>2<br/><b>Belconnen:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">PP1thR9atT+7wcdRZJzpnw==</guid>
       <pubDate>Sun, 22 Aug 2021 10:27:48 +0000</pubDate>
     </item>
     <item>
-      <title>24 additional exposure sites</title>
+      <title>22 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Bruce:</b>8<br/><b>Greenway:</b>6<br/><b>Belconnen:</b>4<br/><b>Gungahlin:</b>3<br/><b>Reid:</b>2<br/><b>Kambah:</b>1<br/>]]></description>
-      <guid isPermaLink="false">9JJfd5R/wQO8fvshEJXNBw==</guid>
+      <description><![CDATA[<b>Bruce:</b>8<br/><b>Greenway:</b>6<br/><b>Belconnen:</b>4<br/><b>Reid:</b>2<br/><b>Kambah:</b>1<br/><b>Gungahlin:</b>1<br/>]]></description>
+      <guid isPermaLink="false">2S1V030joNTWkWKibVgATA==</guid>
       <pubDate>Sun, 22 Aug 2021 15:48:21 +0000</pubDate>
     </item>
     <item>
-      <title>9 additional exposure sites</title>
+      <title>7 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Public Transport:</b>7<br/><b>Braddon:</b>1<br/><b>Bruce:</b>1<br/>]]></description>
-      <guid isPermaLink="false">69YvDBmFNK2BZ5nj58Hykg==</guid>
+      <description><![CDATA[<b>Public Transport:</b>7<br/>]]></description>
+      <guid isPermaLink="false">41ljW2wWCEmUsAcWbSeN+g==</guid>
       <pubDate>Sun, 22 Aug 2021 23:10:15 +0000</pubDate>
     </item>
     <item>
-      <title>1 additional exposure sites</title>
+      <title>34 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>1<br/>]]></description>
-      <guid isPermaLink="false">VgnD5N3j+k+kvcnOsOMDlQ==</guid>
-      <pubDate>Sun, 22 Aug 2021 23:27:42 +0000</pubDate>
+      <description><![CDATA[<b>Canberra City:</b>9<br/><b>Gungahlin:</b>5<br/><b>Fyshwick:</b>5<br/><b>Nicholls:</b>3<br/><b>Bruce:</b>3<br/><b>Braddon:</b>2<br/><b>Wanniassa:</b>2<br/><b>Belconnen:</b>2<br/><b>Public Transport:</b>1<br/><b>Pearce:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">nocBm/nU0A9l9NmE0XH5og==</guid>
+      <pubDate>Mon, 23 Aug 2021 02:21:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
