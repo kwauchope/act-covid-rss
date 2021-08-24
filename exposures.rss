@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Aug 2021 11:23:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Aug 2021 06:41:50 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -740,12 +740,6 @@
       <pubDate>Sat, 21 Aug 2021 08:55:05 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Public Transport:Light Rail - R1 Transport Canberra Code LRV004</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Light Rail - R1 Transport Canberra Code LRV004<br/><b>Street</b>:Well Station Dr To Gunghalin<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1418<br/><b>Departure Time</b>:1425<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">1sLatqIMO49k8XBOJZ6ilg==</guid>
-      <pubDate>Sun, 22 Aug 2021 01:26:17 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Griffith:Coles Manuka</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coles Manuka<br/><b>Street</b>:Franklin Street & Flinders Way<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">6AINEr0LqxgMlcNA5ygxFA==</guid>
@@ -773,12 +767,6 @@
       <title>(?) Bruce:UC Library</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:UC Library<br/><b>Street</b>:Building 8 University Of Canberra<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">BNk6fTRhXN6opkJgmhu6KA==</guid>
-      <pubDate>Sun, 22 Aug 2021 01:26:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Public Transport:Light Rail - R1 Transport Canberra Code LRV013</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Light Rail - R1 Transport Canberra Code LRV013<br/><b>Street</b>:Well Station Dr To Gunghalin<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1636<br/><b>Departure Time</b>:1643<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">CAl1JJ/of8JwEIOkEyEoFw==</guid>
       <pubDate>Sun, 22 Aug 2021 01:26:17 +0000</pubDate>
     </item>
     <item>
@@ -827,12 +815,6 @@
       <title>(?) Public Transport:Light Rail - R1 Transport Canberra Code LRV004</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Light Rail - R1 Transport Canberra Code LRV004<br/><b>Street</b>:Gungahlin To Dickson Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 10 August 2021<br/><b>Arrival Time</b>:0810<br/><b>Departure Time</b>:2026<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">QCYw11yaorFVPZ6XCycmhg==</guid>
-      <pubDate>Sun, 22 Aug 2021 01:26:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Public Transport:Light Rail - R1 Transport Canberra Code LRV005</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Light Rail - R1 Transport Canberra Code LRV005<br/><b>Street</b>:Gunghalin To Well Station Dr<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1340<br/><b>Departure Time</b>:1347<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">RItWXJlts5/oD838QoIjuA==</guid>
       <pubDate>Sun, 22 Aug 2021 01:26:17 +0000</pubDate>
     </item>
     <item>
@@ -968,12 +950,6 @@
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Charnwood:McDonalds</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:McDonalds<br/><b>Street</b>:Cnr Charnwood Place & Lhotsky Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">3jF1WV+1Jjq8E35Clc/EzA==</guid>
-      <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Belconnen:Westfield</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Westfield<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 17 August 2021<br/><b>Arrival Time</b>:1110<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">4wEkah9SQOO/sUcl/Zkcyw==</guid>
@@ -1001,12 +977,6 @@
       <title>(?) Turner:Goodstart Early Learning</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Goodstart Early Learning<br/><b>Street</b>:12 Watson Street<br/><b>Suburb</b>:Turner<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">7aOpK6+oECLNAtRcqITSGQ==</guid>
-      <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Kingston:Ochre Medical Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Ochre Medical Centre<br/><b>Street</b>:81 Cooyong Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1640<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">7fMq4foTwEAUqJG0n0mgcw==</guid>
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
@@ -1121,12 +1091,6 @@
       <title>(?) Belconnen:ALDI</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1550<br/><b>Departure Time</b>:1650<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">ITr57E9SA4YfwDD6WUhruQ==</guid>
-      <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Gungahlin:Coles</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Cnr Hibberson Street & Gungahlin Place<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1545<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">IaDn6MVe8ClzWqhBV+bLCA==</guid>
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
@@ -1268,12 +1232,6 @@
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Charnwood:Coles Express</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:Lhotsky Street & Charnwood Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:1510<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">RYArio8uhWYX72dpTVBHWg==</guid>
-      <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Spence:Grocer</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Grocer<br/><b>Street</b>:1 Glassey Place<br/><b>Suburb</b>:Spence<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 15 August 2021<br/><b>Arrival Time</b>:0930<br/><b>Departure Time</b>:0950<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">RryOtvknGQ91K5sykbHFgw==</guid>
@@ -1382,12 +1340,6 @@
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Hawker:Drive In Bottle Shop</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Drive In Bottle Shop<br/><b>Street</b>:Belconnen Way & Springvale Drive<br/><b>Suburb</b>:Hawker<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1645<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">ZydK5mhDrPFTPr2iAfLY4A==</guid>
-      <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Lyneham:IGA</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:1 Wattle Place<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1545<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">aONmkBS5zx6b5ONs0z4OEQ==</guid>
@@ -1472,12 +1424,6 @@
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Dickson:KFC</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:KFC<br/><b>Street</b>:Bradham Street And Wooley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 09 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">iGTVI/T8JfdUddUBM1G55g==</guid>
-      <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Fyshwick:KFC</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:KFC<br/><b>Street</b>:188-205 Canberra Avenue<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1250<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">inMe3F9hezm4dCHKESGssA==</guid>
@@ -1550,12 +1496,6 @@
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Braddon:McDonalds</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:McDonalds<br/><b>Street</b>:Cnr Cooyong & Mort Streets<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1015<br/><b>Departure Time</b>:1040<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">p6BZvI2Fr/nDnsQ/i5Y97Q==</guid>
-      <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Gungahlin:Marketplace</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Marketplace<br/><b>Street</b>:30 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">rFbT/nwi5k04BcYDgT1egw==</guid>
@@ -1595,12 +1535,6 @@
       <title>(?) Charnwood:Oriental Kitchen</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Oriental Kitchen<br/><b>Street</b>:Charnwood Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 14 August 2021<br/><b>Arrival Time</b>:1855<br/><b>Departure Time</b>:1935<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">uPfGbWmeScLAsy8DckHmPg==</guid>
-      <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Campbell:Iskia Athletic Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Iskia Athletic Club<br/><b>Street</b>:81 Constitution Avenue Campbell<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1215<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">ucSrOtfRpYacAaPlECAfcw==</guid>
       <pubDate>Sun, 22 Aug 2021 03:46:00 +0000</pubDate>
     </item>
     <item>
@@ -1994,12 +1928,6 @@
       <pubDate>Mon, 23 Aug 2021 02:21:14 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Gungahlin:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30 Hibberson St<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1530<br/><b>Departure Time</b>:1705<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">tq5MZVE1eNxqvLcpxuv92Q==</guid>
-      <pubDate>Mon, 23 Aug 2021 02:21:14 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Warrumbul Lodge</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Warrumbul Lodge<br/><b>Street</b>:4 Hutton Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 19 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">wldLtvz1fARtoFNqpDAKKA==</guid>
@@ -2042,33 +1970,9 @@
       <pubDate>Mon, 23 Aug 2021 02:41:10 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Woden:Australia Post</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Australia Post<br/><b>Street</b>:Shop 4 15 Bowes Place Phillip, Act, 2606<br/><b>Suburb</b>:Woden<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">/gpYlyMC0kEf9nHjPwSovg==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Wanniassa:Erindale Pharmacy</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Erindale Pharmacy<br/><b>Street</b>:2 Denigan St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:2300<br/><b>Departure Time</b>:2330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">0oFouZUju//sFVjVxOh9LQ==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Braddon:Australian Maritime Safety Authority Head Office</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Australian Maritime Safety Authority Head Office<br/><b>Street</b>:82 Northbourne Avenue<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">1duiG2hZcE2V+awXNc8eGA==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Wanniassa:NewsXpress</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:NewsXpress<br/><b>Street</b>:Erindale Shopping Centre, 2 Denigan St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1140<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">2oVJv6RuTU5D9EQXJKgRug==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Nicholls:Bright Bees Childcare</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Bright Bees Childcare<br/><b>Street</b>:40 O'Hanlon Pl, Nicholls Act 2913<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 19 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">3Iev/OfBUNp4CcJbnt0opA==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
@@ -2084,24 +1988,6 @@
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Gungahlin:Chemist warehouse</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Chemist warehouse<br/><b>Street</b>:30 Hiberson St<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 19 August 2021<br/><b>Arrival Time</b>:1240<br/><b>Departure Time</b>:1325<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">5L3s8dYMR48YMLE7J0Dg6w==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Wanniassa:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1410<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">6vfb/FE92esENboSY1LPWg==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Braddon:Assembly The People's Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Information<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">7oGv8K15/vsfsj1kvWuU+A==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Canberra City:85 Degrees</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:85 Degrees<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">7qHmSOTRabcuu2D+5/AUIg==</guid>
@@ -2114,39 +2000,15 @@
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Weston Creek:Woolworths Cooleman Court</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths Cooleman Court<br/><b>Street</b>:Cooleman Court Brierly Street, Weston Australian Capital Territory 2611<br/><b>Suburb</b>:Weston Creek<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1245<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">9jY7p+jbWPe5mOtOrk5igA==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Charnwood:Aldi Chisholm</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Aldi Chisholm<br/><b>Street</b>:36 Benham Street<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1750<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">A5spf+Zp9z6DoUErNcAcZA==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Coco Republic Construction Site</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coco Republic Construction Site<br/><b>Street</b>:148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">BP56EshbPLjsG32Xv0/zNg==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Wanniassa:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1210<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">BzVFBVUSliuEsEzqQaK1dw==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Chisholm:Coles</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:42 Halley Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 22 August 2021<br/><b>Arrival Time</b>:1220<br/><b>Departure Time</b>:1310<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">CSDBbgibUkbqQ/fuB9qZ9g==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Pearce:Sharing Places Building 3 - Pearce Community Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Sharing Places Building 3 - Pearce Community Centre<br/><b>Street</b>:Collett Pl<br/><b>Suburb</b>:Pearce<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">FRDUJhNqwwCDFsbuly8TzA==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
@@ -2180,12 +2042,6 @@
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Phillip:Chemist Warehouse</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Chemist Warehouse<br/><b>Street</b>:Ballet School, 24 Corinna St, Phillip Act 2606<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 17 August 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">OWnIvspS3ogr5ACQuLfqEg==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Dickson:McDonalds</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonalds<br/><b>Street</b>:Corner Badham Street And Dickson Place<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 14 August 2021<br/><b>Arrival Time</b>:0700<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">PSZFD4Ka3PvPEjgzK7wDJA==</guid>
@@ -2195,18 +2051,6 @@
       <title>(New) Belconnen:Woolworths Metro Cameron Avenue</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Metro Cameron Avenue<br/><b>Street</b>:1/6 Grazier Lane<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">QV6JVMJbQ1P1nQkT5VTJhw==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Nicholls:Bright Bees Childcare</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Bright Bees Childcare<br/><b>Street</b>:40 O'Hanlon Pl, Nicholls Act 2913<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">R7lTeOyLah8r/QmbPdzY/Q==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Wanniassa:Crust Pizza</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:Shop 9B/20 Gartside St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1835<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">Regh3OyDZ73q6FJSIglU/A==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
@@ -2240,33 +2084,15 @@
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Lyneham:Southwell Park - Field Hockey Training</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Southwell Park - Field Hockey Training<br/><b>Street</b>:Southwell Park<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">VMCLCuDhhYHIPs61X0/RKw==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Reid:Metropol Display Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Metropol Display Centre<br/><b>Street</b>:83 Cooyoong Street<br/><b>Suburb</b>:Reid<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">VXviHA7i3M/ESJcHVN5b/A==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Nicholls:Bright Bees Childcare</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Bright Bees Childcare<br/><b>Street</b>:40 O'Hanlon Pl, Nicholls Act 2913<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">XJzssxlRagJrq7m5Z47p9g==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Canberra City:Canberra Outlet Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Canberra Outlet Centre<br/><b>Street</b>:148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 09 August 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">XTY/x8dPOyoWssO49xDaqQ==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Weston Creek:Zambrero</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Zambrero<br/><b>Street</b>:14 Brierly Street, Weston Australian Capital Territory 2611<br/><b>Suburb</b>:Weston Creek<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1340<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">XeOK63gSO9BeJ5HZkx8yHw==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
@@ -2282,39 +2108,9 @@
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Gungahlin:Chemist warehouse</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Chemist warehouse<br/><b>Street</b>:30 Hiberson St<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1020<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">atv8NftuDop5Bw10ODy0yQ==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Woden:Westpac</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Westpac<br/><b>Street</b>:Woden Centre Plaza, Shops L06-08/3 Bradley St, Phillip Act 2606<br/><b>Suburb</b>:Woden<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">dfjxEsZzMI4WAQit67cgRw==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Wanniassa:The Butcher Shop</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:The Butcher Shop<br/><b>Street</b>:60 Comrie St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">edxmS1tzvgwe+UyCOV20Ag==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Canberra City:Coles Canberra Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coles Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 19 August 2021<br/><b>Arrival Time</b>:1950<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">f0HZLs62vAiNogGEG/JfTQ==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Wanniassa:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1205<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">gzkYGLhjzMH0EHGvBietHQ==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Wanniassa:China Tea House</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:China Tea House<br/><b>Street</b>:2/38-70 Gartside St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1840<br/><b>Departure Time</b>:1920<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">kZzTxL2CrOuTWY5E2T8dtw==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
@@ -2324,39 +2120,15 @@
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Wanniassa:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1140<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">lXfvWBJkbhQk6aEp0fMRlw==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Wanniassa:NewsXpress</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:NewsXpress<br/><b>Street</b>:Erindale Shopping Centre, 2 Denigan St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1320<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">ngU8yom2B1zX42ytTGYX7g==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Canberra City:Fiction Bar</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Fiction Bar<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 08 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0445<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">o6aMs7OgntT8yVMedlpCRw==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Wanniassa:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1145<br/><b>Departure Time</b>:1235<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">oySn1CLhJYS9q7/opinOlQ==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Harrison:Gungaderra Homestead- Girl Guides Meeting</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Gungaderra Homestead- Girl Guides Meeting<br/><b>Street</b>:Gungaderra Homestead<br/><b>Suburb</b>:Harrison<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1925<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">pyGcIpXoDx5J0vzf0rwiUw==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Wanniassa:Erindale Pharmacy</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Erindale Pharmacy<br/><b>Street</b>:2 Denigan St, Wanniassa Act 2903<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1410<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">rHMsSFaoVdg9XZVUX8DqEg==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
@@ -2369,12 +2141,6 @@
       <title>(New) Wanniassa:7-Eleven Erindale</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven Erindale<br/><b>Street</b>:76 Gartside Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:0840<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">tr5hFtRm1YZbS9sAJ4nysw==</guid>
-      <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Nicholls:Bright Bees Childcare</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Bright Bees Childcare<br/><b>Street</b>:40 O'Hanlon Pl, Nicholls Act 2913<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 17 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">whETBSI6UdeAKWKIuxlPhA==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
     </item>
     <item>
@@ -2394,6 +2160,312 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Guzman y Gomez Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">zGj7XVq1dda5Maz9D7730w==</guid>
       <pubDate>Mon, 23 Aug 2021 11:23:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Nicholls:Bright Bees Childcare</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bright Bees Childcare<br/><b>Street</b>:40 O'Hanlon Place<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 19 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">+4ubGwUG6/zw09zMJxs43g==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Braddon:McDonalds</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:McDonalds<br/><b>Street</b>:Corner Cooyong And Mort Streets<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1015<br/><b>Departure Time</b>:1040<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">+FSz5vNIfRBm7V4pkbbjhg==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Nicholls:Bright Bees Childcare</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bright Bees Childcare<br/><b>Street</b>:40 O'Hanlon Place<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">+QzkwL701IXWme/Z1bCxrQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1145<br/><b>Departure Time</b>:1235<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">+YPBW6e10HrGFzv5cM4j1w==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:BP Kingston</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:BP Kingston<br/><b>Street</b>:77 Canberra Avenue<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 19 August 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">/CBwyxP4T59yuHVfdeu/sw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Charnwood:McDonalds</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:McDonalds<br/><b>Street</b>:Corner Charnwood Place And Lhotsky Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">22jAXMqUwfEArptjxNYFuw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Denman Prospect:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:20/3 Felstead Vista<br/><b>Suburb</b>:Denman Prospect<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 22 August 2021<br/><b>Arrival Time</b>:1240<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Molonglo Valley<br/>]]></description>
+      <guid isPermaLink="false">3FUrHb3AEx4j+AxRTM/Rhw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Nicholls:Bright Bees Childcare</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bright Bees Childcare<br/><b>Street</b>:40 O'Hanlon Place<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">3nsaubjMUfgC9xtKNalleA==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Woolworths Weston Creek</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Weston Creek<br/><b>Street</b>:Corner Brierly And Mahony Court<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">6NvJsN6MLOxpMVoPqiOfNA==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Woden:Westpac</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Westpac<br/><b>Street</b>:Woden Centre Plaza, Shops L06-08/3 Bradley Street<br/><b>Suburb</b>:Woden<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">8MizJV0PVu0esVTM4AwmFQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Gungahlin:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1530<br/><b>Departure Time</b>:1705<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">8tFquo7Qi5ryoAlAhBqZDA==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Chisholm:Aldi</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Aldi<br/><b>Street</b>:36 Benham Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1750<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">ADU17I1B4nawc6wVGMxAmQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Campbell:Iskia Athletic Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Iskia Athletic Club<br/><b>Street</b>:81 Constitution Avenue<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1215<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">COd+qI1BB9rkY/n6TYjVwA==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail- R1 Transport Canberra Code LRV010</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail- R1 Transport Canberra Code LRV010<br/><b>Street</b>:Ipima Street To Nullarbor Avenue<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1441<br/><b>Departure Time</b>:1503<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">Doyon5AZ6wE5YAEhih17dQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:NewsXpress</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:NewsXpress<br/><b>Street</b>:Erindale Shopping Centre, 2 Denigan Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1320<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">FU+Aq8RXW7HviJDV4w7Arg==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Kingsley Chicken</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kingsley Chicken<br/><b>Street</b>:2 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">Fq4ywM9LLzr7c7MNM94afA==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Public Transport:Light Rail - R1 Transport Canberra Code LRV013</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Light Rail - R1 Transport Canberra Code LRV013<br/><b>Street</b>:Well Station Drive To Gunghalin<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1636<br/><b>Departure Time</b>:1643<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">IiOb2VQzbzAAUyzP7hXOOQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Dickson:KFC</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:KFC<br/><b>Street</b>:81 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 09 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">IxjT2LtupqeOHapDXWA1fg==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Crust</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Crust<br/><b>Street</b>:2-4 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">Ju/V0ejtmG/zcz37ZKnpoQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Chemist warehouse</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chemist warehouse<br/><b>Street</b>:30 Hiberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 19 August 2021<br/><b>Arrival Time</b>:1240<br/><b>Departure Time</b>:1325<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">KdhDVoY5Fwh8OWs1VG4yYw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Coles Manuka</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Manuka<br/><b>Street</b>:Franklin Street & Flinders Way<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Lvhb4jT2l/XjQeti+qdZbg==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston Creek:Zambrero</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Zambrero<br/><b>Street</b>:14 Brierly Street<br/><b>Suburb</b>:Weston Creek<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1340<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">McMUI+/imWQcF/tJLDZmYQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Lyneham:Southwell Park - Field Training</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Southwell Park - Field Training<br/><b>Street</b>:Southwell Park<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Mx1ay+ED9f05/RYY4CJLPA==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Erindale Pharmacy</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Erindale Pharmacy<br/><b>Street</b>:2 Denigan Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1410<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">NDGAgnxdqlRn5G0fo174Og==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Gerard Slaven Ford</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Gerard Slaven Ford<br/><b>Street</b>:29 Botany Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">PoVkNxzRMF/wgIxCurMe0Q==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Crust Pizza</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:Shop 9B/20 Gartside Steet<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1835<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Q6kkOnCAbrHs9iKxDBh7kQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:The Butcher Shop</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Butcher Shop<br/><b>Street</b>:60 Comrie Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">TrdZNWt3I0e94SrGT/PB+g==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Pearce:Sharing Places Building 3 - Pearce Community Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sharing Places Building 3 - Pearce Community Centre<br/><b>Street</b>:Collett Place<br/><b>Suburb</b>:Pearce<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">UZOqAaBmKl95UsX2Fr20oQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Charnwood:Coles Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:Lhotsky Street And Charnwood Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:1510<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">VFm5aQxbvju2egg5HguLHQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Kingston:Ochre Medical Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Ochre Medical Centre<br/><b>Street</b>:Level 1, Unit 6/62 Jardine Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1640<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">XgX+Xp5lQQRiqpvsKvTWpQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:China Tea House</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:China Tea House<br/><b>Street</b>:2/38-70 Gartside Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1840<br/><b>Departure Time</b>:1920<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">aJEI6cGWxHNpNUDhB+G/Cg==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:NewsXpress</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:NewsXpress<br/><b>Street</b>:Erindale Shopping Centre, 2 Denigan Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1140<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">bAJxRWAVLiw+TrOYm+keWQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston Creek:Woolworths Cooleman Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Cooleman Court<br/><b>Street</b>:Cooleman Court Brierly Street<br/><b>Suburb</b>:Weston Creek<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1245<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">c9DWmg/f9Ux1xr/bRlBsbw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Laundry Facility, Unilodge @ANU- Kinloch Lodge</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Laundry Facility, Unilodge @ANU- Kinloch Lodge<br/><b>Street</b>:35 Childers Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">d+XwkzV79gk03D2rSZeqhA==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Chemist Warehouse</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chemist Warehouse<br/><b>Street</b>:Ballet School, 24 Corinna Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 17 August 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">efVKptU1u2P/N73nUzIyaQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail- R1 Transport Canberra Code LRV010</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail- R1 Transport Canberra Code LRV010<br/><b>Street</b>:Alinga Street To Ipima Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1638<br/><b>Departure Time</b>:1648<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">fX7MtLzxcCxAvdYvl5zIlw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Woden:Australia Post</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Australia Post<br/><b>Street</b>:Shop 4/15 Bowes Place<br/><b>Suburb</b>:Woden<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:0000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">fvPMtGOePVXyEr/2chWOvQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Public Transport:Light Rail - R1 Transport Canberra Code LRV005</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Light Rail - R1 Transport Canberra Code LRV005<br/><b>Street</b>:Gunghalin To Well Station Drive<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1340<br/><b>Departure Time</b>:1347<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">lHEI5QRo16vWKyQlVNSnDg==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Woolworths Weston Creek</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Weston Creek<br/><b>Street</b>:Corner Brierly And Mahony Court<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 19 August 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">ltVxbkCxP6F0RGUXPxpg6g==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1205<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">nGK3HS0Z57Bdu3iWIkbiig==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Nicholls:Bright Bees Childcare</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bright Bees Childcare<br/><b>Street</b>:40 O'Hanlon Place<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 17 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">o4GDh0Ej2E2US4gTANFEPw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Braddon:Assembly The People'S Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People'S Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Information<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ozAVkDTArPl9RWkRM7wGgg==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1140<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">phBWvXXpaVNicnqQ5oIPow==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail- R1 Transport Canberra Code LRV011</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail- R1 Transport Canberra Code LRV011<br/><b>Street</b>:Nullarbor Avenue To Alinga Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1535<br/><b>Departure Time</b>:1554<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">rHJ19P93CponiiomzBuO6w==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Gungahlin:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Corner Hibberson Street And Gungahlin Place<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1545<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">rZ8KtGGqVge5CwBW4pHVpg==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Erindale Pharmacy</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Erindale Pharmacy<br/><b>Street</b>:2 Denigan Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">svF6QAr2VcTlR3GUYdx6KQ==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Hawker:Drive In Bottle Shop</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Drive In Bottle Shop<br/><b>Street</b>:Belconnen Way And Springvale Drive<br/><b>Suburb</b>:Hawker<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1645<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">t1+qZOtEbv2dSo0tx5Gnsw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 21 August 2021<br/><b>Arrival Time</b>:1410<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">xyf8vOKfgjNOvmanD+Pzgw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1210<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">yZYRe93adkj/dz/TozKAIw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Public Transport:Light Rail - R1 Transport Canberra Code LRV004</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Light Rail - R1 Transport Canberra Code LRV004<br/><b>Street</b>:Well Station Drive To Gunghalin<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1418<br/><b>Departure Time</b>:1425<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">zMcxj0bt++RVjDo1h+vQAw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Chemist warehouse</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chemist warehouse<br/><b>Street</b>:30 Hiberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1020<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">zfpYzdUXwKI9ChbDAprHWw==</guid>
+      <pubDate>Tue, 24 Aug 2021 06:41:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
