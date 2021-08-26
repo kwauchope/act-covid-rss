@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Aug 2021 09:13:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2021 02:09:41 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -2258,12 +2258,6 @@
       <pubDate>Wed, 25 Aug 2021 03:55:12 +0000</pubDate>
     </item>
     <item>
-      <title>(?) O'Connor:Capital Chemist O’Connor</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Capital Chemist O’Connor<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">1zUn1YJsPASM7iTW/a+azg==</guid>
-      <pubDate>Wed, 25 Aug 2021 03:55:12 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Belconnen:Ginninderra Medical &amp; Dental Centre - The general practice section ONLY</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Ginninderra Medical & Dental Centre - The general practice section ONLY<br/><b>Street</b>:Corner Nettlefold Street And Coulter Drive<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1510<br/><b>Departure Time</b>:1540<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">4AwFkv6ZCXihhuR1GeT3eQ==</guid>
@@ -2285,12 +2279,6 @@
       <title>(?) Weston:Zambrero Weston Creek</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Zambrero Weston Creek<br/><b>Street</b>:14 Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 16 August 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1340<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
       <guid isPermaLink="false">9eYx5+x1oKokJbLHOGHL1A==</guid>
-      <pubDate>Wed, 25 Aug 2021 03:55:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Holt:IGA</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:Holt Place<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:1340<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">CjlLQIc/p9AQAT6IMnpVPA==</guid>
       <pubDate>Wed, 25 Aug 2021 03:55:12 +0000</pubDate>
     </item>
     <item>
@@ -2369,12 +2357,6 @@
       <title>(Archived) Canberra City:David Jones Canberra Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:David Jones Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 10 August 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">bDCwI/pFddtU8E9djWMh+w==</guid>
-      <pubDate>Wed, 25 Aug 2021 03:55:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) O'Connor:Kopiku</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">d/QHkch64BJFs/CtUWpPJQ==</guid>
       <pubDate>Wed, 25 Aug 2021 03:55:12 +0000</pubDate>
     </item>
     <item>
@@ -2474,21 +2456,9 @@
       <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Greenway:Coles Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Tuggeranong<br/><b>Street</b>:Pitman Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1010<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">ZfFeUacKqM948J9Dc6VDWQ==</guid>
-      <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Gungahlin:Le Bon Melange Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Le Bon Melange Cafe<br/><b>Street</b>:G09/48 Gungahlin Place And Bruning Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 22 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">cX6xlzSihIXOxW/o9WJ7NA==</guid>
-      <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Liquorland Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Liquorland Tuggeranong<br/><b>Street</b>:Level 2, Tuggeranong Hyperdome Shopping Centre, Corner Northern Street And Western Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1115<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">f74/c5wdZwd95kphsTKSnQ==</guid>
       <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
     </item>
     <item>
@@ -2516,22 +2486,58 @@
       <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Greenway:Bunnings Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Bunnings Tuggeranong<br/><b>Street</b>:Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1015<br/><b>Departure Time</b>:1050<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">rYPsDyy3CKcANRbaouP0SA==</guid>
-      <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Woolworths Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Tuggeranong<br/><b>Street</b>:Corner Anketell And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">uTLwsN+s8dFWDilEoQj+gA==</guid>
-      <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
-    </item>
-    <item>
       <title>(Archived) Braddon:Assembly The People's Pub</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">w7xgiYm61ivLENI/WFLcRQ==</guid>
       <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Holt:Iga</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Iga<br/><b>Street</b>:Holt Place<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:1340<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">0zQY/WuYxbwDDP4aRy+6Dw==</guid>
+      <pubDate>Thu, 26 Aug 2021 02:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Tuggeranong:Bunnings</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Bunnings<br/><b>Street</b>:Anketell Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1015<br/><b>Departure Time</b>:1050<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">DesRUNSfcUbgkMK0W2la3Q==</guid>
+      <pubDate>Thu, 26 Aug 2021 02:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) O’Connor:Capital Chemist</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Gslgo75KAdLcAOUB3MP23A==</guid>
+      <pubDate>Thu, 26 Aug 2021 02:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Tuggeranong:Liquorland</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Liquorland<br/><b>Street</b>:Level 2, Tuggeranong Hyperdome Shopping Centre, Corner Northern Street And Western Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1115<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Q6MIlBoLwYxifG9bYNco/g==</guid>
+      <pubDate>Thu, 26 Aug 2021 02:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:Smile Sensations</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Smile Sensations<br/><b>Street</b>:13/15 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1750<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">V6AgQtSSfFE4IrgGaMJuGA==</guid>
+      <pubDate>Thu, 26 Aug 2021 02:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Tuggeranong:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Pitman Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1010<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">YfTieeBpTtL4AZSVxgUxUw==</guid>
+      <pubDate>Thu, 26 Aug 2021 02:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Tuggeranong:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Corner Anketell And Reed Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">vjLrvWRZd2gsl6Wj4I7jng==</guid>
+      <pubDate>Thu, 26 Aug 2021 02:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) O’Connor:Kopiku</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">yBeegRGFCvfJNGjHY5FX4g==</guid>
+      <pubDate>Thu, 26 Aug 2021 02:09:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
