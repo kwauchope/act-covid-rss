@@ -1,3 +1,5 @@
 beautifulsoup4
 dateparser
 feedgen
+# 2021.8.27 gives a segfault
+regex==2021.8.21
