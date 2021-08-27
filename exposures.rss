@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Aug 2021 09:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 05:33:20 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -449,12 +449,6 @@
       <title>(?) Kingston:Subsdance Dance Studio</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Subsdance Dance Studio<br/><b>Street</b>:1/27-29 Eyre Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 10 August 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">mf3U40BjBh4QBZrcyM9wEA==</guid>
-      <pubDate>Sat, 21 Aug 2021 03:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Gungahlin:Services Australia</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Services Australia<br/><b>Street</b>:5 Fussell Lane<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1510<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">nCNVDFG4ftaxBKNqFVEb/g==</guid>
       <pubDate>Sat, 21 Aug 2021 03:49:26 +0000</pubDate>
     </item>
     <item>
@@ -2414,18 +2408,6 @@
       <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) Braddon:Assembly The People's Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">w7xgiYm61ivLENI/WFLcRQ==</guid>
-      <pubDate>Wed, 25 Aug 2021 09:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Holt:Iga</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Iga<br/><b>Street</b>:Holt Place<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:1340<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">0zQY/WuYxbwDDP4aRy+6Dw==</guid>
-      <pubDate>Thu, 26 Aug 2021 02:09:41 +0000</pubDate>
-    </item>
-    <item>
       <title>(Archived) Tuggeranong:Bunnings</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Bunnings<br/><b>Street</b>:Anketell Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1015<br/><b>Departure Time</b>:1050<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">DesRUNSfcUbgkMK0W2la3Q==</guid>
@@ -2556,6 +2538,60 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Tuggeranong<br/><b>Street</b>:Corner Anketell And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">uTLwsN+s8dFWDilEoQj+gA==</guid>
       <pubDate>Thu, 26 Aug 2021 09:11:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Ngunnawal:Mirchi Indian Cuisine</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mirchi Indian Cuisine<br/><b>Street</b>:4 Riley Close<br/><b>Suburb</b>:Ngunnawal<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">09C/VyrEcVOP485mmPqKFA==</guid>
+      <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Braddon:Assembly The People'S Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People'S Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">0qrEbi0WNduttGZzJBmnzw==</guid>
+      <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:KFC</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:KFC<br/><b>Street</b>:Bradham Street And Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1120<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">30JGsQCeO+vxzW2mNWQI5Q==</guid>
+      <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Community Health Centre- Ground Floor</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Community Health Centre- Ground Floor<br/><b>Street</b>:56 Lathlain Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1020<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">56QhRAAjLLXEuOSXrkqBtg==</guid>
+      <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Community Health Centre - Ground Floor (Toilet Facility)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Community Health Centre - Ground Floor (Toilet Facility)<br/><b>Street</b>:56 Lathlain Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1020<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">93NiR9fxNuyQ38Gf5Jozhw==</guid>
+      <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Holt:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:Holt Place<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:1340<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">CjlLQIc/p9AQAT6IMnpVPA==</guid>
+      <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Gungahlin:Centrelink and Medicare (Services Australia)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Centrelink and Medicare (Services Australia)<br/><b>Street</b>:5 Fussell Lane<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1510<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">Pr3PWKFwGxBAMRCjQzf5CQ==</guid>
+      <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Ngunnawal:Mirchi Indian Cuisine</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mirchi Indian Cuisine<br/><b>Street</b>:4 Riley Close<br/><b>Suburb</b>:Ngunnawal<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 22 August 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">icScKOZrMpj0nEGCzzWvKw==</guid>
+      <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Centrelink and Medicare (Services Australia)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Centrelink and Medicare (Services Australia)<br/><b>Street</b>:5 Fussell Lane<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1440<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">oLIgoYFEJcWkjLmW4L0DZQ==</guid>
+      <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
