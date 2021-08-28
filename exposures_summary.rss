@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Aug 2021 09:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Aug 2021 03:52:54 +0000</lastBuildDate>
     <item>
       <title>89 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -113,18 +113,25 @@
       <pubDate>Thu, 26 Aug 2021 09:11:17 +0000</pubDate>
     </item>
     <item>
-      <title>8 additional exposure sites</title>
+      <title>5 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Gungahlin:</b>2<br/><b>Ngunnawal:</b>2<br/><b>Belconnen:</b>2<br/><b>Holt:</b>1<br/><b>Dickson:</b>1<br/>]]></description>
-      <guid isPermaLink="false">ZFyioNziASNYRkUG9wC0Lg==</guid>
+      <description><![CDATA[<b>Gungahlin:</b>2<br/><b>Belconnen:</b>2<br/><b>Holt:</b>1<br/>]]></description>
+      <guid isPermaLink="false">Vi2gPJnxbSBwn7BelDtlSg==</guid>
       <pubDate>Fri, 27 Aug 2021 05:33:20 +0000</pubDate>
     </item>
     <item>
-      <title>43 additional exposure sites</title>
+      <title>41 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Casey:</b>8<br/><b>Amaroo:</b>7<br/><b>Gungahlin:</b>6<br/><b>Greenway:</b>6<br/><b>Chisholm:</b>6<br/><b>Macquarie:</b>2<br/><b>Braddon:</b>1<br/><b>Chifley:</b>1<br/><b>Barton:</b>1<br/><b>Fyshwick:</b>1<br/><b>Weston:</b>1<br/><b>Pialligo:</b>1<br/><b>Wanniassa:</b>1<br/><b>Mawson:</b>1<br/>]]></description>
-      <guid isPermaLink="false">0Vf+dxSMioSU92soDe17xQ==</guid>
+      <description><![CDATA[<b>Casey:</b>8<br/><b>Amaroo:</b>7<br/><b>Gungahlin:</b>6<br/><b>Greenway:</b>6<br/><b>Chisholm:</b>5<br/><b>Macquarie:</b>2<br/><b>Chifley:</b>1<br/><b>Barton:</b>1<br/><b>Fyshwick:</b>1<br/><b>Weston:</b>1<br/><b>Pialligo:</b>1<br/><b>Wanniassa:</b>1<br/><b>Mawson:</b>1<br/>]]></description>
+      <guid isPermaLink="false">LSFV+CB5TF/Xv0mYYXLwOA==</guid>
       <pubDate>Fri, 27 Aug 2021 09:28:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Dickson:</b>3<br/><b>Ngunnawal:</b>3<br/><b>Wanniassa:</b>1<br/><b>Canberra City:</b>1<br/><b>Macquarie:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">mtkoMnRiNyUqHVAT6Zze7w==</guid>
+      <pubDate>Sat, 28 Aug 2021 03:52:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
