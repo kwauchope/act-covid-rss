@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Aug 2021 08:57:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Aug 2021 11:27:14 +0000</lastBuildDate>
     <item>
       <title>89 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -148,11 +148,18 @@
       <pubDate>Sun, 29 Aug 2021 02:30:10 +0000</pubDate>
     </item>
     <item>
-      <title>30 additional exposure sites</title>
+      <title>29 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Wanniassa:</b>11<br/><b>Public Transport:</b>5<br/><b>Campbell:</b>4<br/><b>Belconnen:</b>2<br/><b>O'Connor:</b>2<br/><b>Canberra City:</b>2<br/><b>Watson:</b>1<br/><b>Lyneham:</b>1<br/><b>Nicholls:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
-      <guid isPermaLink="false">tSR1TOFXjUy4q3zkxQTWGw==</guid>
+      <description><![CDATA[<b>Wanniassa:</b>11<br/><b>Public Transport:</b>5<br/><b>Campbell:</b>4<br/><b>Belconnen:</b>2<br/><b>O'Connor:</b>2<br/><b>Canberra City:</b>2<br/><b>Lyneham:</b>1<br/><b>Nicholls:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">kPg/I6epf2nUO6uIA9RvYw==</guid>
       <pubDate>Sun, 29 Aug 2021 08:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Watson:</b>1<br/>]]></description>
+      <guid isPermaLink="false">iKh6/RY9H6U6R1+ynXXwfg==</guid>
+      <pubDate>Sun, 29 Aug 2021 11:27:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
