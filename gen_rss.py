@@ -25,6 +25,7 @@ EXPOSURE_URL = 'https://www.covid19.act.gov.au/act-status-and-response/act-covid
 CSV_REGEX = 'https://www[.]covid19[.]act[.]gov[.]au/.*?[.]csv'
 FIELDS = ['Event Id', 'Status', 'Exposure Site', 'Street', 'Suburb', 'State', 'Date', 'Arrival Time', 'Departure Time', 'Contact']
 MIN_DATETIME = datetime(2020, 3, 11)
+USER_AGENT = 'None'
 
 
 # Attempt to normalise data
@@ -79,7 +80,7 @@ def find_csv_location():
     only_script = SoupStrainer("script")
     csv_regex = re.compile(CSV_REGEX)
     # TODO: Retry then fail
-    with urllib.request.urlopen(EXPOSURE_URL) as response:
+    with urllib.request.urlopen(urllib.request.Request(EXPOSURE_URL, headers={'User-Agent':USER_AGENT})) as response:
         html = response.read()
         soup = BeautifulSoup(html, 'html.parser', parse_only=only_script)
         for script in soup.find_all():
