@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Aug 2021 11:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2021 04:44:40 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -3038,10 +3038,124 @@
       <pubDate>Sun, 29 Aug 2021 08:57:19 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Watson:SupaExpress</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SupaExpress<br/><b>Street</b>:5 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:0930<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">FdBwaNCyuyEUhai44owYBg==</guid>
-      <pubDate>Sun, 29 Aug 2021 11:27:14 +0000</pubDate>
+      <title>(New) Turner:Clay</title>
+      <description><![CDATA[<b>Event Id</b>:800407<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Clay<br/><b>Street</b>:2 David Street<br/><b>Suburb</b>:Turner<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1020<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">/j4hTnV2LMkBr6setjBzAA==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Woden:San Churro</title>
+      <description><![CDATA[<b>Event Id</b>:800402<br/><b>Status</b>:New<br/><b>Exposure Site</b>:San Churro<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Woden<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">/uNwnHkYkK1GBEi7CfWN9w==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holt:Woolworths Kippax</title>
+      <description><![CDATA[<b>Event Id</b>:800404<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Kippax<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1520<br/><b>Departure Time</b>:1620<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">0JyGRswtR31q3qQu2PEeJQ==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Kingsley's Chicken Westfield Woden</title>
+      <description><![CDATA[<b>Event Id</b>:800397<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kingsley's Chicken Westfield Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1415<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">2HQ1PDOYvpVpJeY4+YehTw==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Espresso Room Westfield Woden</title>
+      <description><![CDATA[<b>Event Id</b>:800397<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Espresso Room Westfield Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">5CUHfwdwuXypeqk1sJRXcg==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Conder:Lanyon Newsagency &amp; Gift Shop</title>
+      <description><![CDATA[<b>Event Id</b>:800402<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Lanyon Newsagency & Gift Shop<br/><b>Street</b>:Lanyon Marketplace, 4 Sidney Nolan Street<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">5gjJamI1xMzWQ46sab9fBQ==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holt:Wokitup! Kippax</title>
+      <description><![CDATA[<b>Event Id</b>:800397<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wokitup! Kippax<br/><b>Street</b>:118 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1850<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">6oTb6F1d1MtAVz0HGxakAg==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Samiuz</title>
+      <description><![CDATA[<b>Event Id</b>:800404<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Samiuz<br/><b>Street</b>:3/57 Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1820<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">7p4KLXfVXEGg+gbcmNeO2w==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Priceline Pharmacy Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:800402<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Priceline Pharmacy Tuggeranong<br/><b>Street</b>:Hyperdome Shopping Centre, 148 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Bi01h1LDF8rEVxOEjhoVPA==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Grill'd</title>
+      <description><![CDATA[<b>Event Id</b>:800397<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grill'd<br/><b>Street</b>:301 Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1940<br/><b>Departure Time</b>:2010<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">KG1NkSdkbyrrFzakP99gSg==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Ampol Foodary</title>
+      <description><![CDATA[<b>Event Id</b>:800397<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ampol Foodary<br/><b>Street</b>:49 Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1740<br/><b>Departure Time</b>:1820<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">Nmf1PfXlB2MStBgKp4XtBg==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Calwell:Shopping Centre</title>
+      <description><![CDATA[<b>Event Id</b>:800405<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Shopping Centre<br/><b>Street</b>:7 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:0925<br/><b>Departure Time</b>:1005<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">R54Vrj1RwIzyxSvb6un+ng==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Garema Place Surgery</title>
+      <description><![CDATA[<b>Event Id</b>:800389<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Garema Place Surgery<br/><b>Street</b>:Level 1, Florina Building, Garema Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">SuTtbxXnkecaUcce+4FU0w==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Kingsley's Chicken Westfield Woden</title>
+      <description><![CDATA[<b>Event Id</b>:800397<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kingsley's Chicken Westfield Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">g/J/n1NsJ8TMLkCF4NQbZg==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Woden:Chemist Warehouse</title>
+      <description><![CDATA[<b>Event Id</b>:800404<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chemist Warehouse<br/><b>Street</b>:24 Corinna Street<br/><b>Suburb</b>:Woden<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">nxXghVKdcYwEIkAEjZvIxA==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holt:Woolworths Kippax</title>
+      <description><![CDATA[<b>Event Id</b>:800404<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Kippax<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:1820<br/><b>Departure Time</b>:1910<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">s+Gud7vwnq6yAmpkCt/Lzw==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:JAGA Swanson Court</title>
+      <description><![CDATA[<b>Event Id</b>:800398<br/><b>Status</b>:New<br/><b>Exposure Site</b>:JAGA Swanson Court<br/><b>Street</b>:Level 1, 11-17 Swanson Court<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">tJZ6wCxJpV5vw+hh9y3k5Q==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Majura Park:Costco Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:800402<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Costco Canberra<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Majura Park<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">uBX820VAikTQd35PLGYbLg==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holt:Kingsley's Chicken Kippax</title>
+      <description><![CDATA[<b>Event Id</b>:800404<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kingsley's Chicken Kippax<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1530<br/><b>Departure Time</b>:1620<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">zWbe0kOBbz4dkFBJNMsLDw==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:SupaBarn Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SupaBarn Express<br/><b>Street</b>:5 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:0930<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">zgAFusJyx604ya9KmBYCcA==</guid>
+      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
