@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Aug 2021 04:56:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Aug 2021 09:14:04 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -389,12 +389,6 @@
       <title>(New) Phillip:Woolworths Woden</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:1320<br/><b>Departure Time</b>:1410<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">Su5+Bs7rOf+mgmsB1mkgQg==</guid>
-      <pubDate>Mon, 30 Aug 2021 09:52:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Phillip:Westfield Woden</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Westfield Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:0745<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">TdslyBVzIOHi4W8ISi5Ifw==</guid>
       <pubDate>Mon, 30 Aug 2021 09:52:18 +0000</pubDate>
     </item>
     <item>
@@ -3348,6 +3342,114 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:1420<br/><b>Departure Time</b>:1520<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">zyEfyojBD4h2T8nV5SISnw==</guid>
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Woolworths Woden</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1610<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">/M0nMU7z4gdixD1BCqoE0w==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Calwell:Ampol Petrol</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ampol Petrol<br/><b>Street</b>:Were Street<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1640<br/><b>Departure Time</b>:1720<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">24aJkRHzIbPFSQiOZKYSsQ==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:7-Eleven</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven<br/><b>Street</b>:20 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">2hgiEOpZrb3xYr4be+XFFw==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Master Kebabs</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Master Kebabs<br/><b>Street</b>:50 Denigan Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">4hCaeyXXt+9CPF7uEEflEA==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:McDonalds Erindale</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonalds Erindale<br/><b>Street</b>:Corner Ricardo Street And Mcbryde Crescent<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1740<br/><b>Departure Time</b>:1820<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">4yYOowamatgK/EgAjY2qAg==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Indian Affair</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Indian Affair<br/><b>Street</b>:64 Colbee Court<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1855<br/><b>Departure Time</b>:1935<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">5x+wJkVlKtEHYJSF5isxKw==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Conder:McDonalds</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonalds<br/><b>Street</b>:Box Hill Avenue<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">CnKq+YBLRGOGbft6iqRTJw==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Coles Manuka</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Manuka<br/><b>Street</b>:Franklin Street And Flinders Way<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1140<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">HPEjdqc8FhR3b30WPKcofw==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Oporto Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Oporto Tuggeranong<br/><b>Street</b>:Tuggeranong South.Point Shopping Centre, 210 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1340<br/><b>Departure Time</b>:1420<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">HtJNrGoHkmHKUhm9e7cApw==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Pizza Hut Erindale</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Pizza Hut Erindale<br/><b>Street</b>:Shop 2/38 Gartside Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1740<br/><b>Departure Time</b>:1820<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">IAGC2Ct8coP8/ywe/HMkOA==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Oporto</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Oporto<br/><b>Street</b>:82 Parramatta Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:2020<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">R2XJcqYUPe5rK9euodtNFQ==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Oscy's Burgers Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Oscy's Burgers Tuggeranong<br/><b>Street</b>:90 Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1820<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">T082MXI8qR0Glk5jAXroOg==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Phillip:Westfield Woden</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Westfield Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:0745<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">U+jClvdW25iyCaXvaj063w==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chisholm:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:42 Halley Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1340<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">lUp0cbUUFDJPouf6bR/90w==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:Supabarn Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Supabarn Express<br/><b>Street</b>:5 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1840<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">m2ydVLUHzXytOELGkaMpuw==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Grill'd Manuka</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grill'd Manuka<br/><b>Street</b>:1/40-42 Franklin Street<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1140<br/><b>Departure Time</b>:1215<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">nT46GDOA/NLLb6wohRymmA==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:McDonalds Erindale</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonalds Erindale<br/><b>Street</b>:Corner Ricardo Street And Mcbryde Crescent<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1645<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">q76l3LV+nLZpLmxIb5+EXQ==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Canberra Cafe</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Cafe<br/><b>Street</b>:Shop 12/ 150-180 Soward Way<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1240<br/><b>Departure Time</b>:1320<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">v12cx/EW/LIoWgFWC2YxnQ==</guid>
+      <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
