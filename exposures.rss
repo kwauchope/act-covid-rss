@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Sep 2021 03:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 05:29:50 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -3494,12 +3494,6 @@
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Public Transport:Bus Route R3 Transport Canberra Code BUS607</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route R3 Transport Canberra Code BUS607<br/><b>Street</b>:Woden Interchange To Cooleman Court<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1325<br/><b>Departure Time</b>:1338<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">VuyRRmi6w7Xo+whRfu65fg==</guid>
-      <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Public Transport:Bus Route 64 Transport Canberra Code BUS641</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 64 Transport Canberra Code BUS641<br/><b>Street</b>:Cooleman Court To Woden Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:0843<br/><b>Departure Time</b>:0853<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">ZFqgvCZ+mR8ma842J9PU/g==</guid>
@@ -3564,6 +3558,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Intermain<br/><b>Street</b>:64 Northbourne Avenue<br/><b>Suburb</b>:City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">ykpuaoJ56LhVZ2lOFbpdQw==</guid>
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 65 Transport Canberra Code BUS607</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 65 Transport Canberra Code BUS607<br/><b>Street</b>:Woden Interchange To Cooleman Court<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1325<br/><b>Departure Time</b>:1338<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">OVN+jtW2N6rNjXlF7FAfLQ==</guid>
+      <pubDate>Wed, 01 Sep 2021 05:29:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
