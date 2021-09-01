@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Sep 2021 05:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 08:27:36 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -92,17 +92,17 @@
       <pubDate>Mon, 30 Aug 2021 09:52:18 +0000</pubDate>
     </item>
     <item>
-      <title>21 additional exposure sites</title>
+      <title>20 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Conder:</b>7<br/><b>Canberra City:</b>4<br/><b>Campbell:</b>2<br/><b>Woden:</b>2<br/><b>Watson:</b>1<br/><b>Mitchell:</b>1<br/><b>Holt:</b>1<br/><b>Wanniassa:</b>1<br/><b>Braddon:</b>1<br/><b>Weston:</b>1<br/>]]></description>
-      <guid isPermaLink="false">j2h6/lCVsed3bhmYxfFlAg==</guid>
+      <description><![CDATA[<b>Conder:</b>7<br/><b>Canberra City:</b>4<br/><b>Campbell:</b>2<br/><b>Woden:</b>2<br/><b>Watson:</b>1<br/><b>Mitchell:</b>1<br/><b>Holt:</b>1<br/><b>Wanniassa:</b>1<br/><b>Weston:</b>1<br/>]]></description>
+      <guid isPermaLink="false">YzPHTKYK5FSLtJO2KRaNOA==</guid>
       <pubDate>Tue, 31 Aug 2021 02:47:08 +0000</pubDate>
     </item>
     <item>
-      <title>457 additional exposure sites</title>
+      <title>455 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>51<br/><b>Public Transport:</b>50<br/><b>Gungahlin:</b>37<br/><b>Canberra City:</b>34<br/><b>Fyshwick:</b>24<br/><b>Phillip:</b>19<br/><b>Greenway:</b>17<br/><b>Casey:</b>16<br/><b>Dickson:</b>15<br/><b>Wanniassa:</b>14<br/><b>Nicholls:</b>14<br/><b>Amaroo:</b>12<br/><b>Bruce:</b>12<br/><b>Kingston:</b>11<br/><b>Lyneham:</b>10<br/><b>Weston:</b>10<br/><b>Charnwood:</b>8<br/><b>Mitchell:</b>7<br/><b>O'Connor:</b>7<br/><b>Turner:</b>7<br/><b>Griffith:</b>6<br/><b>Holt:</b>6<br/><b>Barton:</b>6<br/><b>Chisholm:</b>6<br/><b>Harrison:</b>5<br/><b>Mawson:</b>5<br/><b>Spence:</b>4<br/><b>Evatt:</b>4<br/><b>Deakin:</b>3<br/><b>Reid:</b>3<br/><b>Ngunnawal:</b>3<br/><b>Kambah:</b>2<br/><b>Melba:</b>2<br/><b>Macquarie:</b>2<br/><b>Franklin:</b>2<br/><b>Majura Park:</b>2<br/><b>Chapman:</b>2<br/><b>Kaleen:</b>2<br/><b>Aranda:</b>1<br/><b>Hawker:</b>1<br/><b>Cook:</b>1<br/><b>Bonner:</b>1<br/><b>Chifley:</b>1<br/><b>Forde:</b>1<br/><b>Symonston:</b>1<br/><b>Pearce:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Hume:</b>1<br/><b>Florey:</b>1<br/><b>Pialligo:</b>1<br/><b>Tuggeranong:</b>1<br/><b>Campbell:</b>1<br/><b>Denman Prospect:</b>1<br/><b>Downer:</b>1<br/>]]></description>
-      <guid isPermaLink="false">dmoLLsktLYgpm63VnY9nmw==</guid>
+      <description><![CDATA[<b>Belconnen:</b>51<br/><b>Public Transport:</b>50<br/><b>Gungahlin:</b>37<br/><b>Canberra City:</b>34<br/><b>Fyshwick:</b>24<br/><b>Phillip:</b>19<br/><b>Greenway:</b>17<br/><b>Casey:</b>16<br/><b>Dickson:</b>15<br/><b>Wanniassa:</b>14<br/><b>Nicholls:</b>14<br/><b>Amaroo:</b>12<br/><b>Bruce:</b>12<br/><b>Kingston:</b>11<br/><b>Lyneham:</b>10<br/><b>Weston:</b>10<br/><b>Charnwood:</b>8<br/><b>Mitchell:</b>7<br/><b>Turner:</b>7<br/><b>Griffith:</b>6<br/><b>O'Connor:</b>6<br/><b>Holt:</b>6<br/><b>Barton:</b>6<br/><b>Chisholm:</b>6<br/><b>Harrison:</b>5<br/><b>Mawson:</b>5<br/><b>Spence:</b>4<br/><b>Evatt:</b>4<br/><b>Deakin:</b>3<br/><b>Reid:</b>3<br/><b>Ngunnawal:</b>3<br/><b>Kambah:</b>2<br/><b>Melba:</b>2<br/><b>Macquarie:</b>2<br/><b>Franklin:</b>2<br/><b>Majura Park:</b>2<br/><b>Chapman:</b>2<br/><b>Kaleen:</b>2<br/><b>Aranda:</b>1<br/><b>Hawker:</b>1<br/><b>Cook:</b>1<br/><b>Bonner:</b>1<br/><b>Chifley:</b>1<br/><b>Forde:</b>1<br/><b>Symonston:</b>1<br/><b>Pearce:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Hume:</b>1<br/><b>Florey:</b>1<br/><b>Pialligo:</b>1<br/><b>Campbell:</b>1<br/><b>Denman Prospect:</b>1<br/><b>Downer:</b>1<br/>]]></description>
+      <guid isPermaLink="false">UyHGQAtyyK0NbErHYDYrFw==</guid>
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
@@ -113,10 +113,10 @@
       <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
     </item>
     <item>
-      <title>25 additional exposure sites</title>
+      <title>24 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Phillip:</b>5<br/><b>Public Transport:</b>5<br/><b>Gungahlin:</b>3<br/><b>City:</b>2<br/><b>Majura Park:</b>2<br/><b>Ainslie:</b>2<br/><b>Fyshwick:</b>1<br/><b>Braddon:</b>1<br/><b>Watson:</b>1<br/><b>Greenway:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
-      <guid isPermaLink="false">6ZGfUSiLt+BEoToaazYeRQ==</guid>
+      <description><![CDATA[<b>Phillip:</b>5<br/><b>Public Transport:</b>5<br/><b>Gungahlin:</b>3<br/><b>City:</b>2<br/><b>Majura Park:</b>2<br/><b>Ainslie:</b>2<br/><b>Fyshwick:</b>1<br/><b>Watson:</b>1<br/><b>Greenway:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">Xm6MgjqyPF9HNH6/Oj1f2g==</guid>
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
@@ -125,6 +125,13 @@
       <description><![CDATA[<b>Public Transport:</b>1<br/>]]></description>
       <guid isPermaLink="false">QLgx/SVdnnDU5vVKsaNoow==</guid>
       <pubDate>Wed, 01 Sep 2021 05:29:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Public Transport:</b>5<br/><b>Braddon:</b>2<br/><b>Greenway:</b>2<br/><b>Mawson:</b>1<br/>]]></description>
+      <guid isPermaLink="false">lpzgVMh2kvYlL+i0SiT8/w==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Sep 2021 05:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 08:27:36 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -464,12 +464,6 @@
       <pubDate>Tue, 31 Aug 2021 02:47:08 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Braddon:Newsagency and Post Office</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Newsagency and Post Office<br/><b>Street</b>:2C/32 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:0840<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">308adnFVwb3FfBb6tDJ2MA==</guid>
-      <pubDate>Tue, 31 Aug 2021 02:47:08 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Wanniassa:Woolworths</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1650<br/><b>Departure Time</b>:1735<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">3g5+zY+C9SfPItx2nGCtqQ==</guid>
@@ -683,12 +677,6 @@
       <title>(?) Canberra City:Warrumbul Lodge</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Warrumbul Lodge<br/><b>Street</b>:4 Hutton Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 18 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">1eLxrtQ7o35ohk/BSS7/Eg==</guid>
-      <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Archived) O'Connor:Capital Chemist O’Connor</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Capital Chemist O’Connor<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">1zUn1YJsPASM7iTW/a+azg==</guid>
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
@@ -1193,12 +1181,6 @@
       <title>(Archived) Chapman:Primary After School Care Building</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Primary After School Care Building<br/><b>Street</b>:46-50 Perry Drive<br/><b>Suburb</b>:Chapman<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 10 August 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
       <guid isPermaLink="false">DJNyYu548Oi9xkfc1mc6QQ==</guid>
-      <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Archived) Tuggeranong:Bunnings</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Bunnings<br/><b>Street</b>:Anketell Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1015<br/><b>Departure Time</b>:1050<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">DesRUNSfcUbgkMK0W2la3Q==</guid>
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
@@ -3530,12 +3512,6 @@
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) Braddon:Assembly The People's Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">w7xgiYm61ivLENI/WFLcRQ==</guid>
-      <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Phillip:Westfield Woden</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Westfield Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">xC3w2aeC4yRUHmN4nvdZWQ==</guid>
@@ -3564,6 +3540,66 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 65 Transport Canberra Code BUS607<br/><b>Street</b>:Woden Interchange To Cooleman Court<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1325<br/><b>Departure Time</b>:1338<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">OVN+jtW2N6rNjXlF7FAfLQ==</guid>
       <pubDate>Wed, 01 Sep 2021 05:29:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mawson:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:15 Mawson Place<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:0820<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">+iNMdCXsWx88LbpE7D5unQ==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 7 Transport Canberra Code BUS710</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 7 Transport Canberra Code BUS710<br/><b>Street</b>:Cooleman Court To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:2239<br/><b>Departure Time</b>:2303<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">00OiNHoRaXYBgYc5eNfhNg==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Braddon:Assembly The People'S Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People'S Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">0qrEbi0WNduttGZzJBmnzw==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 66 Transport Canberra Code BUS355</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 66 Transport Canberra Code BUS355<br/><b>Street</b>:Denman Prospect To Woden Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1927<br/><b>Departure Time</b>:1943<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">1n0MGoIlOjn1i6qqUPZ7Tw==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 61 Transport Canberra Code BUS359</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 61 Transport Canberra Code BUS359<br/><b>Street</b>:Woden Interchange To Phillip<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1946<br/><b>Departure Time</b>:1950<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">AAc8v0oM6JomInAJWXG4tA==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Greenway:Capital Chemist O’Connor</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Capital Chemist O’Connor<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">BP5BLWDF9i+vI13yZoE5ig==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 66 Transport Canberra Code BUS492</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 66 Transport Canberra Code BUS492<br/><b>Street</b>:Denman Prospect To Woden Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:2021<br/><b>Departure Time</b>:2038<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">JE7y8yevP/71Qtg8iWQDqQ==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 71 Transport Canberra Code BUS601</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 71 Transport Canberra Code BUS601<br/><b>Street</b>:Woden Interchange To Cooleman Court<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:2042<br/><b>Departure Time</b>:2049<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">gK+JhjeV1LfdKykxSnBZFg==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Greenway:Bunnings Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Bunnings Tuggeranong<br/><b>Street</b>:Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1015<br/><b>Departure Time</b>:1050<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">rYPsDyy3CKcANRbaouP0SA==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Braddon:Australia Post</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Australia Post<br/><b>Street</b>:2C/32 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:0840<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">xyJ6misfu6Z6DDeaE+7KVw==</guid>
+      <pubDate>Wed, 01 Sep 2021 08:27:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
