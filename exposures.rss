@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Sep 2021 03:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Sep 2021 04:14:54 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -3620,12 +3620,6 @@
       <pubDate>Thu, 02 Sep 2021 03:35:16 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Weston:Cade au Lait Cooleman Court</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cade au Lait Cooleman Court<br/><b>Street</b>:Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:0030<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">UFfJID5/a6EXm9+8ZZzHSQ==</guid>
-      <pubDate>Thu, 02 Sep 2021 03:35:16 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Weston:Cooleman Court Shopping Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
       <guid isPermaLink="false">VcRJfHFLWqSVm+eEwrKQdw==</guid>
@@ -3672,6 +3666,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">yBeegRGFCvfJNGjHY5FX4g==</guid>
       <pubDate>Thu, 02 Sep 2021 03:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Cafe au Lait Cooleman Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cafe au Lait Cooleman Court<br/><b>Street</b>:Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:0030<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">WkD1EtVsu8n0t5BiaIAi+w==</guid>
+      <pubDate>Thu, 02 Sep 2021 04:14:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
