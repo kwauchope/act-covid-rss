@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Sep 2021 09:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Sep 2021 10:21:23 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -3722,12 +3722,6 @@
       <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Fyshwick:Bidfood Canberra</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bidfood Canberra<br/><b>Street</b>:16 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 26 July 2021<br/><b>Arrival Time</b>:0530<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">jMDc6JqwiNLUcWziJM2peg==</guid>
-      <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Watson:Pharmacy and Australia Post</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Pharmacy and Australia Post<br/><b>Street</b>:1 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1150<br/><b>Departure Time</b>:1240<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">qJcDUcJPfXDyJqCJHZ6s8A==</guid>
@@ -3756,6 +3750,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bidfood Canberra<br/><b>Street</b>:16 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:0530<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">xflfi7zX3r1uvWSWgB8kjg==</guid>
       <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Bidfood Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bidfood Canberra<br/><b>Street</b>:16 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:0530<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">TDxdrjmTHds17cym2T4zWw==</guid>
+      <pubDate>Thu, 02 Sep 2021 10:21:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
