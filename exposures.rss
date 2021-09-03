@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Sep 2021 10:21:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 03:56:07 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -3440,12 +3440,6 @@
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) City:Construction Site, Levels - Ground, 1 and 2</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Construction Site, Levels - Ground, 1 and 2<br/><b>Street</b>:12 Moore Street<br/><b>Suburb</b>:City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:0850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">SoI4F21hY7lSQj/rwxUtjw==</guid>
-      <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Phillip:Westfield Woden</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Westfield Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:0745<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">TdslyBVzIOHi4W8ISi5Ifw==</guid>
@@ -3509,12 +3503,6 @@
       <title>(New) Fyshwick:Best Friends Pets</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Best Friends Pets<br/><b>Street</b>:1 Barrier Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">ykESdEmGK7GUbF1p9YKfUw==</guid>
-      <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Archived) City:Intermain</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Intermain<br/><b>Street</b>:64 Northbourne Avenue<br/><b>Suburb</b>:City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">ykpuaoJ56LhVZ2lOFbpdQw==</guid>
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
@@ -3638,12 +3626,6 @@
       <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) Braddon:Assembly The People'S Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People'S Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">0qrEbi0WNduttGZzJBmnzw==</guid>
-      <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Public Transport:Bus Route 66 Transport Canberra Code BUS355</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Bus Route 66 Transport Canberra Code BUS355<br/><b>Street</b>:Denman Prospect To Woden Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1927<br/><b>Departure Time</b>:1943<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">1n0MGoIlOjn1i6qqUPZ7Tw==</guid>
@@ -3756,6 +3738,60 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bidfood Canberra<br/><b>Street</b>:16 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:0530<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">TDxdrjmTHds17cym2T4zWw==</guid>
       <pubDate>Thu, 02 Sep 2021 10:21:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:1 Dickson Place<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">7nLa7uKjHWrj0sdbwJn6IQ==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Friendly Grocer</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Friendly Grocer<br/><b>Street</b>:6 Iluka Street<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1025<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">FNDeCG6BplidsP7jtL6Gsw==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Canberra City:Construction Site, Levels - Ground, 1 and 2</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Construction Site, Levels - Ground, 1 and 2<br/><b>Street</b>:12 Moore Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:0850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Io/j2aa9HfPXrXRyQGwkdA==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Friendly Grocer</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Friendly Grocer<br/><b>Street</b>:6 Iluka Street<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1925<br/><b>Departure Time</b>:2010<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">IxrtlDb0dO1R9nrrCwn7sw==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:BWS Dickson (Wolley Street)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:BWS Dickson (Wolley Street)<br/><b>Street</b>:U1/38 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">NMxtT5kHwI47PdiruIrDxQ==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Pharmacy and Post Office</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Pharmacy and Post Office<br/><b>Street</b>:18 Iluka Street<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">VMzQIIVQNSP78gXldx0OMA==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Canberra City:Intermain</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Intermain<br/><b>Street</b>:64 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 11 August 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">cfNxPPzWxwgVVP6JcxdWUw==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Braddon:Assembly The People's Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">w7xgiYm61ivLENI/WFLcRQ==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:La Cantina</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:La Cantina<br/><b>Street</b>:4 Iluka Street<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1955<br/><b>Departure Time</b>:2040<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">xYZSL8+OGhY8MKGSBYz8Lw==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

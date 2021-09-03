@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Sep 2021 10:21:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 03:56:07 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -113,10 +113,10 @@
       <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
     </item>
     <item>
-      <title>24 additional exposure sites</title>
+      <title>22 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Phillip:</b>5<br/><b>Public Transport:</b>5<br/><b>Gungahlin:</b>3<br/><b>City:</b>2<br/><b>Majura Park:</b>2<br/><b>Ainslie:</b>2<br/><b>Fyshwick:</b>1<br/><b>Watson:</b>1<br/><b>Greenway:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
-      <guid isPermaLink="false">Xm6MgjqyPF9HNH6/Oj1f2g==</guid>
+      <description><![CDATA[<b>Phillip:</b>5<br/><b>Public Transport:</b>5<br/><b>Gungahlin:</b>3<br/><b>Majura Park:</b>2<br/><b>Ainslie:</b>2<br/><b>Fyshwick:</b>1<br/><b>Watson:</b>1<br/><b>Greenway:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">NyIXVL7CzeMXM5dVazBTsw==</guid>
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
@@ -148,10 +148,10 @@
       <pubDate>Thu, 02 Sep 2021 04:14:54 +0000</pubDate>
     </item>
     <item>
-      <title>20 additional exposure sites</title>
+      <title>19 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Fyshwick:</b>7<br/><b>Mawson:</b>3<br/><b>O'Connor:</b>2<br/><b>Phillip:</b>2<br/><b>Watson:</b>1<br/><b>Dickson:</b>1<br/><b>Greenway:</b>1<br/><b>Franklin:</b>1<br/><b>Public Transport:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
-      <guid isPermaLink="false">PGagRDABbRjh2HM1d59w4Q==</guid>
+      <description><![CDATA[<b>Fyshwick:</b>7<br/><b>Mawson:</b>3<br/><b>O'Connor:</b>2<br/><b>Phillip:</b>2<br/><b>Watson:</b>1<br/><b>Dickson:</b>1<br/><b>Greenway:</b>1<br/><b>Franklin:</b>1<br/><b>Public Transport:</b>1<br/>]]></description>
+      <guid isPermaLink="false">ZJ08AfE/fHKV6pmMztjFyQ==</guid>
       <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
     </item>
     <item>
@@ -160,6 +160,13 @@
       <description><![CDATA[<b>Fyshwick:</b>1<br/>]]></description>
       <guid isPermaLink="false">e8B/LKmeHqkdxaBtmxpBfA==</guid>
       <pubDate>Thu, 02 Sep 2021 10:21:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Narrabundah:</b>4<br/><b>Canberra City:</b>2<br/><b>Dickson:</b>2<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">wd39lzr4ZcOx+mf4805y1Q==</guid>
+      <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
