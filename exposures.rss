@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 03:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 09:43:17 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -3632,12 +3632,6 @@
       <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) O'Connor:Capital Chemist O’Connor</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Capital Chemist O’Connor<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">1zUn1YJsPASM7iTW/a+azg==</guid>
-      <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Franklin:The Meadows Original Frozen Custard</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Meadows Original Frozen Custard<br/><b>Street</b>:127/3 Clare Burton Crescent<br/><b>Suburb</b>:Franklin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:1650<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">4fLKEewYemQhmEtp/CHcBw==</guid>
@@ -3689,12 +3683,6 @@
       <title>(New) Mawson:7-Eleven</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven<br/><b>Street</b>:1 Mawson Place<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1920<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">X30FH7YzuqmjwD/KQCKi0g==</guid>
-      <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Archived) O'Connor:Kopiku</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">d/QHkch64BJFs/CtUWpPJQ==</guid>
       <pubDate>Thu, 02 Sep 2021 09:05:04 +0000</pubDate>
     </item>
     <item>
@@ -3792,6 +3780,132 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:La Cantina<br/><b>Street</b>:4 Iluka Street<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1955<br/><b>Departure Time</b>:2040<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">xYZSL8+OGhY8MKGSBYz8Lw==</guid>
       <pubDate>Fri, 03 Sep 2021 03:56:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Hungry Jacks</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hungry Jacks<br/><b>Street</b>:Corner Gundaroo Drive And Gibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:0950<br/><b>Departure Time</b>:1040<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">/S8UmSDu3z1Th2bRY3gotQ==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Australia Post</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Australia Post<br/><b>Street</b>:22 Townsville Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1105<br/><b>Departure Time</b>:1150<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">6UL/xhbKXvAxI9PsKSYtww==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Ma Ma Dumpling, Fyshwick Fresh Food Markets</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ma Ma Dumpling, Fyshwick Fresh Food Markets<br/><b>Street</b>:36 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1140<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">8yHjgcwmbGWcEyMImKRcnQ==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Halal Poultry, Fyshwick Fresh Food Markets</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Halal Poultry, Fyshwick Fresh Food Markets<br/><b>Street</b>:36 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1035<br/><b>Departure Time</b>:1120<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">AqXFlrxSxOoydVsomjaDRw==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Crust Bakery Cafe, Fyshwick Fresh Food Markets</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Crust Bakery Cafe, Fyshwick Fresh Food Markets<br/><b>Street</b>:12 Dalby Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1040<br/><b>Departure Time</b>:1120<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">D8oSjzudPt8x5O4T2Ek87Q==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Emart Asian Supermarket</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Emart Asian Supermarket<br/><b>Street</b>:Shop 15/45 West Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1320<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Di2esJSOzLQHigaJWeIxrA==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Ziggy's Fruit Market, Fyshwick Fresh Food Markets</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ziggy's Fruit Market, Fyshwick Fresh Food Markets<br/><b>Street</b>:36 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1050<br/><b>Departure Time</b>:1135<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">FVZbv6mGc0+Gd3naYRHaFw==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) O’Connor:Capital Chemist</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Gslgo75KAdLcAOUB3MP23A==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1840<br/><b>Departure Time</b>:1940<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">IunaOklD8qWwj86LQ6glEQ==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Kan Sushi &amp; Poké</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kan Sushi & Poké<br/><b>Street</b>:3/221 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1150<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">MZw9ps1evp/iCqXe3JLRsQ==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Canberra Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">PNeO9bWwethdcGH3SiHbdA==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Palmerston:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:2/16A Kosciuszko Avenue<br/><b>Suburb</b>:Palmerston<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1910<br/><b>Departure Time</b>:1950<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">QSvi7JIVZcv7xKoSBHnmqA==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Conder:Caltex</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Caltex<br/><b>Street</b>:Tharwa Drive<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Qy02Gaq4pDeWtikp/+WC/Q==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Piccolo Market Coffee, Fyshwick Fresh Food Markets</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Piccolo Market Coffee, Fyshwick Fresh Food Markets<br/><b>Street</b>:36 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">VUyXFau/HbyxC2mMLBTRPw==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Deli Planet, Fyshwick Fresh Food Markets</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Deli Planet, Fyshwick Fresh Food Markets<br/><b>Street</b>:12 Dalby Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1045<br/><b>Departure Time</b>:1125<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">XZBUtxw7h6mFWfYl1cbdYw==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Florey:Pharmacy</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Pharmacy<br/><b>Street</b>:2 Kesteven Street<br/><b>Suburb</b>:Florey<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">YA2nTLrlEaLswifk2v/fWA==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:JAGA Swanson Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:JAGA Swanson Court<br/><b>Street</b>:Level 1, 11-17 Swanson Court<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1245<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">bCrP0ybzGTN6G65olBRRrA==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Fresh Food Markets</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fresh Food Markets<br/><b>Street</b>:36 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1020<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">mpughOwqlCARTSjyTg3kNw==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Canberra Centre- Men's Public Toilets (adjacent to Dangerfield)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Centre- Men's Public Toilets (adjacent to Dangerfield)<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">p055bXcOon46hOCKFobjrQ==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:Dan Murphy's</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dan Murphy's<br/><b>Street</b>:44 Dickson Place<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1745<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">q4y7brhu9aOeIFtBqAx4Vg==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) O’Connor:Kopiku</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">yBeegRGFCvfJNGjHY5FX4g==</guid>
+      <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
