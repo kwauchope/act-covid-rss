@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Sep 2021 03:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 03:46:35 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -4364,12 +4364,6 @@
       <pubDate>Sat, 04 Sep 2021 09:13:51 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Mawson:IGA X-press Swinger Hill</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-press Swinger Hill<br/><b>Street</b>:84 Ainsworth Street<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">pPZsMu0uM63Fi3gBLXlc0g==</guid>
-      <pubDate>Sat, 04 Sep 2021 09:13:51 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Dickson:Woolworths</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:1 Dickson Place<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">snvsBb2/akbBXoyj3lFp2w==</guid>
@@ -4854,6 +4848,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cellarbrations<br/><b>Street</b>:5/24-30 Ernest Cavanagh Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:2003<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">njYyE5jijtx6ye8AUbQGeQ==</guid>
       <pubDate>Tue, 07 Sep 2021 03:36:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Mawson:IGA Swinger Hill</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:IGA Swinger Hill<br/><b>Street</b>:84 Ainsworth Street<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">FrQsSYAsPeE/16CJvQsI4A==</guid>
+      <pubDate>Tue, 07 Sep 2021 03:46:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
