@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Sep 2021 09:52:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 23:30:12 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -317,12 +317,6 @@
       <title>(New) Belconnen:JAGA Swanson Court</title>
       <description><![CDATA[<b>Event Id</b>:800398<br/><b>Status</b>:New<br/><b>Exposure Site</b>:JAGA Swanson Court<br/><b>Street</b>:Level 1, 11-17 Swanson Court<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">tJZ6wCxJpV5vw+hh9y3k5Q==</guid>
-      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Majura Park:Costco Canberra</title>
-      <description><![CDATA[<b>Event Id</b>:800402<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Costco Canberra<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Majura Park<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">uBX820VAikTQd35PLGYbLg==</guid>
       <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
     </item>
     <item>
@@ -1196,12 +1190,6 @@
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) Majura Park:Bunnings Canberra Airport</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Bunnings Canberra Airport<br/><b>Street</b>:971 Majura Road<br/><b>Suburb</b>:Majura Park<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 09 August 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">ERnC9i0fqp4UcCttmkplpg==</guid>
-      <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
-    </item>
-    <item>
       <title>(Archived) Gungahlin:Chemist Warehouse</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Chemist Warehouse<br/><b>Street</b>:30 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 12 August 2021<br/><b>Arrival Time</b>:1020<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">EVv1d0yPj2g9lnKGJLaO7A==</guid>
@@ -1607,12 +1595,6 @@
       <title>(Archived) Lyneham:IGA</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:1 Wattle Place<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 14 August 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">NG7Jw3lXdAMurxqJUfiWoQ==</guid>
-      <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Archived) Majura Park:Costco</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Costco<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Majura Park<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">NNosDRsEfIXvcWIQWyEF/Q==</guid>
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
@@ -3356,12 +3338,6 @@
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Majura Park:Costco Canberra</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Costco Canberra<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Majura Park<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">9Rf37HCGh5y0CQdU2/ydJg==</guid>
-      <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Public Transport:Bus Route 70 Transport Canberra Code BUS376</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 70 Transport Canberra Code BUS376<br/><b>Street</b>:Cooleman Court To Woden Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1357<br/><b>Departure Time</b>:1407<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">9sRcIQNKHRlZimzk41FV+w==</guid>
@@ -3449,12 +3425,6 @@
       <title>(?) Phillip:Priceline Pharmacy Woden</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Priceline Pharmacy Woden<br/><b>Street</b>:Shop G98, Westfield Woden<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:0915<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">ipWAM5kI8SIjBoR4DT1yAw==</guid>
-      <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Majura Park:Petbarn</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Petbarn<br/><b>Street</b>:15 Mustange Avenue<br/><b>Suburb</b>:Majura Park<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1750<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">pN8b0E9JQlY0nS8gVUrvYw==</guid>
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
@@ -4610,18 +4580,6 @@
       <pubDate>Tue, 07 Sep 2021 03:36:41 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Majura Park:Chemist Warehouse</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chemist Warehouse<br/><b>Street</b>:Majura Park Shopping Centre, 18/26 Spitfire Avenue<br/><b>Suburb</b>:Majura Park<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">JVEP1+jq/gXP11s+IHojiA==</guid>
-      <pubDate>Tue, 07 Sep 2021 03:36:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Holt:Woolworths Kippax</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Kippax<br/><b>Street</b>:24/48 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1520<br/><b>Departure Time</b>:1610<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">K5Ae/gM5CFi/3Pb14Up+PA==</guid>
-      <pubDate>Tue, 07 Sep 2021 03:36:41 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Belconnen:Coles</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:2015<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">L9bRb4c5Ozg/t7Z/HPtmtA==</guid>
@@ -4742,12 +4700,6 @@
       <pubDate>Tue, 07 Sep 2021 08:36:54 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Charnwood:McDonalds</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonalds<br/><b>Street</b>:Corner Charnwood Place And Lhotsky Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">9ztqpGaIDwCgS9b2/O8IbA==</guid>
-      <pubDate>Tue, 07 Sep 2021 08:36:54 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) O'Connor:Capital Chemist</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1540<br/><b>Departure Time</b>:1620<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">BVlCqZo30b1fGeHj1j20Gw==</guid>
@@ -4763,12 +4715,6 @@
       <title>(New) Amaroo:Coles</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Horse Park Drive<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 03 September 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">ZG4pSinlawCNKXKmP7pJPA==</guid>
-      <pubDate>Tue, 07 Sep 2021 08:36:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Majura Park:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Majura Park Shopping Centre, 18/26 Spitfire Avenue<br/><b>Suburb</b>:Majura Park<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1820<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">cAxhrqIcj2xxe/xuDRBOcw==</guid>
       <pubDate>Tue, 07 Sep 2021 08:36:54 +0000</pubDate>
     </item>
     <item>
@@ -4938,6 +4884,54 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">yBeegRGFCvfJNGjHY5FX4g==</guid>
       <pubDate>Tue, 07 Sep 2021 09:52:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra Airport:Costco Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Costco Canberra<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">F/RFZd0XJrKBJY7B9l1vqA==</guid>
+      <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Chemist Warehouse Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chemist Warehouse Majura Park<br/><b>Street</b>:Majura Park Shopping Centre, 18/26 Spitfire Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">MFcEnwTHhc8lErW/tpv1rA==</guid>
+      <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Canberra Airport:Costco Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Costco Majura Park<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">T/2l9eQXywVtdYN1WxdlEQ==</guid>
+      <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Charnwood:McDonalds</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonalds<br/><b>Street</b>:Corner Charnwood Place And Lhotsky Street<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">a9SsME58n4SAwKXRxNV4xw==</guid>
+      <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra Airport:Costco Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Costco Canberra<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">cCIWsH+MyhdnlYEyjCVnxQ==</guid>
+      <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Canberra Airport:Bunnings</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Bunnings<br/><b>Street</b>:971 Majura Road<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 09 August 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">hlHBH3s74yWzKv/GjKUG2g==</guid>
+      <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Woolworths Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Majura Park<br/><b>Street</b>:Majura Park Shopping Centre, 18/26 Spitfire Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1820<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">mgcc2Ucxa4/pcXRKZ2QTXQ==</guid>
+      <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra Airport:Petbarn Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Petbarn Majura Park<br/><b>Street</b>:15 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1750<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">omjRi2IbkmJyvCMaQ3bQuA==</guid>
+      <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
