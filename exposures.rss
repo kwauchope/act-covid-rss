@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Sep 2021 04:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Sep 2021 07:45:18 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -269,12 +269,6 @@
       <title>(New) Belconnen:Samiuz</title>
       <description><![CDATA[<b>Event Id</b>:800404<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Samiuz<br/><b>Street</b>:3/57 Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1820<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">7p4KLXfVXEGg+gbcmNeO2w==</guid>
-      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Priceline Pharmacy Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:800402<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Priceline Pharmacy Tuggeranong<br/><b>Street</b>:Hyperdome Shopping Centre, 148 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">Bi01h1LDF8rEVxOEjhoVPA==</guid>
       <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
     </item>
     <item>
@@ -773,12 +767,6 @@
       <title>(?) Belconnen:Westfield</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Westfield<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 17 August 2021<br/><b>Arrival Time</b>:1110<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">4wEkah9SQOO/sUcl/Zkcyw==</guid>
-      <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Greenway:Priceline Pharmacy Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Priceline Pharmacy Tuggeranong<br/><b>Street</b>:148 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">52VXSQUrVL2Gg/I4Hwvmlg==</guid>
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
@@ -3974,12 +3962,6 @@
       <pubDate>Sat, 04 Sep 2021 03:03:46 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Wanniassa:Dominos Pizza Erindale</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dominos Pizza Erindale<br/><b>Street</b>:1/20 Gartside Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">XoLFg4trrMbx7bJwXqjnfw==</guid>
-      <pubDate>Sat, 04 Sep 2021 03:03:46 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Chisholm:Capital Chemist</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:42 Halley Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">YZXL3DRHHBlxBA6c2w8W5w==</guid>
@@ -4968,6 +4950,48 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Erindale Shopping Centre, 50-68 Comrie Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1650<br/><b>Departure Time</b>:1735<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">3g5+zY+C9SfPItx2nGCtqQ==</guid>
       <pubDate>Wed, 08 Sep 2021 04:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Greenway:Priceline Pharmacy Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Priceline Pharmacy Tuggeranong<br/><b>Street</b>:Shop 141, Tuggeranong South.Point Shopping Centre, 148 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">9mDprwnFwrcuzYx5EUBd5Q==</guid>
+      <pubDate>Wed, 08 Sep 2021 07:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kaleen:Caremore Plaza Pharmacy</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Caremore Plaza Pharmacy<br/><b>Street</b>:Shop 5, Georgina Crescent<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1155<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">O288HsIz4SvG8/von3wIjQ==</guid>
+      <pubDate>Wed, 08 Sep 2021 07:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:1020<br/><b>Departure Time</b>:1140<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">SH6IMFMhxrsVNYZMwy89KA==</guid>
+      <pubDate>Wed, 08 Sep 2021 07:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kaleen:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:1 Maribyrnong Avenue<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:1120<br/><b>Departure Time</b>:1205<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">T6jCtBK3kXoeYNNxLCNt9w==</guid>
+      <pubDate>Wed, 08 Sep 2021 07:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Ampol Foodary</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ampol Foodary<br/><b>Street</b>:3 Marconi Crescent<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:1555<br/><b>Departure Time</b>:1640<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">frjJacvkLBWZPU8n1AGzSw==</guid>
+      <pubDate>Wed, 08 Sep 2021 07:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Greenway:Priceline Pharmacy Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Priceline Pharmacy Tuggeranong<br/><b>Street</b>:Shop 141, Tuggeranong South.Point Shopping Centre, 148 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">plMmCesa5R+Xc6ecDUoEqg==</guid>
+      <pubDate>Wed, 08 Sep 2021 07:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Wanniassa:Domino's Pizza Erindale</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Domino's Pizza Erindale<br/><b>Street</b>:1/20 Gartside Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">zxNdp6ssW2AF2EW0r5AoHQ==</guid>
+      <pubDate>Wed, 08 Sep 2021 07:45:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

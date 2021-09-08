@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Sep 2021 04:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Sep 2021 07:45:18 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -78,10 +78,10 @@
       <pubDate>Sun, 29 Aug 2021 08:57:19 +0000</pubDate>
     </item>
     <item>
-      <title>14 additional exposure sites</title>
+      <title>13 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Holt:</b>3<br/><b>Belconnen:</b>3<br/><b>Phillip:</b>3<br/><b>Canberra City:</b>1<br/><b>Calwell:</b>1<br/><b>Weston:</b>1<br/><b>Greenway:</b>1<br/><b>Conder:</b>1<br/>]]></description>
-      <guid isPermaLink="false">ZY1bFJIink2kyVdGXSLFaA==</guid>
+      <description><![CDATA[<b>Holt:</b>3<br/><b>Belconnen:</b>3<br/><b>Phillip:</b>3<br/><b>Canberra City:</b>1<br/><b>Calwell:</b>1<br/><b>Weston:</b>1<br/><b>Conder:</b>1<br/>]]></description>
+      <guid isPermaLink="false">t++vXcne7l5bDXmv6UTsEw==</guid>
       <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
     </item>
     <item>
@@ -99,10 +99,10 @@
       <pubDate>Tue, 31 Aug 2021 02:47:08 +0000</pubDate>
     </item>
     <item>
-      <title>443 additional exposure sites</title>
+      <title>442 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>51<br/><b>Public Transport:</b>50<br/><b>Gungahlin:</b>36<br/><b>Canberra City:</b>34<br/><b>Fyshwick:</b>24<br/><b>Phillip:</b>19<br/><b>Greenway:</b>17<br/><b>Casey:</b>15<br/><b>Dickson:</b>15<br/><b>Wanniassa:</b>14<br/><b>Nicholls:</b>14<br/><b>Amaroo:</b>12<br/><b>Bruce:</b>12<br/><b>Kingston:</b>11<br/><b>Lyneham:</b>10<br/><b>Weston:</b>10<br/><b>Mitchell:</b>7<br/><b>Charnwood:</b>7<br/><b>Turner:</b>7<br/><b>Griffith:</b>6<br/><b>Barton:</b>6<br/><b>O'Connor:</b>5<br/><b>Harrison:</b>5<br/><b>Mawson:</b>5<br/><b>Spence:</b>4<br/><b>Evatt:</b>4<br/><b>Deakin:</b>3<br/><b>Reid:</b>3<br/><b>Ngunnawal:</b>3<br/><b>Holt:</b>3<br/><b>Chisholm:</b>3<br/><b>Kambah:</b>2<br/><b>Melba:</b>2<br/><b>Macquarie:</b>2<br/><b>Franklin:</b>2<br/><b>Chapman:</b>2<br/><b>Kaleen:</b>2<br/><b>Aranda:</b>1<br/><b>Hawker:</b>1<br/><b>Cook:</b>1<br/><b>Bonner:</b>1<br/><b>Chifley:</b>1<br/><b>Forde:</b>1<br/><b>Symonston:</b>1<br/><b>Pearce:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Hume:</b>1<br/><b>Florey:</b>1<br/><b>Pialligo:</b>1<br/><b>Campbell:</b>1<br/><b>Denman Prospect:</b>1<br/><b>Downer:</b>1<br/>]]></description>
-      <guid isPermaLink="false">9+wFUGHrIQNXZxJLo285Jw==</guid>
+      <description><![CDATA[<b>Belconnen:</b>51<br/><b>Public Transport:</b>50<br/><b>Gungahlin:</b>36<br/><b>Canberra City:</b>34<br/><b>Fyshwick:</b>24<br/><b>Phillip:</b>19<br/><b>Greenway:</b>16<br/><b>Casey:</b>15<br/><b>Dickson:</b>15<br/><b>Wanniassa:</b>14<br/><b>Nicholls:</b>14<br/><b>Amaroo:</b>12<br/><b>Bruce:</b>12<br/><b>Kingston:</b>11<br/><b>Lyneham:</b>10<br/><b>Weston:</b>10<br/><b>Mitchell:</b>7<br/><b>Charnwood:</b>7<br/><b>Turner:</b>7<br/><b>Griffith:</b>6<br/><b>Barton:</b>6<br/><b>O'Connor:</b>5<br/><b>Harrison:</b>5<br/><b>Mawson:</b>5<br/><b>Spence:</b>4<br/><b>Evatt:</b>4<br/><b>Deakin:</b>3<br/><b>Reid:</b>3<br/><b>Ngunnawal:</b>3<br/><b>Holt:</b>3<br/><b>Chisholm:</b>3<br/><b>Kambah:</b>2<br/><b>Melba:</b>2<br/><b>Macquarie:</b>2<br/><b>Franklin:</b>2<br/><b>Chapman:</b>2<br/><b>Kaleen:</b>2<br/><b>Aranda:</b>1<br/><b>Hawker:</b>1<br/><b>Cook:</b>1<br/><b>Bonner:</b>1<br/><b>Chifley:</b>1<br/><b>Forde:</b>1<br/><b>Symonston:</b>1<br/><b>Pearce:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Hume:</b>1<br/><b>Florey:</b>1<br/><b>Pialligo:</b>1<br/><b>Campbell:</b>1<br/><b>Denman Prospect:</b>1<br/><b>Downer:</b>1<br/>]]></description>
+      <guid isPermaLink="false">Bhil5Xhsn11kJg+3V7iOCg==</guid>
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
@@ -176,10 +176,10 @@
       <pubDate>Fri, 03 Sep 2021 09:43:17 +0000</pubDate>
     </item>
     <item>
-      <title>50 additional exposure sites</title>
+      <title>49 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Chisholm:</b>9<br/><b>Belconnen:</b>8<br/><b>Mawson:</b>4<br/><b>Holt:</b>4<br/><b>Phillip:</b>4<br/><b>Casey:</b>4<br/><b>Gungahlin:</b>3<br/><b>Wanniassa:</b>3<br/><b>Dickson:</b>3<br/><b>Weston:</b>2<br/><b>Florey:</b>2<br/><b>Calwell:</b>1<br/><b>Mitchell:</b>1<br/><b>Macquarie:</b>1<br/><b>Nicholls:</b>1<br/>]]></description>
-      <guid isPermaLink="false">QQ+rjpADPDqbg8ei3U44Yw==</guid>
+      <description><![CDATA[<b>Chisholm:</b>9<br/><b>Belconnen:</b>8<br/><b>Mawson:</b>4<br/><b>Holt:</b>4<br/><b>Phillip:</b>4<br/><b>Casey:</b>4<br/><b>Gungahlin:</b>3<br/><b>Dickson:</b>3<br/><b>Wanniassa:</b>2<br/><b>Weston:</b>2<br/><b>Florey:</b>2<br/><b>Calwell:</b>1<br/><b>Mitchell:</b>1<br/><b>Macquarie:</b>1<br/><b>Nicholls:</b>1<br/>]]></description>
+      <guid isPermaLink="false">E9Et8WkhpLU0xIUjiVpMLg==</guid>
       <pubDate>Sat, 04 Sep 2021 03:03:46 +0000</pubDate>
     </item>
     <item>
@@ -258,6 +258,13 @@
       <description><![CDATA[<b>Wanniassa:</b>1<br/>]]></description>
       <guid isPermaLink="false">5M874qalldZxpAR7LI56QA==</guid>
       <pubDate>Wed, 08 Sep 2021 04:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Greenway:</b>2<br/><b>Kaleen:</b>2<br/><b>Wanniassa:</b>1<br/><b>Kambah:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">+7+bR/pg6bFlKrAba2Sn9A==</guid>
+      <pubDate>Wed, 08 Sep 2021 07:45:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
