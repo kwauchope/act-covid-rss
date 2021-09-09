@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Sep 2021 07:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Sep 2021 02:36:14 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -246,10 +246,10 @@
       <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
     </item>
     <item>
-      <title>14 additional exposure sites</title>
+      <title>13 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Holt:</b>6<br/><b>Greenway:</b>2<br/><b>O'Connor:</b>2<br/><b>Mawson:</b>1<br/><b>Charnwood:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
-      <guid isPermaLink="false">74OGoq9pmDUjF1mKP+Oktg==</guid>
+      <description><![CDATA[<b>Holt:</b>5<br/><b>Greenway:</b>2<br/><b>O'Connor:</b>2<br/><b>Mawson:</b>1<br/><b>Charnwood:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">n/E87U5HKAZOacL35w7gqA==</guid>
       <pubDate>Wed, 08 Sep 2021 02:33:23 +0000</pubDate>
     </item>
     <item>
@@ -265,6 +265,13 @@
       <description><![CDATA[<b>Greenway:</b>2<br/><b>Kaleen:</b>2<br/><b>Wanniassa:</b>1<br/><b>Kambah:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
       <guid isPermaLink="false">+7+bR/pg6bFlKrAba2Sn9A==</guid>
       <pubDate>Wed, 08 Sep 2021 07:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>26 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Macquarie:</b>15<br/><b>Belconnen:</b>3<br/><b>Hawker:</b>3<br/><b>Mitchell:</b>2<br/><b>Holt:</b>1<br/><b>Phillip:</b>1<br/><b>Amaroo:</b>1<br/>]]></description>
+      <guid isPermaLink="false">tcPoCRAdFqBMfSjZgyVQiQ==</guid>
+      <pubDate>Thu, 09 Sep 2021 02:36:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
