@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Sep 2021 09:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 02:36:36 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -5018,12 +5018,6 @@
       <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) O’Connor:Capital Chemist</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">Gslgo75KAdLcAOUB3MP23A==</guid>
-      <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Gungahlin:Woolworths</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 05 September 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">JnSxzjbAC1cl2+4lt+8RhQ==</guid>
@@ -5274,6 +5268,126 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Woolworths Kippax<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">wyyZi1qy+FZn+fVJ9DYDPw==</guid>
       <pubDate>Thu, 09 Sep 2021 09:21:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 9 Transport Canberra Code BUS322</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 9 Transport Canberra Code BUS322<br/><b>Street</b>:Bruce To Belconnen<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:1528<br/><b>Departure Time</b>:1538<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">+orvRjKXi+kIUJXm3HdKeA==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) O'Connor:Capital Chemist O’Connor</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Capital Chemist O’Connor<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">1zUn1YJsPASM7iTW/a+azg==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">8BrFRm5/ntAY4L14kMKUmQ==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 03 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">9QREv/YHN5Oqs15MsIP8ww==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Dan Murphy's</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dan Murphy's<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">AI3J/tkRiWvvc1M2Jl9otQ==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">BkygUDiPMPIvgpQ7umfK0w==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Priceline Pharmacy</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Priceline Pharmacy<br/><b>Street</b>:Marketplace Gungahlin, 33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:1635<br/><b>Departure Time</b>:1725<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">GFbqR8egXrnum11pGTDErQ==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">HK6Yx556Yfpv/9kSs5mK8A==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">HkJJV9j42/u0oeLfU0xgvA==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">JlcGez/aYxhiNzAkqst/eA==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">PnvywAfDxYijBDT34/0+vQ==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1825<br/><b>Departure Time</b>:1920<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">Sq62lJ2lo8PaihvrAdFjKg==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 05 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">UfYtURxX2T6ycbgG/ROP8g==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Australian Bureau of Statistics (Level 1)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Australian Bureau of Statistics (Level 1)<br/><b>Street</b>:45 Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:0840<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">VsM43s0Bbgun4nFbf8LFww==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ZiyRlCbWXUin4ARmomJL/w==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Australian Bureau of Statistics (Entire Building)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Australian Bureau of Statistics (Entire Building)<br/><b>Street</b>:45 Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:0840<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">dg+K83r6BP/omy6L0TkWFA==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:2 Primmer Court<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1530<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">hjDYJKQKhQ9gMn+oFsArjw==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">qPEs5xss71oOTrbF/LwOtA==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">s8s3VCY6X4Znil6uQXM8jg==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:IBIS Budget Hotel Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">zBwf6Z2NDPgwDWXjUVJj5A==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

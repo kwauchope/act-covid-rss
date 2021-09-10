@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Sep 2021 09:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 02:36:36 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -267,10 +267,10 @@
       <pubDate>Thu, 09 Sep 2021 02:36:14 +0000</pubDate>
     </item>
     <item>
-      <title>32 additional exposure sites</title>
+      <title>31 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Gungahlin:</b>18<br/><b>Conder:</b>2<br/><b>Holt:</b>2<br/><b>Belconnen:</b>2<br/><b>Public Transport:</b>2<br/><b>Curtin:</b>1<br/><b>Canberra City:</b>1<br/><b>Crace:</b>1<br/><b>Braddon:</b>1<br/><b>O’Connor:</b>1<br/><b>Macquarie:</b>1<br/>]]></description>
-      <guid isPermaLink="false">PQRY2MBXwYgmVOKL8TbncA==</guid>
+      <description><![CDATA[<b>Gungahlin:</b>18<br/><b>Conder:</b>2<br/><b>Holt:</b>2<br/><b>Belconnen:</b>2<br/><b>Public Transport:</b>2<br/><b>Curtin:</b>1<br/><b>Canberra City:</b>1<br/><b>Crace:</b>1<br/><b>Braddon:</b>1<br/><b>Macquarie:</b>1<br/>]]></description>
+      <guid isPermaLink="false">BgKEARh+ncv3ona1KiS2VQ==</guid>
       <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
     </item>
     <item>
@@ -279,6 +279,13 @@
       <description><![CDATA[<b>Canberra City:</b>6<br/><b>Dickson:</b>2<br/><b>Holt:</b>1<br/><b>Campbell:</b>1<br/><b>Mitchell:</b>1<br/><b>Belconnen:</b>1<br/><b>Lyneham:</b>1<br/><b>Franklin:</b>1<br/><b>Gungahlin:</b>1<br/><b>Macquarie:</b>1<br/><b>Public Transport:</b>1<br/>]]></description>
       <guid isPermaLink="false">vOkVgyeWPHZKzP55lSjrYA==</guid>
       <pubDate>Thu, 09 Sep 2021 09:21:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>20 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Watson:</b>12<br/><b>Belconnen:</b>4<br/><b>Kambah:</b>1<br/><b>Gungahlin:</b>1<br/><b>O'Connor:</b>1<br/><b>Public Transport:</b>1<br/>]]></description>
+      <guid isPermaLink="false">m0EOdFrFrLWkbFbOLQao0A==</guid>
+      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
