@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 02:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 03:23:04 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -281,11 +281,18 @@
       <pubDate>Thu, 09 Sep 2021 09:21:26 +0000</pubDate>
     </item>
     <item>
-      <title>20 additional exposure sites</title>
+      <title>18 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Watson:</b>12<br/><b>Belconnen:</b>4<br/><b>Kambah:</b>1<br/><b>Gungahlin:</b>1<br/><b>O'Connor:</b>1<br/><b>Public Transport:</b>1<br/>]]></description>
-      <guid isPermaLink="false">m0EOdFrFrLWkbFbOLQao0A==</guid>
+      <description><![CDATA[<b>Watson:</b>12<br/><b>Belconnen:</b>2<br/><b>Kambah:</b>1<br/><b>Gungahlin:</b>1<br/><b>O'Connor:</b>1<br/><b>Public Transport:</b>1<br/>]]></description>
+      <guid isPermaLink="false">7Ou/2W/261EzVHkpNu/FQg==</guid>
       <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Belconnen:</b>2<br/>]]></description>
+      <guid isPermaLink="false">EZaOwS5QzTbhHKK0XxFyGQ==</guid>
+      <pubDate>Fri, 10 Sep 2021 03:23:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
