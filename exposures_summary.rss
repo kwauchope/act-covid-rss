@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 04:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 09:13:30 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -239,10 +239,10 @@
       <pubDate>Tue, 07 Sep 2021 23:30:12 +0000</pubDate>
     </item>
     <item>
-      <title>12 additional exposure sites</title>
+      <title>11 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Holt:</b>5<br/><b>Greenway:</b>2<br/><b>Mawson:</b>1<br/><b>O'Connor:</b>1<br/><b>Charnwood:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
-      <guid isPermaLink="false">rbjZCe5/g2ynoKRYUgM9yQ==</guid>
+      <description><![CDATA[<b>Holt:</b>5<br/><b>Greenway:</b>2<br/><b>Mawson:</b>1<br/><b>Charnwood:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">x3bxxP9hQ0dJb5pwJiEuVQ==</guid>
       <pubDate>Wed, 08 Sep 2021 02:33:23 +0000</pubDate>
     </item>
     <item>
@@ -267,17 +267,17 @@
       <pubDate>Thu, 09 Sep 2021 02:36:14 +0000</pubDate>
     </item>
     <item>
-      <title>31 additional exposure sites</title>
+      <title>30 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Gungahlin:</b>18<br/><b>Conder:</b>2<br/><b>Holt:</b>2<br/><b>Belconnen:</b>2<br/><b>Public Transport:</b>2<br/><b>Curtin:</b>1<br/><b>Canberra City:</b>1<br/><b>Crace:</b>1<br/><b>Braddon:</b>1<br/><b>Macquarie:</b>1<br/>]]></description>
-      <guid isPermaLink="false">BgKEARh+ncv3ona1KiS2VQ==</guid>
+      <description><![CDATA[<b>Gungahlin:</b>18<br/><b>Conder:</b>2<br/><b>Holt:</b>2<br/><b>Belconnen:</b>2<br/><b>Public Transport:</b>2<br/><b>Curtin:</b>1<br/><b>Canberra City:</b>1<br/><b>Crace:</b>1<br/><b>Macquarie:</b>1<br/>]]></description>
+      <guid isPermaLink="false">mLqh4OsE8BrnRCK0ZeBf4g==</guid>
       <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>17 additional exposure sites</title>
+      <title>16 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>6<br/><b>Dickson:</b>2<br/><b>Holt:</b>1<br/><b>Campbell:</b>1<br/><b>Mitchell:</b>1<br/><b>Belconnen:</b>1<br/><b>Lyneham:</b>1<br/><b>Franklin:</b>1<br/><b>Gungahlin:</b>1<br/><b>Macquarie:</b>1<br/><b>Public Transport:</b>1<br/>]]></description>
-      <guid isPermaLink="false">vOkVgyeWPHZKzP55lSjrYA==</guid>
+      <description><![CDATA[<b>Canberra City:</b>5<br/><b>Dickson:</b>2<br/><b>Holt:</b>1<br/><b>Campbell:</b>1<br/><b>Mitchell:</b>1<br/><b>Belconnen:</b>1<br/><b>Lyneham:</b>1<br/><b>Franklin:</b>1<br/><b>Gungahlin:</b>1<br/><b>Macquarie:</b>1<br/><b>Public Transport:</b>1<br/>]]></description>
+      <guid isPermaLink="false">E1y2Qk4vVf+NrmFQmUf0rw==</guid>
       <pubDate>Thu, 09 Sep 2021 09:21:26 +0000</pubDate>
     </item>
     <item>
@@ -300,6 +300,13 @@
       <description><![CDATA[<b>Belconnen:</b>1<br/>]]></description>
       <guid isPermaLink="false">C0mevnA3swePos/Sq7kX7g==</guid>
       <pubDate>Fri, 10 Sep 2021 04:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Holt:</b>3<br/><b>Dunlop:</b>2<br/><b>Charnwood:</b>2<br/><b>Public Transport:</b>2<br/><b>O’Connor:</b>1<br/><b>Canberra City:</b>1<br/><b>Braddon:</b>1<br/><b>Griffith:</b>1<br/>]]></description>
+      <guid isPermaLink="false">vTvXjH8VLIehtxj/lgua5A==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

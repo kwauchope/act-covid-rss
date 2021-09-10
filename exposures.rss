@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Sep 2021 04:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 09:13:30 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -4736,12 +4736,6 @@
       <pubDate>Wed, 08 Sep 2021 02:33:23 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) O'Connor:Kopiku</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">d/QHkch64BJFs/CtUWpPJQ==</guid>
-      <pubDate>Wed, 08 Sep 2021 02:33:23 +0000</pubDate>
-    </item>
-    <item>
       <title>(Archived) Holt:Woolworths Kippax</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Woolworths Kippax<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1440<br/><b>Departure Time</b>:1535<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">i47xCmGUlmR0+2JvHYtRZA==</guid>
@@ -5042,12 +5036,6 @@
       <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Braddon:7-Eleven</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven<br/><b>Street</b>:20 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1120<br/><b>Departure Time</b>:1210<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">Q4AsNlEbsvFB1CtFPQhYaA==</guid>
-      <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Gungahlin:Dobinsons</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dobinsons<br/><b>Street</b>:Marketplace Gungahlin, Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">RJpxSxeV3NLfG3F2i3WPRg==</guid>
@@ -5183,12 +5171,6 @@
       <title>(?) Macquarie:TSG Jamison</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:TSG Jamison<br/><b>Street</b>:Jamison Plaza, Bowman Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">9C9+N/vKLGTxaqT9hxOLXg==</guid>
-      <pubDate>Thu, 09 Sep 2021 09:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Canberra City:Develins City Chemist</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Develins City Chemist<br/><b>Street</b>:3/4 Garema Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:0920<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">9vMJQ3fEkAYtKBFWYZsMfg==</guid>
       <pubDate>Thu, 09 Sep 2021 09:21:26 +0000</pubDate>
     </item>
     <item>
@@ -5388,6 +5370,84 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:40 Cameron Avenue (Entire Building)<br/><b>Street</b>:40 Cameron Avenue<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:0840<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">Xh2XQcb9+gPVh0w42H60Yw==</guid>
       <pubDate>Fri, 10 Sep 2021 04:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Shop Rite</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Shop Rite<br/><b>Street</b>:2 Barker Street<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">6HNHEDsqj8TFW+zhiuVWuQ==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Charnwood:Shell Coles Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Shell Coles Express<br/><b>Street</b>:Lhotsky Street And Charnwood Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1510<br/><b>Departure Time</b>:1610<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">7hqmbKtAQfUItN2Hn9sKAA==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 2 Transport Canberra Code BUS329</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 2 Transport Canberra Code BUS329<br/><b>Street</b>:Wentworth Avenue (Fyshwick) To Canberra Outlet Centre<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1019<br/><b>Departure Time</b>:1026<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">Ehw1CDfX613bxZOQ1Ho7oA==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Braddon:7-Eleven</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:7-Eleven<br/><b>Street</b>:20 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:1120<br/><b>Departure Time</b>:1210<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">IMde5uVDsafH5aQUJPMgJw==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holt:Kippax Fair Shopping Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kippax Fair Shopping Centre<br/><b>Street</b>:26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1820<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">L//nnZw+tOb90ti/zbzvjg==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holt:The Reject Shop Kippax Fair</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Reject Shop Kippax Fair<br/><b>Street</b>:Kippax Fair Shopping Centre, Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">NLnELRNkq08IJlDrQE8acQ==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:Develins City Chemist</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Develins City Chemist<br/><b>Street</b>:3/4 Garema Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:2120<br/><b>Departure Time</b>:2215<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">eaVjcL9OQCASLSJidMbcKA==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 2 Transport Canberra Code BUS322</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 2 Transport Canberra Code BUS322<br/><b>Street</b>:Canberra Outlet Centre To Wentworth Avenue (Fyshwick)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1328<br/><b>Departure Time</b>:1334<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">ghrxXvt7/Lfadk/LnU/AzA==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dunlop:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:80 Lance Hill Avenue<br/><b>Suburb</b>:Dunlop<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:1510<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">hFNnX6RK+jzQrzFDtj/aMg==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holt:ALDI Kippax Fair</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI Kippax Fair<br/><b>Street</b>:Kippax Fair Shopping Centre, Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1720<br/><b>Departure Time</b>:1820<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">qAe8Wy8pkRGambxFj+/MYQ==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Charnwood:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:25-30 Charnwood Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:1440<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">vle/D1JMwqSTBq93sWcSPw==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dunlop:BWS</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:BWS<br/><b>Street</b>:Lot 4/68 Lance Hill Avenue<br/><b>Suburb</b>:Dunlop<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">w0+7BYpJ/O7TrvyOjzZ+XQ==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) O’Connor:Kopiku</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">yBeegRGFCvfJNGjHY5FX4g==</guid>
+      <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
