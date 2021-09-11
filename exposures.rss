@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Sep 2021 02:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Sep 2021 09:48:32 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -5258,12 +5258,6 @@
       <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) O'Connor:Capital Chemist O’Connor</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Capital Chemist O’Connor<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">1zUn1YJsPASM7iTW/a+azg==</guid>
-      <pubDate>Fri, 10 Sep 2021 02:36:36 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Watson:IBIS Budget Hotel Canberra</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IBIS Budget Hotel Canberra<br/><b>Street</b>:15 Tay Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">8BrFRm5/ntAY4L14kMKUmQ==</guid>
@@ -5498,12 +5492,6 @@
       <pubDate>Sat, 11 Sep 2021 02:34:37 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) O'Connor:Kopiku</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">d/QHkch64BJFs/CtUWpPJQ==</guid>
-      <pubDate>Sat, 11 Sep 2021 02:34:37 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Public Transport:Bus Route 5 Transport Canberra Code BUS538</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 5 Transport Canberra Code BUS538<br/><b>Street</b>:Lanyon Shops To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:0819<br/><b>Departure Time</b>:0920<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">dJjTHxZzXq/LhJWDvf7Law==</guid>
@@ -5544,6 +5532,120 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Lanyon Marketplace, 4 Sidney Nolan Street<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1550<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">vtuzUwnS31dySnZwA2Ob8w==</guid>
       <pubDate>Sat, 11 Sep 2021 02:34:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 81 Transport Canberra Code BUS709</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 81 Transport Canberra Code BUS709<br/><b>Street</b>:Tuggeranong Interchange To Gordon (Knoke Ave)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1410<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">2RhMt7uxDAc+Q1dF4A8emA==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 66 Transport Canberra Code BUS504</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 66 Transport Canberra Code BUS504<br/><b>Street</b>:Woden (Launceston St) To Coombs (Fred Daly Ave)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1137<br/><b>Departure Time</b>:1157<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">9bfpfzOSf1ApP7hepmHQHA==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 4 Transport Canberra Code BUS629</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 4 Transport Canberra Code BUS629<br/><b>Street</b>:Tuggeranong Interchange To Woden (Launceston St)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1106<br/><b>Departure Time</b>:1125<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">AJefpdm1rSX9w0yfjhzxdg==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Conder:Corks Liquor</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Corks Liquor<br/><b>Street</b>:18 Norman Lindsay Street<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:1640<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">BVpBEU/WUQV25u8JPDraxA==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Conder:Corks Liquor</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Corks Liquor<br/><b>Street</b>:18 Norman Lindsay Street<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:1945<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Dk9+ggTnxHGX0/QkCD0/JA==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) O’Connor:Capital Chemist</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:9 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Gslgo75KAdLcAOUB3MP23A==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Conder:Corks Liquor</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Corks Liquor<br/><b>Street</b>:18 Norman Lindsay Street<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1840<br/><b>Departure Time</b>:1920<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">MC2mj0smhlfXztx4eX7bow==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 4 Transport Canberra Code BUS620</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 4 Transport Canberra Code BUS620<br/><b>Street</b>:Woden (Launceston St) To Tuggeranong Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1314<br/><b>Departure Time</b>:1332<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">OWkcB3RcjPXN3gmFYdU07Q==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Costco Fuel</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Costco Fuel<br/><b>Street</b>:39 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1530<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">Sli5JrfS1GKcK/bLl5XbeQ==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:Coffee Guru</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coffee Guru<br/><b>Street</b>:Casey Marketown, 15 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:0730<br/><b>Departure Time</b>:0810<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">Za6VdzhwrCuW7R057udtVA==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Costco Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Costco Canberra<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1710<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">cuxm0WJOskrBS8+ZR1k51w==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Woolworths Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Tuggeranong<br/><b>Street</b>:Corner Anketell And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">dtbHruuIUns8ys4JwWiKkw==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Conder:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Lanyon Marketplace, 4 Sidney Nolan Street<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1850<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">e9uteAq2Us5gwyx06zYE+Q==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:Coffee Guru</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coffee Guru<br/><b>Street</b>:Casey Marketown, 15 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:0740<br/><b>Departure Time</b>:0820<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">hhtnLyHG/vNMvWsJ58/U7Q==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 66 Transport Canberra Code BUS504</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 66 Transport Canberra Code BUS504<br/><b>Street</b>:Coombs (Annabelle View) To Woden (Launceston St)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1255<br/><b>Departure Time</b>:1307<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">m+ES7uqIUWx6Ocdg0yFUOA==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:7-Eleven</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven<br/><b>Street</b>:10 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1820<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">ubUufa/Vn8+07YeXVWAdsw==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:7-Eleven</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven<br/><b>Street</b>:10 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1415<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">uu67LXcEP9WKgpZlblUffQ==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 81 Transport Canberra Code BUS478</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 81 Transport Canberra Code BUS478<br/><b>Street</b>:Gordon (Knoke Ave) To Tuggeranong Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1038<br/><b>Departure Time</b>:1105<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">vBz9TepPBWpLdW9vDik62Q==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) O’Connor:Kopiku</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Kopiku<br/><b>Street</b>:1/5 Sargood Street<br/><b>Suburb</b>:O’Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">yBeegRGFCvfJNGjHY5FX4g==</guid>
+      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
