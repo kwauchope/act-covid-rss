@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Sep 2021 02:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Sep 2021 08:54:11 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -5676,6 +5676,84 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:80 Lance Hill Avenue<br/><b>Suburb</b>:Dunlop<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">rJjzCbUWrssgfgFNl324IA==</guid>
       <pubDate>Sun, 12 Sep 2021 02:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:Nipperville Early Learning Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Nipperville Early Learning Centre<br/><b>Street</b>:6 Gwynne Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1810<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">1hbmXDapHRCvne/D2tlPoQ==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Dickson:CG's Discount Tobacconist</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:CG's Discount Tobacconist<br/><b>Street</b>:25 Dickson Place<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:1050<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">BZJXAG9OVlZ+aAbaPZVlMQ==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Mint Rd</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mint Rd<br/><b>Street</b>:4/59 Boolimba Crescent<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:0910<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Dsc4rYgGC6WozNY+rogBBA==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:1 Dickson Place<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 03 September 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Hly8pNNqwrXWTSyWtOQKZQ==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Friendly Grocer</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Friendly Grocer<br/><b>Street</b>:6 Iluka Street<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1340<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Lk2NLx4VwupMbuCM9G+f1g==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Dickson:CG's Discount Tobacconist</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:CG's Discount Tobacconist<br/><b>Street</b>:25 Dickson Place<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:1410<br/><b>Departure Time</b>:1510<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">P+0y8F+2N3qVH7eNJ+D2HQ==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Garran:Malkara Specialist School</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Malkara Specialist School<br/><b>Street</b>:53 Wisdom Street<br/><b>Suburb</b>:Garran<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">PJUOzsJDU4r5FiVBys204g==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Mint Rd</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mint Rd<br/><b>Street</b>:4/59 Boolimba Crescent<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:0825<br/><b>Departure Time</b>:0905<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Uq/RXiiWvtu11oXkUluAMQ==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 50 Transport Canberra Code BUS435</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 50 Transport Canberra Code BUS435<br/><b>Street</b>:Watson Shops To Dickson Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:0619<br/><b>Departure Time</b>:0628<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">YZyUnydMGnao9LXuwZ/0YQ==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Mint Rd</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mint Rd<br/><b>Street</b>:4/59 Boolimba Crescent<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:0835<br/><b>Departure Time</b>:0910<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">dzK5+LqAkQjruIOFS7V4/w==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Winnunga Nimmityjah Aboriginal Health Service - Main Reception in the new building</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Winnunga Nimmityjah Aboriginal Health Service - Main Reception in the new building<br/><b>Street</b>:63 Boolimba Crescent<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">fCoN+ifCE2vJt6jDt3GVSQ==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:Nipperville Early Learning Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Nipperville Early Learning Centre<br/><b>Street</b>:6 Gwynne Street<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1810<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">i5JkMUNAq03LVQoHzLzpNw==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Garran:Malkara Specialist School</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Malkara Specialist School<br/><b>Street</b>:53 Wisdom Street<br/><b>Suburb</b>:Garran<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">xngBsPBW/EcNTTm2yf6m/w==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

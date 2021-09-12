@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Sep 2021 02:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Sep 2021 08:54:12 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -328,6 +328,13 @@
       <description><![CDATA[<b>Dunlop:</b>3<br/><b>Charnwood:</b>2<br/><b>O'Connor:</b>2<br/>]]></description>
       <guid isPermaLink="false">uVtPed6L+Z0h/7nZv+pm+g==</guid>
       <pubDate>Sun, 12 Sep 2021 02:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Narrabundah:</b>5<br/><b>Dickson:</b>3<br/><b>Garran:</b>2<br/><b>Watson:</b>2<br/><b>Public Transport:</b>1<br/>]]></description>
+      <guid isPermaLink="false">ANIukMFYudGmXNukB8u5qg==</guid>
+      <pubDate>Sun, 12 Sep 2021 08:54:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
