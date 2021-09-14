@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Sep 2021 02:40:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 08:17:34 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -99,10 +99,10 @@
       <pubDate>Tue, 31 Aug 2021 02:47:08 +0000</pubDate>
     </item>
     <item>
-      <title>437 additional exposure sites</title>
+      <title>433 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>51<br/><b>Public Transport:</b>50<br/><b>Canberra City:</b>34<br/><b>Gungahlin:</b>31<br/><b>Fyshwick:</b>24<br/><b>Phillip:</b>19<br/><b>Greenway:</b>16<br/><b>Casey:</b>15<br/><b>Dickson:</b>15<br/><b>Wanniassa:</b>14<br/><b>Nicholls:</b>14<br/><b>Amaroo:</b>12<br/><b>Bruce:</b>12<br/><b>Kingston:</b>11<br/><b>Lyneham:</b>10<br/><b>Weston:</b>10<br/><b>Mitchell:</b>7<br/><b>Charnwood:</b>7<br/><b>Turner:</b>7<br/><b>Griffith:</b>6<br/><b>Barton:</b>6<br/><b>O'Connor:</b>5<br/><b>Harrison:</b>5<br/><b>Mawson:</b>5<br/><b>Spence:</b>4<br/><b>Evatt:</b>4<br/><b>Deakin:</b>3<br/><b>Reid:</b>3<br/><b>Ngunnawal:</b>3<br/><b>Holt:</b>3<br/><b>Chisholm:</b>3<br/><b>Kambah:</b>2<br/><b>Melba:</b>2<br/><b>Macquarie:</b>2<br/><b>Franklin:</b>2<br/><b>Chapman:</b>2<br/><b>Kaleen:</b>2<br/><b>Aranda:</b>1<br/><b>Hawker:</b>1<br/><b>Cook:</b>1<br/><b>Bonner:</b>1<br/><b>Chifley:</b>1<br/><b>Forde:</b>1<br/><b>Symonston:</b>1<br/><b>Pearce:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Hume:</b>1<br/><b>Florey:</b>1<br/><b>Pialligo:</b>1<br/><b>Campbell:</b>1<br/><b>Denman Prospect:</b>1<br/><b>Downer:</b>1<br/>]]></description>
-      <guid isPermaLink="false">SNuQufHp+byRXu5Q7j48Qg==</guid>
+      <description><![CDATA[<b>Belconnen:</b>51<br/><b>Public Transport:</b>50<br/><b>Canberra City:</b>34<br/><b>Gungahlin:</b>31<br/><b>Fyshwick:</b>24<br/><b>Phillip:</b>19<br/><b>Greenway:</b>16<br/><b>Casey:</b>15<br/><b>Dickson:</b>15<br/><b>Nicholls:</b>14<br/><b>Amaroo:</b>12<br/><b>Bruce:</b>12<br/><b>Kingston:</b>11<br/><b>Lyneham:</b>10<br/><b>Wanniassa:</b>10<br/><b>Weston:</b>10<br/><b>Mitchell:</b>7<br/><b>Charnwood:</b>7<br/><b>Turner:</b>7<br/><b>Griffith:</b>6<br/><b>Barton:</b>6<br/><b>O'Connor:</b>5<br/><b>Harrison:</b>5<br/><b>Mawson:</b>5<br/><b>Spence:</b>4<br/><b>Evatt:</b>4<br/><b>Deakin:</b>3<br/><b>Reid:</b>3<br/><b>Ngunnawal:</b>3<br/><b>Holt:</b>3<br/><b>Chisholm:</b>3<br/><b>Kambah:</b>2<br/><b>Melba:</b>2<br/><b>Macquarie:</b>2<br/><b>Franklin:</b>2<br/><b>Chapman:</b>2<br/><b>Kaleen:</b>2<br/><b>Aranda:</b>1<br/><b>Hawker:</b>1<br/><b>Cook:</b>1<br/><b>Bonner:</b>1<br/><b>Chifley:</b>1<br/><b>Forde:</b>1<br/><b>Symonston:</b>1<br/><b>Pearce:</b>1<br/><b>Farrer:</b>1<br/><b>Holder:</b>1<br/><b>Hume:</b>1<br/><b>Florey:</b>1<br/><b>Pialligo:</b>1<br/><b>Campbell:</b>1<br/><b>Denman Prospect:</b>1<br/><b>Downer:</b>1<br/>]]></description>
+      <guid isPermaLink="false">wUj2spbaK3OVAh8znlf/Ew==</guid>
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
@@ -246,13 +246,6 @@
       <pubDate>Wed, 08 Sep 2021 02:33:23 +0000</pubDate>
     </item>
     <item>
-      <title>1 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Wanniassa:</b>1<br/>]]></description>
-      <guid isPermaLink="false">5M874qalldZxpAR7LI56QA==</guid>
-      <pubDate>Wed, 08 Sep 2021 04:16:28 +0000</pubDate>
-    </item>
-    <item>
       <title>7 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
       <description><![CDATA[<b>Greenway:</b>2<br/><b>Kaleen:</b>2<br/><b>Wanniassa:</b>1<br/><b>Kambah:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
@@ -309,10 +302,10 @@
       <pubDate>Fri, 10 Sep 2021 09:13:30 +0000</pubDate>
     </item>
     <item>
-      <title>15 additional exposure sites</title>
+      <title>13 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>3<br/><b>Holt:</b>2<br/><b>Wanniassa:</b>2<br/><b>Conder:</b>1<br/><b>Banks:</b>1<br/><b>Ngunnawal:</b>1<br/><b>Charnwood:</b>1<br/><b>Public Transport:</b>1<br/><b>Canberra City:</b>1<br/><b>Parkes:</b>1<br/><b>Mawson:</b>1<br/>]]></description>
-      <guid isPermaLink="false">xGrr/PqClZvgVVPP72lTAQ==</guid>
+      <description><![CDATA[<b>Belconnen:</b>3<br/><b>Holt:</b>2<br/><b>Conder:</b>1<br/><b>Banks:</b>1<br/><b>Ngunnawal:</b>1<br/><b>Charnwood:</b>1<br/><b>Public Transport:</b>1<br/><b>Canberra City:</b>1<br/><b>Parkes:</b>1<br/><b>Mawson:</b>1<br/>]]></description>
+      <guid isPermaLink="false">aIUauaf/1mRxQhbe8/p0ZQ==</guid>
       <pubDate>Sat, 11 Sep 2021 02:34:37 +0000</pubDate>
     </item>
     <item>
@@ -358,11 +351,18 @@
       <pubDate>Mon, 13 Sep 2021 08:19:38 +0000</pubDate>
     </item>
     <item>
+      <title>12 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Phillip:</b>4<br/><b>Mawson:</b>4<br/><b>Mitchell:</b>1<br/><b>Canberra City:</b>1<br/><b>Narrabundah:</b>1<br/><b>O'Connor:</b>1<br/>]]></description>
+      <guid isPermaLink="false">rOQkTu5giBz3UvMDWA8jLA==</guid>
+      <pubDate>Tue, 14 Sep 2021 02:40:23 +0000</pubDate>
+    </item>
+    <item>
       <title>14 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Mawson:</b>5<br/><b>Phillip:</b>4<br/><b>Mitchell:</b>1<br/><b>Canberra City:</b>1<br/><b>Narrabundah:</b>1<br/><b>O'Connor:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
-      <guid isPermaLink="false">bPDYBQTH65UEoiC2ZR/ABw==</guid>
-      <pubDate>Tue, 14 Sep 2021 02:40:23 +0000</pubDate>
+      <description><![CDATA[<b>Wanniassa:</b>7<br/><b>Braddon:</b>1<br/><b>Hawker:</b>1<br/><b>Kaleen:</b>1<br/><b>Narrabundah:</b>1<br/><b>Mawson:</b>1<br/><b>Canberra Airport:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">bEqIzzeCz1dq9QRB+NCCAg==</guid>
+      <pubDate>Tue, 14 Sep 2021 08:17:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
