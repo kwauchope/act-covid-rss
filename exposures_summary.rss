@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Sep 2021 08:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 02:40:23 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -323,10 +323,10 @@
       <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
     </item>
     <item>
-      <title>7 additional exposure sites</title>
+      <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Dunlop:</b>3<br/><b>Charnwood:</b>2<br/><b>O'Connor:</b>2<br/>]]></description>
-      <guid isPermaLink="false">uVtPed6L+Z0h/7nZv+pm+g==</guid>
+      <description><![CDATA[<b>Dunlop:</b>3<br/><b>Charnwood:</b>2<br/><b>O'Connor:</b>1<br/>]]></description>
+      <guid isPermaLink="false">rYV7vsxnyHXANouQXxe87g==</guid>
       <pubDate>Sun, 12 Sep 2021 02:22:03 +0000</pubDate>
     </item>
     <item>
@@ -351,11 +351,18 @@
       <pubDate>Mon, 13 Sep 2021 03:38:22 +0000</pubDate>
     </item>
     <item>
-      <title>19 additional exposure sites</title>
+      <title>15 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Amaroo:</b>7<br/><b>Narrabundah:</b>2<br/><b>Gungahlin:</b>2<br/><b>Belconnen:</b>2<br/><b>Canberra City:</b>1<br/><b>Braddon:</b>1<br/><b>Franklin:</b>1<br/><b>Mitchell:</b>1<br/><b>Holt:</b>1<br/><b>Mawson:</b>1<br/>]]></description>
-      <guid isPermaLink="false">A2HBpZHSSwvfF8AbIMPftA==</guid>
+      <description><![CDATA[<b>Amaroo:</b>7<br/><b>Narrabundah:</b>2<br/><b>Gungahlin:</b>2<br/><b>Belconnen:</b>2<br/><b>Franklin:</b>1<br/><b>Holt:</b>1<br/>]]></description>
+      <guid isPermaLink="false">9EygQ0Stm9gkWnrTEoj2Wg==</guid>
       <pubDate>Mon, 13 Sep 2021 08:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>14 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Mawson:</b>5<br/><b>Phillip:</b>4<br/><b>Mitchell:</b>1<br/><b>Canberra City:</b>1<br/><b>Narrabundah:</b>1<br/><b>O'Connor:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">bPDYBQTH65UEoiC2ZR/ABw==</guid>
+      <pubDate>Tue, 14 Sep 2021 02:40:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
