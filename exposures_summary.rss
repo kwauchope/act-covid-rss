@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Sep 2021 10:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 10:26:13 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -377,6 +377,13 @@
       <description><![CDATA[<b>Public Transport:</b>19<br/><b>Holt:</b>3<br/><b>Casey:</b>2<br/><b>Braddon:</b>2<br/><b>Belconnen:</b>2<br/><b>Canberra City:</b>2<br/><b>Charnwood:</b>1<br/><b>Wanniassa:</b>1<br/><b>Gungahlin:</b>1<br/><b>Dunlop:</b>1<br/>]]></description>
       <guid isPermaLink="false">JtLU4S7BEBOnyMbHRvky7A==</guid>
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Public Transport:</b>1<br/>]]></description>
+      <guid isPermaLink="false">yQdeckF/AkW+RKEwl3gDFA==</guid>
+      <pubDate>Wed, 15 Sep 2021 10:26:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Sep 2021 10:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 10:26:13 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -6372,6 +6372,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:B&B Emporium<br/><b>Street</b>:Casey Market Town, 15 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1405<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">zY6afXHNsUhRb3aQO+aWWg==</guid>
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 6 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 6 Transport Canberra Code BUS561<br/><b>Street</b>:Woden Interchange To City West<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1623<br/><b>Departure Time</b>:1707<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">qUQUQNQwhA5CTIfG0pQKLg==</guid>
+      <pubDate>Wed, 15 Sep 2021 10:26:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
