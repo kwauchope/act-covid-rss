@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Sep 2021 08:17:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 03:23:15 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -269,12 +269,6 @@
       <title>(New) Belconnen:Samiuz</title>
       <description><![CDATA[<b>Event Id</b>:800404<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Samiuz<br/><b>Street</b>:3/57 Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:1820<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">7p4KLXfVXEGg+gbcmNeO2w==</guid>
-      <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Belconnen:Grill'd</title>
-      <description><![CDATA[<b>Event Id</b>:800397<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grill'd<br/><b>Street</b>:301 Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1940<br/><b>Departure Time</b>:2010<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">KG1NkSdkbyrrFzakP99gSg==</guid>
       <pubDate>Mon, 30 Aug 2021 04:44:40 +0000</pubDate>
     </item>
     <item>
@@ -4010,12 +4004,6 @@
       <pubDate>Sat, 04 Sep 2021 03:03:46 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Belconnen:Woolworths Metro</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Metro<br/><b>Street</b>:1/6 Grazier Lane<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">uhNuQY11MJz1aX5uuSuWYw==</guid>
-      <pubDate>Sat, 04 Sep 2021 03:03:46 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Mawson:Woolworths</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:15 Mawson Place<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 28 August 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">y0lnN2Uzc4MsCyorRxxAoA==</guid>
@@ -6032,10 +6020,184 @@
       <pubDate>Tue, 14 Sep 2021 08:17:34 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) Braddon:Assembly The People's Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">w7xgiYm61ivLENI/WFLcRQ==</guid>
-      <pubDate>Tue, 14 Sep 2021 08:17:34 +0000</pubDate>
+      <title>(Archived) Braddon:Assembly The People'S Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People'S Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">0qrEbi0WNduttGZzJBmnzw==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Pacifik Halal Meats</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Pacifik Halal Meats<br/><b>Street</b>:54-56/141 Ernest Cavanagh Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1315<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">8QR8Q/YNOmbpN0/EzFsqTg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Grill'd</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grill'd<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1720<br/><b>Departure Time</b>:1815<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">8f26vthCdpGNmhsX2JKXHg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:ACT Law Courts - Magistrates Court (Room 2 only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ACT Law Courts - Magistrates Court (Room 2 only)<br/><b>Street</b>:4-6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1455<br/><b>Departure Time</b>:1610<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">BQxIkQ9w2gLFrQgP/opCqg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 63 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 63 Transport Canberra Code BUS561<br/><b>Street</b>:Woden Interchange To Cooleman Court<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:2135<br/><b>Departure Time</b>:2159<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">BdIiEyuyQvKuyxIc+t6QVQ==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:IGA X-press East Row</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-press East Row<br/><b>Street</b>:22-58 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:0715<br/><b>Departure Time</b>:0850<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ELwsgTNFqpwWaej151kX7g==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 10 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 10 Transport Canberra Code BUS561<br/><b>Street</b>:Denman Prospect To City West<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1933<br/><b>Departure Time</b>:1958<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">FSbWdiXCLKotNYTm1VYw3g==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:ACT Law Courts - Magistrates Court (Level 1 Foyer outside rooms 1 and 2 only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ACT Law Courts - Magistrates Court (Level 1 Foyer outside rooms 1 and 2 only)<br/><b>Street</b>:4-6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1410<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Gy36sjQWtpkA/fcvBKNkIg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 10 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 10 Transport Canberra Code BUS561<br/><b>Street</b>:City West To Denman Prospect<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1853<br/><b>Departure Time</b>:1923<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">Jah9llG/Zqnl+pYsu+eHzA==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:ACT Law Courts - Bail Office</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ACT Law Courts - Bail Office<br/><b>Street</b>:4-6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1535<br/><b>Departure Time</b>:1625<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">LTx0hmhm8QJN+pXMRbk68A==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 9 Transport Canberra Code BUS569</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 9 Transport Canberra Code BUS569<br/><b>Street</b>:Belconnen (Cohen St) To Watson<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1803<br/><b>Departure Time</b>:1837<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">Liueh8mLRSQEebpCy2tWRg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 32 Transport Canberra Code BUS569</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 32 Transport Canberra Code BUS569<br/><b>Street</b>:City Interchange To Belconnen (Cohen St)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1712<br/><b>Departure Time</b>:1751<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">Nr6Q0J4m8DrsabaVfxYqQg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Belconnen:Grill'd</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Grill'd<br/><b>Street</b>:Westfeild Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 25 August 2021<br/><b>Arrival Time</b>:1940<br/><b>Departure Time</b>:2010<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">PGXApUUMzY0dNoMtILDhQA==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 10 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 10 Transport Canberra Code BUS561<br/><b>Street</b>:Denman Prospect To City West<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1803<br/><b>Departure Time</b>:1828<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">QhuQKzl9fUmAaEY+fyKZ9Q==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Amaroo:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Horse Park Drive<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1340<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">Tc9XAPgy+JkPhPiw3f1kJg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 28 Transport Canberra Code BUS569</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 28 Transport Canberra Code BUS569<br/><b>Street</b>:Gungahlin To Casey Market Town<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1612<br/><b>Departure Time</b>:1633<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">UNuXNHEXq3KqQeYps5ZWvg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 8 Transport Canberra Code BUS569</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 8 Transport Canberra Code BUS569<br/><b>Street</b>:Belconnen (Cohen St) To Gungahlin Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1527<br/><b>Departure Time</b>:1553<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">ZEPWRl0v0pdlGOiTaUHxng==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 31 Transport Canberra Code BUS569</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 31 Transport Canberra Code BUS569<br/><b>Street</b>:Belconnen (Cohen St) To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:2011<br/><b>Departure Time</b>:2051<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">bH2Asil5d1E4PaKAvB2NbA==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1325<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">cKtf1va1GJnNqAwE9Dd6HQ==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 66 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 66 Transport Canberra Code BUS561<br/><b>Street</b>:Cooleman Court To Woden Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:2204<br/><b>Departure Time</b>:2247<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">enHtOA8tDI2514nyouarHQ==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Amaroo:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Horse Park Drive<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1325<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">fdwM5r/jI1uEsERU/t3Tww==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 10 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 10 Transport Canberra Code BUS561<br/><b>Street</b>:City West To Denman Prospect<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1723<br/><b>Departure Time</b>:1753<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">iCWUwfOT3avSr7GgYwe+XA==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:ACT Law Courts - Ground level Foyer</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ACT Law Courts - Ground level Foyer<br/><b>Street</b>:4-6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1410<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">iWZVKoXuwC21onHHzWlMaw==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 9 Transport Canberra Code BUS569</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 9 Transport Canberra Code BUS569<br/><b>Street</b>:Watson To Belconnen (Cohen St)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1845<br/><b>Departure Time</b>:1919<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">lWsOs3oeFZVUhtwZoJOkUg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 7 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 7 Transport Canberra Code BUS561<br/><b>Street</b>:City West To Weston Creek<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:2007<br/><b>Departure Time</b>:2035<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">ohk4FyY6W0FsQkZSACNO0A==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 6 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 6 Transport Canberra Code BUS561<br/><b>Street</b>:Woden Interchange To City West<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1623<br/><b>Departure Time</b>:1707<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">qUQUQNQwhA5CTIfG0pQKLg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Belconnen:Woolworths Metro Cameron Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Woolworths Metro Cameron Avenue<br/><b>Street</b>:1/6 Grazier Lane<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">rRwPa0wuizZV3wnoXtREXg==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 53 Transport Canberra Code BUS569</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 53 Transport Canberra Code BUS569<br/><b>Street</b>:Dickson Shops To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:2118<br/><b>Departure Time</b>:2146<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">rlh5nYq0cw4IVmrisptIkA==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Woolworths Metro Cameron Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Metro Cameron Avenue<br/><b>Street</b>:1/6 Grazier Lane<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2140<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">vh8tDQr/ET4tw7XTt2zQpQ==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 5 Transport Canberra Code BUS561</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 5 Transport Canberra Code BUS561<br/><b>Street</b>:City West To Lanyon Marketplace<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:2307<br/><b>Departure Time</b>:2354<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">xUM8oe+9dbXA8XVbK6FQ5A==</guid>
+      <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
