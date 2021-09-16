@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Sep 2021 10:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 02:53:21 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -5930,12 +5930,6 @@
       <pubDate>Tue, 14 Sep 2021 08:17:34 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra Airport:Mcdonald's Majura Park</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mcdonald's Majura Park<br/><b>Street</b>:Majura Road And Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">/Fs0UjPJ9GnoMpQ2qDjvjw==</guid>
-      <pubDate>Tue, 14 Sep 2021 08:17:34 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Mawson:Capital Chemist</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:Southlands Shopping Centre, 2 Birmingham Road<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1235<br/><b>Departure Time</b>:1345<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">3VuPqk0x+cI7EK8LKMV28w==</guid>
@@ -6182,81 +6176,15 @@
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS456</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS456<br/><b>Street</b>:O'Connor To Lyneham<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:0715<br/><b>Departure Time</b>:0717<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">3Bvoeg2TawHB/NsJXis3Nw==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS499</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS499<br/><b>Street</b>:City To O'Connor<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1434<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">4oiQxr41C8UzRQNwfyM3FA==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Dunlop:Woolworths</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:80 Lance Hill Avenue<br/><b>Suburb</b>:Dunlop<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1350<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">6oc+9TEBlre77LaWd5gtDQ==</guid>
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Public Transport:Bus Route 19 Transport Canberra Code BUS598</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 19 Transport Canberra Code BUS598<br/><b>Street</b>:Gungahlin Interchange To Bonner<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1657<br/><b>Departure Time</b>:1711<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">CL5xxb1+L5+7NJLd9XarOA==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Bus Route 20 Transport Canberra Code BUS403</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 20 Transport Canberra Code BUS403<br/><b>Street</b>:Bonner To Gungahlin Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:0659<br/><b>Departure Time</b>:0710<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">DAJbztSSJbP6VN0Eg/+sQA==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Bus Route 50 Transport Canberra Code BUS391</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 50 Transport Canberra Code BUS391<br/><b>Street</b>:Dickson To Watson<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:2038<br/><b>Departure Time</b>:2043<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">ET5/LiToENIDltvFoGduTA==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
       <title>(Archived) Gungahlin:Wokitup!</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Wokitup!<br/><b>Street</b>:4/46 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1805<br/><b>Departure Time</b>:1855<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">HAc5Woa5+2Rpvn4Y6j48jw==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Bus Route 50 Transport Canberra Code BUS707</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 50 Transport Canberra Code BUS707<br/><b>Street</b>:Dickson To O'Connor<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:2116<br/><b>Departure Time</b>:2123<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">HNEHEPHzPin0P/eqpOxM0Q==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV004</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV004<br/><b>Street</b>:Alinga Street To Phillip Avenue<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1739<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">IHCgLgCORqYy8bLdNPnYkQ==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV014</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV014<br/><b>Street</b>:Dickson Interchange To Ipima Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1654<br/><b>Departure Time</b>:1657<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">ILu+EooFAn7Z1dkRC5/rcg==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS707</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS707<br/><b>Street</b>:O'Connor To Dickson<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1244<br/><b>Departure Time</b>:1302<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">IwcopMEibmWRa/qzMzetlg==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV009</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV009<br/><b>Street</b>:Dickson Interchange To Alinga Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1327<br/><b>Departure Time</b>:1333<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">JOFcJ2liX46JgzHfge9Q5A==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV001</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV001<br/><b>Street</b>:Ipima Street To Dickson Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1933<br/><b>Departure Time</b>:1936<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">PBDEF61NkWHqXYC3BrqJLA==</guid>
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
     </item>
     <item>
@@ -6284,39 +6212,9 @@
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS641</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS641<br/><b>Street</b>:O'Connor To Dickson<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1612<br/><b>Departure Time</b>:1629<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">Uxu25rlOHBRN8wbn+z1tvg==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV003</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV003<br/><b>Street</b>:Phillip Avenue To Elouera Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1844<br/><b>Departure Time</b>:1852<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">Y3lUxaJCXJTUd4Dg3kca0w==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Bus Route 3 Transport Canberra Code BUS702</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 3 Transport Canberra Code BUS702<br/><b>Street</b>:City Interchange To Westfield Belconnen Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:0824<br/><b>Departure Time</b>:0840<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">Yd6vRPqhLj/BnnpLODLDNQ==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Bus Route 2 Transport Canberra Code BUS656</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 2 Transport Canberra Code BUS656<br/><b>Street</b>:Westfield Belconnen Interchange To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:0727<br/><b>Departure Time</b>:0742<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">d9QG+WcQs1NGk5JKoMIGew==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Wanniassa:NewsXpress</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:NewsXpress<br/><b>Street</b>:Erindale Shopping Centre, 2 Denigan Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">ds5Tyvke1HwdeQjqpqiPcQ==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Bus Route 45 Transport Canberra Code BUS506</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 45 Transport Canberra Code BUS506<br/><b>Street</b>:Westfield Belconnen Interchange To Hawker<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:0853<br/><b>Departure Time</b>:0901<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">gWwuA5r1BobLIBe4z/3oww==</guid>
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
     </item>
     <item>
@@ -6332,33 +6230,9 @@
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV013</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV013<br/><b>Street</b>:Alinga Street To Gungahlin Place<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1618<br/><b>Departure Time</b>:1643<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">pqgxCCtMlfZvD/apALmEIA==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV007</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV007<br/><b>Street</b>:Gungahlin Place To Alinga Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:0715<br/><b>Departure Time</b>:0739<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">uh9Lbdrp8L5PxXh5pgy1Ow==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
       <title>(Archived) Braddon:Assembly The People's Pub</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 07 August 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Investigation Location<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">w7xgiYm61ivLENI/WFLcRQ==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Holt:7-Eleven Kippax</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven Kippax<br/><b>Street</b>:88 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1150<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">xNE9u8yJ6caRPs1guPeW6Q==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Public Transport:Bus Route 9 Transport Canberra Code BUS391</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 9 Transport Canberra Code BUS391<br/><b>Street</b>:Watson To Dickson Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:2108<br/><b>Departure Time</b>:2113<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">xfeyWIXLxOIWsDj+URNGow==</guid>
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
     </item>
     <item>
@@ -6374,10 +6248,160 @@
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Public Transport:Bus Route 6 Transport Canberra Code BUS561</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 6 Transport Canberra Code BUS561<br/><b>Street</b>:Woden Interchange To City West<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1623<br/><b>Departure Time</b>:1707<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">qUQUQNQwhA5CTIfG0pQKLg==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:26:13 +0000</pubDate>
+      <title>(New) Casey:Coffee Guru</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coffee Guru<br/><b>Street</b>:Casey Market, 15 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1405<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">0aSKAOQ4Hua/Rz7Urud7BA==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV003</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV003<br/><b>Street</b>:Phillip Avenue To Elouera Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1844<br/><b>Departure Time</b>:1852<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">7086FW16D0L2yGt+yRj09w==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV001</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV001<br/><b>Street</b>:Ipima Street To Dickson Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1933<br/><b>Departure Time</b>:1936<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">EB0kP2YRl1ak/wwP0jygNQ==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holt:7-Eleven</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven<br/><b>Street</b>:88 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1150<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">FrfrH97ZW07hUcIgJEjQXQ==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS707</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS707<br/><b>Street</b>:O'Connor To Dickson<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1244<br/><b>Departure Time</b>:1302<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">JWBUIlwnex0fUM9B1m8fGQ==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV009</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV009<br/><b>Street</b>:Dickson Interchange To Alinga Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1327<br/><b>Departure Time</b>:1333<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">MOGSG8ikEokOBfe33xIPfA==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 9 Transport Canberra Code BUS391</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 9 Transport Canberra Code BUS391<br/><b>Street</b>:Watson To Dickson Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:2108<br/><b>Departure Time</b>:2113<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">Mv2L4/Bz8t1O3VJnRwJoxg==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Coles Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:Lathlain Street And Wignall Place<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1720<br/><b>Departure Time</b>:1810<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">QMUXxQEGJVUdUoSHevlocA==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV007</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV007<br/><b>Street</b>:Gungahlin Place To Alinga Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:0715<br/><b>Departure Time</b>:0739<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">SPYWaLe6mlzCQnyXUAFlow==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:Market Town</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Market Town<br/><b>Street</b>:15 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1450<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">Vde5pmdcEYqkktdxQvhC7w==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS456</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS456<br/><b>Street</b>:O'Connor To Lyneham<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:0715<br/><b>Departure Time</b>:0717<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">W8I3Wa9hqLkUyOiKqzAlSw==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra Airport:McDonald's Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:McDonald's Majura Park<br/><b>Street</b>:Majura Road And Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">ZT+ddiHTlfSVvjT4yJAePQ==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV014</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV014<br/><b>Street</b>:Dickson Interchange To Ipima Street<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1654<br/><b>Departure Time</b>:1657<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">avrqPG4cSR4quzU5didADg==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 45 Transport Canberra Code BUS506</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 45 Transport Canberra Code BUS506<br/><b>Street</b>:Westfield Belconnen Interchange To Hawker<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:0853<br/><b>Departure Time</b>:0901<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">bwjCMxhzDWfZM6XD9PXSoQ==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV004</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV004<br/><b>Street</b>:Alinga Street To Phillip Avenue<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1739<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">c+9Bu9h+U7NtwEuNLAlyMA==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1825<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">cXysabQkxAQS4uvEGl+0qw==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 20 Transport Canberra Code BUS403</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 20 Transport Canberra Code BUS403<br/><b>Street</b>:Bonner To Gungahlin Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:0659<br/><b>Departure Time</b>:0710<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">efrFDZr0ZdPwKsVe8hhbdQ==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS499</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS499<br/><b>Street</b>:City To O'Connor<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1434<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">i/HP9L5/KRbXuTCoEypnwg==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Charnwood:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:25-30 Charnwood Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1320<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">iXcqUugNw3sqTl7anEd8/w==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 3 Transport Canberra Code BUS702</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 3 Transport Canberra Code BUS702<br/><b>Street</b>:City Interchange To Westfield Belconnen Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:0824<br/><b>Departure Time</b>:0840<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">j6tmprMrAYVz4/zUAMwcBg==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 2 Transport Canberra Code BUS656</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 2 Transport Canberra Code BUS656<br/><b>Street</b>:Westfield Belconnen Interchange To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:0727<br/><b>Departure Time</b>:0742<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">p3WOaHS4wPGZiN1pUN+L9Q==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 19 Transport Canberra Code BUS598</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 19 Transport Canberra Code BUS598<br/><b>Street</b>:Gungahlin Interchange To Bonner<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1657<br/><b>Departure Time</b>:1711<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">sWdBV4fFHCjdf+Q4E75Ayw==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV013</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV013<br/><b>Street</b>:Alinga Street To Gungahlin Place<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1618<br/><b>Departure Time</b>:1643<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">wI4pcBkbZ5YRv8hqnCbwEQ==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 50 Transport Canberra Code BUS391</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 50 Transport Canberra Code BUS391<br/><b>Street</b>:Dickson To Watson<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:2038<br/><b>Departure Time</b>:2043<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">wjMR8tXUWh5hSbjan5sPNA==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 50 Transport Canberra Code BUS707</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 50 Transport Canberra Code BUS707<br/><b>Street</b>:Dickson To O'Connor<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:2116<br/><b>Departure Time</b>:2123<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">y6XFmsl003EA8LqlSUlAbQ==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS641</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS641<br/><b>Street</b>:O'Connor To Dickson<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1612<br/><b>Departure Time</b>:1629<br/><b>Contact</b>:Casual Contact<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">zG2GoVNxfT0qdWv62DW8+w==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

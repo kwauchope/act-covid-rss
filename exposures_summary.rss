@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Sep 2021 10:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 02:53:21 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -358,10 +358,10 @@
       <pubDate>Tue, 14 Sep 2021 02:40:23 +0000</pubDate>
     </item>
     <item>
-      <title>13 additional exposure sites</title>
+      <title>12 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Wanniassa:</b>7<br/><b>Hawker:</b>1<br/><b>Kaleen:</b>1<br/><b>Narrabundah:</b>1<br/><b>Mawson:</b>1<br/><b>Canberra Airport:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
-      <guid isPermaLink="false">guRvEw2KKdbYfdtNi1xPKw==</guid>
+      <description><![CDATA[<b>Wanniassa:</b>7<br/><b>Hawker:</b>1<br/><b>Kaleen:</b>1<br/><b>Narrabundah:</b>1<br/><b>Mawson:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">8xX29xK8EorkmE/LYRYiXA==</guid>
       <pubDate>Tue, 14 Sep 2021 08:17:34 +0000</pubDate>
     </item>
     <item>
@@ -372,18 +372,18 @@
       <pubDate>Wed, 15 Sep 2021 03:23:15 +0000</pubDate>
     </item>
     <item>
-      <title>34 additional exposure sites</title>
+      <title>14 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Public Transport:</b>19<br/><b>Holt:</b>3<br/><b>Casey:</b>2<br/><b>Braddon:</b>2<br/><b>Belconnen:</b>2<br/><b>Canberra City:</b>2<br/><b>Charnwood:</b>1<br/><b>Wanniassa:</b>1<br/><b>Gungahlin:</b>1<br/><b>Dunlop:</b>1<br/>]]></description>
-      <guid isPermaLink="false">JtLU4S7BEBOnyMbHRvky7A==</guid>
+      <description><![CDATA[<b>Casey:</b>2<br/><b>Braddon:</b>2<br/><b>Holt:</b>2<br/><b>Belconnen:</b>2<br/><b>Canberra City:</b>2<br/><b>Charnwood:</b>1<br/><b>Wanniassa:</b>1<br/><b>Gungahlin:</b>1<br/><b>Dunlop:</b>1<br/>]]></description>
+      <guid isPermaLink="false">6Nh92FW4fkiOhbkzGbtXxg==</guid>
       <pubDate>Wed, 15 Sep 2021 10:02:16 +0000</pubDate>
     </item>
     <item>
-      <title>1 additional exposure sites</title>
+      <title>26 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Public Transport:</b>1<br/>]]></description>
-      <guid isPermaLink="false">yQdeckF/AkW+RKEwl3gDFA==</guid>
-      <pubDate>Wed, 15 Sep 2021 10:26:13 +0000</pubDate>
+      <description><![CDATA[<b>Public Transport:</b>19<br/><b>Belconnen:</b>2<br/><b>Casey:</b>2<br/><b>Charnwood:</b>1<br/><b>Canberra Airport:</b>1<br/><b>Holt:</b>1<br/>]]></description>
+      <guid isPermaLink="false">pBIIBTwijaz1oOQyDCHprQ==</guid>
+      <pubDate>Thu, 16 Sep 2021 02:53:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
