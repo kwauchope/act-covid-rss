@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Sep 2021 09:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 09:53:37 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -391,6 +391,13 @@
       <description><![CDATA[<b>Public Transport:</b>19<br/><b>Griffith:</b>5<br/><b>Belconnen:</b>5<br/><b>Greenway:</b>5<br/><b>Narrabundah:</b>5<br/><b>Conder:</b>4<br/><b>Canberra City:</b>3<br/><b>Casey:</b>2<br/><b>Charnwood:</b>2<br/><b>Holt:</b>1<br/><b>Macqurie:</b>1<br/><b>Deakin:</b>1<br/><b>Amaroo:</b>1<br/><b>Fyshwick:</b>1<br/><b>Phillip:</b>1<br/><b>Kaleen:</b>1<br/><b>Gungahlin:</b>1<br/><b>Crace:</b>1<br/><b>Canberra Airport:</b>1<br/>]]></description>
       <guid isPermaLink="false">E0nhIVVPy6+3r2yDbA20Pg==</guid>
       <pubDate>Thu, 16 Sep 2021 09:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Public Transport:</b>1<br/>]]></description>
+      <guid isPermaLink="false">R6X796QM8aKOBYufHRAeug==</guid>
+      <pubDate>Thu, 16 Sep 2021 09:53:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
