@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Sep 2021 04:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 09:21:21 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -1874,12 +1874,6 @@
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Greenway:Services Australia (Entire building, refer to Casual Contacts entry if attended Level 4)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Services Australia (Entire building, refer to Casual Contacts entry if attended Level 4)<br/><b>Street</b>:57 Athllon Drive<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">Up5MM1IT6il9yEntA4h0hQ==</guid>
-      <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
-    </item>
-    <item>
       <title>(Archived) Canberra City:Coco Republic Construction Site</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Coco Republic Construction Site<br/><b>Street</b>:148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 10 August 2021<br/><b>Arrival Time</b>:0930<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">UuA4IA2oVV4EpjxdgXQaFQ==</guid>
@@ -2855,12 +2849,6 @@
       <title>(?) Amaroo:ALDI</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:12 Pioneer Street<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1720<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">tCvicHIhaJBSe2uUQG+QTQ==</guid>
-      <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Greenway:Services Australia (Entire building, refer to Casual Contacts entry if attended Level 4)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Services Australia (Entire building, refer to Casual Contacts entry if attended Level 4)<br/><b>Street</b>:57 Athllon Drive<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">tm6iybvWoXTRvddnfnQ+7Q==</guid>
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
@@ -6590,12 +6578,6 @@
       <pubDate>Fri, 17 Sep 2021 03:09:12 +0000</pubDate>
     </item>
     <item>
-      <title>(Archived) Canberra Airport:McDonald's Majura Park</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:McDonald's Majura Park<br/><b>Street</b>:Majura Road And Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">ZT+ddiHTlfSVvjT4yJAePQ==</guid>
-      <pubDate>Fri, 17 Sep 2021 03:09:12 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Griffith:Coles Express Manuka</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express Manuka<br/><b>Street</b>:Canberra Avenue And Flinders Way<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:0652<br/><b>Departure Time</b>:0700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">mRw7dLiemorZ/Vlb+1gjmA==</guid>
@@ -6774,6 +6756,156 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Computer Science and Information Technology Building #108 - Level 1 (Ground Floor) only<br/><b>Street</b>:108 North Road<br/><b>Suburb</b>:Acton<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1215<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">G7YZsE0dQOU6Qiq8dwkxiA==</guid>
       <pubDate>Fri, 17 Sep 2021 04:35:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kaleen:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:1 Maribyrnong Avenue<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1640<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">+D6252s8A77N6BKZkrAGSA==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Canberra Airport:Mcdonald's Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Mcdonald's Majura Park<br/><b>Street</b>:Majura Road And Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">/Fs0UjPJ9GnoMpQ2qDjvjw==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Ms Ba Co Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ms Ba Co Majura Park<br/><b>Street</b>:Majura Park Shopping Centre, 18/16 Spitfire Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1540<br/><b>Departure Time</b>:1620<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">3NXZ4bKqFUaTJhIpQ1W6sA==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:IGA X-press East Row</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-press East Row<br/><b>Street</b>:22-58 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">5584+5g1vAn8yyS3VWprvg==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:IGA X-press East Row</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-press East Row<br/><b>Street</b>:22-58 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">59YyQsg1K/aO1N1eseKNXQ==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:Supabarn</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Supabarn<br/><b>Street</b>:15 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1745<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">5DAwOprYbEYmAHO1kZftuw==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:ALDI Canberra Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">682C1i4ySQqul4/unaOSTA==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:7-Eleven Braddon</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven Braddon<br/><b>Street</b>:20 Mort Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:0230<br/><b>Departure Time</b>:0330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">8zKxAsJSkaBnKO7dRZfjRw==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Greenway:Services Australia (Entire building, refer to Casuals entry if attended Level 4)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Services Australia (Entire building, refer to Casuals entry if attended Level 4)<br/><b>Street</b>:57 Athllon Drive<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 24 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Ah6u4qM9a8vuMHLmnveBJQ==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:IGA X-press East Row</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-press East Row<br/><b>Street</b>:22-58 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">CAgaH8cnS2X2zwuHAYPehw==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Woolworths Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Majura Park<br/><b>Street</b>:Majura Park Shopping Centre, 18/16 Spitfire Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1445<br/><b>Departure Time</b>:1550<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">FXt/pcLvdMGfEaQCzFpG0Q==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1825<br/><b>Departure Time</b>:1915<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">GKeLyNOQ27SXUiwCqmctzw==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Popes Electrical and Data Supplies</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Popes Electrical and Data Supplies<br/><b>Street</b>:68-70 Dundas Court<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">KHzsBCSbJ3oTt9RpWMPZFg==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Dina's Liquor</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dina's Liquor<br/><b>Street</b>:7 East Row Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Np7xO6eM1Ho871m51IF2pQ==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kaleen:B&amp;B Emporium</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:B&B Emporium<br/><b>Street</b>:Kaleen Plaza, Georgina Cres<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1610<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">XYC5+YtN/vtppakXYgTMDQ==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Boss Projects Group, Gungahlin Village Site</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Boss Projects Group, Gungahlin Village Site<br/><b>Street</b>:Gungahlin Place And Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:0700<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">YcwOEdxJszgE7uQsAE1Z0Q==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:IGA X-press East Row</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-press East Row<br/><b>Street</b>:22-58 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">b2jVdNcvSe/BEv42MprZWA==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:ALDI Canberra Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">biOguecrHJq4HxDzv0SIEg==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Coles Canberra Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">bwO5uLCAQsqiYSC+mc6POA==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Coles Canberra Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 September 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">gY9fljgVGy+++T3diUjOyQ==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Greenway:Services Australia (Entire building, refer to Casuals entry if attended Level 4)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Services Australia (Entire building, refer to Casuals entry if attended Level 4)<br/><b>Street</b>:57 Athllon Drive<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 23 August 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">mDK7XSyiNrdCpm7RmE192A==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Jim Murphy's Airport Cellars</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Jim Murphy's Airport Cellars<br/><b>Street</b>:7 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1615<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">mhpD7oitne8RTXibxsmwGw==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Costco Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Costco Canberra<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1515<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">ojxQ3XDIFTYsI0+8oz1Ung==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Boss Projects Group, Gungahlin Village Site</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Boss Projects Group, Gungahlin Village Site<br/><b>Street</b>:Gungahlin Place And Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:0915<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">uXqFj4L/xqYFtlXdpxCLmg==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Dina's Liquor</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dina's Liquor<br/><b>Street</b>:7 East Row Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">y9A7yPer58gICrps6cE6dw==</guid>
+      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
