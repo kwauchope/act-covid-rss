@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Sep 2021 09:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 23:40:07 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -421,11 +421,18 @@
       <pubDate>Fri, 17 Sep 2021 04:35:53 +0000</pubDate>
     </item>
     <item>
-      <title>25 additional exposure sites</title>
+      <title>24 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>11<br/><b>Canberra Airport:</b>5<br/><b>Gungahlin:</b>3<br/><b>Greenway:</b>2<br/><b>Kaleen:</b>2<br/><b>Phillip:</b>1<br/><b>Casey:</b>1<br/>]]></description>
-      <guid isPermaLink="false">AtJqSInb5yrw38R1oEjPoA==</guid>
+      <description><![CDATA[<b>Canberra City:</b>11<br/><b>Canberra Airport:</b>5<br/><b>Gungahlin:</b>3<br/><b>Greenway:</b>2<br/><b>Kaleen:</b>2<br/><b>Casey:</b>1<br/>]]></description>
+      <guid isPermaLink="false">liURmxyZJ2qUNoLCMFnyoQ==</guid>
       <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">xMHKdFKbibMOwlp6Ut+t2A==</guid>
+      <pubDate>Fri, 17 Sep 2021 23:40:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Sep 2021 09:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 23:40:07 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -6830,12 +6830,6 @@
       <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Phillip:Popes Electrical and Data Supplies</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Popes Electrical and Data Supplies<br/><b>Street</b>:68-70 Dundas Court<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">KHzsBCSbJ3oTt9RpWMPZFg==</guid>
-      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Dina's Liquor</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dina's Liquor<br/><b>Street</b>:7 East Row Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">Np7xO6eM1Ho871m51IF2pQ==</guid>
@@ -6906,6 +6900,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dina's Liquor<br/><b>Street</b>:7 East Row Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">y9A7yPer58gICrps6cE6dw==</guid>
       <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Popes Electrical and Data Supplies</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Popes Electrical and Data Supplies<br/><b>Street</b>:50-52 Colbee Court<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">In40OFas+1Pv+mdwbc8meg==</guid>
+      <pubDate>Fri, 17 Sep 2021 23:40:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
