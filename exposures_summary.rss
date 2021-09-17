@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Sep 2021 03:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 03:28:51 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -400,11 +400,18 @@
       <pubDate>Thu, 16 Sep 2021 09:53:37 +0000</pubDate>
     </item>
     <item>
-      <title>46 additional exposure sites</title>
+      <title>27 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Public Transport:</b>19<br/><b>Griffith:</b>5<br/><b>Wanniassa:</b>4<br/><b>Acton:</b>3<br/><b>Canberra City:</b>2<br/><b>Gungahlin:</b>2<br/><b>Dickson:</b>2<br/><b>Aranda:</b>2<br/><b>Phillip:</b>1<br/><b>Mitchell:</b>1<br/><b>Deakin:</b>1<br/><b>Canberra Airport:</b>1<br/><b>Macquarie:</b>1<br/><b>Kaleen:</b>1<br/><b>Kingston:</b>1<br/>]]></description>
-      <guid isPermaLink="false">G5VJylxKu859xYPq2zMrlg==</guid>
+      <description><![CDATA[<b>Griffith:</b>5<br/><b>Wanniassa:</b>4<br/><b>Acton:</b>3<br/><b>Canberra City:</b>2<br/><b>Gungahlin:</b>2<br/><b>Dickson:</b>2<br/><b>Aranda:</b>2<br/><b>Phillip:</b>1<br/><b>Mitchell:</b>1<br/><b>Deakin:</b>1<br/><b>Canberra Airport:</b>1<br/><b>Macquarie:</b>1<br/><b>Kaleen:</b>1<br/><b>Kingston:</b>1<br/>]]></description>
+      <guid isPermaLink="false">6WWHlF8M4QjBgP0XVQ3Hvg==</guid>
       <pubDate>Fri, 17 Sep 2021 03:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>19 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Public Transport:</b>19<br/>]]></description>
+      <guid isPermaLink="false">o61SEP5A2AEn5talAzBrXw==</guid>
+      <pubDate>Fri, 17 Sep 2021 03:28:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
