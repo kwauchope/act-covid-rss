@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Sep 2021 23:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Sep 2021 03:26:58 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -6812,12 +6812,6 @@
       <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:IGA X-press East Row</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-press East Row<br/><b>Street</b>:22-58 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">CAgaH8cnS2X2zwuHAYPehw==</guid>
-      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra Airport:Woolworths Majura Park</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Majura Park<br/><b>Street</b>:Majura Park Shopping Centre, 18/16 Spitfire Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1445<br/><b>Departure Time</b>:1550<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
       <guid isPermaLink="false">FXt/pcLvdMGfEaQCzFpG0Q==</guid>
@@ -6833,12 +6827,6 @@
       <title>(New) Canberra City:Dina's Liquor</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dina's Liquor<br/><b>Street</b>:7 East Row Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">Np7xO6eM1Ho871m51IF2pQ==</guid>
-      <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Kaleen:B&amp;B Emporium</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:B&B Emporium<br/><b>Street</b>:Kaleen Plaza, Georgina Cres<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1610<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">XYC5+YtN/vtppakXYgTMDQ==</guid>
       <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
     </item>
     <item>
@@ -6906,6 +6894,156 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Popes Electrical and Data Supplies<br/><b>Street</b>:50-52 Colbee Court<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">In40OFas+1Pv+mdwbc8meg==</guid>
       <pubDate>Fri, 17 Sep 2021 23:40:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:2 Primmer Court<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 September 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1615<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">+kaoeBe4nMxP2SWR2fCHaA==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Campbell:Hindmarsh Campbell - Seventy One</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hindmarsh Campbell - Seventy One<br/><b>Street</b>:71 Constitution Avenue<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:0640<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">+yam3/IfQCXomNEl88PuzA==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:United Petroleum</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:United Petroleum<br/><b>Street</b>:150 O'Halloran Circuit<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">7Xtn5vOROeL9Lm+ogNL4jg==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Hughes:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:16 Hughes Place<br/><b>Suburb</b>:Hughes<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 September 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">AqX5i4K+6HEJ/ty9GYZQmQ==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Melba:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:1/4-6 Melba Circuit<br/><b>Suburb</b>:Melba<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1245<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">AtP0JzODzAflNm4EiSu/0g==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 3 Transport Canberra Code BUS419</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 3 Transport Canberra Code BUS419<br/><b>Street</b>:Belconnen Interchange To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1939<br/><b>Departure Time</b>:1955<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">Ayf3Ff8eap/Kk/5IF6pBlw==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV006</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV006<br/><b>Street</b>:Alinga Street To Macarthur Avenue<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2004<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">B+d7HOY7msLOfZgNp+irhw==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:United Petroleum</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:United Petroleum<br/><b>Street</b>:150 O'Halloran Circuit<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1945<br/><b>Departure Time</b>:2015<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">LVxnJdW0r/z8Ma1AA2LdMA==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:12 Sangster Place<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 September 2021<br/><b>Arrival Time</b>:1410<br/><b>Departure Time</b>:1435<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">V5IxDngAwl1ZbMS13T905Q==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Acton:Oliphant Building, ANU</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Oliphant Building, ANU<br/><b>Street</b>:60 Mills Road<br/><b>Suburb</b>:Acton<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:0850<br/><b>Departure Time</b>:1315<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">WEDkJhXnZpKgLLRYZMtSMA==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:SupaBarn Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SupaBarn Express<br/><b>Street</b>:5 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Z4P+cvqzxC/yUIIpQiJAiQ==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Dina's Liquor</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dina's Liquor<br/><b>Street</b>:7 East Row Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">amFWrKKvkDje/gbNLdGL7A==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Campbell:Hindmarsh Campbell - Seventy One</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hindmarsh Campbell - Seventy One<br/><b>Street</b>:71 Constitution Avenue<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:0640<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">bFNUzvA/U85V8NiR3hoh0Q==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 4 Transport Canberra Code BUS671</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 4 Transport Canberra Code BUS671<br/><b>Street</b>:City Interchange To Woden Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1027<br/><b>Departure Time</b>:1041<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">csJK+SzV/5vNIhS8RAMM8g==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Kingsley's Chicken Erindale</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kingsley's Chicken Erindale<br/><b>Street</b>:5/20 Gartside Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1810<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">dr/1dusLnnmjKTKGy40fJA==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Hughes:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:16 Hughes Place<br/><b>Suburb</b>:Hughes<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 September 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">ihT0PeUmPu4dn+7IdZNyAQ==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 42 Transport Canberra Code BUS710</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 42 Transport Canberra Code BUS710<br/><b>Street</b>:Melba To Belconnen Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1919<br/><b>Departure Time</b>:1932<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">jIXiNMhP6LrcH5qz+Hm+pg==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kaleen:Plaza</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Plaza<br/><b>Street</b>:Georgina Crescent<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1550<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">juKykzXKZ7feWEZ/xsiHhQ==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Local Liquor East Row</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Local Liquor East Row<br/><b>Street</b>:22-58 East Row Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 07 September 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">n7RtC9GYUOsxdkiqSfvQsg==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kaleen:B&amp;B Emporium</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:B&B Emporium<br/><b>Street</b>:Kaleen Plaza, Georgina Crescent<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1610<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">o/q8ttooISXdkAegp5q6jA==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 4 Transport Canberra Code BUS446</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 4 Transport Canberra Code BUS446<br/><b>Street</b>:Woden Interchange To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:0028<br/><b>Departure Time</b>:0042<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">rEAeuLdz7BphQOh388tHFQ==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Corner Hibberson Street And Gungahlin Place<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">rq6GdAhKS/23AIiG3rp2WQ==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1750<br/><b>Departure Time</b>:1845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">sjGymqJtXtqxYGZMaOV66Q==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Pharmacy Select</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Pharmacy Select<br/><b>Street</b>:Gungahlin Village, 46 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">wu+BYz7t92I5MjUgJW0Qpg==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:IGA X-press East Row</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-press East Row<br/><b>Street</b>:22-58 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">zjea5XE4yBTL+mpeh6UgVw==</guid>
+      <pubDate>Sat, 18 Sep 2021 03:26:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
