@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Sep 2021 05:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 08:18:36 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -2876,12 +2876,6 @@
       <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Greenway:Woolworths Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths Tuggeranong<br/><b>Street</b>:Corner Anketell And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">uTLwsN+s8dFWDilEoQj+gA==</guid>
-      <pubDate>Tue, 31 Aug 2021 04:56:55 +0000</pubDate>
-    </item>
-    <item>
       <title>(Archived) Canberra City:Metropol City</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Metropol City<br/><b>Street</b>:81 Cooyong Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 10 August 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">uyyZ+F+DdboxCFSDkiwmtg==</guid>
@@ -5456,12 +5450,6 @@
       <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Greenway:Woolworths Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Tuggeranong<br/><b>Street</b>:Corner Anketell And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">dtbHruuIUns8ys4JwWiKkw==</guid>
-      <pubDate>Sat, 11 Sep 2021 09:48:32 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Conder:Woolworths</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Lanyon Marketplace, 4 Sidney Nolan Street<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 08 September 2021<br/><b>Arrival Time</b>:1850<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">e9uteAq2Us5gwyx06zYE+Q==</guid>
@@ -7418,21 +7406,9 @@
       <pubDate>Sun, 19 Sep 2021 09:21:12 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Amaroo:Coles</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Horse Park Drive<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1550<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">X+NaU47um3y4xsXmXKpzBw==</guid>
-      <pubDate>Sun, 19 Sep 2021 09:21:12 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Conder:BWS</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:BWS<br/><b>Street</b>:4 Sidney Nolan Drive<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1625<br/><b>Departure Time</b>:1705<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">fSyhxBKZ2bJomfxyqV+Qbg==</guid>
-      <pubDate>Sun, 19 Sep 2021 09:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Fyshwick:Coyote Catering and Cafe</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coyote Catering and Cafe<br/><b>Street</b>:1/8 Gladstone<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">gyutvjxljras23MFgaKd8A==</guid>
       <pubDate>Sun, 19 Sep 2021 09:21:12 +0000</pubDate>
     </item>
     <item>
@@ -7544,21 +7520,9 @@
       <pubDate>Mon, 20 Sep 2021 05:17:02 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Amaroo:ALDI</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:12 Pioneer<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">MQZQqZ1UEjNC7gNUGu4FiA==</guid>
-      <pubDate>Mon, 20 Sep 2021 05:17:02 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Public Transport:Bus Route 2 Transport Canberra Code BUS358</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 2 Transport Canberra Code BUS358<br/><b>Street</b>:City Interchange To Kippax<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 September 2021<br/><b>Arrival Time</b>:1206<br/><b>Departure Time</b>:1238<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">QmZd+3BS27bJi5OBLofUOg==</guid>
-      <pubDate>Mon, 20 Sep 2021 05:17:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Macquarie:Optimal Pharmacy Plus Jamison</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Optimal Pharmacy Plus Jamison<br/><b>Street</b>:Jamison Plaza, Bowman Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1210<br/><b>Departure Time</b>:1310<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">RckFO7TvO+ETlcOfuz1IvQ==</guid>
       <pubDate>Mon, 20 Sep 2021 05:17:02 +0000</pubDate>
     </item>
     <item>
@@ -7601,12 +7565,6 @@
       <title>(New) Public Transport:Bus Route 9 Transport Canberra Code BUS323</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 9 Transport Canberra Code BUS323<br/><b>Street</b>:Watson Shops To Dickson Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1756<br/><b>Departure Time</b>:1802<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">XriuEQMV17Z771rWfT5g4w==</guid>
-      <pubDate>Mon, 20 Sep 2021 05:17:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Archived) Canberra Airport:McDonald's Majura Park</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:McDonald's Majura Park<br/><b>Street</b>:Majura Road And Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">ZT+ddiHTlfSVvjT4yJAePQ==</guid>
       <pubDate>Mon, 20 Sep 2021 05:17:02 +0000</pubDate>
     </item>
     <item>
@@ -7668,6 +7626,102 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 28 Transport Canberra Code BUS463<br/><b>Street</b>:Casey To Gungahlin Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:2029<br/><b>Departure Time</b>:2043<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">zg1MmnDHykktmoCCC1SolA==</guid>
       <pubDate>Mon, 20 Sep 2021 05:17:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Canberra Airport:Mcdonald's Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Mcdonald's Majura Park<br/><b>Street</b>:Majura Road And Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">/Fs0UjPJ9GnoMpQ2qDjvjw==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Amaroo:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:12 Pioneer Street<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">/cydin2pYgu39RWaYwecCQ==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Conder:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Lanyon Marketplace, 4 Sidney Nolan Street<br/><b>Suburb</b>:Conder<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 September 2021<br/><b>Arrival Time</b>:0700<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">AwPcNqBFr/AtvZIkK5Es/w==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">B3dnqTNUW+JzRqaNHbtkfw==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Macquarie:Coles Jamison</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Jamison<br/><b>Street</b>:Jamison Plaza, Bowman Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1810<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">JJksi69bz/D3Yrm+06ib5Q==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Fyshiwick:Coyote Catering and Cafe</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coyote Catering and Cafe<br/><b>Street</b>:1/8 Gladstone<br/><b>Suburb</b>:Fyshiwick<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">QR+R4diFYKiG5p10p09QLg==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Light Rail Route 1 Transport Canberra Code LRV006</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Light Rail Route 1 Transport Canberra Code LRV006<br/><b>Street</b>:Dickson Interchange To Gungahlin Place<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1806<br/><b>Departure Time</b>:1825<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">Sg60mCMGzA90NLNb0Lnmmw==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Manuka:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Franklin Street And Flinders Way<br/><b>Suburb</b>:Manuka<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1745<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">T0DAHaaH6b4Zkm6aEamF2w==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Greenway:Woolworths Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Woolworths Tuggeranong<br/><b>Street</b>:Tuggeranong Southpoint, Corner Anketell And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 20 August 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">UoZx5Ra2hi1rcuta7Sqb8Q==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Amaroo:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Horse Park Drive<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">VfNNSzz9qKL2tdEYU2feNg==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">XSQIJHpV8TwVcHwfFc4UAg==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Chemist Warehouse Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chemist Warehouse Majura Park<br/><b>Street</b>:Majura Park Shopping Centre, 18/26 Spitfire Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 September 2021<br/><b>Arrival Time</b>:1510<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">gaeT0Mt2vW5yo3BbygUl2g==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Amaroo:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:12 Pioneer Street<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:1520<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">qgvkrupZJdPaZStgiBHG4A==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Macqurie:Optimal Pharmacy Plus Jamison</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Optimal Pharmacy Plus Jamison<br/><b>Street</b>:Jamison Plaza, Bowman Street<br/><b>Suburb</b>:Macqurie<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1210<br/><b>Departure Time</b>:1310<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">vSyC/bFK7mcnfOIxQsn0vQ==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Woolworths Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Tuggeranong<br/><b>Street</b>:Tuggeranong Southpoint, Corner Anketell And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 10 September 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">xsI78pT0yQ6J+Irl48sgGQ==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Archived) Greenway:Woolworths Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Woolworths Tuggeranong<br/><b>Street</b>:Tuggeranong Southpoint, Corner Anketell And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 06 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">z0yt8pTOac//V/Eu8rZlWA==</guid>
+      <pubDate>Mon, 20 Sep 2021 08:18:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
