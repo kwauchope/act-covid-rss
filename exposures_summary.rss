@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Sep 2021 09:21:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 05:17:02 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -139,13 +139,6 @@
       <description><![CDATA[<b>Weston:</b>7<br/><b>Gungahlin:</b>1<br/><b>Florey:</b>1<br/><b>Canberra City:</b>1<br/>]]></description>
       <guid isPermaLink="false">8Jmu9P95ng+xxbL2cWifxw==</guid>
       <pubDate>Thu, 02 Sep 2021 03:35:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>1 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Weston:</b>1<br/>]]></description>
-      <guid isPermaLink="false">Ln97I/auY70YA81bAo9qsQ==</guid>
-      <pubDate>Thu, 02 Sep 2021 04:14:54 +0000</pubDate>
     </item>
     <item>
       <title>17 additional exposure sites</title>
@@ -421,10 +414,10 @@
       <pubDate>Fri, 17 Sep 2021 04:35:53 +0000</pubDate>
     </item>
     <item>
-      <title>21 additional exposure sites</title>
+      <title>20 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>9<br/><b>Canberra Airport:</b>5<br/><b>Gungahlin:</b>3<br/><b>Greenway:</b>2<br/><b>Casey:</b>1<br/><b>Kaleen:</b>1<br/>]]></description>
-      <guid isPermaLink="false">44wNf3uAoXI3tyBvYj0IWQ==</guid>
+      <description><![CDATA[<b>Canberra City:</b>9<br/><b>Canberra Airport:</b>4<br/><b>Gungahlin:</b>3<br/><b>Greenway:</b>2<br/><b>Casey:</b>1<br/><b>Kaleen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">HYTv69iP+zObsok0UHXqxQ==</guid>
       <pubDate>Fri, 17 Sep 2021 09:21:21 +0000</pubDate>
     </item>
     <item>
@@ -456,11 +449,18 @@
       <pubDate>Sun, 19 Sep 2021 02:16:24 +0000</pubDate>
     </item>
     <item>
-      <title>23 additional exposure sites</title>
+      <title>16 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Conder:</b>5<br/><b>Greenway:</b>5<br/><b>Gungahlin:</b>4<br/><b>Amaroo:</b>2<br/><b>Macqurie:</b>1<br/><b>Banks:</b>1<br/><b>Griffith:</b>1<br/><b>Forrest:</b>1<br/><b>Fyshwick:</b>1<br/><b>Kaleen:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
-      <guid isPermaLink="false">RKR/3JoNwBgi6FFgsCAzNA==</guid>
+      <description><![CDATA[<b>Conder:</b>5<br/><b>Gungahlin:</b>4<br/><b>Banks:</b>1<br/><b>Griffith:</b>1<br/><b>Forrest:</b>1<br/><b>Fyshwick:</b>1<br/><b>Amaroo:</b>1<br/><b>Kaleen:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">vnPTVXqAUZVJH7Aaz7JXdw==</guid>
       <pubDate>Sun, 19 Sep 2021 09:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>33 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Public Transport:</b>12<br/><b>Greenway:</b>6<br/><b>Belconnen:</b>2<br/><b>Holt:</b>2<br/><b>Phillip:</b>2<br/><b>Weston:</b>1<br/><b>Dickson:</b>1<br/><b>Canberra Airport:</b>1<br/><b>Franklin:</b>1<br/><b>Macquarie:</b>1<br/><b>Amaroo:</b>1<br/><b>Hawker:</b>1<br/><b>Griffith:</b>1<br/><b>Deakin:</b>1<br/>]]></description>
+      <guid isPermaLink="false">NaX7rsGtSu6+eq0HT/2uBg==</guid>
+      <pubDate>Mon, 20 Sep 2021 05:17:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
