@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Sep 2021 02:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 02:39:19 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -8306,12 +8306,6 @@
       <pubDate>Fri, 24 Sep 2021 02:13:12 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Watson:LPO and Pharmacy</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:LPO and Pharmacy<br/><b>Street</b>:1 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">7+wYvk1f62gVfjVj5RcpMA==</guid>
-      <pubDate>Fri, 24 Sep 2021 02:13:12 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Greenway:Bakers Delight Tuggeranong</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bakers Delight Tuggeranong<br/><b>Street</b>:Tuggeranong Hyperdrome, Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 September 2021<br/><b>Arrival Time</b>:0600<br/><b>Departure Time</b>:0900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">AnngOP8QSuESFss4Ajz3VA==</guid>
@@ -8412,6 +8406,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bestore<br/><b>Street</b>:109 Flemingston Road<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">wtoRw+c0JNW3qUu5aOQp3A==</guid>
       <pubDate>Fri, 24 Sep 2021 02:13:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:Pharmacy and Australia Post</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Pharmacy and Australia Post<br/><b>Street</b>:1 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">8nUIbGhiJBHEJAKvoYA6Nw==</guid>
+      <pubDate>Fri, 24 Sep 2021 02:39:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
