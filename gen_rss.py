@@ -73,6 +73,17 @@ def normalise(locations):
             location[k] = space_re.sub(' ', v)
     return [x for i, x in enumerate(locations) if i not in invalid]
 
+# Filter locations
+def filt(locations):
+    # For now simply remove archived to reduce size of RSS
+    # If they do things in old entries to change ID also means won't spam feed
+    to_del = []
+    for k, v in locations.items():
+        if v['Status'] == 'Archived':
+            to_del.append(k)
+    for guid in to_del:
+        del locations[guid]
+    #return [x for x in locations if x['Status'] != 'Archived']
 
 # Find CSV location, returns None if can't find it
 def find_csv_location():
@@ -192,7 +203,6 @@ def update_state(existing, exposures, cur_time=None):
     # Delete old entries from state.
     for guid in existing.keys() - exposure_guids:
         del existing[guid]
-
     cur_time = cur_time or datetime.utcnow().timestamp()
     new_entries = exposure_guids.keys() - existing
     for new_entry in new_entries:
@@ -208,6 +218,9 @@ def update_state(existing, exposures, cur_time=None):
 def gen_feed(locations):
     fg = FeedGenerator()
     pd = datetime.now(timezone.utc)
+    # Filter here in case break summary feed, don't want to use brain
+    # TODO: Ideally done after normalise(), taking a while to sort now
+    filt(locations)
 
     for loc in sorted(locations.values(), key=lambda x: (x['pubDate'], x['id']), reverse=True):
         fe = fg.add_entry()
