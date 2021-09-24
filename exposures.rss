@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Sep 2021 02:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 03:37:34 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -8372,12 +8372,6 @@
       <pubDate>Fri, 24 Sep 2021 02:13:12 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Gungahlin:Eastern Asia Groceries</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Eastern Asia Groceries<br/><b>Street</b>:137/43 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">s02jWIddtIjDtaR1QW2+tA==</guid>
-      <pubDate>Fri, 24 Sep 2021 02:13:12 +0000</pubDate>
-    </item>
-    <item>
       <title>(Archived) Lyneham:Caltex (EG Fuel) Canberra Gateway</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Archived<br/><b>Exposure Site</b>:Caltex (EG Fuel) Canberra Gateway<br/><b>Street</b>:41 Federal Highway<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">tBLzvK+ZOyyZ6mx50w385w==</guid>
@@ -8412,6 +8406,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Pharmacy and Australia Post<br/><b>Street</b>:1 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">8nUIbGhiJBHEJAKvoYA6Nw==</guid>
       <pubDate>Fri, 24 Sep 2021 02:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Daily Market</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Daily Market<br/><b>Street</b>:137/43 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">3FMyOE4B0p2IgKUuWubshg==</guid>
+      <pubDate>Fri, 24 Sep 2021 03:37:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
