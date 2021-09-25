@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Sep 2021 02:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Sep 2021 09:56:32 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -533,11 +533,18 @@
       <pubDate>Fri, 24 Sep 2021 09:52:16 +0000</pubDate>
     </item>
     <item>
-      <title>32 additional exposure sites</title>
+      <title>30 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Weston:</b>10<br/><b>Belconnen:</b>4<br/><b>Franklin:</b>3<br/><b>Greenway:</b>3<br/><b>Conder:</b>2<br/><b>Public Transport:</b>2<br/><b>Amaroo:</b>2<br/><b>Calwell:</b>1<br/><b>Macquarie:</b>1<br/><b>Phillip:</b>1<br/><b>Gungahlin:</b>1<br/><b>Casey:</b>1<br/><b>Watson:</b>1<br/>]]></description>
-      <guid isPermaLink="false">mFXCn/vh3gZxQdTQwcuY3g==</guid>
+      <description><![CDATA[<b>Weston:</b>10<br/><b>Belconnen:</b>4<br/><b>Greenway:</b>3<br/><b>Franklin:</b>2<br/><b>Conder:</b>2<br/><b>Public Transport:</b>2<br/><b>Amaroo:</b>2<br/><b>Macquarie:</b>1<br/><b>Phillip:</b>1<br/><b>Gungahlin:</b>1<br/><b>Casey:</b>1<br/><b>Watson:</b>1<br/>]]></description>
+      <guid isPermaLink="false">xukcLFkOXuJdUheLIrbMbA==</guid>
       <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>23 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Kingston:</b>6<br/><b>Banks:</b>4<br/><b>Conder:</b>3<br/><b>Weston:</b>2<br/><b>Gungahlin:</b>2<br/><b>Public Transport:</b>2<br/><b>Greenway:</b>1<br/><b>Fyshwick:</b>1<br/><b>Phillip:</b>1<br/><b>Calwell:</b>1<br/>]]></description>
+      <guid isPermaLink="false">XBEcpil9lCFAR9g+f/r/aA==</guid>
+      <pubDate>Sat, 25 Sep 2021 09:56:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
