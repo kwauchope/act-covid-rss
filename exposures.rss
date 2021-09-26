@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Sep 2021 09:56:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Sep 2021 02:16:15 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -6464,12 +6464,6 @@
       <pubDate>Fri, 24 Sep 2021 09:52:16 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Amaroo:Aldi</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Aldi<br/><b>Street</b>:12 Pioneer Street<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 September 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">+2xN4beZkZmivjBGbbuQfg==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Public Transport:Bus Route 2 Transport Canberra Code BUS423</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 2 Transport Canberra Code BUS423<br/><b>Street</b>:Belconnen Interchange To Scullin<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:0806<br/><b>Departure Time</b>:0813<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">0J6oX1fTj7deG3bE69WpMA==</guid>
@@ -6774,6 +6768,234 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:80/20 Food<br/><b>Street</b>:5/10 Parbery Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">yUPYsGpEQ/va4byFPhd+Tw==</guid>
       <pubDate>Sat, 25 Sep 2021 09:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (refer to Close Contacts entry if attended Mary Potter or St Teresa Household) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (refer to Close Contacts entry if attended Mary Potter or St Teresa Household) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">+oIsH8yZxAyFCVJCFUdcRw==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Cafe Alibi</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cafe Alibi<br/><b>Street</b>:5 Farrell Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1235<br/><b>Departure Time</b>:1320<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">0g5pvF1uKCH9s2K+D0g7bQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1435<br/><b>Departure Time</b>:1515<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">4j9BFTWgpw/EDLOQftUIrQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Metro Petroleum</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Metro Petroleum<br/><b>Street</b>:15 Barrier Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1750<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">6IFy70JvBLk28sYYJRiBCw==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:Deji Asian Supermarket</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Deji Asian Supermarket<br/><b>Street</b>:15 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1340<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">9STPX9XgQilOdjOxY5k1bg==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:7 London Circuit, Building B Level 5 Construction Zone</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7 London Circuit, Building B Level 5 Construction Zone<br/><b>Street</b>:7 London Circuit, City<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:0650<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">BBab3WGjeJbKNybF/cf67w==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (refer to Close Contacts entry if attended Mary Potter or St Teresa Household) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (refer to Close Contacts entry if attended Mary Potter or St Teresa Household) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 September 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">BZss1uuNT7AdtaJMlUAjEQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:1 Dickson Place<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1540<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">CB+Tv0CR00Z8IGBowc7aVg==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (St. Teresa Household only) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (St. Teresa Household only) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0700<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">DeIuoS16PZ+HRdfYZOuJMg==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Cafe Alibi</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cafe Alibi<br/><b>Street</b>:5 Farrell Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0940<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">EPBst5I2ykYN2EUxCt5Zng==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Southpoint Shopping Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Southpoint Shopping Centre<br/><b>Street</b>:Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:0730<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">FdsOsVGqj5Iy6RFALTpFkQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mocca Espresso Lounge</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mocca Espresso Lounge<br/><b>Street</b>:18 Marcus Clarke Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">JSwPwAv3im+Blm/RZiz5fw==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (Mary Potter Household only) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (Mary Potter Household only) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 September 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">Ja7CNNFMxwpIf8ATtYP+3Q==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 28 Transport Canberra Code BUS410</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 28 Transport Canberra Code BUS410<br/><b>Street</b>:Casey Market Town To Casey (Plimsoll Drive)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1057<br/><b>Departure Time</b>:1059<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">JniOWCs1AVuf7M6dmiq90w==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:7 London Circuit, Building B Level 5 Construction Zone</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7 London Circuit, Building B Level 5 Construction Zone<br/><b>Street</b>:7 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:0650<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">LhovC++WYhFCjnLfl0j1LQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (St. Teresa Household only) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (St. Teresa Household only) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 September 2021<br/><b>Arrival Time</b>:2230<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">Mwl+GS9o9pBENffRyC3yTQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:2 Primmer Court<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0720<br/><b>Departure Time</b>:0815<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">O1pW10AxsYeurOiVxP7wUA==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:McDonald's Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonald's Tuggeranong<br/><b>Street</b>:Cowlishaw Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1250<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Ociyhp0eLNVXLD9DCTvycw==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:Market Town</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Market Town<br/><b>Street</b>:15 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1040<br/><b>Departure Time</b>:1120<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">QZ0vtF6oGUpLmtC59mwtkQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chapman:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:60 Perry Drive<br/><b>Suburb</b>:Chapman<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">Se79XdjBlqVOar13ghLeGQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:7 London Circuit, Building B Level 5 Construction Zone</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7 London Circuit, Building B Level 5 Construction Zone<br/><b>Street</b>:7 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0650<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">TWANaBm50MHVv7EFuxBzLg==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (St. Teresa Household only) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (St. Teresa Household only) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0700<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">TvHzUhvbi9EUWKKvnBw8mw==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (Mary Potter Household only) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (Mary Potter Household only) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">URGNLvW3uiG0SW1Yn78GRw==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (Mary Potter Household only) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (Mary Potter Household only) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">WESzmFqqMk0TdAlx4fE/eA==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:1515<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">Wk5cePlSAFANNaG7gN2gaA==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Charnwood:Coles Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:Lhotsky Street And Charnwood Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1145<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">XsWTbYYlZ0f8lJHB1MvCzg==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (refer to Close Contacts entry if attended Mary Potter or St Teresa Household) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (refer to Close Contacts entry if attended Mary Potter or St Teresa Household) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">YBIbN2o+N6KEonTgZt95gg==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:IGA X-press East Row</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-press East Row<br/><b>Street</b>:22-58 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1635<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ZMI7+f2PKhU5PS6K8llD4w==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:7 London Circuit, Building B Level 5 Construction Zone</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7 London Circuit, Building B Level 5 Construction Zone<br/><b>Street</b>:7 London Circuit, City<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:0650<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">dwUcFkNtXdv7KAnqiX5XDw==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:Subway</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Subway<br/><b>Street</b>:Shop 1/71-81 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:0950<br/><b>Departure Time</b>:1035<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">jUamvScpXGN/MVdaWnPqRA==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Westfield</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Westfield<br/><b>Street</b>:Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1420<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">nsCJpGZj54dIB0d8Au5vHw==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (Mary Potter Household only) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (Mary Potter Household only) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">ro46VRK+rCPif9S7NPyq4w==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (St. Teresa Household only) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (St. Teresa Household only) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:2230<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">rs0r6T6/VmgGugE/8RTBTQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1425<br/><b>Departure Time</b>:1515<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">tgeEgsgF6sbhNrwTlweQcA==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Post Shop - PO Boxes Area</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Post Shop - PO Boxes Area<br/><b>Street</b>:20 Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0940<br/><b>Departure Time</b>:1020<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">u9R04wGZGwpx8K79sj2Dqg==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Calvary Haydon Retirement Community Aged Care Facility (refer to Close Contacts entry if attended Mary Potter or St Teresa Household) – Visitors Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Calvary Haydon Retirement Community Aged Care Facility (refer to Close Contacts entry if attended Mary Potter or St Teresa Household) – Visitors Only<br/><b>Street</b>:2 Jaeger Circuit<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">wBCQLpATL3mcxT5dUhhITQ==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 28 Transport Canberra Code BUS927</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 28 Transport Canberra Code BUS927<br/><b>Street</b>:Casey (Plimsoll Drive) To Casey (Whitrod Ave)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0903<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">wt3/r3g815xKgM99pB2ilg==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 28 Transport Canberra Code BUS544</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 28 Transport Canberra Code BUS544<br/><b>Street</b>:Casey (Whitrod Ave) To Casey (Plimsoll Drive)<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:0928<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">yLaZfg1Ww1DM4EgI2DU5Wg==</guid>
+      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
