@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Sep 2021 03:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 08:38:06 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -113,10 +113,10 @@
       <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
     </item>
     <item>
-      <title>18 additional exposure sites</title>
+      <title>16 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Phillip:</b>5<br/><b>Public Transport:</b>5<br/><b>Gungahlin:</b>2<br/><b>Ainslie:</b>2<br/><b>Fyshwick:</b>1<br/><b>Watson:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
-      <guid isPermaLink="false">DHpjf/kI4XyXTnG/yH5C2g==</guid>
+      <description><![CDATA[<b>Public Transport:</b>5<br/><b>Phillip:</b>3<br/><b>Gungahlin:</b>2<br/><b>Ainslie:</b>2<br/><b>Fyshwick:</b>1<br/><b>Watson:</b>1<br/><b>Conder:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
+      <guid isPermaLink="false">GxU1yoKlQh/snRz2adjEhw==</guid>
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
@@ -533,10 +533,10 @@
       <pubDate>Fri, 24 Sep 2021 09:52:16 +0000</pubDate>
     </item>
     <item>
-      <title>29 additional exposure sites</title>
+      <title>20 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Weston:</b>10<br/><b>Belconnen:</b>4<br/><b>Greenway:</b>3<br/><b>Franklin:</b>2<br/><b>Conder:</b>2<br/><b>Public Transport:</b>2<br/><b>Macquarie:</b>1<br/><b>Phillip:</b>1<br/><b>Amaroo:</b>1<br/><b>Gungahlin:</b>1<br/><b>Casey:</b>1<br/><b>Watson:</b>1<br/>]]></description>
-      <guid isPermaLink="false">pLkoepSn5rNmpTg0194c+A==</guid>
+      <description><![CDATA[<b>Belconnen:</b>4<br/><b>Greenway:</b>3<br/><b>Franklin:</b>2<br/><b>Conder:</b>2<br/><b>Public Transport:</b>2<br/><b>Macquarie:</b>1<br/><b>Weston:</b>1<br/><b>Phillip:</b>1<br/><b>Amaroo:</b>1<br/><b>Gungahlin:</b>1<br/><b>Casey:</b>1<br/><b>Watson:</b>1<br/>]]></description>
+      <guid isPermaLink="false">fLiqiccqf4gucIfttiYvWg==</guid>
       <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
     </item>
     <item>
@@ -547,24 +547,24 @@
       <pubDate>Sat, 25 Sep 2021 09:56:32 +0000</pubDate>
     </item>
     <item>
-      <title>39 additional exposure sites</title>
+      <title>38 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Bruce:</b>12<br/><b>Canberra City:</b>8<br/><b>Belconnen:</b>5<br/><b>Public Transport:</b>3<br/><b>Dickson:</b>3<br/><b>Greenway:</b>2<br/><b>Charnwood:</b>1<br/><b>Chapman:</b>1<br/><b>Casey:</b>1<br/><b>Amaroo:</b>1<br/><b>Kambah:</b>1<br/><b>Fyshwick:</b>1<br/>]]></description>
-      <guid isPermaLink="false">HKjACDS++rNU2x+ork8nyw==</guid>
+      <description><![CDATA[<b>Bruce:</b>12<br/><b>Canberra City:</b>8<br/><b>Belconnen:</b>5<br/><b>Public Transport:</b>3<br/><b>Dickson:</b>3<br/><b>Greenway:</b>2<br/><b>Charnwood:</b>1<br/><b>Casey:</b>1<br/><b>Amaroo:</b>1<br/><b>Kambah:</b>1<br/><b>Fyshwick:</b>1<br/>]]></description>
+      <guid isPermaLink="false">yd2+SVtp+mzweEYgG/Mbqw==</guid>
       <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Fyshwick:</b>5<br/><b>Canberra City:</b>4<br/><b>Banks:</b>2<br/><b>Bruce:</b>1<br/><b>Griffith:</b>1<br/>]]></description>
+      <guid isPermaLink="false">js3AsQOGvvaFV2b1ATLfKA==</guid>
+      <pubDate>Sun, 26 Sep 2021 08:25:04 +0000</pubDate>
     </item>
     <item>
       <title>14 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Fyshwick:</b>5<br/><b>Canberra City:</b>4<br/><b>Banks:</b>2<br/><b>Bruce:</b>1<br/><b>Weston:</b>1<br/><b>Griffith:</b>1<br/>]]></description>
-      <guid isPermaLink="false">07dXO/hoxQQ4PLX9gQeWhg==</guid>
-      <pubDate>Sun, 26 Sep 2021 08:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>20 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Dickson:</b>5<br/><b>Public Transport:</b>5<br/><b>Gungahlin:</b>4<br/><b>Charnwood:</b>2<br/><b>Griffith:</b>1<br/><b>Deakin:</b>1<br/><b>Franklin:</b>1<br/><b>Canberra City:</b>1<br/>]]></description>
-      <guid isPermaLink="false">HehDYxgOKY3zONqt3TYotA==</guid>
+      <description><![CDATA[<b>Dickson:</b>5<br/><b>Gungahlin:</b>3<br/><b>Charnwood:</b>2<br/><b>Griffith:</b>1<br/><b>Deakin:</b>1<br/><b>Franklin:</b>1<br/><b>Canberra City:</b>1<br/>]]></description>
+      <guid isPermaLink="false">IbKh+8F0JRKIW1L9gTXuIw==</guid>
       <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
     </item>
     <item>
@@ -573,6 +573,13 @@
       <description><![CDATA[<b>Holt:</b>1<br/>]]></description>
       <guid isPermaLink="false">MxXF7TSQdHQxFLPj6c3IUQ==</guid>
       <pubDate>Mon, 27 Sep 2021 03:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>34 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Weston:</b>13<br/><b>Public Transport:</b>5<br/><b>Phillip:</b>4<br/><b>Gungahlin:</b>3<br/><b>Belconnen:</b>3<br/><b>Chapman:</b>1<br/><b>Kambah:</b>1<br/><b>Greenway:</b>1<br/><b>Chisholm:</b>1<br/><b>Fyshwick:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">YQbOKTgG5A/Kwr8RD5SGlQ==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

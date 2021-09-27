@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Sep 2021 03:36:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 08:38:06 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -1214,12 +1214,6 @@
       <pubDate>Tue, 31 Aug 2021 09:14:04 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Phillip:Priceline Pharmacy Woden</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Priceline Pharmacy Woden<br/><b>Street</b>:Shop G98, Westfield Woden<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:0850<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">0dPhoCGN5jQzjSDE/IA/og==</guid>
-      <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Public Transport:Bus Route 70 Transport Canberra Code BUS376</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 70 Transport Canberra Code BUS376<br/><b>Street</b>:Cooleman Court To Woden Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 30 August 2021<br/><b>Arrival Time</b>:1357<br/><b>Departure Time</b>:1407<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">9sRcIQNKHRlZimzk41FV+w==</guid>
@@ -1289,12 +1283,6 @@
       <title>(New) Phillip:KFC Woden</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:KFC Woden<br/><b>Street</b>:48 Botany Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 27 August 2021<br/><b>Arrival Time</b>:1550<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">dRJsxsQlbeCYhO7jvwmfgw==</guid>
-      <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Phillip:Priceline Pharmacy Woden</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Priceline Pharmacy Woden<br/><b>Street</b>:Shop G98, Westfield Woden<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 26 August 2021<br/><b>Arrival Time</b>:0915<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">ipWAM5kI8SIjBoR4DT1yAw==</guid>
       <pubDate>Wed, 01 Sep 2021 03:46:52 +0000</pubDate>
     </item>
     <item>
@@ -6458,33 +6446,9 @@
       <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Weston:ALDI Cooleman Court</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:ALDI Cooleman Court<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1420<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">0tzClP8rwzna7RccmIYPRA==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Weston:Coffee Guru Cooleman Court</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coffee Guru Cooleman Court<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">3fLK5iBF/Cv2zhM7aC9d4Q==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Weston:Cooleman Court Shopping Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 September 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">4JNSxMNmGv0AQtpxx+kZ4g==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
       <title>(Updated) Watson:Pharmacy and Australia Post</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Pharmacy and Australia Post<br/><b>Street</b>:1 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">8nUIbGhiJBHEJAKvoYA6Nw==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Weston:Cooleman Court Shopping Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">9LDEca3bUlKQE8MSwFN7uw==</guid>
       <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
     </item>
     <item>
@@ -6524,18 +6488,6 @@
       <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Weston:Cooleman Court Shopping Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">NiTEsGSB23G3xjPgOb7Xtg==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Weston:Cooleman Court Shopping Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 September 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">OQYYPqPXRUaBXozZoi+nGQ==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Amaroo:Coffee Guru</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coffee Guru<br/><b>Street</b>:11 Pioneer Street<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1415<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">PamG2AK9kedX64tF1oPYqQ==</guid>
@@ -6545,12 +6497,6 @@
       <title>(New) Belconnen:Specsavers</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Specsavers<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">QYoLqeKAVIwmskVwtbzAtQ==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Weston:Cafe Au Lait Cooleman Court</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cafe Au Lait Cooleman Court<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1440<br/><b>Departure Time</b>:1510<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">XOyYlX/8+6eSNyigcjnV0A==</guid>
       <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
     </item>
     <item>
@@ -6587,18 +6533,6 @@
       <title>(New) Franklin:Woolworths Metro</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Metro<br/><b>Street</b>:Corner Flemington Road And Nullarbor Avenue<br/><b>Suburb</b>:Franklin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1450<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">nHfMt+T99i9fi698Kr6jQQ==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Weston:Cooleman Court Shopping Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">nXT3ZXRL30KgJ3AgbDAkGw==</guid>
-      <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Weston:St. George Bank Cooleman Court</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:St. George Bank Cooleman Court<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1415<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">nsJYRkEp1oGazpRjJyWuGw==</guid>
       <pubDate>Sat, 25 Sep 2021 02:06:10 +0000</pubDate>
     </item>
     <item>
@@ -6872,12 +6806,6 @@
       <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Chapman:IGA</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:60 Perry Drive<br/><b>Suburb</b>:Chapman<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">Se79XdjBlqVOar13ghLeGQ==</guid>
-      <pubDate>Sun, 26 Sep 2021 02:16:15 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:7 London Circuit, Building B Level 5 Construction Zone</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7 London Circuit, Building B Level 5 Construction Zone<br/><b>Street</b>:7 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0650<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">TWANaBm50MHVv7EFuxBzLg==</guid>
@@ -7010,12 +6938,6 @@
       <pubDate>Sun, 26 Sep 2021 08:25:04 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Weston:Cooleman Court Pharmacy</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cooleman Court Pharmacy<br/><b>Street</b>:Cooleman Court, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1735<br/><b>Departure Time</b>:1845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">ZQXs1WJ0BwmRVYQws5eFIA==</guid>
-      <pubDate>Sun, 26 Sep 2021 08:25:04 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Bruce:Capital Chemist University of Canberra</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capital Chemist University of Canberra<br/><b>Street</b>:Building 28, Allawoona Street And Ginninderra Drive<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1220<br/><b>Departure Time</b>:1305<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">aj5aslAXy+Ip8K8GGfBpoQ==</guid>
@@ -7094,12 +7016,6 @@
       <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Gungahlin:Medical and Surgical Centre (Floor 0 only)</title>
-      <description><![CDATA[<b>Event Id</b>:800899<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Medical and Surgical Centre (Floor 0 only)<br/><b>Street</b>:Gungahlin Village, Gungahlin Place<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1610<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">eEwCG3eh8R5pyOHyEtovxQ==</guid>
-      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Dickson:CORE Building Group - Mulberry Construction Site</title>
       <description><![CDATA[<b>Event Id</b>:800896<br/><b>Status</b>:New<br/><b>Exposure Site</b>:CORE Building Group - Mulberry Construction Site<br/><b>Street</b>:330 Northbourne Avenue<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:0600<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">mczqNl8/HKxHKHuk5yvylw==</guid>
@@ -7164,6 +7080,168 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths Kippax<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">sjTRod5HnnH+Kv5DQbprqA==</guid>
       <pubDate>Mon, 27 Sep 2021 03:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Ampol Foodary</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ampol Foodary<br/><b>Street</b>:49 Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:0520<br/><b>Departure Time</b>:0605<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">46EgpN3vBnkBQujx54/ndg==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:Cooleman Court Shopping Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 September 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">58r4BXT2i4Yo0tNbjNnpmg==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1035<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">6LLwT0w89tAtUiNdO8ovRg==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:Cafe Au Lait Cooleman Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cafe Au Lait Cooleman Court<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1440<br/><b>Departure Time</b>:1510<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">72qKNvEYOrxlotIc8A1Enw==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:St. George Bank Cooleman Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:St. George Bank Cooleman Court<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1415<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">8E5MiOKIWB9F7c++jCAVZg==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:2050<br/><b>Departure Time</b>:2145<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">E/WA8dUzGWzd4jzbZJMKrQ==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1245<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">LKluAS8mEWq4k+Dg/1aHDQ==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:Cooleman Court Shopping Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">MNtemTi1ESwg5PLpjYhnLQ==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Grease Monkey</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grease Monkey<br/><b>Street</b>:19 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">OnJgUqS3QaNjCT6Z8S5B6A==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Medical and Surgical Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Medical and Surgical Centre<br/><b>Street</b>:Gungahlin Village, Gungahlin Place<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1610<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">RO48pclrmpgGkJBFd4o7FA==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:ALDI Cooleman Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:ALDI Cooleman Court<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1420<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">TcRaC2sg3jQFzI0nlvy6Wg==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Cooleman Court Pharmacy</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cooleman Court Pharmacy<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1455<br/><b>Departure Time</b>:1540<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">ULYmkDns0+dWJjD1vsJMGw==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:Cooleman Court Pharmacy</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Pharmacy<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1735<br/><b>Departure Time</b>:1845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">YGztsC2z+oOR8jR/xZHoDQ==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Metal Mart</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Metal Mart<br/><b>Street</b>:53 Collie Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 25 September 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">YS+LVb3qJaBjHM2norEySg==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Chemist Warehouse Woden</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chemist Warehouse Woden<br/><b>Street</b>:24 Corinna Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1010<br/><b>Departure Time</b>:1050<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">Z8Z9BA5nvTi4qoJtJTl4iA==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:Cooleman Court Shopping Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">Zq4yZ7rvUQSorCAxxoez5w==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1120<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">aQ9IvJbjtDBvUsYQMtWjVw==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chisholm:BP</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:BP<br/><b>Street</b>:3 Benham Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 25 September 2021<br/><b>Arrival Time</b>:0925<br/><b>Departure Time</b>:1010<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">akd52w/QS6KKkB8pDXNJDw==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:Coffee Guru Cooleman Court</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coffee Guru Cooleman Court<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">bbJOE3klaioOMIMa9JXniw==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:Cooleman Court Shopping Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 September 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">hh0r7Iat+UbYxKA6fF5Lbg==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Cooleman Court Pharmacy</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cooleman Court Pharmacy<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1835<br/><b>Departure Time</b>:1920<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">huXUwiEHHmSGTsH4LAxLbw==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Priceline Pharmacy Woden</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Priceline Pharmacy Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1105<br/><b>Departure Time</b>:1150<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">ljRpXFoqxD3D9Y9inT8LMA==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Bunnings Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bunnings Tuggeranong<br/><b>Street</b>:Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1120<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">loT20ZdehVgLtOFjHQOu7g==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:2 Primmer Court<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:1020<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">oXnp89kDtTNmErTFcHme0A==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Weston:Cooleman Court Shopping Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Cooleman Court Shopping Centre<br/><b>Street</b>:Cooleman Court Shopping Centre, Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">phsxtmUaR3zX2jDp4T9gTA==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Vina Groceries</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Vina Groceries<br/><b>Street</b>:135/56 Ernest Cavanagh Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1745<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">qYxmqBp44muEgCVrDZ3wdw==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Chapman:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:52-60 Perry Drive<br/><b>Suburb</b>:Chapman<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">sP7Nk8UYeqapuczw8hwn/Q==</guid>
+      <pubDate>Mon, 27 Sep 2021 08:38:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
