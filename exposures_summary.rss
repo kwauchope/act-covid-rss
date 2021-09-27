@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Sep 2021 03:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 03:36:50 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -561,11 +561,18 @@
       <pubDate>Sun, 26 Sep 2021 08:25:04 +0000</pubDate>
     </item>
     <item>
-      <title>21 additional exposure sites</title>
+      <title>20 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Dickson:</b>5<br/><b>Public Transport:</b>5<br/><b>Gungahlin:</b>4<br/><b>Charnwood:</b>2<br/><b>Griffith:</b>1<br/><b>Deakin:</b>1<br/><b>Franklin:</b>1<br/><b>Canberra City:</b>1<br/><b>Holt:</b>1<br/>]]></description>
-      <guid isPermaLink="false">R+XyCLq1CTlE2vVUfIBC2g==</guid>
+      <description><![CDATA[<b>Dickson:</b>5<br/><b>Public Transport:</b>5<br/><b>Gungahlin:</b>4<br/><b>Charnwood:</b>2<br/><b>Griffith:</b>1<br/><b>Deakin:</b>1<br/><b>Franklin:</b>1<br/><b>Canberra City:</b>1<br/>]]></description>
+      <guid isPermaLink="false">HehDYxgOKY3zONqt3TYotA==</guid>
       <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Holt:</b>1<br/>]]></description>
+      <guid isPermaLink="false">MxXF7TSQdHQxFLPj6c3IUQ==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:36:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

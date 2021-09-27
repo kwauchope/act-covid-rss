@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Sep 2021 03:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 03:36:49 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -7088,12 +7088,6 @@
       <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Holt:Gungahlin Village</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Gungahlin Village<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">L4Uvo+yLpw++FS5O+v/T0A==</guid>
-      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Dickson:DKSN Construction Site</title>
       <description><![CDATA[<b>Event Id</b>:800898<br/><b>Status</b>:New<br/><b>Exposure Site</b>:DKSN Construction Site<br/><b>Street</b>:21-23 Challis Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0650<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">Z5ZGZOxFpQ0INdgnD5PbbA==</guid>
@@ -7164,6 +7158,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:1 Ginn Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">xt+o/mWUbH6UGkFnJDGO6Q==</guid>
       <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Holt:Woolworths Kippax</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths Kippax<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">sjTRod5HnnH+Kv5DQbprqA==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:36:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
