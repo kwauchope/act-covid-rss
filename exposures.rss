@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Sep 2021 08:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 03:22:55 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -4622,12 +4622,6 @@
       <pubDate>Sat, 18 Sep 2021 08:31:18 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Holt:Woolworths Kippax</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Kippax<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">sjTRod5HnnH+Kv5DQbprqA==</guid>
-      <pubDate>Sat, 18 Sep 2021 08:31:18 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Red Hill:Yarra Rossa Construction Site</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Yarra Rossa Construction Site<br/><b>Street</b>:51 Hicks Street<br/><b>Suburb</b>:Red Hill<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 September 2021<br/><b>Arrival Time</b>:0700<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">uVwUUeOCfm6OmEqkb6jrhw==</guid>
@@ -6152,12 +6146,6 @@
       <pubDate>Fri, 24 Sep 2021 09:52:16 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Gungahlin:Coles Express</title>
-      <description><![CDATA[<b>Event Id</b>:800838<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:Ginn Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">GPjotiUdVjjs/PJd3JFqqw==</guid>
-      <pubDate>Fri, 24 Sep 2021 09:52:16 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Calwell:Capital Chemist</title>
       <description><![CDATA[<b>Event Id</b>:800792<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:Calwell Shopping Centre, 7 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 September 2021<br/><b>Arrival Time</b>:1350<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">HB9+aQKhawBnmSI9PWhkuQ==</guid>
@@ -7016,12 +7004,6 @@
       <pubDate>Sun, 26 Sep 2021 08:25:04 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:7 London Circuit, Building B Level 5 Construction Zone</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7 London Circuit, Building B Level 5 Construction Zone<br/><b>Street</b>:7 London Circuit, City<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:0650<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">VZRUfVX+V2ojWd3gnC+Vjg==</guid>
-      <pubDate>Sun, 26 Sep 2021 08:25:04 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Mocca Espresso Lounge</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mocca Espresso Lounge<br/><b>Street</b>:18 Marcus Clarke Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">YtTBeINBiwvKE3Cmzw+65A==</guid>
@@ -7086,6 +7068,102 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:T & E Asian Grocery<br/><b>Street</b>:Fresh Food Markets, 12 Dalby Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:0915<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">ty5v7sipmxkxOFKAeF2Ewg==</guid>
       <pubDate>Sun, 26 Sep 2021 08:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:CORE Building Group - Mulberry Construction Site</title>
+      <description><![CDATA[<b>Event Id</b>:800896<br/><b>Status</b>:New<br/><b>Exposure Site</b>:CORE Building Group - Mulberry Construction Site<br/><b>Street</b>:330 Northbourne Avenue<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:0600<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">+ImWoLHy/2IetroVTf1q3Q==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Charnwood:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:800905<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:25-30 Charnwood Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">7kHAGdR7HjBD6cXd4V6Vaw==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:DKSN Construction Site</title>
+      <description><![CDATA[<b>Event Id</b>:800893<br/><b>Status</b>:New<br/><b>Exposure Site</b>:DKSN Construction Site<br/><b>Street</b>:21-23 Challis Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:0600<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">BPgyOSMASqHNRrjo1nAhHA==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Holt:Gungahlin Village</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Gungahlin Village<br/><b>Street</b>:Kippax Fair Shopping Centre, 26 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">L4Uvo+yLpw++FS5O+v/T0A==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:DKSN Construction Site</title>
+      <description><![CDATA[<b>Event Id</b>:800898<br/><b>Status</b>:New<br/><b>Exposure Site</b>:DKSN Construction Site<br/><b>Street</b>:21-23 Challis Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:0650<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Z5ZGZOxFpQ0INdgnD5PbbA==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Medical and Surgical Centre (Floor 0 only)</title>
+      <description><![CDATA[<b>Event Id</b>:800899<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Medical and Surgical Centre (Floor 0 only)<br/><b>Street</b>:Gungahlin Village, Gungahlin Place<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1610<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">eEwCG3eh8R5pyOHyEtovxQ==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:CORE Building Group - Mulberry Construction Site</title>
+      <description><![CDATA[<b>Event Id</b>:800896<br/><b>Status</b>:New<br/><b>Exposure Site</b>:CORE Building Group - Mulberry Construction Site<br/><b>Street</b>:330 Northbourne Avenue<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:0600<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">mczqNl8/HKxHKHuk5yvylw==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:7 London Circuit, Building B Level 5 Construction Zone</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7 London Circuit, Building B Level 5 Construction Zone<br/><b>Street</b>:7 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:0650<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">nGTNPiv7OgU2+aPQL/9/lQ==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Franklin:Woolworths Metro</title>
+      <description><![CDATA[<b>Event Id</b>:800880<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Metro<br/><b>Street</b>:Corner Flemington Road And Nullarbor Avenue<br/><b>Suburb</b>:Franklin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1310<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">od0q/SwcqTy+wzlrjiKfAw==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Coles Express</title>
+      <description><![CDATA[<b>Event Id</b>:800880<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:1 Ginn Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:2230<br/><b>Departure Time</b>:2310<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">ohC52xM6a5ECh4WTCUkXbA==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Deakin:Next Practice</title>
+      <description><![CDATA[<b>Event Id</b>:800849<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Next Practice<br/><b>Street</b>:2/4 Makin Place<br/><b>Suburb</b>:Deakin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 September 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1450<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">pER3U8GV2ibNsmizVyt4ug==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Westpac Manuka</title>
+      <description><![CDATA[<b>Event Id</b>:800890/800891<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Westpac Manuka<br/><b>Street</b>:14 Franklin Street<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">pUc7zo3FLBUlaRWKfPxlfg==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Charnwood:Coles Express</title>
+      <description><![CDATA[<b>Event Id</b>:800905<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:Lhotsky Street And Charnwood Place<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 September 2021<br/><b>Arrival Time</b>:1610<br/><b>Departure Time</b>:1640<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">qNnET7BeVzM4JfAt4SqqJQ==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:DKSN Construction Site</title>
+      <description><![CDATA[<b>Event Id</b>:800896<br/><b>Status</b>:New<br/><b>Exposure Site</b>:DKSN Construction Site<br/><b>Street</b>:21-23 Challis Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:0600<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">sN/Ifnw6lxgaDgFbQbasQw==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:800880<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">xFD5SYj2Vo+uvyTzS97r3g==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Gungahlin:Coles Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:1 Ginn Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">xt+o/mWUbH6UGkFnJDGO6Q==</guid>
+      <pubDate>Mon, 27 Sep 2021 03:22:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
