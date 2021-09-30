@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Sep 2021 02:51:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Sep 2021 08:37:04 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -610,11 +610,18 @@
       <pubDate>Wed, 29 Sep 2021 08:34:57 +0000</pubDate>
     </item>
     <item>
-      <title>33 additional exposure sites</title>
+      <title>31 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Chisholm:</b>5<br/><b>Holt:</b>4<br/><b>Conder:</b>3<br/><b>Kambah:</b>2<br/><b>Griffith:</b>2<br/><b>Wanniassa:</b>2<br/><b>Greenway:</b>2<br/><b>Belconnen:</b>2<br/><b>Melba:</b>2<br/><b>Casey:</b>1<br/><b>Mawson:</b>1<br/><b>Kingston:</b>1<br/><b>Hawker:</b>1<br/><b>Calwell:</b>1<br/><b>Ainslie:</b>1<br/><b>Mitchell:</b>1<br/><b>Canberra City:</b>1<br/><b>Macquarie:</b>1<br/>]]></description>
-      <guid isPermaLink="false">8Qo/molXliIi5lJMmSThrg==</guid>
+      <description><![CDATA[<b>Chisholm:</b>5<br/><b>Conder:</b>3<br/><b>Holt:</b>3<br/><b>Kambah:</b>2<br/><b>Griffith:</b>2<br/><b>Wanniassa:</b>2<br/><b>Belconnen:</b>2<br/><b>Melba:</b>2<br/><b>Casey:</b>1<br/><b>Greenway:</b>1<br/><b>Mawson:</b>1<br/><b>Kingston:</b>1<br/><b>Hawker:</b>1<br/><b>Calwell:</b>1<br/><b>Ainslie:</b>1<br/><b>Mitchell:</b>1<br/><b>Canberra City:</b>1<br/><b>Macquarie:</b>1<br/>]]></description>
+      <guid isPermaLink="false">z+EKHC4Uq0JnOUZ3Shs64g==</guid>
       <pubDate>Thu, 30 Sep 2021 02:51:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Greenway:</b>3<br/><b>Canberra City:</b>1<br/><b>Belconnen:</b>1<br/><b>Public Transport:</b>1<br/><b>Isabella Plains:</b>1<br/><b>Wanniassa:</b>1<br/><b>Holt:</b>1<br/>]]></description>
+      <guid isPermaLink="false">m+si2HgFic8PxXj+ev3Ugw==</guid>
+      <pubDate>Thu, 30 Sep 2021 08:37:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
