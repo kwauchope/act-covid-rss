@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Sep 2021 08:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 01:36:09 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -610,10 +610,10 @@
       <pubDate>Wed, 29 Sep 2021 08:34:57 +0000</pubDate>
     </item>
     <item>
-      <title>31 additional exposure sites</title>
+      <title>30 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Chisholm:</b>5<br/><b>Conder:</b>3<br/><b>Holt:</b>3<br/><b>Kambah:</b>2<br/><b>Griffith:</b>2<br/><b>Wanniassa:</b>2<br/><b>Belconnen:</b>2<br/><b>Melba:</b>2<br/><b>Casey:</b>1<br/><b>Greenway:</b>1<br/><b>Mawson:</b>1<br/><b>Kingston:</b>1<br/><b>Hawker:</b>1<br/><b>Calwell:</b>1<br/><b>Ainslie:</b>1<br/><b>Mitchell:</b>1<br/><b>Canberra City:</b>1<br/><b>Macquarie:</b>1<br/>]]></description>
-      <guid isPermaLink="false">z+EKHC4Uq0JnOUZ3Shs64g==</guid>
+      <description><![CDATA[<b>Chisholm:</b>5<br/><b>Conder:</b>3<br/><b>Holt:</b>2<br/><b>Kambah:</b>2<br/><b>Griffith:</b>2<br/><b>Wanniassa:</b>2<br/><b>Belconnen:</b>2<br/><b>Melba:</b>2<br/><b>Casey:</b>1<br/><b>Greenway:</b>1<br/><b>Mawson:</b>1<br/><b>Kingston:</b>1<br/><b>Hawker:</b>1<br/><b>Calwell:</b>1<br/><b>Ainslie:</b>1<br/><b>Mitchell:</b>1<br/><b>Canberra City:</b>1<br/><b>Macquarie:</b>1<br/>]]></description>
+      <guid isPermaLink="false">j7pbfVcxC3iwnAGyFw1b2w==</guid>
       <pubDate>Thu, 30 Sep 2021 02:51:52 +0000</pubDate>
     </item>
     <item>
@@ -622,6 +622,13 @@
       <description><![CDATA[<b>Greenway:</b>3<br/><b>Canberra City:</b>1<br/><b>Belconnen:</b>1<br/><b>Public Transport:</b>1<br/><b>Isabella Plains:</b>1<br/><b>Wanniassa:</b>1<br/><b>Holt:</b>1<br/>]]></description>
       <guid isPermaLink="false">m+si2HgFic8PxXj+ev3Ugw==</guid>
       <pubDate>Thu, 30 Sep 2021 08:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>15 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Holt:</b>3<br/><b>Kingston:</b>3<br/><b>Hawker:</b>2<br/><b>Griffith:</b>2<br/><b>Dickson:</b>1<br/><b>Coombs:</b>1<br/><b>Greenway:</b>1<br/><b>Denman Prospect:</b>1<br/><b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">fwVBq5J4w+ZUNlBhZN6Afg==</guid>
+      <pubDate>Fri, 01 Oct 2021 01:36:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
