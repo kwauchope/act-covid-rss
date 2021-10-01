@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Oct 2021 01:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 07:26:46 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -5102,12 +5102,6 @@
       <pubDate>Tue, 21 Sep 2021 02:35:54 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS428</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS428<br/><b>Street</b>:Dickson Shops To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 September 2021<br/><b>Arrival Time</b>:0816<br/><b>Departure Time</b>:0849<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">feMrTgXmiewKNKWCYfUt7w==</guid>
-      <pubDate>Tue, 21 Sep 2021 02:35:54 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Public Transport:Bus Route 51 Transport Canberra Code BUS557</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 51 Transport Canberra Code BUS557<br/><b>Street</b>:Dickson Shops To City Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 September 2021<br/><b>Arrival Time</b>:0816<br/><b>Departure Time</b>:0849<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">gXpnGfbzfV809U81pUY/pw==</guid>
@@ -7688,12 +7682,6 @@
       <pubDate>Fri, 01 Oct 2021 01:36:09 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Greenway:Priceline Pharmacy Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Priceline Pharmacy Tuggeranong<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:1350<br/><b>Departure Time</b>:1420<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">LZ60CZ8kWJauBA1fUSUr8A==</guid>
-      <pubDate>Fri, 01 Oct 2021 01:36:09 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Coombs:Capital Chemist</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:110 Woodberry Avenue<br/><b>Suburb</b>:Coombs<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 27 September 2021<br/><b>Arrival Time</b>:1010<br/><b>Departure Time</b>:1055<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Molonglo Valley<br/>]]></description>
       <guid isPermaLink="false">Lzio89Aro9hhFvthvIqJhw==</guid>
@@ -7728,6 +7716,96 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ShareTea<br/><b>Street</b>:8 Cape Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 27 September 2021<br/><b>Arrival Time</b>:1145<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">kBXHh7nRl0C3LntdnrmJMA==</guid>
       <pubDate>Fri, 01 Oct 2021 01:36:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chifley:A Bite to Eat Cafe</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:A Bite to Eat Cafe<br/><b>Street</b>:8 Chifley Place<br/><b>Suburb</b>:Chifley<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:0855<br/><b>Departure Time</b>:0940<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">3dXHG02Vm5MabNvQGlixYA==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Sage Education and Childcare</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sage Education and Childcare<br/><b>Street</b>:14 Wales Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 30 September 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">5GCeQWqWtV+fvu19oSxitQ==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holt:McDonald's Kippax</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonald's Kippax<br/><b>Street</b>:84 Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 27 September 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">I4/m1hBcYOcvPt0zExK4pg==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Scott's Crossing Construction Site</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Scott's Crossing Construction Site<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:0645<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">TAEF7kfNnwLKSerrvm4MCw==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Priceline Pharmacy Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Priceline Pharmacy Tuggeranong<br/><b>Street</b>:South Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:1350<br/><b>Departure Time</b>:1420<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">YIX+4I0NplEe7xCjK90Rbg==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Scott's Crossing Construction Site</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Scott's Crossing Construction Site<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:0645<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">a/2IKJvd22TAt7hZdUnssQ==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Sage Education and Childcare</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sage Education and Childcare<br/><b>Street</b>:14 Wales Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:0825<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">bogfRYvkExlmJ2cRGfXc0Q==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Deakin:EQ Bakehouse</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:EQ Bakehouse<br/><b>Street</b>:70 Kent Street<br/><b>Suburb</b>:Deakin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1050<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">gCDS5Shm2lCWTkoyCGlbsw==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Specfast</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Specfast<br/><b>Street</b>:17 Cessnock Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1420<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">i+qN7YjEpCyCTfS7X7ZvsA==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Total Tools</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Total Tools<br/><b>Street</b>:103 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:1510<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">nEmcbbYA2/OKqwkWUssrkw==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Scott's Crossing Construction Site</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Scott's Crossing Construction Site<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 27 September 2021<br/><b>Arrival Time</b>:0645<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">neG2JHWEvpc574i5vdOwbg==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kingston:Gelato Messina</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Gelato Messina<br/><b>Street</b>:38 Eyre Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1955<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">rc5ZaVeR8oLqBoK1Oju/Yg==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chifley:A Bite to Eat Cafe</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:A Bite to Eat Cafe<br/><b>Street</b>:8 Chifley Place<br/><b>Suburb</b>:Chifley<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">rs42KFpUcX7pbN8wkSOb8Q==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mawson:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:15 Mawson Place<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1540<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">vdzt3+gE3DEh4cnPLxNuEw==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Sydney Tools</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sydney Tools<br/><b>Street</b>:163-165 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1440<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">xvSERcnYoe7G1DyOLneKJg==</guid>
+      <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
