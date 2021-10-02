@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Oct 2021 07:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Oct 2021 02:36:15 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -636,6 +636,13 @@
       <description><![CDATA[<b>Fyshwick:</b>3<br/><b>Canberra City:</b>3<br/><b>Chifley:</b>2<br/><b>Belconnen:</b>2<br/><b>Mawson:</b>1<br/><b>Public Transport:</b>1<br/><b>Kingston:</b>1<br/><b>Deakin:</b>1<br/><b>Greenway:</b>1<br/><b>Holt:</b>1<br/>]]></description>
       <guid isPermaLink="false">PluG3AHmGAP2jtfQDSFPNQ==</guid>
       <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Canberra City:</b>4<br/><b>Fyshwick:</b>2<br/><b>Wanniassa:</b>2<br/><b>Narrabundah:</b>1<br/><b>Phillip:</b>1<br/><b>Belconnen:</b>1<br/><b>Greenway:</b>1<br/><b>Garran:</b>1<br/>]]></description>
+      <guid isPermaLink="false">PUZulCFqMxcR1Ky0O7KvPA==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

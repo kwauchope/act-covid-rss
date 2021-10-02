@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Oct 2021 07:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Oct 2021 02:36:15 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -7806,6 +7806,84 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sydney Tools<br/><b>Street</b>:163-165 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1440<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">xvSERcnYoe7G1DyOLneKJg==</guid>
       <pubDate>Fri, 01 Oct 2021 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Coles Express Fyshwick Wiluna</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express Fyshwick Wiluna<br/><b>Street</b>:12 Wiluna Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:1515<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">2Ibv07fYO/YUGiyLWeZQ0Q==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Garran:Brindabella Endoscopy Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Brindabella Endoscopy Centre<br/><b>Street</b>:Suite 7, Level 1, 5 Dann Close<br/><b>Suburb</b>:Garran<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1650<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">2KgsjZyefxhIwcZe2q7KYQ==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Department of Social Services (Level 3)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Department of Social Services (Level 3)<br/><b>Street</b>:Enid Lyons Building, 71 Athllon Drive<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">BScVnP8FjVmaiUf99qSG1g==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Supreme Court 1</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Supreme Court 1<br/><b>Street</b>:6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">DnLhL4hloq6pPyQNinwsOA==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:ACT Law Courts Foyer</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ACT Law Courts Foyer<br/><b>Street</b>:6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">NIKTdAbzMkjqMFN8yWp8ag==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:12 Sangster Place<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1750<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">RgHJ1bI8sfpK78avTshZhQ==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Vodafone</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Vodafone<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">S32ya37OVdq/e6orqwp1uA==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Dan Murphy's</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dan Murphy's<br/><b>Street</b>:Corner Of Hindmarsh Drive And Botany Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">Yu6AT9Gny0q6eRnyGZpTyQ==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Friendly Grocer</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Friendly Grocer<br/><b>Street</b>:6 Iluka Street<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Zr6xW0p8nrrW1+2XBPtldA==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Waiting Area Outside Supreme Court 1</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Waiting Area Outside Supreme Court 1<br/><b>Street</b>:6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 September 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">jfVZyg7hwiovt7/wrzbMuA==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:7-Eleven Erindale</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven Erindale<br/><b>Street</b>:76 Gartside Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 26 June 2021<br/><b>Arrival Time</b>:1740<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">rZLLL8CcEg0GHC0vfBc1EA==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Post Office</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Post Office<br/><b>Street</b>:22 Townsville Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1625<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">vAFv9QLgJNhWG3XggvQ1sQ==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:The Pharmacy on Northbourne</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Pharmacy on Northbourne<br/><b>Street</b>:65 Northbourne Aveune<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 27 September 2021<br/><b>Arrival Time</b>:1430<br/><b>Departure Time</b>:1545<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">y6k+7KNbg0nRAI3zK8punw==</guid>
+      <pubDate>Sat, 02 Oct 2021 02:36:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
