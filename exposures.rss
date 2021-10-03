@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Oct 2021 01:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 07:21:45 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -8082,6 +8082,66 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Food Forum<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1720<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">zxWU7jBGLy/ONRP39uq8Lg==</guid>
       <pubDate>Sun, 03 Oct 2021 01:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Bunnings</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bunnings<br/><b>Street</b>:10 Gribble Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">1PLtciYnU3f9y6cwdNIEjQ==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Magistrates Court Room 1</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Magistrates Court Room 1<br/><b>Street</b>:Act Magistrates Court, 4-6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1040<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">3Js6FdKAIvOtjGREQBizpA==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Charnwood:Capital Chemist</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capital Chemist<br/><b>Street</b>:Charnwood Shopping Centre, Lhotsky Street<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1710<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">HGtxNyqwU1rGK989X2rXLQ==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Waiting Area Outside Magistrates Court Room 1</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Waiting Area Outside Magistrates Court Room 1<br/><b>Street</b>:Act Magistrates Court, 4-6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:0925<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">JEMw2T83ZSyW4Sy94WndtA==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mitchell:RSEA Safety</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:RSEA Safety<br/><b>Street</b>:2/101 Flemgington Road<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 30 September 2021<br/><b>Arrival Time</b>:0905<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">OyQvZha4qnXR0GIefJyljg==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Forrest:Hotel and Apartments, Lobby Only</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hotel and Apartments, Lobby Only<br/><b>Street</b>:30 National Circuit<br/><b>Suburb</b>:Forrest<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">RmexKIAxNwD1sbc99qoT6Q==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Commonwealth Bank</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Commonwealth Bank<br/><b>Street</b>:28 Wollongong Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1115<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">mzGR8Z08UKvWPgd3ihh+KA==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:7-Eleven</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7-Eleven<br/><b>Street</b>:10 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1445<br/><b>Departure Time</b>:1545<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">ncf28VrYDVVMJguUwL5O5g==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Coles Manuka</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Manuka<br/><b>Street</b>:Franklin Street And Flinders Way<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 30 September 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">voKtXhWMOVMkBLY+N4NdXg==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Baby Bunting</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Baby Bunting<br/><b>Street</b>:30 Iron Knob Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 01 October 2021<br/><b>Arrival Time</b>:1035<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">zpwWOAU//CsXZdGbzkRsrQ==</guid>
+      <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
