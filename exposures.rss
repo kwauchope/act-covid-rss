@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Oct 2021 07:21:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 02:12:49 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -2678,21 +2678,9 @@
       <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Gungahlin:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 05 September 2021<br/><b>Arrival Time</b>:1250<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">JnSxzjbAC1cl2+4lt+8RhQ==</guid>
-      <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Public Transport:Bus Route 9 Transport Canberra Code BUS328</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 9 Transport Canberra Code BUS328<br/><b>Street</b>:Belconnen To Lyneham<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 September 2021<br/><b>Arrival Time</b>:2057<br/><b>Departure Time</b>:2110<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
       <guid isPermaLink="false">O8cE5wJZemT5iANhJInDHw==</guid>
-      <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Gungahlin:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 31 August 2021<br/><b>Arrival Time</b>:1745<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">PezEIRnYjGgCIOjBubj+SQ==</guid>
       <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
     </item>
     <item>
@@ -2762,27 +2750,9 @@
       <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Gungahlin:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1635<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">yiLL3qteO46PTy4Kvgxjog==</guid>
-      <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Gungahlin:TSG</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:TSG<br/><b>Street</b>:Marketplace Gungahlin, Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 September 2021<br/><b>Arrival Time</b>:0850<br/><b>Departure Time</b>:0930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">yjT71TV+rUSvQ6hsxttrJQ==</guid>
-      <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Gungahlin:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 29 August 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:1945<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">z8jJIwfuCO11Emk0IAgezQ==</guid>
-      <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Gungahlin:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 September 2021<br/><b>Arrival Time</b>:1025<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">zQfJ+UK1tktFlsV9GzO9eA==</guid>
       <pubDate>Thu, 09 Sep 2021 08:49:30 +0000</pubDate>
     </item>
     <item>
@@ -5576,12 +5546,6 @@
       <pubDate>Thu, 23 Sep 2021 02:44:04 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Amaroo:United Petroleum</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:United Petroleum<br/><b>Street</b>:Katherine Avenue And Horse Park Drive<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 September 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">8voLm481EFEFmeZLiNZCsQ==</guid>
-      <pubDate>Thu, 23 Sep 2021 02:44:04 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Florey:Medical Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Medical Centre<br/><b>Street</b>:19/21 Kesteven Street<br/><b>Suburb</b>:Florey<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1210<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">FGc9u0AhifihBlX8b0c0Yw==</guid>
@@ -6371,12 +6335,6 @@
       <title>(New) Kingston:80/20 Food</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:80/20 Food<br/><b>Street</b>:5/10 Parbery Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 September 2021<br/><b>Arrival Time</b>:0700<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">bnvaK6ow+QsCASjRQCNhRw==</guid>
-      <pubDate>Sat, 25 Sep 2021 09:56:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Gungahlin:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1040<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">dNw3O5nTpqXb7hfZs+YKxg==</guid>
       <pubDate>Sat, 25 Sep 2021 09:56:32 +0000</pubDate>
     </item>
     <item>
@@ -8142,6 +8100,72 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Baby Bunting<br/><b>Street</b>:30 Iron Knob Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 01 October 2021<br/><b>Arrival Time</b>:1035<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">zpwWOAU//CsXZdGbzkRsrQ==</guid>
       <pubDate>Sun, 03 Oct 2021 07:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Gungahlin:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 September 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1040<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">0lRt811x4Dv+t/ONCmaKVQ==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1950<br/><b>Departure Time</b>:2050<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">BF0ipF17Hmv1v17Czktj2g==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Coles Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:1 Ginn Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 30 September 2021<br/><b>Arrival Time</b>:0925<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">Ler9jIId+sSZA8l4DxFP7w==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Florey:School Holiday Program</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:School Holiday Program<br/><b>Street</b>:57 Ratcliffe Crescent<br/><b>Suburb</b>:Florey<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:0750<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">bm+54SJ/IDQP8/z52mR3zg==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Ainslie:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:9/11 Edgar Street<br/><b>Suburb</b>:Ainslie<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 01 October 2021<br/><b>Arrival Time</b>:1625<br/><b>Departure Time</b>:1710<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ddNtcz2y5g/esgTqCMIBuQ==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Florey:School Holiday Program</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:School Holiday Program<br/><b>Street</b>:57 Ratcliffe Crescent<br/><b>Suburb</b>:Florey<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 30 September 2021<br/><b>Arrival Time</b>:0750<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">gedpYuiqDilb/b2ePNVEzA==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Barry Hawke's Butchery</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Barry Hawke's Butchery<br/><b>Street</b>:36 Mildura Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 25 September 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1420<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">jL4vDIoUveOW3X7nwZfmlA==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 01 October 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">kZEGbXw0+h/A7Hoclu/9mw==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Florey:School Holiday Program</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:School Holiday Program<br/><b>Street</b>:57 Ratcliffe Crescent<br/><b>Suburb</b>:Florey<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 01 October 2021<br/><b>Arrival Time</b>:0750<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">tA9WQyn90itLdI5OCV1ahA==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Coles Canberra Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:2045<br/><b>Departure Time</b>:2125<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">vaYvCQjzA230nja4O2xMNg==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Amaroo:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:12 Pioneer Street<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 30 September 2021<br/><b>Arrival Time</b>:1450<br/><b>Departure Time</b>:1550<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">xPzpZoELDq9ohmnocyM9ZQ==</guid>
+      <pubDate>Mon, 04 Oct 2021 02:12:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
