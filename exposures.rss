@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Oct 2021 02:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Oct 2021 02:59:11 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -8442,6 +8442,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:15 Mawson Place<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 02 October 2021<br/><b>Arrival Time</b>:1610<br/><b>Departure Time</b>:1710<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">y2bxbitlDU+p8LUeaj+MSg==</guid>
       <pubDate>Tue, 05 Oct 2021 02:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Deakin:EQ Bakehouse</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:EQ Bakehouse<br/><b>Street</b>:70 Kent Street<br/><b>Suburb</b>:Deakin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 28 September 2021<br/><b>Arrival Time</b>:1050<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">gCDS5Shm2lCWTkoyCGlbsw==</guid>
+      <pubDate>Tue, 05 Oct 2021 02:59:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

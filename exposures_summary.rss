@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Oct 2021 02:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Oct 2021 02:59:11 +0000</lastBuildDate>
     <item>
       <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -678,6 +678,13 @@
       <description><![CDATA[<b>Griffith:</b>15<br/><b>Canberra Airport:</b>7<br/><b>Phillip:</b>4<br/><b>Gungahlin:</b>4<br/><b>Calwell:</b>3<br/><b>Fyshwick:</b>3<br/><b>Mawson:</b>2<br/><b>Weston:</b>2<br/><b>Isabella Plains:</b>1<br/><b>Canberra City:</b>1<br/><b>Amaroo:</b>1<br/><b>Hawker:</b>1<br/><b>Holt:</b>1<br/><b>Greenway:</b>1<br/><b>Curtin:</b>1<br/><b>Manuka:</b>1<br/>]]></description>
       <guid isPermaLink="false">4ZPIVbOA6DVumEIJDmwh/A==</guid>
       <pubDate>Tue, 05 Oct 2021 02:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Deakin:</b>1<br/>]]></description>
+      <guid isPermaLink="false">xyMuY1V6CpJurU+++6Bgcg==</guid>
+      <pubDate>Tue, 05 Oct 2021 02:59:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
