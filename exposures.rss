@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Oct 2021 01:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 07:25:20 +0000</lastBuildDate>
     <item>
       <title>(?) Braddon:Crust Pizza</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Crust Pizza<br/><b>Street</b>:28 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 13 August 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1745<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -8450,12 +8450,6 @@
       <pubDate>Wed, 06 Oct 2021 01:54:49 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Gungahlin:Woolworths</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1950<br/><b>Departure Time</b>:2050<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">BF0ipF17Hmv1v17Czktj2g==</guid>
-      <pubDate>Wed, 06 Oct 2021 01:54:49 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Chisholm:ALDI</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:36 Benham Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 02 October 2021<br/><b>Arrival Time</b>:1050<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">E0A1jLjEkFajILmOhWsR0w==</guid>
@@ -8676,6 +8670,180 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cellarbrations Erindale<br/><b>Street</b>:1/50 Denigan Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 02 October 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1110<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">xAUFQSm63qfbitWa3WUiKw==</guid>
       <pubDate>Wed, 06 Oct 2021 01:54:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chisholm:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:36 Benham Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 03 October 2021<br/><b>Arrival Time</b>:1140<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">/3JoveTZuH89tuOm6F9yuw==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Macquarie:The Butcher Shop Jamison</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Butcher Shop Jamison<br/><b>Street</b>:Jamison Plaza, Bowman Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 02 October 2021<br/><b>Arrival Time</b>:0910<br/><b>Departure Time</b>:0955<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">0dSVXFOrxgcFWb3/NBlLow==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) :Woolworths Gungahlin</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Woolworths Gungahlin<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1950<br/><b>Departure Time</b>:2050<br/><b>Contact</b>:Monitor<br/>]]></description>
+      <guid isPermaLink="false">3BFVYy340M2beMOEkUdjBQ==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 5 Transport Canberra Code BUS618</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 5 Transport Canberra Code BUS618<br/><b>Street</b>:Woden Interchange To Gowrie<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 02 October 2021<br/><b>Arrival Time</b>:1627<br/><b>Departure Time</b>:1646<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">3Oo4zu7TLZENVeAHlKwz0Q==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Hawker:Woolworths Metro</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Metro<br/><b>Street</b>:Springvale Drive<br/><b>Suburb</b>:Hawker<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1505<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">8dvmldVC6uXwaEh1jZrbMw==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gowrie:Friendly Grocer</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Friendly Grocer<br/><b>Street</b>:1 Jeffries Street<br/><b>Suburb</b>:Gowrie<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 03 October 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1315<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">AQKw7bdpi/JFG5L46gUI8g==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Cignall Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cignall Tuggeranong<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:1415<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">EwsCfqfcXc4NztJy8c2h1g==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:The Pharmacy on Northbourne</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Pharmacy on Northbourne<br/><b>Street</b>:65 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 25 September 2021<br/><b>Arrival Time</b>:1320<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Fi1QdEbTAsuhcJxUdHi67A==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chisholm:BP</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:BP<br/><b>Street</b>:3 Benham Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 03 October 2021<br/><b>Arrival Time</b>:1150<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">MkUnIh9x8Ap9b5KEcKTHQQ==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Coles Express Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express Tuggeranong<br/><b>Street</b>:149-165 Soward Way<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1340<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Rbmh7s6KFLul2lU9WyRyRg==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 02 October 2021<br/><b>Arrival Time</b>:0925<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">SwiavVVd7HiOly9/1WDIJw==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gunghalin:Priceline Pharmacy Gungahlin Marketplace</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Priceline Pharmacy Gungahlin Marketplace<br/><b>Street</b>:30 Hibberson Street<br/><b>Suburb</b>:Gunghalin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 30 September 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1555<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">UAh9OC1USeUy/9LeqI4h3A==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Liquorland Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Liquorland Tuggeranong<br/><b>Street</b>:Corner Northern Street And Western Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1440<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Vpc0rpGz55xj2yXbXBfdeA==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chisholm:ALDI</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:36 Benham Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 05 October 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1150<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">WcvNIaIqxXI0CtHFPw4qWA==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Macquarie:Coles Jamison</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Jamison<br/><b>Street</b>:Jamison Plaza, Bowman Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 02 October 2021<br/><b>Arrival Time</b>:0910<br/><b>Departure Time</b>:0950<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">cT9SCTkzBuFCR7QY4KIDuA==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Hawker:Woolworths Metro</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths Metro<br/><b>Street</b>:Springvale Drive<br/><b>Suburb</b>:Hawker<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 25 September 2021<br/><b>Arrival Time</b>:1755<br/><b>Departure Time</b>:1840<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">eMvbySVU/fmO1vTGTGBKXg==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chisholm:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:42 Halley Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 04 October 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1205<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">fdLPTVJyzftxkMTSEyJBUw==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 73 Transport Canberra Code BUS650</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 73 Transport Canberra Code BUS650<br/><b>Street</b>:Woden Interchange To Tuggeranong Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 30 September 2021<br/><b>Arrival Time</b>:1606<br/><b>Departure Time</b>:1654<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">kuwKAqm7ff3afdBLBkhRdg==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Coles Express Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express Tuggeranong<br/><b>Street</b>:149-165 Soward Way<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 25 September 2021<br/><b>Arrival Time</b>:0420<br/><b>Departure Time</b>:0500<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">mHgiLEOjxRnrMPpS33oNRA==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Specsavers Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Specsavers Tuggeranong<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1435<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">mrt+9XnqGeHgr2DIYHALew==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:BWS Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:BWS Tuggeranong<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 27 September 2021<br/><b>Arrival Time</b>:1405<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">nq29oJwH04u5iJiDizhTzA==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Coles Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Tuggeranong<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 26 September 2021<br/><b>Arrival Time</b>:1405<br/><b>Departure Time</b>:1445<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">odP1p+QGnHfLWIg9us/r5A==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Chisholm:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:42 Halley Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 03 October 2021<br/><b>Arrival Time</b>:1525<br/><b>Departure Time</b>:1610<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">ofLxflcGPzFLB6xzAabDMw==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gowrie:Friendly Grocer</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Friendly Grocer<br/><b>Street</b>:1 Jeffries Street<br/><b>Suburb</b>:Gowrie<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 05 October 2021<br/><b>Arrival Time</b>:1125<br/><b>Departure Time</b>:1205<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">qhqD/fHtY0Mk4PTMuZ6Mxg==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:IGA X-Press East Row</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-Press East Row<br/><b>Street</b>:22-58 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 25 September 2021<br/><b>Arrival Time</b>:1325<br/><b>Departure Time</b>:1410<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">tCXfuG5tbwisfWcpOO8Y0A==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kingston:Ochre Medical Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ochre Medical Centre<br/><b>Street</b>:6/62 Jardine Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 29 September 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">thwUkLkM4XvCNfM2EIggDw==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gordon:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:114 Lewis Luxton Avenue<br/><b>Suburb</b>:Gordon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 01 October 2021<br/><b>Arrival Time</b>:1350<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">usDdZVpGvaZBdpLC1YK3Hw==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:The Pharmacy on Northbourne</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Pharmacy on Northbourne<br/><b>Street</b>:65 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 27 September 2021<br/><b>Arrival Time</b>:1055<br/><b>Departure Time</b>:1135<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">utDbGv2Gg9jFOA4Ms/9Jvw==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Campbell:IGA</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA<br/><b>Street</b>:10 Blamey Place<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 03 October 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">v734eCvKt3MsW3YBkf3PXw==</guid>
+      <pubDate>Wed, 06 Oct 2021 07:25:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
