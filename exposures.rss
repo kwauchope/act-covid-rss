@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Oct 2021 01:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Oct 2021 07:08:08 +0000</lastBuildDate>
     <item>
       <title>(New) Gungahlin:Chemist Warehouse</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chemist Warehouse<br/><b>Street</b>:30 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 September 2021<br/><b>Arrival Time</b>:1350<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
@@ -5550,6 +5550,84 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:Calwell Shopping Centre, 7 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 07 October 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2035<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">wAndmSV8+p6fgw+toqXT5A==</guid>
       <pubDate>Sun, 10 Oct 2021 01:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Ochre Health Medical Centre Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ochre Health Medical Centre Tuggeranong<br/><b>Street</b>:237/140 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 05 October 2021<br/><b>Arrival Time</b>:1645<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">3J2J0Wt9//PMntGgfr2oxw==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Costco Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Costco Majura Park<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 07 October 2021<br/><b>Arrival Time</b>:1955<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">7XYG61jtI9A14aZzkfm+zw==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Oporto</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Oporto<br/><b>Street</b>:Marketplace Gungahlin, Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 09 October 2021<br/><b>Arrival Time</b>:1125<br/><b>Departure Time</b>:1210<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">8bl1efXRFMfJrpFb7EIpNQ==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Kingsley’s Chicken Erindale</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kingsley’s Chicken Erindale<br/><b>Street</b>:5/20 Gartside Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 03 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1245<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">C04FpUDIl7SNE1unhnfDKA==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 44 Transport Canberra Code BUS547</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 44 Transport Canberra Code BUS547<br/><b>Street</b>:Belconnen Interchange To Kippax Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 06 October 2021<br/><b>Arrival Time</b>:0825<br/><b>Departure Time</b>:0855<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">Fz4oo+QzUNqUhbG/2KYreg==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Billini Shoes</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Billini Shoes<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 05 October 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">OjrMuU4TmUttrO5pADvruQ==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Franklin:Family First General Practice</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Family First General Practice<br/><b>Street</b>:1 Clare Burton Crescent<br/><b>Suburb</b>:Franklin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 05 October 2021<br/><b>Arrival Time</b>:1540<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">RJLXL2U1yKl3iV1QCPKOMg==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Casey:SUPABARN</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SUPABARN<br/><b>Street</b>:Casey Market Town, 15 Kingsland Parade<br/><b>Suburb</b>:Casey<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 09 October 2021<br/><b>Arrival Time</b>:1025<br/><b>Departure Time</b>:1105<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">SoumMmUhIRmKerCP2NEASA==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Coles</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles<br/><b>Street</b>:Gungahlin Village, 46 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 04 October 2021<br/><b>Arrival Time</b>:1755<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">YG/JPrc1D3TlhmflBUJ04Q==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Woolworths</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woolworths<br/><b>Street</b>:30/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 06 October 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:1950<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">ZJJjZUACGZOhGYWulu4MtA==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Nicholls:IGA X-Press</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:IGA X-Press<br/><b>Street</b>:88 Kelleway Avenue<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 09 October 2021<br/><b>Arrival Time</b>:1115<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">gu57RWOkCFkoiicVTzzL5Q==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:ALDI Majura Park</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI Majura Park<br/><b>Street</b>:Majura Park Shopping Centre, 18-26 Spitfire Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 07 October 2021<br/><b>Arrival Time</b>:1920<br/><b>Departure Time</b>:2025<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">s976Xa8WyLUeY0puuHuLlQ==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Bus Route 44 Transport Canberra Code BUS450</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bus Route 44 Transport Canberra Code BUS450<br/><b>Street</b>:Kippax Interchange To Belconnen Interchange<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 06 October 2021<br/><b>Arrival Time</b>:0920<br/><b>Departure Time</b>:0949<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">yaxkrSoW4Of8P/4NfXmnlQ==</guid>
+      <pubDate>Sun, 10 Oct 2021 07:08:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
