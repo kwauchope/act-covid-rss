@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Oct 2021 06:53:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 23:30:23 +0000</lastBuildDate>
     <item>
       <title>(New) Gungahlin:Pacifik Halal Meats</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Pacifik Halal Meats<br/><b>Street</b>:54-56/141 Ernest Cavanagh Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 September 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1315<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
@@ -5519,12 +5519,6 @@
       <title>(New) Wanniassa:7/11 Erindale</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:7/11 Erindale<br/><b>Street</b>:76 Gartside Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 08 October 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1640<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">AjEZhKP+M4t+4F1qNov2Pg==</guid>
-      <pubDate>Mon, 11 Oct 2021 06:53:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Amaroo:ALDI</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ALDI<br/><b>Street</b>:12 Pioneer Street<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 10 October 2021<br/><b>Arrival Time</b>:0930<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">BbhxSFdgt+gdDXK060rpag==</guid>
       <pubDate>Mon, 11 Oct 2021 06:53:22 +0000</pubDate>
     </item>
     <item>
