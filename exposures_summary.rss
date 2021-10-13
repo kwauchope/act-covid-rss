@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Oct 2021 01:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 07:36:38 +0000</lastBuildDate>
     <item>
       <title>2 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -400,11 +400,18 @@
       <pubDate>Tue, 12 Oct 2021 06:52:16 +0000</pubDate>
     </item>
     <item>
-      <title>33 additional exposure sites</title>
+      <title>32 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Weston:</b>4<br/><b>Chisholm:</b>4<br/><b>Calwell:</b>3<br/><b>Hume:</b>3<br/><b>Narrabundah:</b>3<br/><b>Gungahlin:</b>2<br/><b>Taylor:</b>2<br/><b>Rivett:</b>2<br/><b>Wanniassa:</b>2<br/><b>Kingston:</b>1<br/><b>Kambah:</b>1<br/><b>Mitchell:</b>1<br/><b>Gowrie:</b>1<br/><b>Phillip:</b>1<br/><b>Griffith:</b>1<br/><b>Fyshwick:</b>1<br/><b>Evatt:</b>1<br/>]]></description>
-      <guid isPermaLink="false">9x6sGrIW5QdNLOLOOUaDoQ==</guid>
+      <description><![CDATA[<b>Weston:</b>4<br/><b>Chisholm:</b>4<br/><b>Calwell:</b>3<br/><b>Hume:</b>3<br/><b>Narrabundah:</b>3<br/><b>Gungahlin:</b>2<br/><b>Taylor:</b>2<br/><b>Rivett:</b>2<br/><b>Wanniassa:</b>2<br/><b>Kingston:</b>1<br/><b>Kambah:</b>1<br/><b>Gowrie:</b>1<br/><b>Phillip:</b>1<br/><b>Griffith:</b>1<br/><b>Fyshwick:</b>1<br/><b>Evatt:</b>1<br/>]]></description>
+      <guid isPermaLink="false">2abxc0IauHcSMpBCzdb0lA==</guid>
       <pubDate>Wed, 13 Oct 2021 01:32:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>30 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Kambah:</b>6<br/><b>Braddon:</b>4<br/><b>Conder:</b>3<br/><b>Canberra Airport:</b>3<br/><b>Canberra City:</b>3<br/><b>Public Transport:</b>2<br/><b>Phillip:</b>2<br/><b>Holt:</b>1<br/><b>Gungahlin:</b>1<br/><b>Kaleen:</b>1<br/><b>Woden:</b>1<br/><b>Mitchell:</b>1<br/><b>Gordon:</b>1<br/><b>Yarralumla:</b>1<br/>]]></description>
+      <guid isPermaLink="false">0aqVR/UlSuP26JOcGOg25w==</guid>
+      <pubDate>Wed, 13 Oct 2021 07:36:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
