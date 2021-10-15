@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Oct 2021 04:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 06:55:43 +0000</lastBuildDate>
     <item>
       <title>(Updated) Canberra City:City Family Practice</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:City Family Practice<br/><b>Street</b>:161 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 September 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -5120,10 +5120,22 @@
       <pubDate>Thu, 14 Oct 2021 06:33:34 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Canberra City:Act Law Courts - Magistrates Court 1 (Waiting Area Only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Act Law Courts - Magistrates Court 1 (Waiting Area Only)<br/><b>Street</b>:Act Magistrates Court, 4-6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 01 October 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1155<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">T2JMRDD2QRSgRyQIhUf6AQ==</guid>
-      <pubDate>Fri, 15 Oct 2021 04:22:30 +0000</pubDate>
+      <title>(?) Canberra City:ACT Law Courts - Magistrates Court 1 (Waiting Area only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:ACT Law Courts - Magistrates Court 1 (Waiting Area only)<br/><b>Street</b>:Act Magistrates Court, 4-6 Knowles Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 01 October 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1155<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">5wEulbyx5MFsXeQTKt377w==</guid>
+      <pubDate>Fri, 15 Oct 2021 06:55:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Early Childhood School (Grass Parrot Room and Kangaroo Room only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Early Childhood School (Grass Parrot Room and Kangaroo Room only)<br/><b>Street</b>:23-27 Kootara Crescent<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 12 October 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">EzKEezAozPYMZeK74hvw/A==</guid>
+      <pubDate>Fri, 15 Oct 2021 06:55:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Early Childhood School (Grass Parrot Room and Kangaroo Room only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Early Childhood School (Grass Parrot Room and Kangaroo Room only)<br/><b>Street</b>:23-27 Kootara Crescent<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 11 October 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">IcVxcjPA8qO0fJLA2YH7Pw==</guid>
+      <pubDate>Fri, 15 Oct 2021 06:55:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
