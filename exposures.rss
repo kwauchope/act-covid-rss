@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Oct 2021 02:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Oct 2021 07:08:21 +0000</lastBuildDate>
     <item>
       <title>(New) Belconnen:Coles Express</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coles Express<br/><b>Street</b>:Lathlain Street And Wignall Place<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 September 2021<br/><b>Arrival Time</b>:0710<br/><b>Departure Time</b>:0750<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
@@ -4806,6 +4806,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kippax Uniting Community Centre (foyer only)<br/><b>Street</b>:Corner Luke Street And Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 15 October 2021<br/><b>Arrival Time</b>:1055<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">LEpTMgqZsF3/Hd9KM2Xfzg==</guid>
       <pubDate>Sun, 17 Oct 2021 02:08:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kingston:Foreshore Medical Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Foreshore Medical Centre<br/><b>Street</b>:147/39 Eastlake Parade<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 13 October 2021<br/><b>Arrival Time</b>:1025<br/><b>Departure Time</b>:1120<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">HFdnisPpaq+J9d1MXLPnpg==</guid>
+      <pubDate>Sun, 17 Oct 2021 07:08:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
