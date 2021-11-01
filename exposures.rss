@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Nov 2021 02:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 07:31:43 +0000</lastBuildDate>
     <item>
       <title>(New) Calwell:Ampol Foodary</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ampol Foodary<br/><b>Street</b>:Were Street<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 05 October 2021<br/><b>Arrival Time</b>:0920<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Tuggeranong<br/>]]></description>
@@ -1524,6 +1524,36 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Aquatic Achievers<br/><b>Street</b>:15 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:1540<br/><b>Departure Time</b>:1620<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">dSIdKHfjG4pUuT5EOVAYWg==</guid>
       <pubDate>Mon, 01 Nov 2021 02:03:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Little Istanbul Restaurant</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Little Istanbul Restaurant<br/><b>Street</b>:210 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 28 October 2021<br/><b>Arrival Time</b>:1855<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">6AkFNWwBUS9TebC3HxSfWg==</guid>
+      <pubDate>Mon, 01 Nov 2021 07:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Calwell:Aquatic Achievers</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Aquatic Achievers<br/><b>Street</b>:15 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 28 October 2021<br/><b>Arrival Time</b>:1805<br/><b>Departure Time</b>:1950<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">97aJBZ6CZi7ZYkQz98DhWg==</guid>
+      <pubDate>Mon, 01 Nov 2021 07:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Calwell:Aquatic Achievers</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Aquatic Achievers<br/><b>Street</b>:15 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 29 October 2021<br/><b>Arrival Time</b>:1550<br/><b>Departure Time</b>:1735<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">QpzHYYus6u35+nLJIl/MxQ==</guid>
+      <pubDate>Mon, 01 Nov 2021 07:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Calwell:Aquatic Achievers</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Aquatic Achievers<br/><b>Street</b>:15 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 31 October 2021<br/><b>Arrival Time</b>:0925<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">ksZp4cKYBc43ovwXQcT1Uw==</guid>
+      <pubDate>Mon, 01 Nov 2021 07:31:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:McDonald's Erindale</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonald's Erindale<br/><b>Street</b>:Corner Ricardo Street And Mcbryde Crescent<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 30 October 2021<br/><b>Arrival Time</b>:2050<br/><b>Departure Time</b>:2150<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">yjfjiPy9k8G4UG5eD+sN8g==</guid>
+      <pubDate>Mon, 01 Nov 2021 07:31:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
