@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Nov 2021 01:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Nov 2021 06:43:21 +0000</lastBuildDate>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -64,17 +64,17 @@
       <pubDate>Tue, 12 Oct 2021 02:19:34 +0000</pubDate>
     </item>
     <item>
-      <title>13 additional exposure sites</title>
+      <title>12 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Kaleen:</b>3<br/><b>Gungahlin:</b>3<br/><b>Crace:</b>2<br/><b>Fyshwick:</b>2<br/><b>Conder:</b>2<br/><b>Campbell:</b>1<br/>]]></description>
-      <guid isPermaLink="false">nWy2NPz8bEQBRxzNLVWY2A==</guid>
+      <description><![CDATA[<b>Kaleen:</b>3<br/><b>Crace:</b>2<br/><b>Fyshwick:</b>2<br/><b>Conder:</b>2<br/><b>Gungahlin:</b>2<br/><b>Campbell:</b>1<br/>]]></description>
+      <guid isPermaLink="false">v3ZsxdPQk2+PwTBp6RvUIQ==</guid>
       <pubDate>Tue, 12 Oct 2021 06:52:16 +0000</pubDate>
     </item>
     <item>
-      <title>26 additional exposure sites</title>
+      <title>25 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Hume:</b>3<br/><b>Narrabundah:</b>3<br/><b>Gungahlin:</b>2<br/><b>Calwell:</b>2<br/><b>Chisholm:</b>2<br/><b>Rivett:</b>2<br/><b>Weston:</b>2<br/><b>Wanniassa:</b>2<br/><b>Kingston:</b>1<br/><b>Kambah:</b>1<br/><b>Gowrie:</b>1<br/><b>Phillip:</b>1<br/><b>Taylor:</b>1<br/><b>Griffith:</b>1<br/><b>Fyshwick:</b>1<br/><b>Evatt:</b>1<br/>]]></description>
-      <guid isPermaLink="false">zrqc9q8MNnAkAkxOVvkvxA==</guid>
+      <description><![CDATA[<b>Hume:</b>3<br/><b>Narrabundah:</b>3<br/><b>Calwell:</b>2<br/><b>Chisholm:</b>2<br/><b>Rivett:</b>2<br/><b>Weston:</b>2<br/><b>Wanniassa:</b>2<br/><b>Kingston:</b>1<br/><b>Kambah:</b>1<br/><b>Gowrie:</b>1<br/><b>Gungahlin:</b>1<br/><b>Phillip:</b>1<br/><b>Taylor:</b>1<br/><b>Griffith:</b>1<br/><b>Fyshwick:</b>1<br/><b>Evatt:</b>1<br/>]]></description>
+      <guid isPermaLink="false">4wlNhn4Q7O6HMEzdRTXPfw==</guid>
       <pubDate>Wed, 13 Oct 2021 01:32:57 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +223,13 @@
       <description><![CDATA[<b>Phillip:</b>1<br/>]]></description>
       <guid isPermaLink="false">ohuK5AV2VDjdL298Wq6n4A==</guid>
       <pubDate>Wed, 03 Nov 2021 01:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Gungahlin:</b>2<br/><b>Stromlo:</b>1<br/><b>Wanniassa:</b>1<br/>]]></description>
+      <guid isPermaLink="false">hJfKI/Rg6UmDwOBLNht9eA==</guid>
+      <pubDate>Wed, 03 Nov 2021 06:43:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
