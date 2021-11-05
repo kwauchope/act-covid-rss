@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Nov 2021 00:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Nov 2021 05:58:50 +0000</lastBuildDate>
     <item>
       <title>2 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -223,6 +223,13 @@
       <description><![CDATA[<b>Calwell:</b>1<br/>]]></description>
       <guid isPermaLink="false">UBh3YzBjz2vDVDzzPkYAzQ==</guid>
       <pubDate>Fri, 05 Nov 2021 00:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Kambah:</b>2<br/>]]></description>
+      <guid isPermaLink="false">lAGfnsIBmusg88n/ROFQfA==</guid>
+      <pubDate>Fri, 05 Nov 2021 05:58:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
