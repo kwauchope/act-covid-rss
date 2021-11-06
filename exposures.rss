@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Nov 2021 01:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Nov 2021 06:39:37 +0000</lastBuildDate>
     <item>
       <title>(New) Gungahlin:Oporto</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Oporto<br/><b>Street</b>:Marketplace Gungahlin, Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 09 October 2021<br/><b>Arrival Time</b>:1125<br/><b>Departure Time</b>:1210<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
@@ -540,6 +540,24 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Screening of Shang-Chi and the Legend of the Ten Rings, The Gold Cinema (Cinema 8) at Limelight Cinemas<br/><b>Street</b>:152 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1530<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">nlM4CrklSUU9C1C2uLoJeg==</guid>
       <pubDate>Sat, 06 Nov 2021 01:22:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Burns Club - Gaming Area</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Burns Club - Gaming Area<br/><b>Street</b>:28 Kett Street<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">N6B4Em5TVV9L1WdGAt698w==</guid>
+      <pubDate>Sat, 06 Nov 2021 06:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Burns Club - Gaming Area</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Burns Club - Gaming Area<br/><b>Street</b>:28 Kett Street<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 04 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2355<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">cU1KunOuYTDzn+sso1KCDg==</guid>
+      <pubDate>Sat, 06 Nov 2021 06:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Club Lime Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Tuggeranong<br/><b>Street</b>:25 Bartlet Place<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">lV4ACsb8pqZLxUIf/eT1Vg==</guid>
+      <pubDate>Sat, 06 Nov 2021 06:39:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
