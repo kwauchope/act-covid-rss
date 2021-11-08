@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Nov 2021 00:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Nov 2021 06:41:15 +0000</lastBuildDate>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -183,11 +183,18 @@
       <pubDate>Sun, 07 Nov 2021 00:57:46 +0000</pubDate>
     </item>
     <item>
-      <title>2 additional exposure sites</title>
+      <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Greenway:</b>1<br/><b>Garran:</b>1<br/>]]></description>
-      <guid isPermaLink="false">Qegj4R6gs8GvPKyqCfqmSg==</guid>
+      <description><![CDATA[<b>Garran:</b>1<br/>]]></description>
+      <guid isPermaLink="false">B8VtDt0AENVnUlkXXpp+ow==</guid>
       <pubDate>Mon, 08 Nov 2021 00:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Greenway:</b>4<br/>]]></description>
+      <guid isPermaLink="false">95o+z3nAPaTqWeeb9kUKeQ==</guid>
+      <pubDate>Mon, 08 Nov 2021 06:41:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

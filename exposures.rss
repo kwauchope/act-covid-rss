@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Nov 2021 00:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Nov 2021 06:41:15 +0000</lastBuildDate>
     <item>
       <title>(New) Phillip:Medical and Dental Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Medical and Dental Centre<br/><b>Street</b>:33 Colbee Court<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 12 October 2021<br/><b>Arrival Time</b>:0700<br/><b>Departure Time</b>:0750<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
@@ -344,10 +344,28 @@
       <pubDate>Mon, 08 Nov 2021 00:57:00 +0000</pubDate>
     </item>
     <item>
+      <title>(New) Greenway:Anytime Fitness Tuggeranong (Weights Area only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 03 November 2021<br/><b>Arrival Time</b>:1740<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">VSajXEb5zdq5JFlyEv2VBQ==</guid>
+      <pubDate>Mon, 08 Nov 2021 06:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Anytime Fitness Tuggeranong (Weights Area only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1825<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">WhM33S9RJS+2Jo2R2khQ1w==</guid>
+      <pubDate>Mon, 08 Nov 2021 06:41:15 +0000</pubDate>
+    </item>
+    <item>
       <title>(New) Greenway:Mr. Cuts</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mr. Cuts<br/><b>Street</b>:South Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">xJRuNcIgffx8raXInE3N+w==</guid>
-      <pubDate>Mon, 08 Nov 2021 00:57:00 +0000</pubDate>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mr. Cuts<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">YGDl5D2yEcoFTwBOPZ5TSw==</guid>
+      <pubDate>Mon, 08 Nov 2021 06:41:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Anytime Fitness Tuggeranong (Weights Area only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">r6AMGiePBsVCE1VKmEtupA==</guid>
+      <pubDate>Mon, 08 Nov 2021 06:41:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
