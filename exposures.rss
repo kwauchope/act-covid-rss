@@ -6,17 +6,11 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Nov 2021 00:57:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Nov 2021 00:57:00 +0000</lastBuildDate>
     <item>
       <title>(New) Phillip:Medical and Dental Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Medical and Dental Centre<br/><b>Street</b>:33 Colbee Court<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 12 October 2021<br/><b>Arrival Time</b>:0700<br/><b>Departure Time</b>:0750<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">BNkVvDl0h+3gXH2JWpo63Q==</guid>
-      <pubDate>Thu, 14 Oct 2021 06:33:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Hughes:Friendly Grocer</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Friendly Grocer<br/><b>Street</b>:16 Hughes Place<br/><b>Suburb</b>:Hughes<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 10 October 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">cY2enZVO/3UTYCIqLqsLjw==</guid>
       <pubDate>Thu, 14 Oct 2021 06:33:34 +0000</pubDate>
     </item>
     <item>
@@ -342,6 +336,18 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fenway Public House<br/><b>Street</b>:9 Bradley Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">z56hPG9H7zXwL8QpErAgBg==</guid>
       <pubDate>Sun, 07 Nov 2021 00:57:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Garran:Canberra Mixed Martial Arts</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Mixed Martial Arts<br/><b>Street</b>:26 Garran Place<br/><b>Suburb</b>:Garran<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 03 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">TGQILr6MT9FeFhvBetR0+A==</guid>
+      <pubDate>Mon, 08 Nov 2021 00:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Mr. Cuts</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mr. Cuts<br/><b>Street</b>:South Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">xJRuNcIgffx8raXInE3N+w==</guid>
+      <pubDate>Mon, 08 Nov 2021 00:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
