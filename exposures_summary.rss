@@ -6,20 +6,13 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 07:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 05:31:13 +0000</lastBuildDate>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
       <description><![CDATA[<b>Holt:</b>1<br/>]]></description>
       <guid isPermaLink="false">bkbD7v9FHUBnJ09BeEfD0w==</guid>
       <pubDate>Sun, 17 Oct 2021 02:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>1 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Narrabundah:</b>1<br/>]]></description>
-      <guid isPermaLink="false">cegZtIa+5rZdtwHElB7+Tg==</guid>
-      <pubDate>Mon, 18 Oct 2021 01:37:56 +0000</pubDate>
     </item>
     <item>
       <title>2 additional exposure sites</title>
@@ -64,10 +57,10 @@
       <pubDate>Tue, 26 Oct 2021 06:27:11 +0000</pubDate>
     </item>
     <item>
-      <title>3 additional exposure sites</title>
+      <title>2 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Braddon:</b>2<br/><b>Campbell:</b>1<br/>]]></description>
-      <guid isPermaLink="false">wAQ29HMa1T+oCAE7NS2lKQ==</guid>
+      <description><![CDATA[<b>Braddon:</b>2<br/>]]></description>
+      <guid isPermaLink="false">BaJXRty7+IyQR84oJxdzeg==</guid>
       <pubDate>Fri, 29 Oct 2021 06:19:55 +0000</pubDate>
     </item>
     <item>
@@ -176,11 +169,18 @@
       <pubDate>Wed, 10 Nov 2021 05:57:26 +0000</pubDate>
     </item>
     <item>
-      <title>9 additional exposure sites</title>
+      <title>8 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>3<br/><b>Gungahlin:</b>3<br/><b>Greenway:</b>2<br/><b>Phillip:</b>1<br/>]]></description>
-      <guid isPermaLink="false">niXDb3XvSg077JncLfBkHA==</guid>
+      <description><![CDATA[<b>Gungahlin:</b>3<br/><b>Greenway:</b>2<br/><b>Canberra City:</b>2<br/><b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">rx+R6WpC3EoFiSLACdz2cQ==</guid>
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Canberra City:</b>3<br/><b>Tuggeranong:</b>2<br/><b>Greenway:</b>2<br/><b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">uh+QJ4yEdOeraRcEqJ8MxA==</guid>
+      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

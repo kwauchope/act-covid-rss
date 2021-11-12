@@ -6,18 +6,12 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 07:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 05:31:13 +0000</lastBuildDate>
     <item>
       <title>(New) Holt:Kippax Uniting Community Centre (foyer only)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kippax Uniting Community Centre (foyer only)<br/><b>Street</b>:Corner Luke Street And Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 15 October 2021<br/><b>Arrival Time</b>:1055<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">LEpTMgqZsF3/Hd9KM2Xfzg==</guid>
       <pubDate>Sun, 17 Oct 2021 02:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Narrabundah:Early Childhood School (Grass Parrot Room and Kangaroo Room only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Early Childhood School (Grass Parrot Room and Kangaroo Room only)<br/><b>Street</b>:23-27 Kootara Crescent<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 14 October 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">6xaVQO5HInDA6Vj4y+uRqA==</guid>
-      <pubDate>Mon, 18 Oct 2021 01:37:56 +0000</pubDate>
     </item>
     <item>
       <title>(New) Campbell:Primary School (Construction Site only)</title>
@@ -380,12 +374,6 @@
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Reload Bar and Games</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Reload Bar and Games<br/><b>Street</b>:34-38 Northborne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0005<br/><b>Departure Time</b>:0250<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">I0z6G3CBkt1ydgOefTvvzg==</guid>
-      <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Phillip:Hellenic Club - Triton Lounge Only</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hellenic Club - Triton Lounge Only<br/><b>Street</b>:1 Matilda Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">QYA0yQE10Y+BHIyQ6v0+vA==</guid>
@@ -402,6 +390,54 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area Only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">vjNlS+1GldWiSYjIU/9zTg==</guid>
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Tuggeranong:5 Senses Cafe</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:5 Senses Cafe<br/><b>Street</b>:150 Anketell Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">/0BibhAX4MlDWVWMdxSoYg==</guid>
+      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Anytime Fitness Tuggeranong - Excluding Weight Training Room</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong - Excluding Weight Training Room<br/><b>Street</b>:26 Cowlishaw Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0820<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">CyQAZfnFEbewDUVq/bcwqA==</guid>
+      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Anytime Fitness Tuggeranong - Weight Training room</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong - Weight Training room<br/><b>Street</b>:26 Cowlishaw Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0820<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">JOVf9d20PGAN1iOGa7VzbA==</guid>
+      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Tuggeranong:Southern Cross Basketball Stadium - Court 2 ONLY (U10 Basketball Game)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Southern Cross Basketball Stadium - Court 2 ONLY (U10 Basketball Game)<br/><b>Street</b>:7 Pitman Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">QX8yyUdMbNuUHX++2FrjXw==</guid>
+      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Canberra City:Reload Bar and Games</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Reload Bar and Games<br/><b>Street</b>:34-38 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0250<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">VwOkI0wi2bUOVDXdF1bYhw==</guid>
+      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Club Lime Woden (Furzer Street)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Woden (Furzer Street)<br/><b>Street</b>:12 Furzer Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:0655<br/><b>Departure Time</b>:0830<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">YrVPOlO+A9r+bD7mdrloeQ==</guid>
+      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Reload Bar and Games</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Reload Bar and Games<br/><b>Street</b>:34-38 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:2020<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">YwfINF8l8B2qzkOZhLap8Q==</guid>
+      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:88 MPH Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:88 MPH Bar<br/><b>Street</b>:8-10 Hobart Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:2210<br/><b>Departure Time</b>:2330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">qCT78HDW5A9QR5TuGpS1kw==</guid>
+      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
