@@ -6,36 +6,12 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Nov 2021 05:31:13 +0000</lastBuildDate>
-    <item>
-      <title>(New) Holt:Kippax Uniting Community Centre (foyer only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kippax Uniting Community Centre (foyer only)<br/><b>Street</b>:Corner Luke Street And Hardwick Crescent<br/><b>Suburb</b>:Holt<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 15 October 2021<br/><b>Arrival Time</b>:1055<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">LEpTMgqZsF3/Hd9KM2Xfzg==</guid>
-      <pubDate>Sun, 17 Oct 2021 02:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Campbell:Primary School (Construction Site only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Primary School (Construction Site only)<br/><b>Street</b>:25 Chauvel Street<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 15 October 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">JyBwyaYeeKVhcWvCUhYAoA==</guid>
-      <pubDate>Mon, 18 Oct 2021 06:44:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 00:32:48 +0000</lastBuildDate>
     <item>
       <title>(New) Campbell:Primary School (Construction Site only)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Primary School (Construction Site only)<br/><b>Street</b>:25 Chauvel Street<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 16 October 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">zlS228blRGYqYb6+hrugYQ==</guid>
       <pubDate>Mon, 18 Oct 2021 06:44:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Macquarie:HealthFount Medical Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:HealthFount Medical Centre<br/><b>Street</b>:5 Macquarie Place<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 15 October 2021<br/><b>Arrival Time</b>:1520<br/><b>Departure Time</b>:1620<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">YlYIxRh2DJmrhcq2LYkarw==</guid>
-      <pubDate>Tue, 19 Oct 2021 23:54:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Macquarie:HealthFount Medical Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:HealthFount Medical Centre<br/><b>Street</b>:5 Macquarie Place<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 15 October 2021<br/><b>Arrival Time</b>:0925<br/><b>Departure Time</b>:1115<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">fwX/EKNTlr1CdFgSlmRFPw==</guid>
-      <pubDate>Tue, 19 Oct 2021 23:54:50 +0000</pubDate>
     </item>
     <item>
       <title>(New) Gungahlin:Guzman y Gomez</title>
@@ -47,12 +23,6 @@
       <title>(?) Dickson:Subway</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Subway<br/><b>Street</b>:Shop 1/71-81 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 18 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">33eeJAUmHUsLAuPItTvkJA==</guid>
-      <pubDate>Sat, 23 Oct 2021 00:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Dickson:Subway</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Subway<br/><b>Street</b>:Shop 1/71-81 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 15 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">3bi/aopaCGW8ZeRBB0CwLQ==</guid>
       <pubDate>Sat, 23 Oct 2021 00:51:44 +0000</pubDate>
     </item>
     <item>
@@ -438,6 +408,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:88 MPH Bar<br/><b>Street</b>:8-10 Hobart Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:2210<br/><b>Departure Time</b>:2330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">qCT78HDW5A9QR5TuGpS1kw==</guid>
       <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Club Lime Tuggeranong - Main Gym Area</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Tuggeranong - Main Gym Area<br/><b>Street</b>:25 Bartlet Place<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:1835<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">a/9IQKo/wKyHyob1m6vM7w==</guid>
+      <pubDate>Sat, 13 Nov 2021 00:32:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
