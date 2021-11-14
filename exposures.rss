@@ -6,13 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Nov 2021 08:19:41 +0000</lastBuildDate>
-    <item>
-      <title>(New) Campbell:Primary School (Construction Site only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Primary School (Construction Site only)<br/><b>Street</b>:25 Chauvel Street<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 16 October 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">zlS228blRGYqYb6+hrugYQ==</guid>
-      <pubDate>Mon, 18 Oct 2021 06:44:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Nov 2021 01:39:14 +0000</lastBuildDate>
     <item>
       <title>(New) Gungahlin:Guzman y Gomez</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Guzman y Gomez<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 19 October 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
@@ -332,12 +326,6 @@
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Fiction Bar</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Bar<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0255<br/><b>Departure Time</b>:0530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">Cky5P8YrH9hMxa0cJUO8Pg==</guid>
-      <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Brew Nation</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Brew Nation<br/><b>Street</b>:1/102 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:2230<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">DoSC5tbPsVTwgUEQJufCmg==</guid>
@@ -353,12 +341,6 @@
       <title>(New) Greenway:Club Lime Tuggeranong</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Tuggeranong<br/><b>Street</b>:25 Bartlet Place<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 05 November 2021<br/><b>Arrival Time</b>:0500<br/><b>Departure Time</b>:0600<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">h/+07iBZLGl0BDQRDQx0IA==</guid>
-      <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Greenway:Anytime Fitness Tuggeranong (Weights Area Only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area Only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">vjNlS+1GldWiSYjIU/9zTg==</guid>
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
     </item>
     <item>
@@ -426,6 +408,48 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The RUC<br/><b>Street</b>:54 Mccaughey Street<br/><b>Suburb</b>:Turner<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">lZRlJllMilEkxWynKyE4iw==</guid>
       <pubDate>Sat, 13 Nov 2021 08:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:The Floral Society</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Floral Society<br/><b>Street</b>:24 Iron Knob Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1315<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">CmPWR3VBmIqiIL/euVpW4w==</guid>
+      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Greyhound Bus Number 376</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Greyhound Bus Number 376<br/><b>Street</b>:Southern Cross Station Melbourne To London Street Canberra<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 08 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Ezb2+ldr9ZihJo6ZiXqJAg==</guid>
+      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:SUN Nails</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SUN Nails<br/><b>Street</b>:7-9 Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">FOUDlEwkxinu1ZZ2XrQaHQ==</guid>
+      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda St, Canberra Act 2601<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">QsopGuwB/+ralRv1rZcY2A==</guid>
+      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Greenway:Anytime Fitness Tuggeranong (Weights Area only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">r6AMGiePBsVCE1VKmEtupA==</guid>
+      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Greyhound Bus Number 376</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Greyhound Bus Number 376<br/><b>Street</b>:Southern Cross Station Melbourne To London Street Canberra<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">rex6mnmZKfYQw/mazMDzfw==</guid>
+      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0255<br/><b>Departure Time</b>:0530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">zWoB9AD8n/uAGslZE6RUzw==</guid>
+      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

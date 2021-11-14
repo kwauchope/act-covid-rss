@@ -6,14 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Nov 2021 08:19:41 +0000</lastBuildDate>
-    <item>
-      <title>1 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Campbell:</b>1<br/>]]></description>
-      <guid isPermaLink="false">vu1teBwXfE9BqNzaROej3g==</guid>
-      <pubDate>Mon, 18 Oct 2021 06:44:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Nov 2021 01:39:14 +0000</lastBuildDate>
     <item>
       <title>5 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -155,10 +148,10 @@
       <pubDate>Wed, 10 Nov 2021 05:57:26 +0000</pubDate>
     </item>
     <item>
-      <title>8 additional exposure sites</title>
+      <title>6 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Gungahlin:</b>3<br/><b>Greenway:</b>2<br/><b>Canberra City:</b>2<br/><b>Phillip:</b>1<br/>]]></description>
-      <guid isPermaLink="false">rx+R6WpC3EoFiSLACdz2cQ==</guid>
+      <description><![CDATA[<b>Gungahlin:</b>3<br/><b>Greenway:</b>1<br/><b>Phillip:</b>1<br/><b>Canberra City:</b>1<br/>]]></description>
+      <guid isPermaLink="false">xK7IYazhkYPePLJqeucjhw==</guid>
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
     </item>
     <item>
@@ -181,6 +174,13 @@
       <description><![CDATA[<b>Turner:</b>1<br/><b>Greenway:</b>1<br/>]]></description>
       <guid isPermaLink="false">b2+G8G+SbfjbUJnVSSsahQ==</guid>
       <pubDate>Sat, 13 Nov 2021 08:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Canberra City:</b>4<br/><b>Greenway:</b>1<br/><b>Weston:</b>1<br/><b>Fyshwick:</b>1<br/>]]></description>
+      <guid isPermaLink="false">KRHuJGPaS5BY1RPkTfGWRw==</guid>
+      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
