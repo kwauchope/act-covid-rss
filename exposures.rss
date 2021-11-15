@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Nov 2021 01:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 05:59:46 +0000</lastBuildDate>
     <item>
       <title>(New) Gungahlin:Guzman y Gomez</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Guzman y Gomez<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 19 October 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
@@ -428,12 +428,6 @@
       <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Fiction Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda St, Canberra Act 2601<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">QsopGuwB/+ralRv1rZcY2A==</guid>
-      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Greenway:Anytime Fitness Tuggeranong (Weights Area only)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">r6AMGiePBsVCE1VKmEtupA==</guid>
@@ -446,10 +440,76 @@
       <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Canberra City:Fiction Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0255<br/><b>Departure Time</b>:0530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">zWoB9AD8n/uAGslZE6RUzw==</guid>
-      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
+      <title>(New) Canberra City:Bar Rochford</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bar Rochford<br/><b>Street</b>:65 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">3XmwaWFYLARSlEvH7FHQ3Q==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Anytime Fitness</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:8 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:0730<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">9ScW2LNoDG1M37rKpNVAbQ==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:Fiction Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Fiction Bar<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0255<br/><b>Departure Time</b>:0530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Cky5P8YrH9hMxa0cJUO8Pg==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Anytime Fitness</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:8 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 10 November 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:0730<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">DDK0x3mXovLkKFJQOWfOwA==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Token Arcade and Kitchen</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Token Arcade and Kitchen<br/><b>Street</b>:34 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">E9BNflFEpl3UNZNY1Uph+g==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:Fiction club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Fiction club<br/><b>Street</b>:50 Bunda St, Canberra Act 2601<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">GD8s3toWClPYxpv6H7o+OQ==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Australian National University Sports Gym (Fencing Class)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Australian National University Sports Gym (Fencing Class)<br/><b>Street</b>:19 North Road<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">M2n6+kywAhixhmh++0Bo3g==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Macquarie:Jina's Hair Salon</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Jina's Hair Salon<br/><b>Street</b>:10 Cook Place<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1525<br/><b>Departure Time</b>:1635<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">VR477x9pbqvFcVxJP/RuTw==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Anytime Fitness</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:8 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:0715<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">a+KxDXtBM1lHYHKMfWH8GQ==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Palace Electric Cinemas (Screening of No Time to Die)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Palace Electric Cinemas (Screening of No Time to Die)<br/><b>Street</b>:2 Phillip Law Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">oTH2ZY4DjmVeXTj7CfGrFw==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Bar Rochford</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bar Rochford<br/><b>Street</b>:65 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">pmLMBi+FIirzBGee1GLB7g==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Bar Rochford</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bar Rochford<br/><b>Street</b>:65 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">uTmfv3u14kxh5UqZlmDCqA==</guid>
+      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
