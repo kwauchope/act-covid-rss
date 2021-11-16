@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Nov 2021 01:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 06:22:22 +0000</lastBuildDate>
     <item>
       <title>(New) Gungahlin:Guzman y Gomez</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Guzman y Gomez<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 19 October 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
@@ -464,12 +464,6 @@
       <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Palace Electric Cinemas (Screening of No Time to Die)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Palace Electric Cinemas (Screening of No Time to Die)<br/><b>Street</b>:2 Phillip Law Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">oTH2ZY4DjmVeXTj7CfGrFw==</guid>
-      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Bar Rochford</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bar Rochford<br/><b>Street</b>:65 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">pmLMBi+FIirzBGee1GLB7g==</guid>
@@ -510,6 +504,30 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:RASHAYS Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">s4LCHr/VPm4MDk6TWTKVnA==</guid>
       <pubDate>Tue, 16 Nov 2021 01:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Holder:Woden Valley Gymnastics Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Woden Valley Gymnastics Club<br/><b>Street</b>:27 Mulley Street<br/><b>Suburb</b>:Holder<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">dqlQdvFuv5ZuSk+48gujiw==</guid>
+      <pubDate>Tue, 16 Nov 2021 06:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Star Buffet Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Star Buffet Canberra<br/><b>Street</b>:8 Kett Street<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">tBdzMX9xF+Xa5GLs89pK0A==</guid>
+      <pubDate>Tue, 16 Nov 2021 06:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Palace Electric Cinema</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Palace Electric Cinema<br/><b>Street</b>:2 Phillip Law Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">x+bMO+fi9x2VVJMmPmFqyw==</guid>
+      <pubDate>Tue, 16 Nov 2021 06:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Canberra City:Palace Electric Cinemas (Cinema 2, screening of No Time to Die)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Palace Electric Cinemas (Cinema 2, screening of No Time to Die)<br/><b>Street</b>:2 Phillip Law Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">zAxZaNrOP5ZXsajvmthh0w==</guid>
+      <pubDate>Tue, 16 Nov 2021 06:22:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
