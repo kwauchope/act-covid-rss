@@ -6,17 +6,11 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Nov 2021 05:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 01:13:02 +0000</lastBuildDate>
     <item>
       <title>(New) Gungahlin:Guzman y Gomez</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Guzman y Gomez<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 19 October 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">1ye85eIZV54OLaa1xcmbKw==</guid>
-      <pubDate>Sat, 23 Oct 2021 00:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Dickson:Subway</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Subway<br/><b>Street</b>:Shop 1/71-81 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 18 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">33eeJAUmHUsLAuPItTvkJA==</guid>
       <pubDate>Sat, 23 Oct 2021 00:51:44 +0000</pubDate>
     </item>
     <item>
@@ -30,24 +24,6 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Thrifty Car Rental<br/><b>Street</b>:10 Goolwa Place<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 19 October 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">cml5L3FmQRsDvX0HZ2KcLQ==</guid>
       <pubDate>Sat, 23 Oct 2021 00:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Gungahlin:Guzman y Gomez</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Guzman y Gomez<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 18 October 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:2215<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">xfvv5EA4krxW6AneSAoHFQ==</guid>
-      <pubDate>Sat, 23 Oct 2021 00:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Chisholm:Anytime Fitness Chisholm (Entire Gym, refer to Close Contacts entry if attended Weights Room)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Chisholm (Entire Gym, refer to Close Contacts entry if attended Weights Room)<br/><b>Street</b>:1/68 Halley Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 18 October 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">j/+22WQ7AHamoFWVCxUApA==</guid>
-      <pubDate>Sun, 24 Oct 2021 01:16:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Chisholm:Anytime Fitness Chisholm (Weights Room only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Chisholm (Weights Room only)<br/><b>Street</b>:1/68 Halley Street<br/><b>Suburb</b>:Chisholm<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 18 October 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">xWfmf85kL9nXM6FCAXIPjg==</guid>
-      <pubDate>Sun, 24 Oct 2021 01:16:11 +0000</pubDate>
     </item>
     <item>
       <title>(New) Phillip:Services Australia - Woden Service Centre</title>
@@ -482,12 +458,6 @@
       <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Macquarie:Jina's Hair Salon</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Jina's Hair Salon<br/><b>Street</b>:10 Cook Place<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1525<br/><b>Departure Time</b>:1635<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">VR477x9pbqvFcVxJP/RuTw==</guid>
-      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Weston:Anytime Fitness</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:8 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:0715<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
       <guid isPermaLink="false">a+KxDXtBM1lHYHKMfWH8GQ==</guid>
@@ -510,6 +480,36 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bar Rochford<br/><b>Street</b>:65 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">uTmfv3u14kxh5UqZlmDCqA==</guid>
       <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Macquarie:Zambrero Jamison</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Zambrero Jamison<br/><b>Street</b>:Jamison Plaza, Bowman Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">IBxVQ0hOcdYjCvs1Euj3ng==</guid>
+      <pubDate>Tue, 16 Nov 2021 01:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Nicholls:Cafe Injoy</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cafe Injoy<br/><b>Street</b>:39 O'Hanlon Place<br/><b>Suburb</b>:Nicholls<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:1140<br/><b>Departure Time</b>:1210<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">RNnI91tKhoCH1TkIVPvQ7Q==</guid>
+      <pubDate>Tue, 16 Nov 2021 01:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Macquarie:Zambrero Jamison</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Zambrero Jamison<br/><b>Street</b>:Jamison Plaza, Bowman Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">SVdjPYeGpQ59xH5eNKchsw==</guid>
+      <pubDate>Tue, 16 Nov 2021 01:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Cook:Jina's Hair Salon</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Jina's Hair Salon<br/><b>Street</b>:10 Cook Place<br/><b>Suburb</b>:Cook<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1525<br/><b>Departure Time</b>:1635<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">dkARfLNWRToOnFmGO0VXJQ==</guid>
+      <pubDate>Tue, 16 Nov 2021 01:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:RASHAYS Woden</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:RASHAYS Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">s4LCHr/VPm4MDk6TWTKVnA==</guid>
+      <pubDate>Tue, 16 Nov 2021 01:13:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
