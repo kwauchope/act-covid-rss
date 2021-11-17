@@ -6,31 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Nov 2021 06:22:22 +0000</lastBuildDate>
-    <item>
-      <title>(New) Gungahlin:Guzman y Gomez</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Guzman y Gomez<br/><b>Street</b>:30-33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 19 October 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">1ye85eIZV54OLaa1xcmbKw==</guid>
-      <pubDate>Sat, 23 Oct 2021 00:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Dickson:Subway</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Subway<br/><b>Street</b>:Shop 1/71-81 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 19 October 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">OytXxzj787JW5e/koFb8Dg==</guid>
-      <pubDate>Sat, 23 Oct 2021 00:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Fyshwick:Thrifty Car Rental</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Thrifty Car Rental<br/><b>Street</b>:10 Goolwa Place<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 19 October 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">cml5L3FmQRsDvX0HZ2KcLQ==</guid>
-      <pubDate>Sat, 23 Oct 2021 00:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Phillip:Services Australia - Woden Service Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Services Australia - Woden Service Centre<br/><b>Street</b>:2-6 Bowes Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 19 October 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1635<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">Or2c4LFQ8O6+RuqMuq2cVQ==</guid>
-      <pubDate>Sun, 24 Oct 2021 06:26:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Nov 2021 05:59:11 +0000</lastBuildDate>
     <item>
       <title>(New) Belconnen:Belco Halal Kebabs &amp; Pizzeria</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Belco Halal Kebabs & Pizzeria<br/><b>Street</b>:Lathlain Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 24 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
@@ -528,6 +504,18 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Palace Electric Cinemas (Cinema 2, screening of No Time to Die)<br/><b>Street</b>:2 Phillip Law Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">zAxZaNrOP5ZXsajvmthh0w==</guid>
       <pubDate>Tue, 16 Nov 2021 06:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Assembly</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:1035<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Ivs5bm64kDHy5T1bvxpynA==</guid>
+      <pubDate>Wed, 17 Nov 2021 05:59:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:San Churro Woden</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:San Churro Woden<br/><b>Street</b>:8 Bradley Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">lXeSY7L+smae3XXQVR5Qcg==</guid>
+      <pubDate>Wed, 17 Nov 2021 05:59:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
