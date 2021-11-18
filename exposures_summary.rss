@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Nov 2021 05:59:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Nov 2021 01:31:41 +0000</lastBuildDate>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -183,11 +183,18 @@
       <pubDate>Tue, 16 Nov 2021 06:22:22 +0000</pubDate>
     </item>
     <item>
+      <title>1 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">xVRRSs+8gXNN0RqXHNHQhg==</guid>
+      <pubDate>Wed, 17 Nov 2021 05:59:11 +0000</pubDate>
+    </item>
+    <item>
       <title>2 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Phillip:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
-      <guid isPermaLink="false">eoKkZMeHqcTYmlOBNWI+cw==</guid>
-      <pubDate>Wed, 17 Nov 2021 05:59:11 +0000</pubDate>
+      <description><![CDATA[<b>Weston:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">kFaf49YK+6KuLdSxbScl+Q==</guid>
+      <pubDate>Thu, 18 Nov 2021 01:31:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
