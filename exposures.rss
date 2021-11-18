@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Nov 2021 01:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Nov 2021 06:43:14 +0000</lastBuildDate>
     <item>
       <title>(New) Belconnen:Belco Halal Kebabs &amp; Pizzeria</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Belco Halal Kebabs & Pizzeria<br/><b>Street</b>:Lathlain Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 24 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
@@ -522,6 +522,60 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:8 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 10 November 2021<br/><b>Arrival Time</b>:0600<br/><b>Departure Time</b>:0735<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
       <guid isPermaLink="false">/Z0sauPzWUQrKG1i1+qCFA==</guid>
       <pubDate>Thu, 18 Nov 2021 01:31:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Harmonie German Club (Pool Room only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Harmonie German Club (Pool Room only)<br/><b>Street</b>:49 Jerrabomberra Avenue<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1820<br/><b>Departure Time</b>:1950<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">7qBzG77b85iCYFHJIx+sGw==</guid>
+      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Club Lime Westfield</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Westfield<br/><b>Street</b>:18 Benjamin Way Corner, Emu Bank<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1845<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">Gn/PRuYxL7NaKcmkBz97fg==</guid>
+      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:Anytime Fitness</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:8 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:0730<br/><b>Departure Time</b>:0830<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">U/ETW9rqb99bhYy0Un7N3w==</guid>
+      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:RASHAYS Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:RASHAYS Tuggeranong<br/><b>Street</b>:Tuggeranong Hyperdome, Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:2015<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">VwyQNImJ66Yk/SjwJZZiVg==</guid>
+      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:ANZ Branch Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:ANZ Branch Tuggeranong<br/><b>Street</b>:Tuggeranong Hyperdome, Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1104<br/><b>Departure Time</b>:1150<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">flve0+hNCrfhTcs65AWWVA==</guid>
+      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Coffee Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Coffee Club<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1505<br/><b>Departure Time</b>:1540<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">k849z2JWFMm0tBFJd8zw9A==</guid>
+      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Calwell:Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club<br/><b>Street</b>:1 Were Street<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:1145<br/><b>Departure Time</b>:2055<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">m4h9vt/ddma07DaA49prqA==</guid>
+      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Love Nails Woden</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Love Nails Woden<br/><b>Street</b>:Westfield Woden, Keltie Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:1445<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">xmNywf88QMQWpGRQ3Q1FwQ==</guid>
+      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Club Lime Westfield</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Westfield<br/><b>Street</b>:18 Benjamin Way Corner, Emu Bank<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">yn+VabF1JT2sBUfeaYhZLg==</guid>
+      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
