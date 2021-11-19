@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Nov 2021 01:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 07:30:56 +0000</lastBuildDate>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -162,10 +162,10 @@
       <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
     </item>
     <item>
-      <title>10 additional exposure sites</title>
+      <title>8 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>7<br/><b>Weston:</b>3<br/>]]></description>
-      <guid isPermaLink="false">WFghboSexqmh3X0Av68FSA==</guid>
+      <description><![CDATA[<b>Canberra City:</b>5<br/><b>Weston:</b>3<br/>]]></description>
+      <guid isPermaLink="false">F3i5we11yy8ofnscFv1RQA==</guid>
       <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
     </item>
     <item>
@@ -204,11 +204,18 @@
       <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
     </item>
     <item>
+      <title>9 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Canberra City:</b>4<br/><b>Fyshwick:</b>1<br/><b>Phillip:</b>1<br/><b>Greenway:</b>1<br/><b>Belconnen:</b>1<br/><b>Wanniassa:</b>1<br/>]]></description>
+      <guid isPermaLink="false">pPe0nBPAbIAepztWnLyO7g==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
       <title>10 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>4<br/><b>Fyshwick:</b>2<br/><b>Phillip:</b>1<br/><b>Greenway:</b>1<br/><b>Belconnen:</b>1<br/><b>Wanniassa:</b>1<br/>]]></description>
-      <guid isPermaLink="false">+w/xFJveMR0aAfHAoWG/mw==</guid>
-      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+      <description><![CDATA[<b>Canberra City:</b>3<br/><b>Griffith:</b>2<br/><b>Wanniassa:</b>2<br/><b>Gungahlin:</b>1<br/><b>Braddon:</b>1<br/><b>Fyshwick:</b>1<br/>]]></description>
+      <guid isPermaLink="false">vM1QNvylmZYFlCtJOI6j9g==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

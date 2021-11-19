@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Nov 2021 01:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 07:30:56 +0000</lastBuildDate>
     <item>
       <title>(New) Belconnen:Belco Halal Kebabs &amp; Pizzeria</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Belco Halal Kebabs & Pizzeria<br/><b>Street</b>:Lathlain Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 24 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
@@ -404,12 +404,6 @@
       <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Canberra City:Fiction Bar</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Fiction Bar<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0255<br/><b>Departure Time</b>:0530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">Cky5P8YrH9hMxa0cJUO8Pg==</guid>
-      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Weston:Anytime Fitness</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:8 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 10 November 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:0730<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
       <guid isPermaLink="false">DDK0x3mXovLkKFJQOWfOwA==</guid>
@@ -419,12 +413,6 @@
       <title>(New) Canberra City:Token Arcade and Kitchen</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Token Arcade and Kitchen<br/><b>Street</b>:34 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">E9BNflFEpl3UNZNY1Uph+g==</guid>
-      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Canberra City:Fiction club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Fiction club<br/><b>Street</b>:50 Bunda St, Canberra Act 2601<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">GD8s3toWClPYxpv6H7o+OQ==</guid>
       <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
     </item>
     <item>
@@ -608,12 +596,6 @@
       <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Fyshwick:Husk Bakery</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Husk Bakery<br/><b>Street</b>:18 Whyalla Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1225<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">Xznrrp8FCynpTgwUODFxSg==</guid>
-      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Fiction Club</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">iLLmGItKI/3+FwiKrUtVLA==</guid>
@@ -636,6 +618,66 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">wNUcpsBnPudDW0+Gq3cGeA==</guid>
       <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">FQaTIU/AgxoqJsrGhiJruw==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Kulture Break</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kulture Break<br/><b>Street</b>:115 Grattan Court<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">HTbO8mLW4pg5bqiQcimvBg==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Fyshwick:Husk Bakery</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Husk Bakery<br/><b>Street</b>:1/21 Iron Knob Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1225<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Ni+MXHY1a9o+6nZYSG4dbQ==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:The Civic Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Civic Pub<br/><b>Street</b>:8 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1935<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">P7Uixo6Minudk1HY1KY6DQ==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Joe's Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Joe's Bar<br/><b>Street</b>:69 Canberra Avenue<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:2030<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">W6AdH65OrozHslB1Iti7MA==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:One22</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:One22<br/><b>Street</b>:122 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">Xy6wBwtfX28gUUldB7Edvw==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Kulture Break</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Kulture Break<br/><b>Street</b>:115 Grattan Court<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1145<br/><b>Departure Time</b>:1345<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">hrkfueyosDFZ3V/CYFHEgA==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Public Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Public Bar<br/><b>Street</b>:Manuka Arcade, Flinders Way<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1615<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">pMUmjnHOhY4KfWLqK/urzg==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Grease Monkey</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grease Monkey<br/><b>Street</b>:63/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2105<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">qE+RpfAQUwsIV3GF8yM+5g==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:One22</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:One22<br/><b>Street</b>:122 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2125<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">yXI3oLQvw42VATJ2PkBpjg==</guid>
+      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
