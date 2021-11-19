@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Nov 2021 06:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 01:33:12 +0000</lastBuildDate>
     <item>
       <title>(New) Belconnen:Belco Halal Kebabs &amp; Pizzeria</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Belco Halal Kebabs & Pizzeria<br/><b>Street</b>:Lathlain Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 24 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
@@ -576,6 +576,66 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Westfield<br/><b>Street</b>:18 Benjamin Way Corner, Emu Bank<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">yn+VabF1JT2sBUfeaYhZLg==</guid>
       <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Capital Edge Church Erindale</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capital Edge Church Erindale<br/><b>Street</b>:16 -32 Gratton Court<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">4G8AWHXt1o7drJXCMRsG4w==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:The Lighthouse Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Lighthouse Pub<br/><b>Street</b>:80 Emu Bank<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">8eLQPol5SI29g0g2ee3Gug==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:McDonald's Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonald's Tuggeranong<br/><b>Street</b>:Cowlishaw Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">938vlpGHilzntBRfwwFxxA==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:5th Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:5th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0050<br/><b>Departure Time</b>:0250<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">JxpYePuVN0JFdBTynW5Oeg==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Canberra Southern Cross Club Woden (Corinna Ballroom only - ICN ACT Physique Titles event)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Southern Cross Club Woden (Corinna Ballroom only - ICN ACT Physique Titles event)<br/><b>Street</b>:92-96 Corinna Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0950<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">OzqVCvYTarKKwR4EhZKwvg==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Husk Bakery</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Husk Bakery<br/><b>Street</b>:18 Whyalla Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1225<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Xznrrp8FCynpTgwUODFxSg==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">iLLmGItKI/3+FwiKrUtVLA==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Dirty Jane's</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dirty Jane's<br/><b>Street</b>:80 Collie Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">m/+QQgQhUOmd1D4b7kETHg==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:McDonald's</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonald's<br/><b>Street</b>:34 East Row<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0230<br/><b>Departure Time</b>:0300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">n8OfKPg1VPZPQyv7H5ygiQ==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">wNUcpsBnPudDW0+Gq3cGeA==</guid>
+      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
