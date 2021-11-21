@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Nov 2021 07:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 06:23:43 +0000</lastBuildDate>
     <item>
       <title>(New) Belconnen:Belco Halal Kebabs &amp; Pizzeria</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Belco Halal Kebabs & Pizzeria<br/><b>Street</b>:Lathlain Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 24 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
@@ -698,12 +698,6 @@
       <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Belconnen:Korbq</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Korbq<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1735<br/><b>Departure Time</b>:1804<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">Hqxy0kAo4GfPFwUkYFqotw==</guid>
-      <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Nosh Canberra Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Nosh Canberra Centre<br/><b>Street</b>:Canberra Centre, Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">SUi/aj8P9P5bBNShsI9KKw==</guid>
@@ -738,6 +732,42 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads Pub<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2350<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">o46R/ie/r45xTq7qNwYB2g==</guid>
       <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Calwell:Eastlake Calwell Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Eastlake Calwell Club<br/><b>Street</b>:1 Were Street<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1155<br/><b>Departure Time</b>:1305<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">7mC1aIw7707iTW2YDbUvAA==</guid>
+      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Yat-Bun-Tong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Yat-Bun-Tong<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">EkUyAAM3elJhMmbrkt1xgw==</guid>
+      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Farrer:St Augustine's Catholic Church</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:St Augustine's Catholic Church<br/><b>Street</b>:262 Beasley Street<br/><b>Suburb</b>:Farrer<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">MIYf9g/c/l3jIZZR03BhrA==</guid>
+      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Belconnen:Korbq</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Korbq<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1735<br/><b>Departure Time</b>:1840<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">nfhyi/qXWZob2sA4xpZ5ug==</guid>
+      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:The Scholar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Scholar<br/><b>Street</b>:23 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:1920<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">pIMRTXMgTps0lfjziy4P2g==</guid>
+      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Deakin:Canberra Deakin Football Club - Function room</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Deakin Football Club - Function room<br/><b>Street</b>:3 Grose Street<br/><b>Suburb</b>:Deakin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">uSAhB4pc45P2RVDRByMO3Q==</guid>
+      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
