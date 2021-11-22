@@ -6,13 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Nov 2021 06:23:43 +0000</lastBuildDate>
-    <item>
-      <title>(New) Belconnen:Belco Halal Kebabs &amp; Pizzeria</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Belco Halal Kebabs & Pizzeria<br/><b>Street</b>:Lathlain Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 24 October 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">ULiAx7wWSCZXsCxdqdUO2w==</guid>
-      <pubDate>Tue, 26 Oct 2021 06:27:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 01:39:55 +0000</lastBuildDate>
     <item>
       <title>(New) Braddon:Ciao Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ciao Cafe<br/><b>Street</b>:33 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 25 October 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -710,27 +704,9 @@
       <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Mooseheads Top Floor</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads Top Floor<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2205<br/><b>Departure Time</b>:2245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">iwNB2Y6bNDMr+CuSrUUiFg==</guid>
-      <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Mooseheads Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads Pub<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0050<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">mnWaHIZ9DR9Pw3fpdvc6iw==</guid>
-      <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Belconnen:Lighthouse Pub</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Lighthouse Pub<br/><b>Street</b>:80 Emu Bank<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">mpAL2lW37FbxqJt0o9w5Dg==</guid>
-      <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Mooseheads Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads Pub<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2350<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">o46R/ie/r45xTq7qNwYB2g==</guid>
       <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
     </item>
     <item>
@@ -768,6 +744,96 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Deakin Football Club - Function room<br/><b>Street</b>:3 Grose Street<br/><b>Suburb</b>:Deakin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">uSAhB4pc45P2RVDRByMO3Q==</guid>
       <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:Mooseheads (Pub only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Mooseheads (Pub only)<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2350<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">+jdA9VpiDIz9az7fmUlWeg==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:5th Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:5th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:2340<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">2PYvPBac2yQQghqVhLY7Nw==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Sweet Bones Bakery and Cafe</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sweet Bones Bakery and Cafe<br/><b>Street</b>:18 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">3tdVUqudZvNLoTdh53MuEg==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:KFC Woden</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:KFC Woden<br/><b>Street</b>:48 Botany Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1935<br/><b>Departure Time</b>:2005<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">8Di2N4q/uXeZ2dA8n2PSrA==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mooseheads (Nightclub only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads (Nightclub only)<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:0200<br/><b>Departure Time</b>:0400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">A7z1ixj1p8VCzVyCnFvyHw==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:5th Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:5th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">FR9DcZDzCmxWZ+Nm9OrW7w==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mooseheads</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:2240<br/><b>Departure Time</b>:2355<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">GrZQs+Bjv14bCLO7d4VgPg==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:5th Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:5th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0005<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">JkzbbdS37KlWVodpYUZO4w==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:Mooseheads (Pub only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Mooseheads (Pub only)<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0050<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">LKbBL2x4odNuSWfVpfRrdQ==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0105<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">QEt6vQIypu5Cie79jh+wXg==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:Mooseheads (Night Club only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Mooseheads (Night Club only)<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2205<br/><b>Departure Time</b>:2245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">TpGcRkIFb7Zzm1MoeoC4dA==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Cube</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cube<br/><b>Street</b>:33 Petrie Plaza<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:0100<br/><b>Departure Time</b>:0315<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ZEDs2D4IaQGBz+aIndhKTg==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Cube</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cube<br/><b>Street</b>:33 Petrie Plaza<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2310<br/><b>Departure Time</b>:2340<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">aOvvTA7NwYMJbeyeRpYWGA==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:5th Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:5th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2210<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">v1nosfJ7S0aB6uKAoMRORw==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Monster Kitchen and Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Monster Kitchen and Bar<br/><b>Street</b>:25 Edinburgh Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">vGvUyjao7qS5EitJVhrqCw==</guid>
+      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
