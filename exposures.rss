@@ -6,13 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Nov 2021 05:40:32 +0000</lastBuildDate>
-    <item>
-      <title>(New) Braddon:Ciao Cafe</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ciao Cafe<br/><b>Street</b>:33 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 25 October 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">3JaaC4sL/+O4luFsDvkyUg==</guid>
-      <pubDate>Fri, 29 Oct 2021 06:19:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 00:30:17 +0000</lastBuildDate>
     <item>
       <title>(New) Braddon:Ciao Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ciao Cafe<br/><b>Street</b>:33 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -77,12 +71,6 @@
       <title>(Updated) Calwell:Aquatic Achievers</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Aquatic Achievers<br/><b>Street</b>:15 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 31 October 2021<br/><b>Arrival Time</b>:0840<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">UgJazbRt1GoWqTPYsqTapA==</guid>
-      <pubDate>Tue, 02 Nov 2021 06:45:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Belconnen:Australian Bureau of Statistics (Level 3 only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Australian Bureau of Statistics (Level 3 only)<br/><b>Street</b>:40 Cameron Avenue<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 25 October 2021<br/><b>Arrival Time</b>:0700<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">sCuFmppkvOQDTD95naQtfw==</guid>
       <pubDate>Tue, 02 Nov 2021 06:45:17 +0000</pubDate>
     </item>
     <item>
@@ -692,18 +680,6 @@
       <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Nosh Canberra Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Nosh Canberra Centre<br/><b>Street</b>:Canberra Centre, Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">SUi/aj8P9P5bBNShsI9KKw==</guid>
-      <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Betty's Burgers</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Betty's Burgers<br/><b>Street</b>:Canberra Centre, Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1325<br/><b>Departure Time</b>:1345<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">fQUVXmIyKtcxQ3M+U1Pr7w==</guid>
-      <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Belconnen:Lighthouse Pub</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Lighthouse Pub<br/><b>Street</b>:80 Emu Bank<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">mpAL2lW37FbxqJt0o9w5Dg==</guid>
@@ -722,12 +698,6 @@
       <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Farrer:St Augustine's Catholic Church</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:St Augustine's Catholic Church<br/><b>Street</b>:262 Beasley Street<br/><b>Suburb</b>:Farrer<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">MIYf9g/c/l3jIZZR03BhrA==</guid>
-      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
-    </item>
-    <item>
       <title>(Updated) Belconnen:Korbq</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Korbq<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1735<br/><b>Departure Time</b>:1840<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">nfhyi/qXWZob2sA4xpZ5ug==</guid>
@@ -737,12 +707,6 @@
       <title>(New) Dickson:The Scholar</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Scholar<br/><b>Street</b>:23 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:1920<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">pIMRTXMgTps0lfjziy4P2g==</guid>
-      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Deakin:Canberra Deakin Football Club - Function room</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Deakin Football Club - Function room<br/><b>Street</b>:3 Grose Street<br/><b>Suburb</b>:Deakin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">uSAhB4pc45P2RVDRByMO3Q==</guid>
       <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
     </item>
     <item>
@@ -828,6 +792,36 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Mooseheads<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">y1ZkTKF2p5apQ5YfOI0Ubw==</guid>
       <pubDate>Mon, 22 Nov 2021 05:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Farrer:St Augustine's Catholic Church</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:St Augustine's Catholic Church<br/><b>Street</b>:262 Beasley Street<br/><b>Suburb</b>:Farrer<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">4zCjbfo1UrO6jCwWgvoxLg==</guid>
+      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Deakin:Canberra Deakin Football Club (Function room only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Canberra Deakin Football Club (Function room only)<br/><b>Street</b>:3 Grose Street<br/><b>Suburb</b>:Deakin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">G2dr0HU5wz/UPlHv6vQnDw==</guid>
+      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Remove) Canberra City:Mooseheads (Night Club only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Remove<br/><b>Exposure Site</b>:Mooseheads (Night Club only)<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2205<br/><b>Departure Time</b>:2245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">TpGcRkIFb7Zzm1MoeoC4dA==</guid>
+      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:Nosh Canberra Centre</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Nosh Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">l5tow15wxqSHN5H6lRArug==</guid>
+      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:Betty's Burgers</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Betty's Burgers<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1325<br/><b>Departure Time</b>:1345<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">uRzJzhiv+tOVvJwkx8Ya3g==</guid>
+      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

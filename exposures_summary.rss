@@ -6,12 +6,12 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Nov 2021 05:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 00:30:17 +0000</lastBuildDate>
     <item>
-      <title>2 additional exposure sites</title>
+      <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Braddon:</b>2<br/>]]></description>
-      <guid isPermaLink="false">BaJXRty7+IyQR84oJxdzeg==</guid>
+      <description><![CDATA[<b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">yJF6nNkNm5oZ+sqIF4JKRg==</guid>
       <pubDate>Fri, 29 Oct 2021 06:19:55 +0000</pubDate>
     </item>
     <item>
@@ -36,10 +36,10 @@
       <pubDate>Mon, 01 Nov 2021 07:31:43 +0000</pubDate>
     </item>
     <item>
-      <title>4 additional exposure sites</title>
+      <title>3 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Fyshwick:</b>2<br/><b>Belconnen:</b>1<br/><b>Calwell:</b>1<br/>]]></description>
-      <guid isPermaLink="false">fadJ826d3u3NRyONNw/2Tg==</guid>
+      <description><![CDATA[<b>Fyshwick:</b>2<br/><b>Calwell:</b>1<br/>]]></description>
+      <guid isPermaLink="false">epFKHA99r9rlnGPc0SrvYA==</guid>
       <pubDate>Tue, 02 Nov 2021 06:45:17 +0000</pubDate>
     </item>
     <item>
@@ -211,17 +211,17 @@
       <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
     </item>
     <item>
-      <title>6 additional exposure sites</title>
+      <title>4 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>4<br/><b>Belconnen:</b>1<br/><b>Campbell:</b>1<br/>]]></description>
-      <guid isPermaLink="false">wl0Xz5X1H4PvNNd7ZneSvA==</guid>
+      <description><![CDATA[<b>Canberra City:</b>2<br/><b>Belconnen:</b>1<br/><b>Campbell:</b>1<br/>]]></description>
+      <guid isPermaLink="false">VlcChdCeqEVhWg6skK8M/w==</guid>
       <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
     </item>
     <item>
-      <title>6 additional exposure sites</title>
+      <title>4 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Belconnen:</b>2<br/><b>Deakin:</b>1<br/><b>Dickson:</b>1<br/><b>Farrer:</b>1<br/><b>Calwell:</b>1<br/>]]></description>
-      <guid isPermaLink="false">bjTwWZrFvjAkkiNO2bT61g==</guid>
+      <description><![CDATA[<b>Belconnen:</b>2<br/><b>Dickson:</b>1<br/><b>Calwell:</b>1<br/>]]></description>
+      <guid isPermaLink="false">BWI81eU9nkxFGzeeMlJmnA==</guid>
       <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
     </item>
     <item>
@@ -237,6 +237,13 @@
       <description><![CDATA[<b>Canberra City:</b>2<br/>]]></description>
       <guid isPermaLink="false">q2QtzKYW3Y/Dogb54Hsj5A==</guid>
       <pubDate>Mon, 22 Nov 2021 05:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Canberra City:</b>3<br/><b>Deakin:</b>1<br/><b>Farrer:</b>1<br/>]]></description>
+      <guid isPermaLink="false">9YnSXVig+BNMEguZrxa3jA==</guid>
+      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
