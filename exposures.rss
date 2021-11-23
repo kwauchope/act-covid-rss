@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Nov 2021 00:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 05:59:29 +0000</lastBuildDate>
     <item>
       <title>(New) Braddon:Ciao Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ciao Cafe<br/><b>Street</b>:33 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -257,12 +257,6 @@
       <title>(New) Gungahlin:Saigon Fresh</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Saigon Fresh<br/><b>Street</b>:Gungahlin Village, Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 08 November 2021<br/><b>Arrival Time</b>:1355<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">BPsPz78oAisA2oczMaIf7Q==</guid>
-      <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Brew Nation</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Brew Nation<br/><b>Street</b>:1/102 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:2230<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">DoSC5tbPsVTwgUEQJufCmg==</guid>
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
     </item>
     <item>
@@ -566,12 +560,6 @@
       <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:5th Avenue</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:5th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0050<br/><b>Departure Time</b>:0250<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">JxpYePuVN0JFdBTynW5Oeg==</guid>
-      <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Phillip:Canberra Southern Cross Club Woden (Corinna Ballroom only - ICN ACT Physique Titles event)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Southern Cross Club Woden (Corinna Ballroom only - ICN ACT Physique Titles event)<br/><b>Street</b>:92-96 Corinna Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0950<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">OzqVCvYTarKKwR4EhZKwvg==</guid>
@@ -614,12 +602,6 @@
       <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
     </item>
     <item>
-      <title>(Updated) Fyshwick:Husk Bakery</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Husk Bakery<br/><b>Street</b>:1/21 Iron Knob Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1225<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">Ni+MXHY1a9o+6nZYSG4dbQ==</guid>
-      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Braddon:The Civic Pub</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Civic Pub<br/><b>Street</b>:8 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1935<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">P7Uixo6Minudk1HY1KY6DQ==</guid>
@@ -647,12 +629,6 @@
       <title>(New) Griffith:Public Bar</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Public Bar<br/><b>Street</b>:Manuka Arcade, Flinders Way<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:1515<br/><b>Departure Time</b>:1615<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">pMUmjnHOhY4KfWLqK/urzg==</guid>
-      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Gungahlin:Grease Monkey</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grease Monkey<br/><b>Street</b>:63/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2105<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">qE+RpfAQUwsIV3GF8yM+5g==</guid>
       <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
     </item>
     <item>
@@ -806,12 +782,6 @@
       <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
     </item>
     <item>
-      <title>(Remove) Canberra City:Mooseheads (Night Club only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Remove<br/><b>Exposure Site</b>:Mooseheads (Night Club only)<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2205<br/><b>Departure Time</b>:2245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">TpGcRkIFb7Zzm1MoeoC4dA==</guid>
-      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Canberra City:Nosh Canberra Centre</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Nosh Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">l5tow15wxqSHN5H6lRArug==</guid>
@@ -822,6 +792,30 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Betty's Burgers<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1325<br/><b>Departure Time</b>:1345<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">uRzJzhiv+tOVvJwkx8Ya3g==</guid>
       <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:5Th Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:5Th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0050<br/><b>Departure Time</b>:0250<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">UQus8MvtfB3LJjxR4QGT0A==</guid>
+      <pubDate>Tue, 23 Nov 2021 05:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Gungahlin:Grease Monkey</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Grease Monkey<br/><b>Street</b>:33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2105<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">Y3Fi04DImrGKijbbBO1hoQ==</guid>
+      <pubDate>Tue, 23 Nov 2021 05:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Fyshwick:Husk Bakery</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Husk Bakery<br/><b>Street</b>:21 Iron Knob Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:1225<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">qnYZdb9lpLvl+uW85oO3Og==</guid>
+      <pubDate>Tue, 23 Nov 2021 05:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Amaroo:Holy Spirit Catholic Parish Gungahlin Church – Holy Communion (first Eucharist) service</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Holy Spirit Catholic Parish Gungahlin Church – Holy Communion (first Eucharist) service<br/><b>Street</b>:93 Burdekin Avenue<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1915<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">yFwQrZgcbEzv0imdow5bWA==</guid>
+      <pubDate>Tue, 23 Nov 2021 05:59:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
