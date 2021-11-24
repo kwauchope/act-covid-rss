@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Nov 2021 01:40:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 06:27:45 +0000</lastBuildDate>
     <item>
       <title>(New) Braddon:Ciao Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ciao Cafe<br/><b>Street</b>:33 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -674,12 +674,6 @@
       <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:5th Avenue</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:5th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:2340<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">2PYvPBac2yQQghqVhLY7Nw==</guid>
-      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Braddon:Sweet Bones Bakery and Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sweet Bones Bakery and Cafe<br/><b>Street</b>:18 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">3tdVUqudZvNLoTdh53MuEg==</guid>
@@ -782,12 +776,6 @@
       <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Canberra City:5Th Avenue</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:5Th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0050<br/><b>Departure Time</b>:0250<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">UQus8MvtfB3LJjxR4QGT0A==</guid>
-      <pubDate>Tue, 23 Nov 2021 05:59:29 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Gungahlin:Grease Monkey</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Grease Monkey<br/><b>Street</b>:33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2105<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">Y3Fi04DImrGKijbbBO1hoQ==</guid>
@@ -824,12 +812,6 @@
       <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Mad Max</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mad Max<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">gIAldGgKWzKYcsRZE940pA==</guid>
-      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Mitchell:Wanderlust</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">hepUT0e6RhDMubMSqIqcBg==</guid>
@@ -846,6 +828,66 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">svhK48sHWTQSghqlx62SQA==</guid>
       <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:5Th Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:5Th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:2340<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">1nTtLRy2+54hKkI+CTcA9Q==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gowrie:Common Grounds Cafe</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Common Grounds Cafe<br/><b>Street</b>:4/1 Jefferies Street<br/><b>Suburb</b>:Gowrie<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">DCppEJB6Sh52rr24BK41Hg==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Club Lime Gungahlin Platinum (Main Gym Area Only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Gungahlin Platinum (Main Gym Area Only)<br/><b>Street</b>:35 Crinigan Circuit<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0530<br/><b>Departure Time</b>:0645<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">GDzgpuico0LmlmdUYVotjw==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Canberra City:5th Avenue</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:5th Avenue<br/><b>Street</b>:32 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0050<br/><b>Departure Time</b>:0250<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">JxpYePuVN0JFdBTynW5Oeg==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mad Mex</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mad Mex<br/><b>Street</b>:Canberra Centre, Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">NydrB70gABDFS556StCxnQ==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Designer Op Shop Emporium &amp; Cafe</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Designer Op Shop Emporium & Cafe<br/><b>Street</b>:1 Lyell Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1415<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">aruXmf2KdOeFpwEj5GfBXg==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Zaab Street Food</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Zaab Street Food<br/><b>Street</b>:2/9 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 22 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">fyytMg9y0WsU68DKUgpt/Q==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Hellenic Club Woden (Ginseng Restaurant Only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hellenic Club Woden (Ginseng Restaurant Only)<br/><b>Street</b>:1 Matilda Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">mfLIH4tuk9lXDR02TlPymQ==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Club Lime Gungahlin Platinum (Main Gym Area Only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Gungahlin Platinum (Main Gym Area Only)<br/><b>Street</b>:35 Crinigan Circuit<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">pnuhTwekrYYHkZA9h+I7cw==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Louise May Dance Studio (Beginner Class Only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Louise May Dance Studio (Beginner Class Only)<br/><b>Street</b>:52-54 Northbourne Avenue<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">zpgiVSDjVdyQrnuR2V0eeQ==</guid>
+      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
