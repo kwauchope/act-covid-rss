@@ -6,18 +6,12 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Nov 2021 05:59:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 01:40:45 +0000</lastBuildDate>
     <item>
       <title>(New) Braddon:Ciao Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ciao Cafe<br/><b>Street</b>:33 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">QPC5b6jbmc6U3ogLcKoamA==</guid>
       <pubDate>Fri, 29 Oct 2021 06:19:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra Airport:Costco Majura Park - Food Court only</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Costco Majura Park - Food Court only<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 26 October 2021<br/><b>Arrival Time</b>:1310<br/><b>Departure Time</b>:1335<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">6OSVu+IjpCdsK1V65iZxCg==</guid>
-      <pubDate>Sun, 31 Oct 2021 21:45:47 +0000</pubDate>
     </item>
     <item>
       <title>(New) Canberra Airport:Costco Majura Park - Food Court only</title>
@@ -59,12 +53,6 @@
       <title>(?) Fyshwick:Ally Fashion</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Ally Fashion<br/><b>Street</b>:Canberra Outlet Centre, 337 Canberra Avenue<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">GcCiWrYQlRP3RNxIuFhx4w==</guid>
-      <pubDate>Tue, 02 Nov 2021 06:45:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Fyshwick:Ally Fashion</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Ally Fashion<br/><b>Street</b>:Canberra Outlet Centre, 337 Canberra Avenue<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 26 October 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">M6P2hx2zG5sCnl0tLS4IyQ==</guid>
       <pubDate>Tue, 02 Nov 2021 06:45:17 +0000</pubDate>
     </item>
     <item>
@@ -816,6 +804,48 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Holy Spirit Catholic Parish Gungahlin Church – Holy Communion (first Eucharist) service<br/><b>Street</b>:93 Burdekin Avenue<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1915<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">yFwQrZgcbEzv0imdow5bWA==</guid>
       <pubDate>Tue, 23 Nov 2021 05:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mitchell:Wanderlust</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">Kz9CYAlL23QHSm0mpZBMUA==</guid>
+      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mitchell:Wanderlust</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">UwEaQFg825eNIEldcykhig==</guid>
+      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mitchell:Wanderlust</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">YRuTjAZ283vB6etGcHAXZA==</guid>
+      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mad Max</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mad Max<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">gIAldGgKWzKYcsRZE940pA==</guid>
+      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mitchell:Wanderlust</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">hepUT0e6RhDMubMSqIqcBg==</guid>
+      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mitchell:Wanderlust</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">kWzjQFKUe/GHCo4hJXYsDw==</guid>
+      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mitchell:Wanderlust</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">svhK48sHWTQSghqlx62SQA==</guid>
+      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
