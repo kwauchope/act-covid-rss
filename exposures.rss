@@ -6,25 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Nov 2021 06:27:45 +0000</lastBuildDate>
-    <item>
-      <title>(New) Braddon:Ciao Cafe</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ciao Cafe<br/><b>Street</b>:33 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">QPC5b6jbmc6U3ogLcKoamA==</guid>
-      <pubDate>Fri, 29 Oct 2021 06:19:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra Airport:Costco Majura Park - Food Court only</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Costco Majura Park - Food Court only<br/><b>Street</b>:39-41 Mustang Avenue<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:1305<br/><b>Departure Time</b>:1415<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
-      <guid isPermaLink="false">f7ai01vezgwcij9puJynyw==</guid>
-      <pubDate>Sun, 31 Oct 2021 21:45:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Calwell:Aquatic Achievers</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Aquatic Achievers<br/><b>Street</b>:15 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:1540<br/><b>Departure Time</b>:1620<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">dSIdKHfjG4pUuT5EOVAYWg==</guid>
-      <pubDate>Mon, 01 Nov 2021 02:03:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 00:27:03 +0000</lastBuildDate>
     <item>
       <title>(New) Greenway:Little Istanbul Restaurant</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Little Istanbul Restaurant<br/><b>Street</b>:210 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 28 October 2021<br/><b>Arrival Time</b>:1855<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
@@ -48,12 +30,6 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:McDonald's Erindale<br/><b>Street</b>:Corner Ricardo Street And Mcbryde Crescent<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 30 October 2021<br/><b>Arrival Time</b>:2050<br/><b>Departure Time</b>:2150<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">yjfjiPy9k8G4UG5eD+sN8g==</guid>
       <pubDate>Mon, 01 Nov 2021 07:31:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Fyshwick:Ally Fashion</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Ally Fashion<br/><b>Street</b>:Canberra Outlet Centre, 337 Canberra Avenue<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 27 October 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">GcCiWrYQlRP3RNxIuFhx4w==</guid>
-      <pubDate>Tue, 02 Nov 2021 06:45:17 +0000</pubDate>
     </item>
     <item>
       <title>(Updated) Calwell:Aquatic Achievers</title>
@@ -710,12 +686,6 @@
       <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Fiction Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0105<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">QEt6vQIypu5Cie79jh+wXg==</guid>
-      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Cube</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cube<br/><b>Street</b>:33 Petrie Plaza<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:0100<br/><b>Departure Time</b>:0315<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">ZEDs2D4IaQGBz+aIndhKTg==</guid>
@@ -884,10 +854,46 @@
       <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Greenway:Louise May Dance Studio (Beginner Class Only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Louise May Dance Studio (Beginner Class Only)<br/><b>Street</b>:52-54 Northbourne Avenue<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">zpgiVSDjVdyQrnuR2V0eeQ==</guid>
-      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
+      <title>(New) Greenway:Commonwealth Bank, Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Commonwealth Bank, Tuggeranong<br/><b>Street</b>:175 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Fk9qYAaNfKr9WTsCIfZRTw==</guid>
+      <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Commonwealth Bank, Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Commonwealth Bank, Tuggeranong<br/><b>Street</b>:175 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">J/w1nsB7bNpTAtqnWcwIbQ==</guid>
+      <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Ainslie:Church of Christ</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Church of Christ<br/><b>Street</b>:82-88 Limestone Avenue<br/><b>Suburb</b>:Ainslie<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1415<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">SvdXH6XlIKe1MMNLqnp+uw==</guid>
+      <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Greenway:Louise May Dance Studio (Beginner Class Only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Louise May Dance Studio (Beginner Class Only)<br/><b>Street</b>:12/38 Reed Street North<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 15 November 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">W5SFRfrTa8gay0bCsyylYw==</guid>
+      <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">q3dBTHEM6BmDshnbqBz4Fg==</guid>
+      <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Assembly The People's Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly The People's Club<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">s1niAzfEy5D10ibJduITuA==</guid>
+      <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:Commonwealth Bank, Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Commonwealth Bank, Tuggeranong<br/><b>Street</b>:175 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:0803<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">xZQhtuiIA7eUkccYZU60Cg==</guid>
+      <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
