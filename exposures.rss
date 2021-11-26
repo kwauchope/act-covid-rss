@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Nov 2021 01:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Nov 2021 06:27:26 +0000</lastBuildDate>
     <item>
       <title>(New) Calwell:Aquatic Achievers</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Aquatic Achievers<br/><b>Street</b>:15 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 29 October 2021<br/><b>Arrival Time</b>:1550<br/><b>Departure Time</b>:1735<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
@@ -906,6 +906,36 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:St Michael's Church<br/><b>Street</b>:2 Tyrrell Circuit<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:0920<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">vlxTWSy+RsYT8sHVmSMdFg==</guid>
       <pubDate>Fri, 26 Nov 2021 01:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Knightsbridge Penthouse</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Knightsbridge Penthouse<br/><b>Street</b>:10/26 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:2005<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">04n0a2mWnpF9gE0G2NHhFQ==</guid>
+      <pubDate>Fri, 26 Nov 2021 06:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) O'Connor:Parish Centre O'Conner</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Parish Centre O'Conner<br/><b>Street</b>:61 Boronia Drive<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 21 November 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">5rmorHXZN95m1u/CPAhZwA==</guid>
+      <pubDate>Fri, 26 Nov 2021 06:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Dolly's</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dolly's<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:1910<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">aKzHbwi1JUe7lM5WLiML3Q==</guid>
+      <pubDate>Fri, 26 Nov 2021 06:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Knightsbridge Penthouse</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Knightsbridge Penthouse<br/><b>Street</b>:10/26 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 21 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">tAHR7ybPh36B7/YhGmJP0w==</guid>
+      <pubDate>Fri, 26 Nov 2021 06:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Capitol Bar &amp; Grill Restaurant</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capitol Bar & Grill Restaurant<br/><b>Street</b>:1 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">wILwKpvimgjZJlzSe2/7Rw==</guid>
+      <pubDate>Fri, 26 Nov 2021 06:27:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
