@@ -6,12 +6,12 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Nov 2021 05:41:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Nov 2021 01:11:14 +0000</lastBuildDate>
     <item>
-      <title>4 additional exposure sites</title>
+      <title>2 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Calwell:</b>2<br/><b>Wanniassa:</b>1<br/><b>Greenway:</b>1<br/>]]></description>
-      <guid isPermaLink="false">7XusLxgiW6xV1z442oDxIw==</guid>
+      <description><![CDATA[<b>Wanniassa:</b>1<br/><b>Calwell:</b>1<br/>]]></description>
+      <guid isPermaLink="false">e4I607+SILdqmNFjrjRRtQ==</guid>
       <pubDate>Mon, 01 Nov 2021 07:31:43 +0000</pubDate>
     </item>
     <item>
@@ -258,6 +258,13 @@
       <description><![CDATA[<b>Gungahlin:</b>1<br/>]]></description>
       <guid isPermaLink="false">cSzNCczMHTZQZ6UUL3bi7w==</guid>
       <pubDate>Thu, 25 Nov 2021 05:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Kaleen:</b>1<br/><b>Holt:</b>1<br/><b>Evatt:</b>1<br/>]]></description>
+      <guid isPermaLink="false">4V/Ec9dRpEiYlx7VHzW3qw==</guid>
+      <pubDate>Fri, 26 Nov 2021 01:11:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
