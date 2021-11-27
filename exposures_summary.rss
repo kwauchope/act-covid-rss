@@ -6,12 +6,12 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Nov 2021 06:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Nov 2021 01:26:59 +0000</lastBuildDate>
     <item>
-      <title>2 additional exposure sites</title>
+      <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Wanniassa:</b>1<br/><b>Calwell:</b>1<br/>]]></description>
-      <guid isPermaLink="false">e4I607+SILdqmNFjrjRRtQ==</guid>
+      <description><![CDATA[<b>Wanniassa:</b>1<br/>]]></description>
+      <guid isPermaLink="false">ilNu7M5/xOs/V1FgB7pVvg==</guid>
       <pubDate>Mon, 01 Nov 2021 07:31:43 +0000</pubDate>
     </item>
     <item>
@@ -246,18 +246,11 @@
       <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
     </item>
     <item>
-      <title>7 additional exposure sites</title>
+      <title>4 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Greenway:</b>4<br/><b>Braddon:</b>1<br/><b>Canberra City:</b>1<br/><b>Ainslie:</b>1<br/>]]></description>
-      <guid isPermaLink="false">ICMS+tZGkTiApOHSBQfP4w==</guid>
+      <description><![CDATA[<b>Braddon:</b>1<br/><b>Canberra City:</b>1<br/><b>Greenway:</b>1<br/><b>Ainslie:</b>1<br/>]]></description>
+      <guid isPermaLink="false">wa6KJorOl+9XiLj8eCSBGg==</guid>
       <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>1 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Gungahlin:</b>1<br/>]]></description>
-      <guid isPermaLink="false">cSzNCczMHTZQZ6UUL3bi7w==</guid>
-      <pubDate>Thu, 25 Nov 2021 05:41:24 +0000</pubDate>
     </item>
     <item>
       <title>3 additional exposure sites</title>
@@ -267,11 +260,18 @@
       <pubDate>Fri, 26 Nov 2021 01:11:14 +0000</pubDate>
     </item>
     <item>
+      <title>4 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Canberra City:</b>2<br/><b>O'Connor:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">+SIuE/O3/E9x/uoQLUR7sg==</guid>
+      <pubDate>Fri, 26 Nov 2021 06:27:26 +0000</pubDate>
+    </item>
+    <item>
       <title>5 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>2<br/><b>Braddon:</b>2<br/><b>O'Connor:</b>1<br/>]]></description>
-      <guid isPermaLink="false">AjnkvNwfw+1WLJ0O8gtSfw==</guid>
-      <pubDate>Fri, 26 Nov 2021 06:27:26 +0000</pubDate>
+      <description><![CDATA[<b>Greenway:</b>3<br/><b>Gungahlin:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">MvOVMoSPcc1M87joDe9t0w==</guid>
+      <pubDate>Sat, 27 Nov 2021 01:26:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
