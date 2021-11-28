@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Nov 2021 00:56:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Nov 2021 05:32:47 +0000</lastBuildDate>
     <item>
       <title>(Updated) Calwell:Aquatic Achievers</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Aquatic Achievers<br/><b>Street</b>:15 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 31 October 2021<br/><b>Arrival Time</b>:0840<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
@@ -924,6 +924,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Southern Cross Basketball Stadium (Court 1 only)<br/><b>Street</b>:7 Pitman Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">JO5RAJFzTBF5ZDyPxF/YaA==</guid>
       <pubDate>Sun, 28 Nov 2021 00:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Wanniassa:Erindale Healthcare</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Erindale Healthcare<br/><b>Street</b>:Corner Comrie Street And Mcbryde Crescent<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 24 November 2021<br/><b>Arrival Time</b>:1035<br/><b>Departure Time</b>:1140<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">jdaRnRFia0MjnWBRkE82Kg==</guid>
+      <pubDate>Sun, 28 Nov 2021 05:32:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
