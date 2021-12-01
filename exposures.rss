@@ -6,37 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Nov 2021 00:40:02 +0000</lastBuildDate>
-    <item>
-      <title>(New) Stromlo:Leisure Centre Indoor pool hall (20 metre program pool/leisure pool, toddler pool, and splashpark only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Leisure Centre Indoor pool hall (20 metre program pool/leisure pool, toddler pool, and splashpark only)<br/><b>Street</b>:Corner Uriarra Road And Dave Mcinnes Road<br/><b>Suburb</b>:Stromlo<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:0825<br/><b>Departure Time</b>:1045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
-      <guid isPermaLink="false">qoPTH82tW/YCVFzZIyrQsQ==</guid>
-      <pubDate>Wed, 03 Nov 2021 06:43:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Wanniassa:Vikings Erindale (Lotus Lounge only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Vikings Erindale (Lotus Lounge only)<br/><b>Street</b>:6 Ricardo Street<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1435<br/><b>Departure Time</b>:1605<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">cdRD26qCEz2zneYUmPuTMQ==</guid>
-      <pubDate>Thu, 04 Nov 2021 06:26:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Calwell:Aquatic Achievers</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Aquatic Achievers<br/><b>Street</b>:15 Webber Crescent<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">BJVn+m1TXAu/bjuteV7dSQ==</guid>
-      <pubDate>Fri, 05 Nov 2021 00:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Kambah:Club Lime</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime<br/><b>Street</b>:60 Jenke Circuit<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:0945<br/><b>Departure Time</b>:1120<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">rODiNvuuFXaqniKsHWwF6g==</guid>
-      <pubDate>Fri, 05 Nov 2021 05:58:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Kambah:Burns Club - Gaming Area</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Burns Club - Gaming Area<br/><b>Street</b>:28 Kett Street<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">N6B4Em5TVV9L1WdGAt698w==</guid>
-      <pubDate>Sat, 06 Nov 2021 06:39:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Dec 2021 05:57:42 +0000</lastBuildDate>
     <item>
       <title>(New) Kambah:Burns Club - Gaming Area</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Burns Club - Gaming Area<br/><b>Street</b>:28 Kett Street<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 04 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2355<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
@@ -44,27 +14,9 @@
       <pubDate>Sat, 06 Nov 2021 06:39:37 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Greenway:Club Lime Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Tuggeranong<br/><b>Street</b>:25 Bartlet Place<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">lV4ACsb8pqZLxUIf/eT1Vg==</guid>
-      <pubDate>Sat, 06 Nov 2021 06:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Phillip:San Churro</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:San Churro<br/><b>Street</b>:8 Bradley Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">r3LUiFKrWJ38ShXlkF1yxg==</guid>
-      <pubDate>Sun, 07 Nov 2021 00:57:46 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Kingston:Salotto</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Salotto<br/><b>Street</b>:25 Kennedy Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">ylVAcFI8z0d961Uddwq0Sw==</guid>
-      <pubDate>Sun, 07 Nov 2021 00:57:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Phillip:Fenway Public House</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fenway Public House<br/><b>Street</b>:9 Bradley Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">z56hPG9H7zXwL8QpErAgBg==</guid>
       <pubDate>Sun, 07 Nov 2021 00:57:46 +0000</pubDate>
     </item>
     <item>
@@ -77,18 +29,6 @@
       <title>(New) Greenway:Anytime Fitness Tuggeranong (Weights Area only)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 03 November 2021<br/><b>Arrival Time</b>:1740<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">VSajXEb5zdq5JFlyEv2VBQ==</guid>
-      <pubDate>Mon, 08 Nov 2021 06:41:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Anytime Fitness Tuggeranong (Weights Area only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1825<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">WhM33S9RJS+2Jo2R2khQ1w==</guid>
-      <pubDate>Mon, 08 Nov 2021 06:41:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Mr. Cuts</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mr. Cuts<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1545<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">YGDl5D2yEcoFTwBOPZ5TSw==</guid>
       <pubDate>Mon, 08 Nov 2021 06:41:15 +0000</pubDate>
     </item>
     <item>
@@ -110,12 +50,6 @@
       <pubDate>Tue, 09 Nov 2021 06:46:07 +0000</pubDate>
     </item>
     <item>
-      <title>(Updated) Greenway:Limelight Cinemas (Cinema 8, screening of Shang-Chi and the Legend of the Ten Rings)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Limelight Cinemas (Cinema 8, screening of Shang-Chi and the Legend of the Ten Rings)<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1530<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">T6c2Tbc+WzRzlYMzex4sUg==</guid>
-      <pubDate>Tue, 09 Nov 2021 06:46:07 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Braddon:The Civic Pub (Main Bar only)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Civic Pub (Main Bar only)<br/><b>Street</b>:8 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0115<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">Wk184JHNQnOnvZswLJuiaA==</guid>
@@ -126,18 +60,6 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Limelight Cinemas (Cinema 4, screening of Eternals)<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 05 November 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">zdQoPXMi+DIqucj+tVe27w==</guid>
       <pubDate>Tue, 09 Nov 2021 06:46:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Lyneham:Thoroughbred Park Melbourne Cup Day event (Turf Bar only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Thoroughbred Park Melbourne Cup Day event (Turf Bar only)<br/><b>Street</b>:1 Randwick Road<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">PUx76fVMYiMR4O8N0qQ10w==</guid>
-      <pubDate>Wed, 10 Nov 2021 05:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Lyneham:Thoroughbred Park Melbourne Cup Day event (St. Covet Row Marquee Area only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Thoroughbred Park Melbourne Cup Day event (St. Covet Row Marquee Area only)<br/><b>Street</b>:1 Randwick Road<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 02 November 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">qwxoNPw9XSn5+LJiHaTU7g==</guid>
-      <pubDate>Wed, 10 Nov 2021 05:57:26 +0000</pubDate>
     </item>
     <item>
       <title>(New) Gungahlin:General Practice</title>
@@ -245,12 +167,6 @@
       <title>(New) Weston:SUN Nails</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SUN Nails<br/><b>Street</b>:7-9 Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
       <guid isPermaLink="false">FOUDlEwkxinu1ZZ2XrQaHQ==</guid>
-      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Greenway:Anytime Fitness Tuggeranong (Weights Area only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong (Weights Area only)<br/><b>Street</b>:Corner Pitman And Holwell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 01 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">r6AMGiePBsVCE1VKmEtupA==</guid>
       <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
     </item>
     <item>
@@ -788,12 +704,6 @@
       <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Braddon:Assembly The People's Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly The People's Club<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">s1niAzfEy5D10ibJduITuA==</guid>
-      <pubDate>Thu, 25 Nov 2021 00:27:03 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Evatt:St Monica's Catholic Church</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:St Monica's Catholic Church<br/><b>Street</b>:18 Deffell Street<br/><b>Suburb</b>:Evatt<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 21 November 2021<br/><b>Arrival Time</b>:0940<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">io0WxtM5YSVtEh2uEh6Ouw==</guid>
@@ -896,12 +806,6 @@
       <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Greenway:Anz Branch Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Anz Branch Tuggeranong<br/><b>Street</b>:Tuggeranong Hyperdome, Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1104<br/><b>Departure Time</b>:1150<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">bKcqT6/D8rekXtKWM5Bung==</guid>
-      <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Denman Prospect:Club Lime</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime<br/><b>Street</b>:1-3 Felstead Vista<br/><b>Suburb</b>:Denman Prospect<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:0500<br/><b>Departure Time</b>:0830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Molonglo Valley<br/>]]></description>
       <guid isPermaLink="false">kWRqhoXg+HSTapY+iM+AGA==</guid>
@@ -918,6 +822,18 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Healthy Start<br/><b>Street</b>:46 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 26 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">xGKRktGF9oQT/xM5jBQ8Rw==</guid>
       <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Hume:Canberra Indoor Rock Climbing</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Indoor Rock Climbing<br/><b>Street</b>:26 Raws Crescent<br/><b>Suburb</b>:Hume<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 27 November 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Jerrabomberra<br/>]]></description>
+      <guid isPermaLink="false">CtdwTiRcQfTGKL6ZeyIPHA==</guid>
+      <pubDate>Wed, 01 Dec 2021 05:57:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Braddon:Assembly The People'S Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Assembly The People'S Club<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">tsQWuysau6XXPosADueNtA==</guid>
+      <pubDate>Wed, 01 Dec 2021 05:57:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
