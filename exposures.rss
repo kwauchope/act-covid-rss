@@ -6,13 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 06:28:58 +0000</lastBuildDate>
-    <item>
-      <title>(New) Kambah:Burns Club - Gaming Area</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Burns Club - Gaming Area<br/><b>Street</b>:28 Kett Street<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 04 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2355<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">cU1KunOuYTDzn+sso1KCDg==</guid>
-      <pubDate>Sat, 06 Nov 2021 06:39:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Dec 2021 06:50:11 +0000</lastBuildDate>
     <item>
       <title>(New) Kingston:Salotto</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Salotto<br/><b>Street</b>:25 Kennedy Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
@@ -29,12 +23,6 @@
       <title>(New) Canberra City:Fiction Club</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2245<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">C3Jg9nO7ORkcraiYT8JWIg==</guid>
-      <pubDate>Tue, 09 Nov 2021 06:46:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Phillip:Dumpling Social</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dumpling Social<br/><b>Street</b>:9 Bradley Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 04 November 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">LVoE9wmcug9MaEgCcqAhaQ==</guid>
       <pubDate>Tue, 09 Nov 2021 06:46:07 +0000</pubDate>
     </item>
     <item>
@@ -846,6 +834,42 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Molly Bar<br/><b>Street</b>:Odgers Lane<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 26 November 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">vbnXgcLUnecgYy05VlqIPA==</guid>
       <pubDate>Thu, 02 Dec 2021 06:28:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Hackett:Blue Gum Community School - Spotted Gum End of Year Concert</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Blue Gum Community School - Spotted Gum End of Year Concert<br/><b>Street</b>:114 Maitland St<br/><b>Suburb</b>:Hackett<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">6BpPEqbTdFxmv/Rah72+hA==</guid>
+      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kingston:Superbarn</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Superbarn<br/><b>Street</b>:34-38 Eyre Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1650<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">AwUbPR5/FWeSTUcDoV/S5A==</guid>
+      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Grill'd</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grill'd<br/><b>Street</b>:1/40-42 Franklin St, Griffith Act 2603<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">L8QgUIE+crn/WwiHBF/VWA==</guid>
+      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Raiders Gungahlin - Bistro area</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Raiders Gungahlin - Bistro area<br/><b>Street</b>:23 Hibberson St<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:1810<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">PvCTuN9/6tsi5KAj4w14YQ==</guid>
+      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Lyneham:Next Gen Canberra - Indoor Pool area</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Next Gen Canberra - Indoor Pool area<br/><b>Street</b>:1 Riggall Place<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 29 November 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">VygDgjpIArIBxbICcm8L3g==</guid>
+      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Watson:Supabarn Express</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Supabarn Express<br/><b>Street</b>:4/5 Watson Place, Watson Act 2602<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 29 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2010<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">XOkRpy73s2BjZhJl8b8EcQ==</guid>
+      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
