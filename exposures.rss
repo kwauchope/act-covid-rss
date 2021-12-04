@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Dec 2021 06:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Dec 2021 01:39:05 +0000</lastBuildDate>
     <item>
       <title>(New) Kingston:Salotto</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Salotto<br/><b>Street</b>:25 Kennedy Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 06 November 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
@@ -32,12 +32,6 @@
       <pubDate>Tue, 09 Nov 2021 06:46:07 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Greenway:Limelight Cinemas (Cinema 4, screening of Eternals)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Limelight Cinemas (Cinema 4, screening of Eternals)<br/><b>Street</b>:South.Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 05 November 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">zdQoPXMi+DIqucj+tVe27w==</guid>
-      <pubDate>Tue, 09 Nov 2021 06:46:07 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Gungahlin:General Practice</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:General Practice<br/><b>Street</b>:10 Hinder Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 08 November 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">83IjP8KS4K5hQ0h43BB3Bw==</guid>
@@ -53,12 +47,6 @@
       <title>(New) Gungahlin:Saigon Fresh</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Saigon Fresh<br/><b>Street</b>:Gungahlin Village, Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 08 November 2021<br/><b>Arrival Time</b>:1355<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">BPsPz78oAisA2oczMaIf7Q==</guid>
-      <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Club Lime Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Tuggeranong<br/><b>Street</b>:25 Bartlet Place<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 05 November 2021<br/><b>Arrival Time</b>:0500<br/><b>Departure Time</b>:0600<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">h/+07iBZLGl0BDQRDQx0IA==</guid>
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
     </item>
     <item>
@@ -836,27 +824,9 @@
       <pubDate>Thu, 02 Dec 2021 06:28:58 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Hackett:Blue Gum Community School - Spotted Gum End of Year Concert</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Blue Gum Community School - Spotted Gum End of Year Concert<br/><b>Street</b>:114 Maitland St<br/><b>Suburb</b>:Hackett<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">6BpPEqbTdFxmv/Rah72+hA==</guid>
-      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Kingston:Superbarn</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Superbarn<br/><b>Street</b>:34-38 Eyre Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1650<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">AwUbPR5/FWeSTUcDoV/S5A==</guid>
-      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Griffith:Grill'd</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grill'd<br/><b>Street</b>:1/40-42 Franklin St, Griffith Act 2603<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">L8QgUIE+crn/WwiHBF/VWA==</guid>
-      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Gungahlin:Raiders Gungahlin - Bistro area</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Raiders Gungahlin - Bistro area<br/><b>Street</b>:23 Hibberson St<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:1810<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">PvCTuN9/6tsi5KAj4w14YQ==</guid>
       <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
     </item>
     <item>
@@ -866,10 +836,34 @@
       <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
     </item>
     <item>
+      <title>(New) Hackett:Blue Gum Community School - Spotted Gum End of Year Concert</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Blue Gum Community School - Spotted Gum End of Year Concert<br/><b>Street</b>:114 Maitland Street<br/><b>Suburb</b>:Hackett<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">CqenkfbMHqd/dkpARhp3Vg==</guid>
+      <pubDate>Sat, 04 Dec 2021 01:39:05 +0000</pubDate>
+    </item>
+    <item>
       <title>(New) Watson:Supabarn Express</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Supabarn Express<br/><b>Street</b>:4/5 Watson Place, Watson Act 2602<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 29 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2010<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">XOkRpy73s2BjZhJl8b8EcQ==</guid>
-      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Supabarn Express<br/><b>Street</b>:4/5 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 29 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2010<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">MKqv0zyh1X/0LdcsO1pFSw==</guid>
+      <pubDate>Sat, 04 Dec 2021 01:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Raiders Gungahlin - Bistro area</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Raiders Gungahlin - Bistro area<br/><b>Street</b>:23 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:1810<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">QKPAapgH6TC5qZikR4WpPQ==</guid>
+      <pubDate>Sat, 04 Dec 2021 01:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Grill'd</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grill'd<br/><b>Street</b>:1/40-42 Franklin Street<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">ah84qahpSJPGP6oI67aYPQ==</guid>
+      <pubDate>Sat, 04 Dec 2021 01:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Lyneham:Tilley's Devine Cafe Gallery</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Tilley's Devine Cafe Gallery<br/><b>Street</b>:Brigalow Street, Wattle Street<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 25 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">b1++5QuqklKXp5tDH5A7tA==</guid>
+      <pubDate>Sat, 04 Dec 2021 01:39:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
