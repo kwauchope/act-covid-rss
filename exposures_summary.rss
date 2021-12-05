@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Dec 2021 00:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Dec 2021 05:22:15 +0000</lastBuildDate>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -258,6 +258,13 @@
       <description><![CDATA[<b>Braddon:</b>1<br/><b>Canberra City:</b>1<br/>]]></description>
       <guid isPermaLink="false">D2ce0oj84Jf3JLJ7XffI1A==</guid>
       <pubDate>Sun, 05 Dec 2021 00:50:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Dickson:</b>2<br/><b>Lyneham:</b>1<br/>]]></description>
+      <guid isPermaLink="false">GKc+gAA/OJ198kI52v86NQ==</guid>
+      <pubDate>Sun, 05 Dec 2021 05:22:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
