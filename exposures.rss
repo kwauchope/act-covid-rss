@@ -6,13 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Dec 2021 05:22:15 +0000</lastBuildDate>
-    <item>
-      <title>(New) Braddon:The Civic Pub (Main Bar only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Civic Pub (Main Bar only)<br/><b>Street</b>:8 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0115<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">Wk184JHNQnOnvZswLJuiaA==</guid>
-      <pubDate>Tue, 09 Nov 2021 06:46:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 02:20:44 +0000</lastBuildDate>
     <item>
       <title>(New) Gungahlin:General Practice</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:General Practice<br/><b>Street</b>:10 Hinder Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 08 November 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
@@ -20,22 +14,10 @@
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Gungahlin:Club Lime Gunghalin Platinum (Main Gym Area Only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Gunghalin Platinum (Main Gym Area Only)<br/><b>Street</b>:35 Crinigan Circuit<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0715<br/><b>Departure Time</b>:0830<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">8HNNiWU8V57113pR2M77Ng==</guid>
-      <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Gungahlin:Saigon Fresh</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Saigon Fresh<br/><b>Street</b>:Gungahlin Village, Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 08 November 2021<br/><b>Arrival Time</b>:1355<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">BPsPz78oAisA2oczMaIf7Q==</guid>
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Tuggeranong:5 Senses Cafe</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:5 Senses Cafe<br/><b>Street</b>:150 Anketell Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">/0BibhAX4MlDWVWMdxSoYg==</guid>
-      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
     </item>
     <item>
       <title>(New) Greenway:Anytime Fitness Tuggeranong - Excluding Weight Training Room</title>
@@ -50,33 +32,9 @@
       <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Tuggeranong:Southern Cross Basketball Stadium - Court 2 ONLY (U10 Basketball Game)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Southern Cross Basketball Stadium - Court 2 ONLY (U10 Basketball Game)<br/><b>Street</b>:7 Pitman Street<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">QX8yyUdMbNuUHX++2FrjXw==</guid>
-      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Canberra City:Reload Bar and Games</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Reload Bar and Games<br/><b>Street</b>:34-38 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0250<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">VwOkI0wi2bUOVDXdF1bYhw==</guid>
-      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Club Lime Tuggeranong - Main Gym Area</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Tuggeranong - Main Gym Area<br/><b>Street</b>:25 Bartlet Place<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:1835<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">a/9IQKo/wKyHyob1m6vM7w==</guid>
-      <pubDate>Sat, 13 Nov 2021 00:32:48 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Greenway:Best Friends Tuggeranong</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Best Friends Tuggeranong<br/><b>Street</b>:Corner Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">Gf49r+QBAztAf79gHNYq5Q==</guid>
-      <pubDate>Sat, 13 Nov 2021 08:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Turner:The RUC</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The RUC<br/><b>Street</b>:54 Mccaughey Street<br/><b>Suburb</b>:Turner<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">lZRlJllMilEkxWynKyE4iw==</guid>
       <pubDate>Sat, 13 Nov 2021 08:19:41 +0000</pubDate>
     </item>
     <item>
@@ -95,12 +53,6 @@
       <title>(New) Weston:SUN Nails</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SUN Nails<br/><b>Street</b>:7-9 Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
       <guid isPermaLink="false">FOUDlEwkxinu1ZZ2XrQaHQ==</guid>
-      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Greyhound Bus Number 376</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Greyhound Bus Number 376<br/><b>Street</b>:Southern Cross Station Melbourne To London Street Canberra<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">rex6mnmZKfYQw/mazMDzfw==</guid>
       <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
     </item>
     <item>
@@ -318,12 +270,6 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 14 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">wNUcpsBnPudDW0+Gq3cGeA==</guid>
       <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Canberra City:Fiction Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 07 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">FQaTIU/AgxoqJsrGhiJruw==</guid>
-      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
     </item>
     <item>
       <title>(New) Wanniassa:Kulture Break</title>
@@ -794,12 +740,6 @@
       <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Lyneham:Next Gen Canberra - Indoor Pool area</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Next Gen Canberra - Indoor Pool area<br/><b>Street</b>:1 Riggall Place<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 29 November 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1845<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">VygDgjpIArIBxbICcm8L3g==</guid>
-      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Hackett:Blue Gum Community School - Spotted Gum End of Year Concert</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Blue Gum Community School - Spotted Gum End of Year Concert<br/><b>Street</b>:114 Maitland Street<br/><b>Suburb</b>:Hackett<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">CqenkfbMHqd/dkpARhp3Vg==</guid>
@@ -870,6 +810,18 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Next Gen Canberra (Gym and Cafe Only)<br/><b>Street</b>:1 Riggall Place<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 December 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1545<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">U+kI/ICVrlhfL8wn1O/1ag==</guid>
       <pubDate>Sun, 05 Dec 2021 05:22:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Assembly The People's Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:1150<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">9u6OQTQJCvmTE5Oh2IlWKg==</guid>
+      <pubDate>Mon, 06 Dec 2021 02:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Lyneham:Next Gen Canberra - Indoor Pool area</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Next Gen Canberra - Indoor Pool area<br/><b>Street</b>:1 Riggall Place<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 29 November 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1845<br/><b>Contact</b>:Omicron Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ZJ0TAtFsu9autVKCQrBLVQ==</guid>
+      <pubDate>Mon, 06 Dec 2021 02:20:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,47 +6,33 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Dec 2021 05:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Dec 2021 02:20:44 +0000</lastBuildDate>
     <item>
-      <title>1 additional exposure sites</title>
+      <title>2 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Braddon:</b>1<br/>]]></description>
-      <guid isPermaLink="false">K7HdOimjVc7ypimXHVg9hg==</guid>
-      <pubDate>Tue, 09 Nov 2021 06:46:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Gungahlin:</b>3<br/>]]></description>
-      <guid isPermaLink="false">IYMR5Ewh8uFY4fvCJfaAUA==</guid>
+      <description><![CDATA[<b>Gungahlin:</b>2<br/>]]></description>
+      <guid isPermaLink="false">RNlPItegIVKIWwhnVG3lKQ==</guid>
       <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
     </item>
     <item>
-      <title>5 additional exposure sites</title>
+      <title>2 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Tuggeranong:</b>2<br/><b>Greenway:</b>2<br/><b>Canberra City:</b>1<br/>]]></description>
-      <guid isPermaLink="false">wedEOO+6GXvKwrg91UvjdQ==</guid>
+      <description><![CDATA[<b>Greenway:</b>2<br/>]]></description>
+      <guid isPermaLink="false">i1lvWktikeUjTZ4FfG+j/Q==</guid>
       <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
     </item>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
       <description><![CDATA[<b>Greenway:</b>1<br/>]]></description>
-      <guid isPermaLink="false">8ksAbyaIJ5j4PXjmJI30PQ==</guid>
-      <pubDate>Sat, 13 Nov 2021 00:32:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>2 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Turner:</b>1<br/><b>Greenway:</b>1<br/>]]></description>
-      <guid isPermaLink="false">b2+G8G+SbfjbUJnVSSsahQ==</guid>
+      <guid isPermaLink="false">oBUTecrQS39OH3Cf1f0J2w==</guid>
       <pubDate>Sat, 13 Nov 2021 08:19:41 +0000</pubDate>
     </item>
     <item>
-      <title>4 additional exposure sites</title>
+      <title>3 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>2<br/><b>Weston:</b>1<br/><b>Fyshwick:</b>1<br/>]]></description>
-      <guid isPermaLink="false">clTcYwO9abTEltdIGcwLHw==</guid>
+      <description><![CDATA[<b>Weston:</b>1<br/><b>Canberra City:</b>1<br/><b>Fyshwick:</b>1<br/>]]></description>
+      <guid isPermaLink="false">1xnSKSysymTEi4MCWzm9TQ==</guid>
       <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
     </item>
     <item>
@@ -99,10 +85,10 @@
       <pubDate>Fri, 19 Nov 2021 01:33:12 +0000</pubDate>
     </item>
     <item>
-      <title>8 additional exposure sites</title>
+      <title>7 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>3<br/><b>Griffith:</b>2<br/><b>Wanniassa:</b>2<br/><b>Braddon:</b>1<br/>]]></description>
-      <guid isPermaLink="false">o3k8BI43v9bsHhLf0gx1Kw==</guid>
+      <description><![CDATA[<b>Canberra City:</b>2<br/><b>Griffith:</b>2<br/><b>Wanniassa:</b>2<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">/cNAw56E9uG7WvvxWaK3Cw==</guid>
       <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
     </item>
     <item>
@@ -211,10 +197,10 @@
       <pubDate>Sun, 28 Nov 2021 05:32:47 +0000</pubDate>
     </item>
     <item>
-      <title>9 additional exposure sites</title>
+      <title>8 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Gungahlin:</b>3<br/><b>Denman Prospect:</b>2<br/><b>Phillip:</b>2<br/><b>O'Connor:</b>1<br/><b>Canberra City:</b>1<br/>]]></description>
-      <guid isPermaLink="false">+nGB5CcYBcB4TmL7jNJ+SQ==</guid>
+      <description><![CDATA[<b>Gungahlin:</b>3<br/><b>Denman Prospect:</b>2<br/><b>Phillip:</b>1<br/><b>O'Connor:</b>1<br/><b>Canberra City:</b>1<br/>]]></description>
+      <guid isPermaLink="false">CAXCeQUXkTrAIQiiUfAaFg==</guid>
       <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
     </item>
     <item>
@@ -232,10 +218,10 @@
       <pubDate>Thu, 02 Dec 2021 06:28:58 +0000</pubDate>
     </item>
     <item>
-      <title>2 additional exposure sites</title>
+      <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Lyneham:</b>1<br/><b>Kingston:</b>1<br/>]]></description>
-      <guid isPermaLink="false">D3MYek+T/gttCwYrrxCciA==</guid>
+      <description><![CDATA[<b>Kingston:</b>1<br/>]]></description>
+      <guid isPermaLink="false">GoNCW2/P0eReokb5l84j5g==</guid>
       <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
     </item>
     <item>
@@ -265,6 +251,13 @@
       <description><![CDATA[<b>Dickson:</b>2<br/><b>Lyneham:</b>1<br/>]]></description>
       <guid isPermaLink="false">GKc+gAA/OJ198kI52v86NQ==</guid>
       <pubDate>Sun, 05 Dec 2021 05:22:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Lyneham:</b>1<br/><b>Braddon:</b>1<br/>]]></description>
+      <guid isPermaLink="false">Eq3PngNYxnaXuHO4R7dDrQ==</guid>
+      <pubDate>Mon, 06 Dec 2021 02:20:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
