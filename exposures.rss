@@ -6,19 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Dec 2021 02:20:44 +0000</lastBuildDate>
-    <item>
-      <title>(New) Gungahlin:General Practice</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:General Practice<br/><b>Street</b>:10 Hinder Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 08 November 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">83IjP8KS4K5hQ0h43BB3Bw==</guid>
-      <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Gungahlin:Saigon Fresh</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Saigon Fresh<br/><b>Street</b>:Gungahlin Village, Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 08 November 2021<br/><b>Arrival Time</b>:1355<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">BPsPz78oAisA2oczMaIf7Q==</guid>
-      <pubDate>Thu, 11 Nov 2021 07:19:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Dec 2021 01:11:25 +0000</lastBuildDate>
     <item>
       <title>(New) Greenway:Anytime Fitness Tuggeranong - Excluding Weight Training Room</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong - Excluding Weight Training Room<br/><b>Street</b>:26 Cowlishaw Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0820<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
@@ -41,12 +29,6 @@
       <title>(New) Fyshwick:The Floral Society</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Floral Society<br/><b>Street</b>:24 Iron Knob Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1315<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">CmPWR3VBmIqiIL/euVpW4w==</guid>
-      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Greyhound Bus Number 376</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Greyhound Bus Number 376<br/><b>Street</b>:Southern Cross Station Melbourne To London Street Canberra<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 08 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0600<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">Ezb2+ldr9ZihJo6ZiXqJAg==</guid>
       <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
     </item>
     <item>
@@ -704,12 +686,6 @@
       <pubDate>Wed, 01 Dec 2021 05:57:42 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Braddon:Assembly The People'S Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Assembly The People'S Club<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">tsQWuysau6XXPosADueNtA==</guid>
-      <pubDate>Wed, 01 Dec 2021 05:57:42 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Kingston:Walt &amp; Burley</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Walt & Burley<br/><b>Street</b>:17 Eastlake Parade<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 27 November 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">HHcKUpmpUn58mQt9gLjamg==</guid>
@@ -812,16 +788,40 @@
       <pubDate>Sun, 05 Dec 2021 05:22:15 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Braddon:Assembly The People's Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:1150<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">9u6OQTQJCvmTE5Oh2IlWKg==</guid>
-      <pubDate>Mon, 06 Dec 2021 02:20:44 +0000</pubDate>
-    </item>
-    <item>
       <title>(Updated) Lyneham:Next Gen Canberra - Indoor Pool area</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Next Gen Canberra - Indoor Pool area<br/><b>Street</b>:1 Riggall Place<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 29 November 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1845<br/><b>Contact</b>:Omicron Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">ZJ0TAtFsu9autVKCQrBLVQ==</guid>
       <pubDate>Mon, 06 Dec 2021 02:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Braddon:Assembly The People'S Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Assembly The People'S Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:1150<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ImiT/nDdtnpa8ttAh/7Esg==</guid>
+      <pubDate>Tue, 07 Dec 2021 01:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Cube</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cube<br/><b>Street</b>:33 Petrie Plaza<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 03 December 2021<br/><b>Arrival Time</b>:2335<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">R4gQwoJuiKnTqbJ17ZIvsw==</guid>
+      <pubDate>Tue, 07 Dec 2021 01:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Cube</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cube<br/><b>Street</b>:33 Petrie Plaza<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0115<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">UOTd41Da+oU7cg8o/eTgNA==</guid>
+      <pubDate>Tue, 07 Dec 2021 01:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mooseheads</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 03 December 2021<br/><b>Arrival Time</b>:2300<br/><b>Departure Time</b>:2335<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ngo0X/Hh02Dco8gtpZnQvg==</guid>
+      <pubDate>Tue, 07 Dec 2021 01:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 December 2021<br/><b>Arrival Time</b>:0120<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">qy6GmQnyb9qQTJ+v6LRv3A==</guid>
+      <pubDate>Tue, 07 Dec 2021 01:11:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
