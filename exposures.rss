@@ -6,31 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Dec 2021 06:51:10 +0000</lastBuildDate>
-    <item>
-      <title>(New) Greenway:Anytime Fitness Tuggeranong - Excluding Weight Training Room</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong - Excluding Weight Training Room<br/><b>Street</b>:26 Cowlishaw Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0820<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">CyQAZfnFEbewDUVq/bcwqA==</guid>
-      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Anytime Fitness Tuggeranong - Weight Training room</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness Tuggeranong - Weight Training room<br/><b>Street</b>:26 Cowlishaw Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0820<br/><b>Departure Time</b>:0945<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">JOVf9d20PGAN1iOGa7VzbA==</guid>
-      <pubDate>Fri, 12 Nov 2021 05:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Best Friends Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Best Friends Tuggeranong<br/><b>Street</b>:Corner Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">Gf49r+QBAztAf79gHNYq5Q==</guid>
-      <pubDate>Sat, 13 Nov 2021 08:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Fyshwick:The Floral Society</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Floral Society<br/><b>Street</b>:24 Iron Knob Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1315<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">CmPWR3VBmIqiIL/euVpW4w==</guid>
-      <pubDate>Sun, 14 Nov 2021 01:39:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Dec 2021 01:52:26 +0000</lastBuildDate>
     <item>
       <title>(New) Weston:SUN Nails</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SUN Nails<br/><b>Street</b>:7-9 Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
@@ -41,12 +17,6 @@
       <title>(New) Canberra City:Bar Rochford</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bar Rochford<br/><b>Street</b>:65 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 12 November 2021<br/><b>Arrival Time</b>:1710<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">3XmwaWFYLARSlEvH7FHQ3Q==</guid>
-      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Weston:Anytime Fitness</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:8 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:0730<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
-      <guid isPermaLink="false">9ScW2LNoDG1M37rKpNVAbQ==</guid>
       <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
     </item>
     <item>
@@ -62,21 +32,9 @@
       <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Australian National University Sports Gym (Fencing Class)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Australian National University Sports Gym (Fencing Class)<br/><b>Street</b>:19 North Road<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">M2n6+kywAhixhmh++0Bo3g==</guid>
-      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Weston:Anytime Fitness</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:8 Liardet Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:0630<br/><b>Departure Time</b>:0715<br/><b>Contact</b>:Close<br/><b>Region</b>:Weston Creek<br/>]]></description>
       <guid isPermaLink="false">a+KxDXtBM1lHYHKMfWH8GQ==</guid>
-      <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Bar Rochford</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bar Rochford<br/><b>Street</b>:65 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">pmLMBi+FIirzBGee1GLB7g==</guid>
       <pubDate>Mon, 15 Nov 2021 05:59:46 +0000</pubDate>
     </item>
     <item>
@@ -125,12 +83,6 @@
       <title>(New) Kambah:Star Buffet Canberra</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Star Buffet Canberra<br/><b>Street</b>:8 Kett Street<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 13 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">tBdzMX9xF+Xa5GLs89pK0A==</guid>
-      <pubDate>Tue, 16 Nov 2021 06:22:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Palace Electric Cinema</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Palace Electric Cinema<br/><b>Street</b>:2 Phillip Law Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 09 November 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">x+bMO+fi9x2VVJMmPmFqyw==</guid>
       <pubDate>Tue, 16 Nov 2021 06:22:22 +0000</pubDate>
     </item>
     <item>
@@ -846,6 +798,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:RYE Cafe and Bar<br/><b>Street</b>:9 Lonsdale Sreet<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 05 December 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">xybRMYAInJnViFPJFLp06A==</guid>
       <pubDate>Tue, 07 Dec 2021 06:51:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Yogurberry</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Yogurberry<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 December 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">dKzD9VJbxakIvQsR8HhGfQ==</guid>
+      <pubDate>Wed, 08 Dec 2021 01:52:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
