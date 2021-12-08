@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Dec 2021 01:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Dec 2021 06:10:11 +0000</lastBuildDate>
     <item>
       <title>(New) Weston:SUN Nails</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SUN Nails<br/><b>Street</b>:7-9 Brierly Street<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 11 November 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
@@ -804,6 +804,42 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Yogurberry<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 December 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1645<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
       <guid isPermaLink="false">dKzD9VJbxakIvQsR8HhGfQ==</guid>
       <pubDate>Wed, 08 Dec 2021 01:52:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Space Kitchen</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Space Kitchen<br/><b>Street</b>:12 Furzer Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 December 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">3mxfza+LCRdfXovhmvGyQg==</guid>
+      <pubDate>Wed, 08 Dec 2021 06:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Macquarie:Anytime Fitness</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:Corner Bowman Street And Catchpole Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 05 December 2021<br/><b>Arrival Time</b>:2020<br/><b>Departure Time</b>:2120<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">CQ+76vegDFV3/xNeUlw4Hg==</guid>
+      <pubDate>Wed, 08 Dec 2021 06:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Harmonie German Club (Auditorium/Main Hall ONLY - 'Hypnotise Me!' event)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Harmonie German Club (Auditorium/Main Hall ONLY - 'Hypnotise Me!' event)<br/><b>Street</b>:49 Jerrabomberra Avenue<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 03 December 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Nor6aJR5a09GQAaJdQs9lA==</guid>
+      <pubDate>Wed, 08 Dec 2021 06:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Macquarie:Anytime Fitness</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:Corner Bowman Street And Catchpole Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 December 2021<br/><b>Arrival Time</b>:2130<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">T6LgWRQi5APlDPsB22Rzwg==</guid>
+      <pubDate>Wed, 08 Dec 2021 06:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Monster Kitchen and Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Monster Kitchen and Bar<br/><b>Street</b>:Ground/25 Edinburgh Ave, Canberra Act 2601<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 04 December 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2105<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">cJXSw48oisq/VM+6XZJKVg==</guid>
+      <pubDate>Wed, 08 Dec 2021 06:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Macquarie:Anytime Fitness</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:Corner Bowman Street And Catchpole Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:2130<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">eNn9ct2P2A/2ePxEG8eQTA==</guid>
+      <pubDate>Wed, 08 Dec 2021 06:10:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
