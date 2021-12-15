@@ -6,19 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Dec 2021 07:22:11 +0000</lastBuildDate>
-    <item>
-      <title>(New) Belconnen:Club Lime Westfield</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Westfield<br/><b>Street</b>:18 Benjamin Way Corner, Emu Bank<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">yn+VabF1JT2sBUfeaYhZLg==</guid>
-      <pubDate>Thu, 18 Nov 2021 06:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Braddon:The Civic Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Civic Pub<br/><b>Street</b>:8 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1935<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">P7Uixo6Minudk1HY1KY6DQ==</guid>
-      <pubDate>Fri, 19 Nov 2021 07:30:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Dec 2021 06:35:05 +0000</lastBuildDate>
     <item>
       <title>(New) Campbell:Poppy's Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Poppy's Cafe<br/><b>Street</b>:15 Treloar Crescent<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:0803<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -54,12 +42,6 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Scholar<br/><b>Street</b>:23 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:1920<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">pIMRTXMgTps0lfjziy4P2g==</guid>
       <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Braddon:Sweet Bones Bakery and Cafe</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sweet Bones Bakery and Cafe<br/><b>Street</b>:18 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">3tdVUqudZvNLoTdh53MuEg==</guid>
-      <pubDate>Mon, 22 Nov 2021 01:39:55 +0000</pubDate>
     </item>
     <item>
       <title>(New) Phillip:KFC Woden</title>
@@ -242,12 +224,6 @@
       <pubDate>Fri, 26 Nov 2021 06:27:26 +0000</pubDate>
     </item>
     <item>
-      <title>(Updated) Greenway:Commonwealth Bank Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Commonwealth Bank Tuggeranong<br/><b>Street</b>:175 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">C3HpeQaaV4S0/tQ3I7TnVg==</guid>
-      <pubDate>Sat, 27 Nov 2021 01:26:59 +0000</pubDate>
-    </item>
-    <item>
       <title>(?) Greenway:Commonwealth Bank Tuggeranong</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Commonwealth Bank Tuggeranong<br/><b>Street</b>:175 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">PLzKq3xOjLlNf4qG13HjTg==</guid>
@@ -293,12 +269,6 @@
       <title>(New) Phillip:Hellenic Club Woden (Bistro only)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hellenic Club Woden (Bistro only)<br/><b>Street</b>:1 Matilda Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 22 November 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">BqVNOU2iWP4+ldE6oD7/ow==</guid>
-      <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Denman Prospect:Club Lime</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime<br/><b>Street</b>:1-3 Felstead Vista<br/><b>Suburb</b>:Denman Prospect<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 16 November 2021<br/><b>Arrival Time</b>:0500<br/><b>Departure Time</b>:0830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Molonglo Valley<br/>]]></description>
-      <guid isPermaLink="false">kWRqhoXg+HSTapY+iM+AGA==</guid>
       <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
     </item>
     <item>
@@ -584,10 +554,34 @@
       <pubDate>Tue, 14 Dec 2021 07:22:11 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:PJ's in the City</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:PJ's in the City<br/><b>Street</b>:52 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 December 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">tQ88YiDzqF/cPUy0z7uWiA==</guid>
-      <pubDate>Tue, 14 Dec 2021 07:22:11 +0000</pubDate>
+      <title>(New) Braddon:Midnight Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Midnight Bar<br/><b>Street</b>:1 Elourera Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">30sLq2qmUQLyzm6jsvdOUg==</guid>
+      <pubDate>Wed, 15 Dec 2021 06:35:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Marble &amp; Grain</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Marble & Grain<br/><b>Street</b>:25 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1045<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">AXwVlPUPL+/5hIfsSnuDzw==</guid>
+      <pubDate>Wed, 15 Dec 2021 06:35:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Canberra City:PJ's In The City</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:PJ's In The City<br/><b>Street</b>:52 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 December 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">L7Irp9P/24WyYJbP7zH4Ww==</guid>
+      <pubDate>Wed, 15 Dec 2021 06:35:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Bentspoke Brewing Co</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bentspoke Brewing Co<br/><b>Street</b>:38 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">SoNwVOP0PWtWIYbIRG26PA==</guid>
+      <pubDate>Wed, 15 Dec 2021 06:35:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:White Chaco</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:White Chaco<br/><b>Street</b>:27 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 December 2021<br/><b>Arrival Time</b>:1910<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">jWULAl9s+DucsuQp311T9g==</guid>
+      <pubDate>Wed, 15 Dec 2021 06:35:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
