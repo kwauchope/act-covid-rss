@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Dec 2021 06:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 00:26:04 +0000</lastBuildDate>
     <item>
       <title>(New) Campbell:Poppy's Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Poppy's Cafe<br/><b>Street</b>:15 Treloar Crescent<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:0803<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -38,12 +38,6 @@
       <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Dickson:The Scholar</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Scholar<br/><b>Street</b>:23 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:1920<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">pIMRTXMgTps0lfjziy4P2g==</guid>
-      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Phillip:KFC Woden</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:KFC Woden<br/><b>Street</b>:48 Botany Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1935<br/><b>Departure Time</b>:2005<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">8Di2N4q/uXeZ2dA8n2PSrA==</guid>
@@ -72,18 +66,6 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Mooseheads<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">y1ZkTKF2p5apQ5YfOI0Ubw==</guid>
       <pubDate>Mon, 22 Nov 2021 05:40:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Farrer:St Augustine's Catholic Church</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:St Augustine's Catholic Church<br/><b>Street</b>:262 Beasley Street<br/><b>Suburb</b>:Farrer<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:0845<br/><b>Departure Time</b>:1100<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
-      <guid isPermaLink="false">4zCjbfo1UrO6jCwWgvoxLg==</guid>
-      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Deakin:Canberra Deakin Football Club (Function room only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Canberra Deakin Football Club (Function room only)<br/><b>Street</b>:3 Grose Street<br/><b>Suburb</b>:Deakin<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">G2dr0HU5wz/UPlHv6vQnDw==</guid>
-      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
     </item>
     <item>
       <title>(?) Canberra City:Nosh Canberra Centre</title>
@@ -125,12 +107,6 @@
       <title>(New) Mitchell:Wanderlust</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">kWzjQFKUe/GHCo4hJXYsDw==</guid>
-      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Mitchell:Wanderlust</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">svhK48sHWTQSghqlx62SQA==</guid>
       <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
     </item>
     <item>
@@ -222,12 +198,6 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capitol Bar & Grill Restaurant<br/><b>Street</b>:1 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">wILwKpvimgjZJlzSe2/7Rw==</guid>
       <pubDate>Fri, 26 Nov 2021 06:27:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Greenway:Commonwealth Bank Tuggeranong</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Commonwealth Bank Tuggeranong<br/><b>Street</b>:175 Anketell Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 17 November 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">PLzKq3xOjLlNf4qG13HjTg==</guid>
-      <pubDate>Sat, 27 Nov 2021 01:26:59 +0000</pubDate>
     </item>
     <item>
       <title>(Updated) Gungahlin:Coffee Guru</title>
@@ -554,12 +524,6 @@
       <pubDate>Tue, 14 Dec 2021 07:22:11 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Braddon:Midnight Bar</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Midnight Bar<br/><b>Street</b>:1 Elourera Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">30sLq2qmUQLyzm6jsvdOUg==</guid>
-      <pubDate>Wed, 15 Dec 2021 06:35:05 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Braddon:Marble &amp; Grain</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Marble & Grain<br/><b>Street</b>:25 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1045<br/><b>Departure Time</b>:1220<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">AXwVlPUPL+/5hIfsSnuDzw==</guid>
@@ -582,6 +546,30 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:White Chaco<br/><b>Street</b>:27 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 09 December 2021<br/><b>Arrival Time</b>:1910<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">jWULAl9s+DucsuQp311T9g==</guid>
       <pubDate>Wed, 15 Dec 2021 06:35:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Midnight Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Midnight Bar<br/><b>Street</b>:1 Elouera Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">E1qCBbxt/F/mi7Wto5a9uw==</guid>
+      <pubDate>Thu, 16 Dec 2021 00:26:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Tasuke Japanese Noodle Place</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Tasuke Japanese Noodle Place<br/><b>Street</b>:122 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1245<br/><b>Departure Time</b>:1310<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">PVGAMj6ylYy6geOGhPskmA==</guid>
+      <pubDate>Thu, 16 Dec 2021 00:26:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Canberra Rex Hotel (Swan &amp; King Cocktail Bar only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Rex Hotel (Swan & King Cocktail Bar only)<br/><b>Street</b>:150 Northbourne Avenue<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1645<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">lsOdycTQRrVCey6WtB/bRw==</guid>
+      <pubDate>Thu, 16 Dec 2021 00:26:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:Two Sisters Lao Thai Cuisine</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Two Sisters Lao Thai Cuisine<br/><b>Street</b>:38 Badham Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">mYzQv6MN3MelCBqU+3noeg==</guid>
+      <pubDate>Thu, 16 Dec 2021 00:26:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
