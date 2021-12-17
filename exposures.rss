@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Dec 2021 00:58:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Dec 2021 06:34:23 +0000</lastBuildDate>
     <item>
       <title>(New) Belconnen:Yat-Bun-Tong</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Yat-Bun-Tong<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
@@ -588,6 +588,60 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sushi Fresh<br/><b>Street</b>:196 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:1945<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">pcxWTCwDh6oRuMqygAvXLw==</guid>
       <pubDate>Fri, 17 Dec 2021 00:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Ms Ba Cô</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ms Ba Cô<br/><b>Street</b>:108 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1345<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">DPOlq0iF7dEBqWG7I1o7UQ==</guid>
+      <pubDate>Fri, 17 Dec 2021 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Capital Eatery</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capital Eatery<br/><b>Street</b>:68 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1415<br/><b>Departure Time</b>:1430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">OeYht8/8EtUy6qwC1XKqIA==</guid>
+      <pubDate>Fri, 17 Dec 2021 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Acton:Botanical Gardens (Pollen cafe only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Botanical Gardens (Pollen cafe only)<br/><b>Street</b>:Clunies Ross Street<br/><b>Suburb</b>:Acton<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 December 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">WKcmT1Ac11BLfOtN52jlvQ==</guid>
+      <pubDate>Fri, 17 Dec 2021 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:CBD Dumpling House</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:CBD Dumpling House<br/><b>Street</b>:148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">aIuyU9bh2AyY7Bily6sWFw==</guid>
+      <pubDate>Fri, 17 Dec 2021 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:Highroad</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Highroad<br/><b>Street</b>:1 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 December 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">c3Gw9dyJb8Ka7G0VWXXH0Q==</guid>
+      <pubDate>Fri, 17 Dec 2021 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Harrison:Thai Herb Restaurant</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Thai Herb Restaurant<br/><b>Street</b>:11 Wimmera Street<br/><b>Suburb</b>:Harrison<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">eFeHJeDSOdikYCE4WXWEQw==</guid>
+      <pubDate>Fri, 17 Dec 2021 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Greenway:New York Nails Tuggeranong</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:New York Nails Tuggeranong<br/><b>Street</b>:South Point Tuggeranong, Anketell Street And Reed Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1405<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">gS9QDLz6ebbCm2N8cB5Bng==</guid>
+      <pubDate>Fri, 17 Dec 2021 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Ainslie:Edgar's</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Edgar's<br/><b>Street</b>:1 Edgar Street<br/><b>Suburb</b>:Ainslie<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:2015<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">kKY1LA7n72i0sYYLzcxsYQ==</guid>
+      <pubDate>Fri, 17 Dec 2021 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Lyneham:The Old Canberra Inn</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Old Canberra Inn<br/><b>Street</b>:195 Mouat Street<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 December 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">tm1t6FCCf6yS9A+28fd3vw==</guid>
+      <pubDate>Fri, 17 Dec 2021 06:34:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
