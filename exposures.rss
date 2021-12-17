@@ -6,31 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Dec 2021 06:51:50 +0000</lastBuildDate>
-    <item>
-      <title>(New) Campbell:Poppy's Cafe</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Poppy's Cafe<br/><b>Street</b>:15 Treloar Crescent<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:0803<br/><b>Departure Time</b>:1500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">+2hBMR1Ea1cmUVzp7GmLSg==</guid>
-      <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Cube Nightclub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cube Nightclub<br/><b>Street</b>:33 Petrie Plaza<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2250<br/><b>Departure Time</b>:2350<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">6MiLI0E1xWPVCJrBaSIM2Q==</guid>
-      <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:SuperEmoji</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:SuperEmoji<br/><b>Street</b>:1 Garema Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1850<br/><b>Departure Time</b>:1915<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">ESdDNrOBrM+ilCpgpcTQcw==</guid>
-      <pubDate>Sat, 20 Nov 2021 07:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Calwell:Eastlake Calwell Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Eastlake Calwell Club<br/><b>Street</b>:1 Were Street<br/><b>Suburb</b>:Calwell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1155<br/><b>Departure Time</b>:1305<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">7mC1aIw7707iTW2YDbUvAA==</guid>
-      <pubDate>Sun, 21 Nov 2021 06:23:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Dec 2021 00:58:52 +0000</lastBuildDate>
     <item>
       <title>(New) Belconnen:Yat-Bun-Tong</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Yat-Bun-Tong<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
@@ -57,33 +33,15 @@
     </item>
     <item>
       <title>(Updated) Canberra City:Mooseheads</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Mooseheads<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2135<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">/tpIgSxODgo2w1YNG0QeQg==</guid>
-      <pubDate>Mon, 22 Nov 2021 05:40:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Canberra City:Mooseheads</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Mooseheads<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">y1ZkTKF2p5apQ5YfOI0Ubw==</guid>
       <pubDate>Mon, 22 Nov 2021 05:40:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Canberra City:Nosh Canberra Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Nosh Canberra Centre<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">l5tow15wxqSHN5H6lRArug==</guid>
-      <pubDate>Tue, 23 Nov 2021 00:30:17 +0000</pubDate>
     </item>
     <item>
       <title>(New) Amaroo:Holy Spirit Catholic Parish Gungahlin Church – Holy Communion (first Eucharist) service</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Holy Spirit Catholic Parish Gungahlin Church – Holy Communion (first Eucharist) service<br/><b>Street</b>:93 Burdekin Avenue<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1915<br/><b>Contact</b>:Close<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">yFwQrZgcbEzv0imdow5bWA==</guid>
       <pubDate>Tue, 23 Nov 2021 05:59:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Mitchell:Wanderlust</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">Kz9CYAlL23QHSm0mpZBMUA==</guid>
-      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
     </item>
     <item>
       <title>(New) Mitchell:Wanderlust</title>
@@ -104,12 +62,6 @@
       <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Mitchell:Wanderlust</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Wanderlust<br/><b>Street</b>:32 Grimwade Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">kWzjQFKUe/GHCo4hJXYsDw==</guid>
-      <pubDate>Wed, 24 Nov 2021 01:40:45 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Gowrie:Common Grounds Cafe</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Common Grounds Cafe<br/><b>Street</b>:4/1 Jefferies Street<br/><b>Suburb</b>:Gowrie<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">DCppEJB6Sh52rr24BK41Hg==</guid>
@@ -119,18 +71,6 @@
       <title>(New) Gungahlin:Club Lime Gungahlin Platinum (Main Gym Area Only)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Gungahlin Platinum (Main Gym Area Only)<br/><b>Street</b>:35 Crinigan Circuit<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 19 November 2021<br/><b>Arrival Time</b>:0530<br/><b>Departure Time</b>:0645<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">GDzgpuico0LmlmdUYVotjw==</guid>
-      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Mad Mex</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mad Mex<br/><b>Street</b>:Canberra Centre, Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1000<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">NydrB70gABDFS556StCxnQ==</guid>
-      <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Fyshwick:Designer Op Shop Emporium &amp; Cafe</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Designer Op Shop Emporium & Cafe<br/><b>Street</b>:1 Lyell Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 18 November 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1415<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">aruXmf2KdOeFpwEj5GfBXg==</guid>
       <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
     </item>
     <item>
@@ -600,6 +540,54 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:PJs in the city<br/><b>Street</b>:52 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 December 2021<br/><b>Arrival Time</b>:1735<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">u1+MaPafHskzK2tueS1exA==</guid>
       <pubDate>Thu, 16 Dec 2021 06:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Club Lime</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime<br/><b>Street</b>:60 Jenke Circuit<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">+h+TzCC75u79X5j2Yzip6g==</guid>
+      <pubDate>Fri, 17 Dec 2021 00:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Hellenic Club Woden (Ginseng Restaurant only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hellenic Club Woden (Ginseng Restaurant only)<br/><b>Street</b>:Matilda Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1405<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">4WFCkpzI1wmB8pgCncHs/A==</guid>
+      <pubDate>Fri, 17 Dec 2021 00:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mile High Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mile High Club<br/><b>Street</b>:17 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0145<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">CLZoMOuqEgzqaLk6XnP5dQ==</guid>
+      <pubDate>Fri, 17 Dec 2021 00:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Dirty Janes Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dirty Janes Canberra<br/><b>Street</b>:80 Collie Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1445<br/><b>Departure Time</b>:1520<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">FS9mhJtW5E+Nq6rxHsgBKA==</guid>
+      <pubDate>Fri, 17 Dec 2021 00:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kambah:Club Lime</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime<br/><b>Street</b>:60 Jenke Circuit<br/><b>Suburb</b>:Kambah<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 December 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Close<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">WySSdoCvwgJo2J/xFDHt2g==</guid>
+      <pubDate>Fri, 17 Dec 2021 00:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Robinsons Bookshop</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Robinsons Bookshop<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1620<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">jcnKgqImjJkcQoFtJQ/Aeg==</guid>
+      <pubDate>Fri, 17 Dec 2021 00:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mile High Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mile High Club<br/><b>Street</b>:17 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 December 2021<br/><b>Arrival Time</b>:2245<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">mzEcc+Nl1rofpgwYdsdMGw==</guid>
+      <pubDate>Fri, 17 Dec 2021 00:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Sushi Fresh</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Sushi Fresh<br/><b>Street</b>:196 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:1945<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">pcxWTCwDh6oRuMqygAvXLw==</guid>
+      <pubDate>Fri, 17 Dec 2021 00:58:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
