@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Dec 2021 02:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Dec 2021 07:39:28 +0000</lastBuildDate>
     <item>
       <title>(New) Canberra City:Mooseheads (Nightclub only)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads (Nightclub only)<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 20 November 2021<br/><b>Arrival Time</b>:0200<br/><b>Departure Time</b>:0400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -131,12 +131,6 @@
       <title>(New) Kingston:Walt &amp; Burley</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Walt & Burley<br/><b>Street</b>:17 Eastlake Parade<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 27 November 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">HHcKUpmpUn58mQt9gLjamg==</guid>
-      <pubDate>Thu, 02 Dec 2021 06:28:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Kingston:Chong Co Thai</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chong Co Thai<br/><b>Street</b>:31 Eastlake Parade<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 27 November 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">NSP1sFqdH7v5stFlrrn6QQ==</guid>
       <pubDate>Thu, 02 Dec 2021 06:28:58 +0000</pubDate>
     </item>
     <item>
@@ -572,12 +566,6 @@
       <pubDate>Sat, 18 Dec 2021 02:57:22 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Acton:REX Espresso ANU</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:REX Espresso ANU<br/><b>Street</b>:Australian National University, Kambri Precinct, 155-14 University Avenue<br/><b>Suburb</b>:Acton<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 December 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1420<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">72xXyN7mrdVMGh6RhQZ8Mw==</guid>
-      <pubDate>Sat, 18 Dec 2021 02:57:22 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Dickson:Jimmy's Place</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Jimmy's Place<br/><b>Street</b>:71 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 December 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">9uonW8qif+jWXSUvWWMSgA==</guid>
@@ -608,21 +596,9 @@
       <pubDate>Sat, 18 Dec 2021 02:57:22 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Gungahlin:Grease Monkey</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grease Monkey<br/><b>Street</b>:Marketplace Gungahlin, Shop 63/33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 December 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">FCrOD7Q2QP73L6XxnwjgqA==</guid>
-      <pubDate>Sat, 18 Dec 2021 02:57:22 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Griffith:Urban Pantry</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Urban Pantry<br/><b>Street</b>:5 Bougainville Street<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 December 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:1115<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">HST+ZWUUkIW9FDDN0EUmaA==</guid>
-      <pubDate>Sat, 18 Dec 2021 02:57:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Barton:Chairman Yip</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chairman Yip<br/><b>Street</b>:Burbury Hotel Canberra,1 Burbury Close<br/><b>Suburb</b>:Barton<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 December 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">KrLWzK9LAB/nn8PA3Z6rhA==</guid>
       <pubDate>Sat, 18 Dec 2021 02:57:22 +0000</pubDate>
     </item>
     <item>
@@ -642,6 +618,54 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Estate (Glasshouse only)<br/><b>Street</b>:18 Kallaroo Road<br/><b>Suburb</b>:Pialligo<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 December 2021<br/><b>Arrival Time</b>:1850<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Majura<br/>]]></description>
       <guid isPermaLink="false">gBliF7NkjMNliE7ZaOsnDw==</guid>
       <pubDate>Sat, 18 Dec 2021 02:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Acton:Badger &amp; CO</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Badger & CO<br/><b>Street</b>:Australian National University, Kambri Precinct, 156-11 Joplin Lane<br/><b>Suburb</b>:Acton<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 December 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:1420<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">/SCZQRHp8upr7rtF15UHnA==</guid>
+      <pubDate>Sat, 18 Dec 2021 07:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kingston:Chong Co Thai Restaurant and Bar</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chong Co Thai Restaurant and Bar<br/><b>Street</b>:31 Eastlake Parade<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">6QvuMDAaOZMz5ZsU1IBZoA==</guid>
+      <pubDate>Sat, 18 Dec 2021 07:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Barton:Chairman Yip</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Chairman Yip<br/><b>Street</b>:Burbury Hotel Canberra, 1 Burbury Close<br/><b>Suburb</b>:Barton<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 December 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">VmIuIdWvmudk6tE1/zQAHw==</guid>
+      <pubDate>Sat, 18 Dec 2021 07:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Grease Monkey</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grease Monkey<br/><b>Street</b>:Marketplace Gungahlin, 30 And 33 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 December 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">hqvXENnYp6n1bsIn8hBEVA==</guid>
+      <pubDate>Sat, 18 Dec 2021 07:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Club Lime Braddon (Weights Room only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime Braddon (Weights Room only)<br/><b>Street</b>:30 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 December 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">jxdi8RSA2NW3IxQM4H5LmQ==</guid>
+      <pubDate>Sat, 18 Dec 2021 07:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Space Kitchen</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Space Kitchen<br/><b>Street</b>:12 Furzer Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 15 December 2021<br/><b>Arrival Time</b>:1155<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">rDrGbu+Cr9zAAtkmOsSPtQ==</guid>
+      <pubDate>Sat, 18 Dec 2021 07:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra Airport:Flight FP313 - Pelican Airlines (NTL to CBR)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Flight FP313 - Pelican Airlines (NTL to CBR)<br/><b>Street</b>:<br/><b>Suburb</b>:Canberra Airport<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 12 December 2021<br/><b>Arrival Time</b>:1150<br/><b>Departure Time</b>:1250<br/><b>Contact</b>:Close<br/><b>Region</b>:Majura<br/>]]></description>
+      <guid isPermaLink="false">uYsgUnRbi90vn77MXKZpZQ==</guid>
+      <pubDate>Sat, 18 Dec 2021 07:39:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:Capital Brewing Co</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Capital Brewing Co<br/><b>Street</b>:1 Dairy Road<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1750<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">xqkFldeX8h3ekVwQs3zXoQ==</guid>
+      <pubDate>Sat, 18 Dec 2021 07:39:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
