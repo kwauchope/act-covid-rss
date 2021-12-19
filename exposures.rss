@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Dec 2021 02:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Dec 2021 06:44:57 +0000</lastBuildDate>
     <item>
       <title>(New) Braddon:Zaab Street Food</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Zaab Street Food<br/><b>Street</b>:2/9 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 22 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -368,12 +368,6 @@
       <pubDate>Wed, 15 Dec 2021 06:35:05 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Braddon:Midnight Bar</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Midnight Bar<br/><b>Street</b>:1 Elouera Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">E1qCBbxt/F/mi7Wto5a9uw==</guid>
-      <pubDate>Thu, 16 Dec 2021 00:26:04 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:Tasuke Japanese Noodle Place</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Tasuke Japanese Noodle Place<br/><b>Street</b>:122 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1245<br/><b>Departure Time</b>:1310<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">PVGAMj6ylYy6geOGhPskmA==</guid>
@@ -656,10 +650,40 @@
       <pubDate>Sun, 19 Dec 2021 02:15:33 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Bruce:Club Lime CISAC (GYM only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime CISAC (GYM only)<br/><b>Street</b>:100 Eastern Valley Way<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1555<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">nn3uoaTcOn+ly73wSwtMZA==</guid>
-      <pubDate>Sun, 19 Dec 2021 02:15:33 +0000</pubDate>
+      <title>(Updated) Braddon:Midnight Hotel (Bar only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Midnight Hotel (Bar only)<br/><b>Street</b>:1 Elouera Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1815<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">9cDLw5vkEH8J921L71ooUQ==</guid>
+      <pubDate>Sun, 19 Dec 2021 06:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Midnight Hotel (Bar only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Midnight Hotel (Bar only)<br/><b>Street</b>:1 Elouera Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 December 2021<br/><b>Arrival Time</b>:2200<br/><b>Departure Time</b>:2250<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">EzmyYSEmf0zBWIePI0hb3w==</guid>
+      <pubDate>Sun, 19 Dec 2021 06:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Club Lime CISAC (Gym only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime CISAC (Gym only)<br/><b>Street</b>:100 Eastern Valley Way<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1555<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">LskXHPHcdtGnYUuVpvk2qA==</guid>
+      <pubDate>Sun, 19 Dec 2021 06:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kingston:JP Style</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:JP Style<br/><b>Street</b>:21 Eastlake Parade<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1735<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Rl4lBX2fpoGXqYeTfFcpcg==</guid>
+      <pubDate>Sun, 19 Dec 2021 06:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Dickson:Anytime Fitness</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:4-14 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 December 2021<br/><b>Arrival Time</b>:2045<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">kVaNnlmfcRUajCXgNz13KA==</guid>
+      <pubDate>Sun, 19 Dec 2021 06:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Hellenic Club Woden (Ginseng Restaurant only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hellenic Club Woden (Ginseng Restaurant only)<br/><b>Street</b>:Matilda Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">vDeKikcqJUabQ3kxCe4rSw==</guid>
+      <pubDate>Sun, 19 Dec 2021 06:44:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
