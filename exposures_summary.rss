@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Dec 2021 01:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Dec 2021 02:15:33 +0000</lastBuildDate>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -204,11 +204,18 @@
       <pubDate>Sat, 18 Dec 2021 07:39:28 +0000</pubDate>
     </item>
     <item>
-      <title>6 additional exposure sites</title>
+      <title>4 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>3<br/><b>Bruce:</b>1<br/><b>Mawson:</b>1<br/><b>Acton:</b>1<br/>]]></description>
-      <guid isPermaLink="false">wr6NB6TWKQqdqExskALUpw==</guid>
+      <description><![CDATA[<b>Canberra City:</b>3<br/><b>Mawson:</b>1<br/>]]></description>
+      <guid isPermaLink="false">kwAobg6Fe4ffxFWYXJx/KA==</guid>
       <pubDate>Sun, 19 Dec 2021 01:10:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Bruce:</b>1<br/><b>Acton:</b>1<br/>]]></description>
+      <guid isPermaLink="false">PLzltKFqb4TtS1bO0xJbdA==</guid>
+      <pubDate>Sun, 19 Dec 2021 02:15:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

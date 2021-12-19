@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Dec 2021 01:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Dec 2021 02:15:33 +0000</lastBuildDate>
     <item>
       <title>(New) Braddon:Zaab Street Food</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Zaab Street Food<br/><b>Street</b>:2/9 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 22 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -632,12 +632,6 @@
       <pubDate>Sun, 19 Dec 2021 01:10:59 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Acton:Club Lime ANU</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime ANU<br/><b>Street</b>:Australian National University, Building 156, Joplin Lane<br/><b>Suburb</b>:Acton<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">8TLuGvYyqv0GBsnQMWTGLg==</guid>
-      <pubDate>Sun, 19 Dec 2021 01:10:59 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Mawson:Hair Connection</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hair Connection<br/><b>Street</b>:118 Mawson Place<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 December 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Close<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">VuZ2LDeysfdRetn6bkyFuw==</guid>
@@ -656,10 +650,16 @@
       <pubDate>Sun, 19 Dec 2021 01:10:59 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Bruce:Club Lime CISAC</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime CISAC<br/><b>Street</b>:100 Eastern Valley Way<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1555<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">zUmJepBL7BSu9QyORBaE4g==</guid>
-      <pubDate>Sun, 19 Dec 2021 01:10:59 +0000</pubDate>
+      <title>(New) Acton:Club Lime ANU (Weights Area only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime ANU (Weights Area only)<br/><b>Street</b>:Australian National University, Building 156, Joplin Lane<br/><b>Suburb</b>:Acton<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1600<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">VLIflSP4MD7tIfGh9G1plA==</guid>
+      <pubDate>Sun, 19 Dec 2021 02:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Bruce:Club Lime CISAC (GYM only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime CISAC (GYM only)<br/><b>Street</b>:100 Eastern Valley Way<br/><b>Suburb</b>:Bruce<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 13 December 2021<br/><b>Arrival Time</b>:1555<br/><b>Departure Time</b>:1715<br/><b>Contact</b>:Close<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">nn3uoaTcOn+ly73wSwtMZA==</guid>
+      <pubDate>Sun, 19 Dec 2021 02:15:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
