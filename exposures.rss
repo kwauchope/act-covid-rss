@@ -6,18 +6,12 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Dec 2021 06:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 00:51:37 +0000</lastBuildDate>
     <item>
       <title>(New) Braddon:Zaab Street Food</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Zaab Street Food<br/><b>Street</b>:2/9 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 22 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">fyytMg9y0WsU68DKUgpt/Q==</guid>
       <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Evatt:St Monica's Catholic Church</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:St Monica's Catholic Church<br/><b>Street</b>:18 Deffell Street<br/><b>Suburb</b>:Evatt<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 21 November 2021<br/><b>Arrival Time</b>:0940<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">io0WxtM5YSVtEh2uEh6Ouw==</guid>
-      <pubDate>Fri, 26 Nov 2021 01:11:14 +0000</pubDate>
     </item>
     <item>
       <title>(New) Holt:St John The Apostle’s Catholic Church</title>
@@ -38,12 +32,6 @@
       <pubDate>Sat, 27 Nov 2021 01:26:59 +0000</pubDate>
     </item>
     <item>
-      <title>(?) Braddon:Knightsbridge Penthouse</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Knightsbridge Penthouse<br/><b>Street</b>:10/26 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 21 November 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">tAHR7ybPh36B7/YhGmJP0w==</guid>
-      <pubDate>Sat, 27 Nov 2021 10:34:30 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Greenway:Southern Cross Basketball Stadium (Court 1 only)</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Southern Cross Basketball Stadium (Court 1 only)<br/><b>Street</b>:7 Pitman Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">JO5RAJFzTBF5ZDyPxF/YaA==</guid>
@@ -54,12 +42,6 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Erindale Healthcare<br/><b>Street</b>:Corner Comrie Street And Mcbryde Crescent<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 24 November 2021<br/><b>Arrival Time</b>:1035<br/><b>Departure Time</b>:1140<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
       <guid isPermaLink="false">jdaRnRFia0MjnWBRkE82Kg==</guid>
       <pubDate>Sun, 28 Nov 2021 05:32:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) O'Connor:Parish Centre</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Parish Centre<br/><b>Street</b>:61 Boronia Drive<br/><b>Suburb</b>:O'Connor<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 21 November 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">8dKFk/7DkR2oEGqsANk8tg==</guid>
-      <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
     </item>
     <item>
       <title>(New) Gungahlin:Healthy Start</title>
@@ -684,6 +666,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hellenic Club Woden (Ginseng Restaurant only)<br/><b>Street</b>:Matilda Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">vDeKikcqJUabQ3kxCe4rSw==</guid>
       <pubDate>Sun, 19 Dec 2021 06:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Ogawa Japanese Restaurant</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Ogawa Japanese Restaurant<br/><b>Street</b>:54 Ernest Cavanagh Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 December 2021<br/><b>Arrival Time</b>:1314<br/><b>Departure Time</b>:1400<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">lFBnpP3w/8Mx4XWlPpqvdg==</guid>
+      <pubDate>Mon, 20 Dec 2021 00:51:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

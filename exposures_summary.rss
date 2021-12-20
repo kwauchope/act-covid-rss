@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Dec 2021 06:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 00:51:37 +0000</lastBuildDate>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -15,10 +15,10 @@
       <pubDate>Wed, 24 Nov 2021 06:27:45 +0000</pubDate>
     </item>
     <item>
-      <title>3 additional exposure sites</title>
+      <title>2 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Kaleen:</b>1<br/><b>Holt:</b>1<br/><b>Evatt:</b>1<br/>]]></description>
-      <guid isPermaLink="false">4V/Ec9dRpEiYlx7VHzW3qw==</guid>
+      <description><![CDATA[<b>Kaleen:</b>1<br/><b>Holt:</b>1<br/>]]></description>
+      <guid isPermaLink="false">NZBCsZRZH9TznG7X3hQ3Bg==</guid>
       <pubDate>Fri, 26 Nov 2021 01:11:14 +0000</pubDate>
     </item>
     <item>
@@ -27,13 +27,6 @@
       <description><![CDATA[<b>Gungahlin:</b>1<br/>]]></description>
       <guid isPermaLink="false">mW8i9v8XYdDc68NidxMgmQ==</guid>
       <pubDate>Sat, 27 Nov 2021 01:26:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>1 additional exposure sites</title>
-      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Braddon:</b>1<br/>]]></description>
-      <guid isPermaLink="false">2dUoJP/+XVXC6yspRytZkw==</guid>
-      <pubDate>Sat, 27 Nov 2021 10:34:30 +0000</pubDate>
     </item>
     <item>
       <title>1 additional exposure sites</title>
@@ -50,10 +43,10 @@
       <pubDate>Sun, 28 Nov 2021 05:32:47 +0000</pubDate>
     </item>
     <item>
-      <title>4 additional exposure sites</title>
+      <title>3 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Gungahlin:</b>2<br/><b>Phillip:</b>1<br/><b>O'Connor:</b>1<br/>]]></description>
-      <guid isPermaLink="false">uTyaETrV5oH694UZVfHZ1Q==</guid>
+      <description><![CDATA[<b>Gungahlin:</b>2<br/><b>Phillip:</b>1<br/>]]></description>
+      <guid isPermaLink="false">NLnUsVv9zrAJ3CB2SnMH2g==</guid>
       <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +216,13 @@
       <description><![CDATA[<b>Braddon:</b>2<br/><b>Phillip:</b>1<br/><b>Dickson:</b>1<br/><b>Kingston:</b>1<br/><b>Bruce:</b>1<br/>]]></description>
       <guid isPermaLink="false">Q6GMruuaza0CzcusC0DC5g==</guid>
       <pubDate>Sun, 19 Dec 2021 06:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>1 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Gungahlin:</b>1<br/>]]></description>
+      <guid isPermaLink="false">XGnPz6WO0T88fr4AtBtJQA==</guid>
+      <pubDate>Mon, 20 Dec 2021 00:51:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
