@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Dec 2021 00:50:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 07:34:48 +0000</lastBuildDate>
     <item>
       <title>(New) Kaleen:St Michael's Church</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:St Michael's Church<br/><b>Street</b>:2 Tyrrell Circuit<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:0920<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
@@ -722,12 +722,6 @@
       <pubDate>Tue, 21 Dec 2021 00:50:43 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Narrabundah:Alive Health &amp; Fitness</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Alive Health & Fitness<br/><b>Street</b>:Corner Hindmarsh Drive And Jerrabomberra Avenue<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1950<br/><b>Departure Time</b>:2100<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">aYIouae6osX6MYJjXro8sQ==</guid>
-      <pubDate>Tue, 21 Dec 2021 00:50:43 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Griffith:Eastlake Football Club</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Eastlake Football Club<br/><b>Street</b>:3 Oxley Street<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 December 2021<br/><b>Arrival Time</b>:1715<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">cZC/w2FuIYxfIeomWa7w+A==</guid>
@@ -756,6 +750,138 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly The People’s Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 December 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">jLjBmOWEYU6dsaZqhF47KQ==</guid>
       <pubDate>Tue, 21 Dec 2021 00:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Assembly The People’s Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly The People’s Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:2235<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">+Ov97ngBZDl/iNZj6rTlnQ==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">6ZMEFSYWVaamT5sQKAVrIQ==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:PJ's in the City</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:PJ's in the City<br/><b>Street</b>:52 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1345<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">7RzH4rPOD/JY7vrQiyHYkw==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">C91wlx6viNsTXxbqCB4bJQ==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">DiQJIEKzAVt6EIEcz4sDLg==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">F4P0rlqQUGFNQVdaF/QZgQ==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Lazy Su</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Lazy Su<br/><b>Street</b>:9 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:2015<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">FuIit8ZNIPwY4775/qQqsA==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Griffith:Rubicon Restaurant</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Rubicon Restaurant<br/><b>Street</b>:6 Barker Street<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">G8K67AUWxlklE5VOd/lKvg==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Phillip:Hellenic Club - Ginseng Restaurant</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hellenic Club - Ginseng Restaurant<br/><b>Street</b>:Bowes Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">JT06/ctBGSs7xTaEjFeL7w==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Assembly The People’s Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly The People’s Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0045<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">OHQZ49I7kdl4XUIHz8vpmw==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">TOLMUnzU9+OJFClVuBY37A==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mawson:Playing Fields - Woden Valley Soccer Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Playing Fields - Woden Valley Soccer Club<br/><b>Street</b>:Heard Street<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
+      <guid isPermaLink="false">Tljtn9JoFBGP6eqkG5jh3w==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:2300<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">UjV8/v0jeBYas1CDZD0TtQ==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Deakin:EQ Cafe</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:EQ Cafe<br/><b>Street</b>:70 Kent Street<br/><b>Suburb</b>:Deakin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:0910<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Xhfq5MuRZpEWCd5siKKq1g==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Narrabundah:Alive Health &amp; Fitness</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Alive Health & Fitness<br/><b>Street</b>:Corner Hindmarsh Drive And Jerrabomberra Avenue<br/><b>Suburb</b>:Narrabundah<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0935<br/><b>Departure Time</b>:1040<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">Y2A7bhZ11d0xKlvVTZIpFA==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:One22</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:One22<br/><b>Street</b>:122 Alinga Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:2300<br/><b>Departure Time</b>:2330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">gWQ32d3vsSUDiIpipzOJAw==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Yat Bun Tong Dumpling House</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Yat Bun Tong Dumpling House<br/><b>Street</b>:10 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:1905<br/><b>Departure Time</b>:2015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">iq8QkR2haR+VE2KkP+6K9A==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Hoyts</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hoyts<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:2140<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">l6UQ6j9FvOb9A0CvtgTzkw==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Hoyts Belconnen Westfield: Cinema 7 Showing of Spiderman: No Way Home</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hoyts Belconnen Westfield: Cinema 7 Showing of Spiderman: No Way Home<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">mkzv/4mEryrwCbuZXGmQhw==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Bentspoke Brewing Co</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bentspoke Brewing Co<br/><b>Street</b>:38 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">q2GCVIQTP0wnQdrU1KKYuA==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">uAg5yn7Ui63zAYzqz/lprA==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Hopscotch</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hopscotch<br/><b>Street</b>:5 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">y8n9AeuLiDF1b/Pi5dAqDw==</guid>
+      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
