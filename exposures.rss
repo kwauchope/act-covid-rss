@@ -6,25 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Dec 2021 07:34:48 +0000</lastBuildDate>
-    <item>
-      <title>(New) Kaleen:St Michael's Church</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:St Michael's Church<br/><b>Street</b>:2 Tyrrell Circuit<br/><b>Suburb</b>:Kaleen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:0920<br/><b>Departure Time</b>:1015<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">vlxTWSy+RsYT8sHVmSMdFg==</guid>
-      <pubDate>Fri, 26 Nov 2021 01:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Gungahlin:Coffee Guru</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Coffee Guru<br/><b>Street</b>:Gungahlin Village, 46 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">bJCBf4eCbtrGXg18U1MQoA==</guid>
-      <pubDate>Sat, 27 Nov 2021 01:26:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Greenway:Southern Cross Basketball Stadium (Court 1 only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Southern Cross Basketball Stadium (Court 1 only)<br/><b>Street</b>:7 Pitman Street<br/><b>Suburb</b>:Greenway<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
-      <guid isPermaLink="false">JO5RAJFzTBF5ZDyPxF/YaA==</guid>
-      <pubDate>Sun, 28 Nov 2021 00:56:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Dec 2021 03:18:12 +0000</lastBuildDate>
     <item>
       <title>(New) Wanniassa:Erindale Healthcare</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Erindale Healthcare<br/><b>Street</b>:Corner Comrie Street And Mcbryde Crescent<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 24 November 2021<br/><b>Arrival Time</b>:1035<br/><b>Departure Time</b>:1140<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
@@ -83,12 +65,6 @@
       <title>(New) Watson:Supabarn Express</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Supabarn Express<br/><b>Street</b>:4/5 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 29 November 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2010<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">MKqv0zyh1X/0LdcsO1pFSw==</guid>
-      <pubDate>Sat, 04 Dec 2021 01:39:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Gungahlin:Raiders Gungahlin - Bistro area</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Raiders Gungahlin - Bistro area<br/><b>Street</b>:23 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 23 November 2021<br/><b>Arrival Time</b>:1810<br/><b>Departure Time</b>:2030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">QKPAapgH6TC5qZikR4WpPQ==</guid>
       <pubDate>Sat, 04 Dec 2021 01:39:05 +0000</pubDate>
     </item>
     <item>
@@ -860,12 +836,6 @@
       <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Belconnen:Hoyts Belconnen Westfield: Cinema 7 Showing of Spiderman: No Way Home</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hoyts Belconnen Westfield: Cinema 7 Showing of Spiderman: No Way Home<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">mkzv/4mEryrwCbuZXGmQhw==</guid>
-      <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Braddon:Bentspoke Brewing Co</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Bentspoke Brewing Co<br/><b>Street</b>:38 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:1345<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">q2GCVIQTP0wnQdrU1KKYuA==</guid>
@@ -882,6 +852,78 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hopscotch<br/><b>Street</b>:5 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">y8n9AeuLiDF1b/Pi5dAqDw==</guid>
       <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Dendy Cinema: Cinema 9 Showing of "Spiderman: No Way Home</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dendy Cinema: Cinema 9 Showing of "Spiderman: No Way Home<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1420<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">/faY0MQpNZDt4HrOOTE2kw==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Campbell:Club Lime</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime<br/><b>Street</b>:59 Constitution Avenue<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1520<br/><b>Departure Time</b>:1540<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">/qC93tVXUb6XVPN0tnwGGA==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Weston:National Arboretum Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:National Arboretum Canberra<br/><b>Street</b>:Forest Drive<br/><b>Suburb</b>:Weston<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Weston Creek<br/>]]></description>
+      <guid isPermaLink="false">/vtZOcFqDVFGLktMlxMw6g==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:The Civic Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Civic Pub<br/><b>Street</b>:8 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">8lUGs4GWhHpmn27trNQZDA==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Inka Restaurant</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Inka Restaurant<br/><b>Street</b>:148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 14 December 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">G4qmiZslkguzq6Z39bPxjA==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Tuggeranong:Town Centre Vikings</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Town Centre Vikings<br/><b>Street</b>:Rowland Rees Crescent<br/><b>Suburb</b>:Tuggeranong<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:0300<br/><b>Departure Time</b>:0330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
+      <guid isPermaLink="false">Ja3Au1tsv9J5C36s2jYcoA==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kingston:Walt and Burley</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Walt and Burley<br/><b>Street</b>:17 Eastlake Parade<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1300<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">N16um7MXYC8PyEJgyaCjgw==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Cube Nightclub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cube Nightclub<br/><b>Street</b>:33 Petrie Plaza<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">UolBFUt0RpAFQfte4mbAkA==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mooseheads Nightclub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads Nightclub<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0010<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Close<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">gnXdWSEkkTfWU8+5hxNWbQ==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Knightsbridge</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Knightsbridge<br/><b>Street</b>:26 Mort Street Braddon<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0030<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">nT5uxwS4k4ZIE8GyEGykLw==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Club Lime - CISAC (gym only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime - CISAC (gym only)<br/><b>Street</b>:100 Eastern Valley Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1615<br/><b>Departure Time</b>:1730<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">p4Nyrq+I11XbSrGSSfoLhA==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Hoyts Belconnen Westfield: Cinema 7 Showing of "Spiderman: No Way Home</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hoyts Belconnen Westfield: Cinema 7 Showing of "Spiderman: No Way Home<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">vTnUAHDLhTSooA4d5weO2Q==</guid>
+      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
