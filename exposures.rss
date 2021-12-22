@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Dec 2021 03:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Dec 2021 07:34:36 +0000</lastBuildDate>
     <item>
       <title>(New) Wanniassa:Erindale Healthcare</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Erindale Healthcare<br/><b>Street</b>:Corner Comrie Street And Mcbryde Crescent<br/><b>Suburb</b>:Wanniassa<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 24 November 2021<br/><b>Arrival Time</b>:1035<br/><b>Departure Time</b>:1140<br/><b>Contact</b>:Casual<br/><b>Region</b>:Tuggeranong<br/>]]></description>
@@ -854,12 +854,6 @@
       <pubDate>Tue, 21 Dec 2021 07:34:48 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Canberra City:Dendy Cinema: Cinema 9 Showing of "Spiderman: No Way Home</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dendy Cinema: Cinema 9 Showing of "Spiderman: No Way Home<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1420<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">/faY0MQpNZDt4HrOOTE2kw==</guid>
-      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Campbell:Club Lime</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Club Lime<br/><b>Street</b>:59 Constitution Avenue<br/><b>Suburb</b>:Campbell<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1520<br/><b>Departure Time</b>:1540<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">/qC93tVXUb6XVPN0tnwGGA==</guid>
@@ -920,10 +914,46 @@
       <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Belconnen:Hoyts Belconnen Westfield: Cinema 7 Showing of "Spiderman: No Way Home</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hoyts Belconnen Westfield: Cinema 7 Showing of "Spiderman: No Way Home<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">vTnUAHDLhTSooA4d5weO2Q==</guid>
-      <pubDate>Wed, 22 Dec 2021 03:18:12 +0000</pubDate>
+      <title>(New) Mitchell:Hiit Republic</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hiit Republic<br/><b>Street</b>:30 Darling Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">+Q+jT+JUSBA0OHAXyz8MPQ==</guid>
+      <pubDate>Wed, 22 Dec 2021 07:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:The Basement</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Basement<br/><b>Street</b>:2 Cohen Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">GhdveKl01MNTtg6KBKRagA==</guid>
+      <pubDate>Wed, 22 Dec 2021 07:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Belconnen:Hoyts Belconnen Westfield: Cinema 7 Showing of Spiderman: No Way Home</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Hoyts Belconnen Westfield: Cinema 7 Showing of Spiderman: No Way Home<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">mkzv/4mEryrwCbuZXGmQhw==</guid>
+      <pubDate>Wed, 22 Dec 2021 07:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Hopscotch</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hopscotch<br/><b>Street</b>:5 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:2030<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">rwr2BKh69JMkakdVOOTJZw==</guid>
+      <pubDate>Wed, 22 Dec 2021 07:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:HIIT Republic</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:HIIT Republic<br/><b>Street</b>:4 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:0615<br/><b>Departure Time</b>:0700<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">w0rGPJFLAG3ZVhSDf7aw0A==</guid>
+      <pubDate>Wed, 22 Dec 2021 07:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kingston:XPlorer train Sydney Central to Canberra (Car B only)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:XPlorer train Sydney Central to Canberra (Car B only)<br/><b>Street</b>:<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:1610<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">zVr/w/6Qd9g3gG6VZfAfGA==</guid>
+      <pubDate>Wed, 22 Dec 2021 07:34:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Dendy Cinema- Spiderman, Cinema 9</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Dendy Cinema- Spiderman, Cinema 9<br/><b>Street</b>:Canberra Centre, 148 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1420<br/><b>Departure Time</b>:1740<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">zj/un+xVvGd3XC+y6pE/Fw==</guid>
+      <pubDate>Wed, 22 Dec 2021 07:34:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
