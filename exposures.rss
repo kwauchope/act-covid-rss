@@ -6,19 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Dec 2021 03:23:15 +0000</lastBuildDate>
-    <item>
-      <title>(New) Gungahlin:Healthy Start</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Healthy Start<br/><b>Street</b>:46 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 26 November 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1530<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">B4NuNSLgsiKAuevPMGFtMw==</guid>
-      <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Gungahlin:Healthy Start</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Healthy Start<br/><b>Street</b>:46 Hibberson Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 26 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">xGKRktGF9oQT/xM5jBQ8Rw==</guid>
-      <pubDate>Mon, 29 Nov 2021 00:40:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Dec 2021 02:26:22 +0000</lastBuildDate>
     <item>
       <title>(New) Hume:Canberra Indoor Rock Climbing</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Indoor Rock Climbing<br/><b>Street</b>:26 Raws Crescent<br/><b>Suburb</b>:Hume<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 27 November 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Jerrabomberra<br/>]]></description>
@@ -35,12 +23,6 @@
       <title>(New) Kingston:COCONINE</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:COCONINE<br/><b>Street</b>:2 Trevillian Quay<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:2015<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">sysJn6fsuPO3UYxEVQbChQ==</guid>
-      <pubDate>Thu, 02 Dec 2021 06:28:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Molly Bar</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Molly Bar<br/><b>Street</b>:Odgers Lane<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 26 November 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">vbnXgcLUnecgYy05VlqIPA==</guid>
       <pubDate>Thu, 02 Dec 2021 06:28:58 +0000</pubDate>
     </item>
     <item>
@@ -71,12 +53,6 @@
       <title>(Updated) Watson:The Knox Made in</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:The Knox Made in<br/><b>Street</b>:13 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Omicron Close<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">jAgt1HSJm5yzWe8GSOwwHg==</guid>
-      <pubDate>Sat, 04 Dec 2021 06:52:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Amaroo:Holy Spirit Catholic Parish Gungahlin</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Holy Spirit Catholic Parish Gungahlin<br/><b>Street</b>:93 Burdekin Avenue<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 26 November 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">wl4E3xPl0Jf15aCZxa9dgw==</guid>
       <pubDate>Sat, 04 Dec 2021 06:52:49 +0000</pubDate>
     </item>
     <item>
@@ -884,12 +860,6 @@
       <pubDate>Wed, 22 Dec 2021 07:34:36 +0000</pubDate>
     </item>
     <item>
-      <title>(Updated) Fyshwick:The Capital Mens Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:The Capital Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">1Bwy35LsBoNqmbGK0uAGUw==</guid>
-      <pubDate>Fri, 24 Dec 2021 03:23:15 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Phillip:Subsdance Dance Performance @ Canberra College</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Subsdance Dance Performance @ Canberra College<br/><b>Street</b>:2 Launceston Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">6T5EGICuISr+sQl8FA/B9w==</guid>
@@ -905,18 +875,6 @@
       <title>(Updated) Fyshwick:The Capital Mens Club</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:The Capital Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0515<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">6iwqW+p8LyVCCbmw5thumQ==</guid>
-      <pubDate>Fri, 24 Dec 2021 03:23:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Fyshwick:The Capital Mens Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:The Capital Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">CX9OqgQM287qVzop33zynw==</guid>
-      <pubDate>Fri, 24 Dec 2021 03:23:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Fyshwick:The Capital Mens Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:The Capital Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">DKUkCN172AAqRDV4V8OAtA==</guid>
       <pubDate>Fri, 24 Dec 2021 03:23:15 +0000</pubDate>
     </item>
     <item>
@@ -962,18 +920,6 @@
       <pubDate>Fri, 24 Dec 2021 03:23:15 +0000</pubDate>
     </item>
     <item>
-      <title>(Updated) Fyshwick:The Capital Mens Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:The Capital Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">bPeSxPc2oUTS/pWGSnhyEg==</guid>
-      <pubDate>Fri, 24 Dec 2021 03:23:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Fyshwick:The Capital Mens Club</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:The Capital Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">dL6g4QA9saVJYZBtzVgIwg==</guid>
-      <pubDate>Fri, 24 Dec 2021 03:23:15 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Canberra City:88mph</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:88mph<br/><b>Street</b>:10 Hobart Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 22 December 2021<br/><b>Arrival Time</b>:2130<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">k2tmBwQTiNxL23jweQs3hg==</guid>
@@ -1014,6 +960,150 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Spit Shack<br/><b>Street</b>:83-101 Lysaght Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0100<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
       <guid isPermaLink="false">zfHWsdeBYOlLf/O0qgEgpA==</guid>
       <pubDate>Fri, 24 Dec 2021 03:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:The Basement</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Basement<br/><b>Street</b>:2 Cohen Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:1100<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">/e9tlQJkP24/qwlUNqsb2g==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0515<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">0fv6/MeUe7nnmAdbEicMwg==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Murrays Coaches – Sydney to Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Murrays Coaches – Sydney to Canberra<br/><b>Street</b>:65-67 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1800<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">3MnS64FF+cDnSZHqH91jqQ==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">6ZMEFSYWVaamT5sQKAVrIQ==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Public Transport:Murrays Coaches – Sydney to Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Murrays Coaches – Sydney to Canberra<br/><b>Street</b>:65-67 Northbourne Avenue<br/><b>Suburb</b>:Public Transport<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 16 December 2021<br/><b>Arrival Time</b>:1520<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Other<br/>]]></description>
+      <guid isPermaLink="false">6wYeqGmwp5GQzfB6PBAe5Q==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Kingston:NSW TrainLink - Train from Sydney to Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:NSW TrainLink - Train from Sydney to Canberra<br/><b>Street</b>:Canberra Railway Station, Wentworth Avenue, Burke Crescent<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1745<br/><b>Departure Time</b>:2140<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">8TSmMc4qmwVHFgLY0plKQw==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">C91wlx6viNsTXxbqCB4bJQ==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0500<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">DiQJIEKzAVt6EIEcz4sDLg==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">F4P0rlqQUGFNQVdaF/QZgQ==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Swan and King</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Swan and King<br/><b>Street</b>:Level 5, Canberra Rex Hotel, 150 Northbourne Avenue<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0040<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">R1G4Q/WLU9RoHWXvHXuIqA==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Fyshwick:The Capitals Mens Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:The Capitals Mens Club<br/><b>Street</b>:84-86 Gladstone Street<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">TOLMUnzU9+OJFClVuBY37A==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Murrays Coaches – Sydney to Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Murrays Coaches – Sydney to Canberra<br/><b>Street</b>:65-67 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:2000<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">XTc/jmbCDcJp7jcPX3Evkw==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Amici Wine Bar &amp; Deli</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Amici Wine Bar & Deli<br/><b>Street</b>:59 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1700<br/><b>Departure Time</b>:1930<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">YBG83amwyyqWH+bNwpau4Q==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mooseheads</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:0001<br/><b>Departure Time</b>:0430<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">YFbaZIH8gCvYEp8jifpwvw==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Swan and King</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Swan and King<br/><b>Street</b>:Level 5, Canberra Rex Hotel, 150 Northbourne Avenue<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">aK6EcTTXw+hBkqUO1+nSRw==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Fiction Club</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Fiction Club<br/><b>Street</b>:50 Bunda Street<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1600<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">c1cU7Ay3yJWhKMTPoyjqMA==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Assembly - The People's Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly - The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">jBDeh4+UrwtPBJtXpX5onQ==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Mooseheads</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Mooseheads<br/><b>Street</b>:105 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:0100<br/><b>Departure Time</b>:0130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">nEEuaHQzEB1ArSxWgtnUnA==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Gungahlin:Cornerstone Pub Gungahlin (Cheerleading Christmas Party)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cornerstone Pub Gungahlin (Cheerleading Christmas Party)<br/><b>Street</b>:Eastlake Football Club, 51 Hinder Street<br/><b>Suburb</b>:Gungahlin<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:1930<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">qyk3YUV+aCd7jBeAaGSBLw==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Canberra City:Murrays Coaches – Sydney to Canberra</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Murrays Coaches – Sydney to Canberra<br/><b>Street</b>:65-67 Northbourne Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">uTky/YKvDIJeJ8tkMl0pFQ==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:The Basement</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Basement<br/><b>Street</b>:2 Cohen Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 December 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">utvqumFiYGf//AnZg7OCDw==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Assembly - The People's Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly - The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1840<br/><b>Departure Time</b>:1850<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">xhdXL+2YUqZXKLxOBmgDcQ==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Swan and King</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Swan and King<br/><b>Street</b>:Level 5, Canberra Rex Hotel, 150 Northbourne Avenue<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1900<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">ysc9AP440pcg6tU86sni+g==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Yarralumla:Embassy of Indonesia (Cultural Event)</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Embassy of Indonesia (Cultural Event)<br/><b>Street</b>:8 Darwin Avenue<br/><b>Suburb</b>:Yarralumla<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1030<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
+      <guid isPermaLink="false">zFb/1qaYOfM3gF/dSuCJag==</guid>
+      <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
