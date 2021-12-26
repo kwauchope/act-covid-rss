@@ -6,19 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Dec 2021 07:08:21 +0000</lastBuildDate>
-    <item>
-      <title>(New) Hume:Canberra Indoor Rock Climbing</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Canberra Indoor Rock Climbing<br/><b>Street</b>:26 Raws Crescent<br/><b>Suburb</b>:Hume<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 27 November 2021<br/><b>Arrival Time</b>:1130<br/><b>Departure Time</b>:1200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Jerrabomberra<br/>]]></description>
-      <guid isPermaLink="false">CtdwTiRcQfTGKL6ZeyIPHA==</guid>
-      <pubDate>Wed, 01 Dec 2021 05:57:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Kingston:Walt &amp; Burley</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Walt & Burley<br/><b>Street</b>:17 Eastlake Parade<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 27 November 2021<br/><b>Arrival Time</b>:2100<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">HHcKUpmpUn58mQt9gLjamg==</guid>
-      <pubDate>Thu, 02 Dec 2021 06:28:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Dec 2021 02:29:33 +0000</lastBuildDate>
     <item>
       <title>(New) Kingston:COCONINE</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:COCONINE<br/><b>Street</b>:2 Trevillian Quay<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:2015<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
@@ -1110,6 +1098,18 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hopscotch<br/><b>Street</b>:5 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Monday, 20 December 2021<br/><b>Arrival Time</b>:0020<br/><b>Departure Time</b>:0200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">FEG3tjPrj8YCUe9yMNiQ9A==</guid>
       <pubDate>Sat, 25 Dec 2021 07:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>(Updated) Belconnen:The Basement</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:The Basement<br/><b>Street</b>:2 Cohen Street<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0030<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">NOg3CLSQgzI/Z/voKlEhUw==</guid>
+      <pubDate>Sun, 26 Dec 2021 02:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Braddon:Assembly the People's Pub</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Assembly the People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 21 December 2021<br/><b>Arrival Time</b>:1200<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
+      <guid isPermaLink="false">pl5pVENZ4a8VQ4x6zLaDaA==</guid>
+      <pubDate>Sun, 26 Dec 2021 02:29:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
