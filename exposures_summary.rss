@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Dec 2021 02:29:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 05:28:01 +0000</lastBuildDate>
     <item>
       <title>1 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
@@ -183,10 +183,10 @@
       <pubDate>Mon, 20 Dec 2021 09:30:26 +0000</pubDate>
     </item>
     <item>
-      <title>16 additional exposure sites</title>
+      <title>12 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>6<br/><b>Braddon:</b>2<br/><b>Narrabundah:</b>2<br/><b>Belconnen:</b>2<br/><b>Torrens:</b>1<br/><b>Griffith:</b>1<br/><b>Barton:</b>1<br/><b>Pialligo:</b>1<br/>]]></description>
-      <guid isPermaLink="false">APY+U16lrjLW8WaGe2AmJw==</guid>
+      <description><![CDATA[<b>Canberra City:</b>4<br/><b>Braddon:</b>2<br/><b>Narrabundah:</b>2<br/><b>Torrens:</b>1<br/><b>Griffith:</b>1<br/><b>Barton:</b>1<br/><b>Pialligo:</b>1<br/>]]></description>
+      <guid isPermaLink="false">Ij/hXH7CJ8yUt9P0BGp07Q==</guid>
       <pubDate>Tue, 21 Dec 2021 00:50:43 +0000</pubDate>
     </item>
     <item>
@@ -218,10 +218,10 @@
       <pubDate>Fri, 24 Dec 2021 03:23:15 +0000</pubDate>
     </item>
     <item>
-      <title>24 additional exposure sites</title>
+      <title>21 additional exposure sites</title>
       <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
-      <description><![CDATA[<b>Canberra City:</b>7<br/><b>Fyshwick:</b>6<br/><b>Braddon:</b>5<br/><b>Belconnen:</b>2<br/><b>Yarralumla:</b>1<br/><b>Gungahlin:</b>1<br/><b>Kingston:</b>1<br/><b>Public Transport:</b>1<br/>]]></description>
-      <guid isPermaLink="false">Iy8Nvg/CBfgbhtaw7ADySw==</guid>
+      <description><![CDATA[<b>Canberra City:</b>7<br/><b>Fyshwick:</b>6<br/><b>Braddon:</b>3<br/><b>Belconnen:</b>2<br/><b>Yarralumla:</b>1<br/><b>Gungahlin:</b>1<br/><b>Kingston:</b>1<br/>]]></description>
+      <guid isPermaLink="false">id8zHAYxpUrnpveGbRYMHw==</guid>
       <pubDate>Sat, 25 Dec 2021 02:26:22 +0000</pubDate>
     </item>
     <item>
@@ -237,6 +237,13 @@
       <description><![CDATA[<b>Braddon:</b>1<br/><b>Belconnen:</b>1<br/>]]></description>
       <guid isPermaLink="false">tEE2Zcq3jdMyLaaBTrT1JA==</guid>
       <pubDate>Sun, 26 Dec 2021 02:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 additional exposure sites</title>
+      <link>https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations</link>
+      <description><![CDATA[<b>Braddon:</b>3<br/><b>Canberra City:</b>3<br/>]]></description>
+      <guid isPermaLink="false">3AePMQ1rBCaLC9ztfXtYtQ==</guid>
+      <pubDate>Sun, 26 Dec 2021 05:28:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
