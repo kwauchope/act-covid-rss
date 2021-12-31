@@ -6,67 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 02:53:31 +0000</lastBuildDate>
-    <item>
-      <title>(New) Kingston:COCONINE</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:COCONINE<br/><b>Street</b>:2 Trevillian Quay<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:2015<br/><b>Departure Time</b>:2130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">sysJn6fsuPO3UYxEVQbChQ==</guid>
-      <pubDate>Thu, 02 Dec 2021 06:28:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Kingston:Superbarn</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Superbarn<br/><b>Street</b>:34-38 Eyre Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1620<br/><b>Departure Time</b>:1650<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">AwUbPR5/FWeSTUcDoV/S5A==</guid>
-      <pubDate>Fri, 03 Dec 2021 06:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Hackett:Blue Gum Community School - Spotted Gum End of Year Concert</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Blue Gum Community School - Spotted Gum End of Year Concert<br/><b>Street</b>:114 Maitland Street<br/><b>Suburb</b>:Hackett<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1630<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">CqenkfbMHqd/dkpARhp3Vg==</guid>
-      <pubDate>Sat, 04 Dec 2021 01:39:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Griffith:Grill'd</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Grill'd<br/><b>Street</b>:1/40-42 Franklin Street<br/><b>Suburb</b>:Griffith<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:1230<br/><b>Departure Time</b>:1330<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
-      <guid isPermaLink="false">ah84qahpSJPGP6oI67aYPQ==</guid>
-      <pubDate>Sat, 04 Dec 2021 01:39:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(Updated) Watson:The Knox Made in</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:The Knox Made in<br/><b>Street</b>:13 Watson Place<br/><b>Suburb</b>:Watson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Omicron Close<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">jAgt1HSJm5yzWe8GSOwwHg==</guid>
-      <pubDate>Sat, 04 Dec 2021 06:52:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Canberra City:Hyatt Hotel Clubhouse (Gym Floor Area only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hyatt Hotel Clubhouse (Gym Floor Area only)<br/><b>Street</b>:120 Commonwealth Avenue<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">7nxrf3tenyDIumWG0JyEHA==</guid>
-      <pubDate>Sun, 05 Dec 2021 00:50:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Braddon:Marble &amp; Grain</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Marble & Grain<br/><b>Street</b>:25 Mort Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1747<br/><b>Departure Time</b>:2110<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">EnjfM85IP24JUmJBPBvbig==</guid>
-      <pubDate>Sun, 05 Dec 2021 00:50:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Dickson:Two Sisters Lao Thai Cuisine</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Two Sisters Lao Thai Cuisine<br/><b>Street</b>:38 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Tuesday, 30 November 2021<br/><b>Arrival Time</b>:1800<br/><b>Departure Time</b>:1900<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">10QBZISchMe1pSEHUFU55g==</guid>
-      <pubDate>Sun, 05 Dec 2021 05:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Dickson:Tap House</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Tap House<br/><b>Street</b>:30 Woolley Street<br/><b>Suburb</b>:Dickson<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:1730<br/><b>Departure Time</b>:1830<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">CQVpe8HimnfjymZLjMpvfA==</guid>
-      <pubDate>Sun, 05 Dec 2021 05:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Lyneham:Next Gen Canberra (Gym and Cafe Only)</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Next Gen Canberra (Gym and Cafe Only)<br/><b>Street</b>:1 Riggall Place<br/><b>Suburb</b>:Lyneham<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 December 2021<br/><b>Arrival Time</b>:1500<br/><b>Departure Time</b>:1545<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">U+kI/ICVrlhfL8wn1O/1ag==</guid>
-      <pubDate>Sun, 05 Dec 2021 05:22:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 02:12:20 +0000</lastBuildDate>
     <item>
       <title>(New) Canberra City:Cube</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Cube<br/><b>Street</b>:33 Petrie Plaza<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 03 December 2021<br/><b>Arrival Time</b>:2335<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
@@ -140,27 +80,9 @@
       <pubDate>Wed, 08 Dec 2021 06:10:11 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Macquarie:Anytime Fitness</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:Corner Bowman Street And Catchpole Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 02 December 2021<br/><b>Arrival Time</b>:2130<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">T6LgWRQi5APlDPsB22Rzwg==</guid>
-      <pubDate>Wed, 08 Dec 2021 06:10:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>(New) Macquarie:Anytime Fitness</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Anytime Fitness<br/><b>Street</b>:Corner Bowman Street And Catchpole Street<br/><b>Suburb</b>:Macquarie<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:2130<br/><b>Departure Time</b>:2230<br/><b>Contact</b>:Casual<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">eNn9ct2P2A/2ePxEG8eQTA==</guid>
-      <pubDate>Wed, 08 Dec 2021 06:10:11 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Fyshwick:PUMA</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:PUMA<br/><b>Street</b>:Canberra Outlet Centre, 337 Canberra Avenue<br/><b>Suburb</b>:Fyshwick<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 05 December 2021<br/><b>Arrival Time</b>:1120<br/><b>Departure Time</b>:1130<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">4VRWhvJ6v+Ad7PC/FQqsCA==</guid>
-      <pubDate>Fri, 10 Dec 2021 07:26:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>(?) Braddon:Assembly The People's Pub</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Assembly The People's Pub<br/><b>Street</b>:11 Lonsdale Street<br/><b>Suburb</b>:Braddon<br/><b>State</b>:ACT<br/><b>Date</b>:Wednesday, 01 December 2021<br/><b>Arrival Time</b>:1150<br/><b>Departure Time</b>:1300<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner North<br/>]]></description>
-      <guid isPermaLink="false">9u6OQTQJCvmTE5Oh2IlWKg==</guid>
       <pubDate>Fri, 10 Dec 2021 07:26:20 +0000</pubDate>
     </item>
     <item>
@@ -1052,12 +974,6 @@
       <pubDate>Tue, 28 Dec 2021 02:53:31 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Mitchell:Spit Shack</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Spit Shack<br/><b>Street</b>:83-101 Lysaght Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2330<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">ea/ZZNfS8x30BTPpuB7OuA==</guid>
-      <pubDate>Tue, 28 Dec 2021 02:53:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(Updated) Canberra City:88mph</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:88mph<br/><b>Street</b>:10 Hobart Place<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Thursday, 23 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0045<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">exFxhy2vwHCTaadCq+RSEg==</guid>
@@ -1112,12 +1028,6 @@
       <pubDate>Tue, 28 Dec 2021 02:53:31 +0000</pubDate>
     </item>
     <item>
-      <title>(Updated) Mitchell:Spit Shack</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Spit Shack<br/><b>Street</b>:83-101 Lysaght Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:0000<br/><b>Departure Time</b>:0100<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
-      <guid isPermaLink="false">v+uFBXHDBWFkSsct3TzT8A==</guid>
-      <pubDate>Tue, 28 Dec 2021 02:53:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(Updated) Canberra City:Zoo Bar</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Zoo Bar<br/><b>Street</b>:17 London Circuit<br/><b>Suburb</b>:Canberra City<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:1400<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner North<br/>]]></description>
       <guid isPermaLink="false">voCh/Evke5PcchKtjGpVtw==</guid>
@@ -1152,6 +1062,24 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:Updated<br/><b>Exposure Site</b>:Stellar Canberra<br/><b>Street</b>:50 Launceston Street<br/><b>Suburb</b>:Phillip<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:1330<br/><b>Departure Time</b>:1700<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">yOArFe1NpumtbIoyhZMWhA==</guid>
       <pubDate>Tue, 28 Dec 2021 02:53:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Charnwood:St Thomas Aquinas Parish</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:St Thomas Aquinas Parish<br/><b>Street</b>:25 Lhotsky Street<br/><b>Suburb</b>:Charnwood<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 25 December 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2045<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">HrYr5Gl+QAJkBl5hLsdiVg==</guid>
+      <pubDate>Fri, 31 Dec 2021 02:12:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(?) Amaroo:Holy Spirit Catholic Church</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:<br/><b>Exposure Site</b>:Holy Spirit Catholic Church<br/><b>Street</b>:93 Burdekin Avenue<br/><b>Suburb</b>:Amaroo<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 24 December 2021<br/><b>Arrival Time</b>:0900<br/><b>Departure Time</b>:1000<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">gLWdsDOCOU7Odnw3+0gaXA==</guid>
+      <pubDate>Fri, 31 Dec 2021 02:12:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Mitchell:Spit Shack</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Spit Shack<br/><b>Street</b>:83-101 Lysaght Street<br/><b>Suburb</b>:Mitchell<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1830<br/><b>Departure Time</b>:2359<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Gungahlin<br/>]]></description>
+      <guid isPermaLink="false">l6qAe1+gc0gG+JB1s0uihA==</guid>
+      <pubDate>Fri, 31 Dec 2021 02:12:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
