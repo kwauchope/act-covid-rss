@@ -6,7 +6,7 @@
     <description>Feed scraped from ACT exposure website</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jan 2022 06:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 01:07:17 +0000</lastBuildDate>
     <item>
       <title>(New) Kingston:Saffron Restaurant</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Saffron Restaurant<br/><b>Street</b>:31 Kennedy Street<br/><b>Suburb</b>:Kingston<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 11 December 2021<br/><b>Arrival Time</b>:2000<br/><b>Departure Time</b>:2200<br/><b>Contact</b>:Casual<br/><b>Region</b>:Inner South<br/>]]></description>
@@ -866,12 +866,6 @@
       <pubDate>Mon, 03 Jan 2022 06:45:15 +0000</pubDate>
     </item>
     <item>
-      <title>(New) Belconnen:Hoyts Belconnen Westfield: Cinema 7 Showing of "Spiderman: No Way Home</title>
-      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hoyts Belconnen Westfield: Cinema 7 Showing of "Spiderman: No Way Home<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
-      <guid isPermaLink="false">O9vrZQwGwQXraR/C5mcddA==</guid>
-      <pubDate>Mon, 03 Jan 2022 06:45:15 +0000</pubDate>
-    </item>
-    <item>
       <title>(New) Yarralumla:The Commonwealth Club</title>
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:The Commonwealth Club<br/><b>Street</b>:25 Forster Crescent<br/><b>Suburb</b>:Yarralumla<br/><b>State</b>:ACT<br/><b>Date</b>:Friday, 17 December 2021<br/><b>Arrival Time</b>:0800<br/><b>Departure Time</b>:0900<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Inner South<br/>]]></description>
       <guid isPermaLink="false">PHBuncqJ5xvTdSxBzTNsgg==</guid>
@@ -966,6 +960,12 @@
       <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Playing Fields - Woden Valley Soccer Club<br/><b>Street</b>:Heard Street<br/><b>Suburb</b>:Mawson<br/><b>State</b>:ACT<br/><b>Date</b>:Sunday, 19 December 2021<br/><b>Arrival Time</b>:0830<br/><b>Departure Time</b>:1030<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Woden Valley<br/>]]></description>
       <guid isPermaLink="false">w/JA6cY+zBlIjExC59KYkg==</guid>
       <pubDate>Mon, 03 Jan 2022 06:45:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>(New) Belconnen:Hoyts Belconnen Westfield: Cinema 7 Showing of Spiderman: No Way Home</title>
+      <description><![CDATA[<b>Event Id</b>:<br/><b>Status</b>:New<br/><b>Exposure Site</b>:Hoyts Belconnen Westfield: Cinema 7 Showing of Spiderman: No Way Home<br/><b>Street</b>:Westfield Belconnen, Benjamin Way<br/><b>Suburb</b>:Belconnen<br/><b>State</b>:ACT<br/><b>Date</b>:Saturday, 18 December 2021<br/><b>Arrival Time</b>:1335<br/><b>Departure Time</b>:1630<br/><b>Contact</b>:Monitor<br/><b>Region</b>:Belconnen<br/>]]></description>
+      <guid isPermaLink="false">oplBwVdTeqpdybTBwAU4Yw==</guid>
+      <pubDate>Tue, 04 Jan 2022 01:07:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
