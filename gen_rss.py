@@ -111,13 +111,16 @@ def parse_csv(csv_data):
     # Use reader rather than DictReader so can normalise fields
     # TODO: Parsing error
     rows = csv.reader(csv_data.splitlines())
-    fields = [x.strip().title() for x in next(rows)]
+    locations = []
+    try:
+        fields = [x.strip().title() for x in next(rows)]
+    except StopIteration:
+        return locations
     # In case extra empty columns/fields added again remove them
     while not fields[-1]:
         fields.pop()
     # If fields don't match what we support return None so don't spam when change
     # Can make a map to fix later
-    locations = []
     if set(fields) != set(FIELDS):
         # Now we no longer have a header, at least make sure new headings haven't been added
         if len(fields) == len(FIELDS):
